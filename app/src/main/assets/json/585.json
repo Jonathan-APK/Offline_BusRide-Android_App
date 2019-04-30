@@ -1,0 +1,116 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "72061",
+            "Longitude": 103.9098393917043,
+            "Latitude": 1.33177922756641,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 122"
+        },
+        {
+            "Distance": 0.2,
+            "BusStopCode": "72071",
+            "Longitude": 103.91184110459187,
+            "Latitude": 1.33219165087886,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 133"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "84501",
+            "Longitude": 103.91598944400951,
+            "Latitude": 1.33319499998844,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Christ Ch"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "84511",
+            "Longitude": 103.91329416702288,
+            "Latitude": 1.33206972200071,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 608"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "84499",
+            "Longitude": 103.91399439090614,
+            "Latitude": 1.33508643985694,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 140"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "84701",
+            "Longitude": 103.91214210205735,
+            "Latitude": 1.33601304352046,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "72031",
+            "Longitude": 103.9099203114682,
+            "Latitude": 1.33521859078695,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "BEF KAKI BT STN EXIT B"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "72041",
+            "Longitude": 103.90743417265202,
+            "Latitude": 1.33470286981513,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Blk 660A CP"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "72021",
+            "Longitude": 103.9063218660858,
+            "Latitude": 1.33096531210116,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 646"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "72019",
+            "Longitude": 103.90546507501655,
+            "Latitude": 1.32884628389091,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Mans"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "03031",
+            "Longitude": 103.85086074925066,
+            "Latitude": 1.28207492207952,
+            "RoadName": "Robinson Rd",
+            "Description": "Raffles Pl Stn Exit F"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        }
+    ]
+}

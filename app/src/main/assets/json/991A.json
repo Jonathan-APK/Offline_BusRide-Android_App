@@ -1,0 +1,52 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "43419",
+            "Longitude": 103.74998784769572,
+            "Latitude": 1.35155523613685,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Blk 628"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "43401",
+            "Longitude": 103.74681637316733,
+            "Latitude": 1.35226498779767,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Bt Batok Polyclinic"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "43321",
+            "Longitude": 103.74510884287126,
+            "Latitude": 1.34990599565613,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Opp Blk 144"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "43331",
+            "Longitude": 103.74323444400876,
+            "Latitude": 1.34893916700858,
+            "RoadName": "Bt Batok St 11",
+            "Description": "Opp Bt Batok Presby Ch"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "43341",
+            "Longitude": 103.74139303669513,
+            "Latitude": 1.34972199038423,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Princess E Pr Sch"
+        }
+    ]
+}

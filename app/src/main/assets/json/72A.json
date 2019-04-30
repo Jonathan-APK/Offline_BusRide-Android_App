@@ -1,0 +1,164 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "55509",
+            "Longitude": 103.8455558816965,
+            "Latitude": 1.38113241525166,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Yio Chu Kang Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "55329",
+            "Longitude": 103.84722527828754,
+            "Latitude": 1.37901970079676,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Nanyang Poly"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "54351",
+            "Longitude": 103.85003474200923,
+            "Latitude": 1.37647777885877,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Nanyang Poly"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "54471",
+            "Longitude": 103.853296559924,
+            "Latitude": 1.37613470846106,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp Blk 538"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "54481",
+            "Longitude": 103.855765341723,
+            "Latitude": 1.37599497932237,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Ite Coll Ctrl"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "54491",
+            "Longitude": 103.86010323265269,
+            "Latitude": 1.37717165299187,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Aft CTE"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "54501",
+            "Longitude": 103.86266305598139,
+            "Latitude": 1.37787138898682,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp AMK Ind Pk 2"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "54651",
+            "Longitude": 103.86551861831312,
+            "Latitude": 1.37854275740549,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp Techplace 2"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "66451",
+            "Longitude": 103.86854361874474,
+            "Latitude": 1.37872496881803,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Aft AMK Ind Pk 2"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "66461",
+            "Longitude": 103.87128027800178,
+            "Latitude": 1.37889000002038,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Bef Seagate"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "66471",
+            "Longitude": 103.8743605559661,
+            "Latitude": 1.37895833299995,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Bef Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "64119",
+            "Longitude": 103.87713655364794,
+            "Latitude": 1.37679164872283,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 953"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "64491",
+            "Longitude": 103.87905166700338,
+            "Latitude": 1.37513027801163,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Hougang 1"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "64481",
+            "Longitude": 103.8807864140804,
+            "Latitude": 1.37514474329335,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Bet Blks 930/931"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "64471",
+            "Longitude": 103.8839677779891,
+            "Latitude": 1.37454805598778,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Blk 917"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "64419",
+            "Longitude": 103.88521854859373,
+            "Latitude": 1.37339164793235,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 681"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "64331",
+            "Longitude": 103.88805955105329,
+            "Latitude": 1.37143555507852,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 508"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "64521",
+            "Longitude": 103.88956725593734,
+            "Latitude": 1.36983992146019,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 834"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "64559",
+            "Longitude": 103.8908113889665,
+            "Latitude": 1.37060388901687,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Blk 830A"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "64549",
+            "Longitude": 103.89170972978319,
+            "Latitude": 1.37139998302648,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Opp Hougang Ctrl Int"
+        }
+    ]
+}

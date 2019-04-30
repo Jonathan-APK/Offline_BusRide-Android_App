@@ -1,0 +1,92 @@
+{
+    "direction 1": [
+        {
+            "Distance": 5.6,
+            "BusStopCode": "28091",
+            "Longitude": 103.72012487725401,
+            "Latitude": 1.34425795644531,
+            "RoadName": "Boon Lay Way",
+            "Description": "Lakeside Stn"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "21229",
+            "Longitude": 103.71602021559848,
+            "Latitude": 1.34200346086893,
+            "RoadName": "Corporation Rd",
+            "Description": "Opp S'Pore A'Space Mfg"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "21219",
+            "Longitude": 103.71625930906035,
+            "Latitude": 1.34010356133429,
+            "RoadName": "Corporation Rd",
+            "Description": "Lakepoint Condo"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "21619",
+            "Longitude": 103.71816213921478,
+            "Latitude": 1.33793509893342,
+            "RoadName": "Corporation Dr",
+            "Description": "AFT CORP RD"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "21609",
+            "Longitude": 103.72102625466782,
+            "Latitude": 1.33775166774993,
+            "RoadName": "Corporation Dr",
+            "Description": "Opp Blk 364"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "21599",
+            "Longitude": 103.72268493639599,
+            "Latitude": 1.33468356164521,
+            "RoadName": "Corporation Dr",
+            "Description": "Blk 117"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "21589",
+            "Longitude": 103.72345805167676,
+            "Latitude": 1.33246568746472,
+            "RoadName": "Corporation Dr",
+            "Description": "Opp Blk 65"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "21579",
+            "Longitude": 103.72318086110512,
+            "Latitude": 1.33013472279057,
+            "RoadName": "Corporation Dr",
+            "Description": "Jurong Sec Sch"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "21569",
+            "Longitude": 103.72289813113439,
+            "Latitude": 1.32857203912272,
+            "RoadName": "Corporation Dr",
+            "Description": "Opp Blk 158"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "21559",
+            "Longitude": 103.72063909698713,
+            "Latitude": 1.326626598883,
+            "RoadName": "Yung Ho Rd",
+            "Description": "CISCO Recall"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "21179",
+            "Longitude": 103.71929527796603,
+            "Latitude": 1.32586166697514,
+            "RoadName": "Corporation Rd",
+            "Description": "CORP PL"
+        }
+    ]
+}

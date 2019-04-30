@@ -1,0 +1,260 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "66351",
+            "Longitude": 103.87324486521683,
+            "Latitude": 1.35049831450162,
+            "RoadName": "S'goon Ctrl",
+            "Description": "S'Goon Stn Exit B"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "66371",
+            "Longitude": 103.87268543240587,
+            "Latitude": 1.353767301605,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 261"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "66059",
+            "Longitude": 103.87212299732872,
+            "Latitude": 1.35553141738293,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 257A"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "66111",
+            "Longitude": 103.86823666699911,
+            "Latitude": 1.35848277799301,
+            "RoadName": "Lor Chuan",
+            "Description": "Opp Grace Wk"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "66121",
+            "Longitude": 103.86776000002241,
+            "Latitude": 1.36239972197855,
+            "RoadName": "Lor Chuan",
+            "Description": "Chuan Terr"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "66271",
+            "Longitude": 103.86578916701893,
+            "Latitude": 1.36398333300081,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Serangoon Gdn Circus"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "66131",
+            "Longitude": 103.87019205208469,
+            "Latitude": 1.36346698150382,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Aft Trinity Meth Ch"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "66141",
+            "Longitude": 103.87239656838271,
+            "Latitude": 1.36311828855893,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Bef Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "66329",
+            "Longitude": 103.8722863800345,
+            "Latitude": 1.36602172246077,
+            "RoadName": "S'goon Nth Ave 1",
+            "Description": "Blk 126"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "66319",
+            "Longitude": 103.8739176208251,
+            "Latitude": 1.36821833817676,
+            "RoadName": "S'goon Nth Ave 1",
+            "Description": "Bet Blks 142/148"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "66309",
+            "Longitude": 103.8719488184558,
+            "Latitude": 1.36927306510786,
+            "RoadName": "S'goon Nth Ave 1",
+            "Description": "Blk 112"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "66421",
+            "Longitude": 103.87340722201968,
+            "Latitude": 1.37365500000249,
+            "RoadName": "S'goon Nth Ave 4",
+            "Description": "Blk 537"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "66431",
+            "Longitude": 103.87526422817183,
+            "Latitude": 1.37297644274866,
+            "RoadName": "S'goon Nth Ave 4",
+            "Description": "Opp Blk 506A"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "66539",
+            "Longitude": 103.8750162086281,
+            "Latitude": 1.37500340591534,
+            "RoadName": "S'goon Nth Ave 5",
+            "Description": "Blk 531"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "66529",
+            "Longitude": 103.87318199195964,
+            "Latitude": 1.37512174055594,
+            "RoadName": "S'goon Nth Ave 5",
+            "Description": "Blk 538"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "66509",
+            "Longitude": 103.87015339999972,
+            "Latitude": 1.37528324399418,
+            "RoadName": "S'goon Nth Ave 5",
+            "Description": "Blk 546"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "66599",
+            "Longitude": 103.868436813377,
+            "Latitude": 1.37284849802167,
+            "RoadName": "S'goon Nth Ave 5",
+            "Description": "KLA Tencor"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "66331",
+            "Longitude": 103.8701543470715,
+            "Latitude": 1.37173176460482,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 554"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "66301",
+            "Longitude": 103.87207688842045,
+            "Latitude": 1.36937136450503,
+            "RoadName": "S'goon Nth Ave 1",
+            "Description": "Blk 152"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "66311",
+            "Longitude": 103.87429104816339,
+            "Latitude": 1.36766470740207,
+            "RoadName": "S'goon Nth Ave 1",
+            "Description": "Blk 141A"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "66321",
+            "Longitude": 103.87249027797797,
+            "Latitude": 1.36514638903186,
+            "RoadName": "S'goon Nth Ave 1",
+            "Description": "Blk 128"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "66149",
+            "Longitude": 103.87236222198605,
+            "Latitude": 1.36291833299844,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Aft Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "66139",
+            "Longitude": 103.86929111065648,
+            "Latitude": 1.36357778856307,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Opp Trinity Meth Ch"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "66271",
+            "Longitude": 103.86578916701893,
+            "Latitude": 1.36398333300081,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Serangoon Gdn Circus"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "66129",
+            "Longitude": 103.8680175,
+            "Latitude": 1.361491111,
+            "RoadName": "Lor Chuan",
+            "Description": "Aft Chuan Gdn"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "66119",
+            "Longitude": 103.86812666696963,
+            "Latitude": 1.35683000003038,
+            "RoadName": "Lor Chuan",
+            "Description": "Summer Pl"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "66041",
+            "Longitude": 103.8697219448858,
+            "Latitude": 1.3557230306281,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 230"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "66051",
+            "Longitude": 103.87196190877665,
+            "Latitude": 1.35585499445871,
+            "RoadName": "Boundary Rd",
+            "Description": "Opp Blk 257"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "66379",
+            "Longitude": 103.87285801649963,
+            "Latitude": 1.35339155862192,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "66359",
+            "Longitude": 103.87328604946424,
+            "Latitude": 1.35080698547823,
+            "RoadName": "S'goon Ctrl",
+            "Description": "S'Goon Stn Exit C/Blk 201"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int (Last Stop)"
+        }
+    ]
+}

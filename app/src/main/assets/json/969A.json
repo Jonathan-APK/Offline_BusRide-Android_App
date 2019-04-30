@@ -1,0 +1,108 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int"
+        },
+        {
+            "Distance": 0,
+            "BusStopCode": "76529",
+            "Longitude": 103.9405089,
+            "Latitude": 1.357528889,
+            "RoadName": "Tampines Concourse",
+            "Description": "BLK 519A"
+        },
+        {
+            "Distance": 0,
+            "BusStopCode": "76519",
+            "Longitude": 103.93921870101352,
+            "Latitude": 1.35920624506603,
+            "RoadName": "Tampines Concourse",
+            "Description": "BET BLKS 524B/523D"
+        },
+        {
+            "Distance": 0,
+            "BusStopCode": "76549",
+            "Longitude": 103.94061354425413,
+            "Latitude": 1.3604278704904,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Opp Citylife@ Tampines"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "65191",
+            "Longitude": 103.90539999997036,
+            "Latitude": 1.39527356921611,
+            "RoadName": "TPE",
+            "Description": "Bef Punggol Rd"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "55281",
+            "Longitude": 103.8288169,
+            "Latitude": 1.398135,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft SLE"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "59011",
+            "Longitude": 103.82737908252,
+            "Latitude": 1.40205059877403,
+            "RoadName": "Lentor Ave",
+            "Description": "Bef Sg Seletar Bridge"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "59021",
+            "Longitude": 103.828825,
+            "Latitude": 1.407988889,
+            "RoadName": "Lentor Ave",
+            "Description": "Bef Yishun Ave 1"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "59031",
+            "Longitude": 103.83083958669692,
+            "Latitude": 1.41277747172151,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Sports Hall"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "59041",
+            "Longitude": 103.832591612732,
+            "Latitude": 1.41625420109094,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Bef Khatib Stn"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "59051",
+            "Longitude": 103.83429674432547,
+            "Latitude": 1.41968270185637,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 790"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "59061",
+            "Longitude": 103.83495820649408,
+            "Latitude": 1.42556399229911,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 763"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "59079",
+            "Longitude": 103.835245,
+            "Latitude": 1.429293889,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Stn"
+        }
+    ]
+}

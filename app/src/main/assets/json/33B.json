@@ -1,0 +1,100 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "84029",
+            "Longitude": 103.92517704260585,
+            "Latitude": 1.32295305994698,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Blk 32"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "84019",
+            "Longitude": 103.92262015530929,
+            "Latitude": 1.32221972730517,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Chai Chee Ind Pk"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "83099",
+            "Longitude": 103.91810427638708,
+            "Latitude": 1.32076378388187,
+            "RoadName": "Changi Rd",
+            "Description": "Aft Perpetual Succour Ch"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "83079",
+            "Longitude": 103.91505416701378,
+            "Latitude": 1.31976833302337,
+            "RoadName": "Changi Rd",
+            "Description": "Bef Siglap Plain"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "83059",
+            "Longitude": 103.91222670426201,
+            "Latitude": 1.31888900641724,
+            "RoadName": "Changi Rd",
+            "Description": "Mjd Kassim"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "83049",
+            "Longitude": 103.91002178191968,
+            "Latitude": 1.318489754773,
+            "RoadName": "Changi Rd",
+            "Description": "Bef Lor 110 Changi"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "83149",
+            "Longitude": 103.90875486321198,
+            "Latitude": 1.31745755005277,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "Aft Changi Rd"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "83159",
+            "Longitude": 103.90947767042405,
+            "Latitude": 1.31480354064185,
+            "RoadName": "Joo Chiat Pl",
+            "Description": "Opp Parkway East Hosp"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "83169",
+            "Longitude": 103.90687033808844,
+            "Latitude": 1.31428121358171,
+            "RoadName": "Joo Chiat Pl",
+            "Description": "Bef Still Rd"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "82179",
+            "Longitude": 103.90453211897777,
+            "Latitude": 1.31383213839694,
+            "RoadName": "Joo Chiat Pl",
+            "Description": "Joo Chiat Ct"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "82159",
+            "Longitude": 103.90049572645528,
+            "Latitude": 1.31327026591962,
+            "RoadName": "Joo Chiat Pl",
+            "Description": "Aft Tembeling Rd"
+        }
+    ]
+}

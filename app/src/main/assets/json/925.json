@@ -1,0 +1,670 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "46549",
+            "Longitude": 103.7812567265195,
+            "Latitude": 1.43319818915334,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 347"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "46539",
+            "Longitude": 103.77822365534921,
+            "Latitude": 1.43209962904173,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 320"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "46529",
+            "Longitude": 103.77459689006626,
+            "Latitude": 1.43208152770031,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Opp Marsiling Stn"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "46491",
+            "Longitude": 103.77200799456398,
+            "Latitude": 1.43188974761143,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 402"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "46381",
+            "Longitude": 103.76676266569542,
+            "Latitude": 1.42907427878851,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Opp W'Lands Ind Pk D St 1"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "45139",
+            "Longitude": 103.76178101875855,
+            "Latitude": 1.42525961270458,
+            "RoadName": "Woodlands Rd",
+            "Description": "Kranji Stn"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "45129",
+            "Longitude": 103.75863462427267,
+            "Latitude": 1.42382925070118,
+            "RoadName": "Woodlands Rd",
+            "Description": "S'pore Turf Club"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "45141",
+            "Longitude": 103.75684069951173,
+            "Latitude": 1.42484086207371,
+            "RoadName": "Kranji Rd",
+            "Description": "Aft W'Lands Rd"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "49091",
+            "Longitude": 103.75641027798767,
+            "Latitude": 1.42753888899762,
+            "RoadName": "Kranji Rd",
+            "Description": "Opp Kranji Wtr Reclam Plt"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "49101",
+            "Longitude": 103.75584633886155,
+            "Latitude": 1.43019265139167,
+            "RoadName": "Kranji Rd",
+            "Description": "Opp Ordinance Supply Base"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "49111",
+            "Longitude": 103.75543333298812,
+            "Latitude": 1.43245972200669,
+            "RoadName": "Kranji Rd",
+            "Description": "Aft Jln Lam Huat"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "49121",
+            "Longitude": 103.75494271333446,
+            "Latitude": 1.43528737784327,
+            "RoadName": "Kranji Rd",
+            "Description": "Aft SMRT Buses Kranji Depot"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "49189",
+            "Longitude": 103.753734543128,
+            "Latitude": 1.43646977071566,
+            "RoadName": "Kranji Loop",
+            "Description": "Aft Kranji Rd"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "49179",
+            "Longitude": 103.75053324827904,
+            "Latitude": 1.43467967585537,
+            "RoadName": "Kranji Way",
+            "Description": "Aft Kranji Cres"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "49169",
+            "Longitude": 103.74855065686643,
+            "Latitude": 1.4356326647634,
+            "RoadName": "Kranji Way",
+            "Description": "Tong Seng Concrete Ltd"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "49159",
+            "Longitude": 103.7458149911703,
+            "Latitude": 1.43702428430753,
+            "RoadName": "Kranji Way",
+            "Description": "Econ Group"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "49149",
+            "Longitude": 103.74315061627054,
+            "Latitude": 1.43838341066284,
+            "RoadName": "Kranji Way",
+            "Description": "Bef Fishing Ground A"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "49199",
+            "Longitude": 103.73578447263064,
+            "Latitude": 1.4383674275063,
+            "RoadName": "Kranji Way",
+            "Description": "Kranji Reservoir Pk B"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "49141",
+            "Longitude": 103.74365393048626,
+            "Latitude": 1.4383065782824,
+            "RoadName": "Kranji Way",
+            "Description": "Ctrl Granite Ind"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "49151",
+            "Longitude": 103.74684027798631,
+            "Latitude": 1.43666749998525,
+            "RoadName": "Kranji Way",
+            "Description": "Daiya Engrg"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "49089",
+            "Longitude": 103.74860194398363,
+            "Latitude": 1.43387888896839,
+            "RoadName": "Sg Kadut Dr",
+            "Description": "Bef Kranji Cres"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "45449",
+            "Longitude": 103.74760838738165,
+            "Latitude": 1.43188298917832,
+            "RoadName": "Sg Kadut Dr",
+            "Description": "Eng Hua Furniture Mfg Pte Ltd"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "49079",
+            "Longitude": 103.74721764191128,
+            "Latitude": 1.42936840267626,
+            "RoadName": "Sg Kadut Dr",
+            "Description": "Wason Wood Ind"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "49069",
+            "Longitude": 103.74887339054357,
+            "Latitude": 1.4264399252605,
+            "RoadName": "Sg Kadut St 1",
+            "Description": "Tropical Furniture Ltd"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "49059",
+            "Longitude": 103.75019253254519,
+            "Latitude": 1.42318199210104,
+            "RoadName": "Sg Kadut St 1",
+            "Description": "Aft LCS Optiroc Pte Ltd"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "49049",
+            "Longitude": 103.75074630835057,
+            "Latitude": 1.420040467845,
+            "RoadName": "Sg Kadut St 1",
+            "Description": "Sim Hup Co"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "49039",
+            "Longitude": 103.75136638264014,
+            "Latitude": 1.41665386559511,
+            "RoadName": "Sg Kadut St 1",
+            "Description": "Asia Rattan Trading Co"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "49029",
+            "Longitude": 103.75189550271323,
+            "Latitude": 1.41359128228018,
+            "RoadName": "Sg Kadut St 1",
+            "Description": "SIT LEY TIMBER"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "49019",
+            "Longitude": 103.75244718246053,
+            "Latitude": 1.41054305509663,
+            "RoadName": "Sg Kadut St 1",
+            "Description": "Kim Hock Corp Pte Ltd"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "49131",
+            "Longitude": 103.75361193086513,
+            "Latitude": 1.40812181907283,
+            "RoadName": "Sg Kadut Ave",
+            "Description": "Tan Chiang Bros Marble"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "45171",
+            "Longitude": 103.75535627770704,
+            "Latitude": 1.40600808717869,
+            "RoadName": "Sg Kadut Ave",
+            "Description": "Sri Arasakesari Sivan Tp"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "45161",
+            "Longitude": 103.75467349450044,
+            "Latitude": 1.40273722420741,
+            "RoadName": "Sg Kadut Ave",
+            "Description": "Eurokars Ctr"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "45151",
+            "Longitude": 103.75428556537604,
+            "Latitude": 1.40086873669287,
+            "RoadName": "Sg Kadut Ave",
+            "Description": "Opp Multistates Trading"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "45049",
+            "Longitude": 103.75499277801016,
+            "Latitude": 1.39773638898124,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Yew Tee Ind Est Blk 1"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "45039",
+            "Longitude": 103.75427816224409,
+            "Latitude": 1.39585817355572,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Yew Tee Ind Est"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "45029",
+            "Longitude": 103.75414864750223,
+            "Latitude": 1.39303959514259,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Heavy Veh Pk"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "44999",
+            "Longitude": 103.7545111,
+            "Latitude": 1.391239722,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Yew Tee Flyover"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "45019",
+            "Longitude": 103.75559178864424,
+            "Latitude": 1.38821119718313,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Yew Tee Flyover"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "44549",
+            "Longitude": 103.746189135824,
+            "Latitude": 1.38748720575146,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Opp Northvale Condo"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "44531",
+            "Longitude": 103.74453624872069,
+            "Latitude": 1.38425405298158,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Opp Choa Chu Kang Stn"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "44539",
+            "Longitude": 103.74502387945829,
+            "Latitude": 1.38463078337388,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Lot 1 Shoppers' Mall"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "44541",
+            "Longitude": 103.74593527798108,
+            "Latitude": 1.38764444400097,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Northvale Condo"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "44061",
+            "Longitude": 103.7553863903753,
+            "Latitude": 1.38792499938306,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Yew Tee Flyover"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "45011",
+            "Longitude": 103.75462358144522,
+            "Latitude": 1.38969249598709,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Yew Tee Flyover"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "45021",
+            "Longitude": 103.75383583300305,
+            "Latitude": 1.39385694401888,
+            "RoadName": "Woodlands Rd",
+            "Description": "Heavy Veh Pk"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "45031",
+            "Longitude": 103.75421868895825,
+            "Latitude": 1.39623361717149,
+            "RoadName": "Woodlands Rd",
+            "Description": "Yew Tee Ind Est"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "45159",
+            "Longitude": 103.75410111097352,
+            "Latitude": 1.40081444400002,
+            "RoadName": "Sg Kadut Ave",
+            "Description": "Multistates Trading"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "45169",
+            "Longitude": 103.75459594317567,
+            "Latitude": 1.40316333179329,
+            "RoadName": "Sg Kadut Ave",
+            "Description": "Opp Eurokars Ctr"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "45179",
+            "Longitude": 103.75520214111529,
+            "Latitude": 1.40606366967223,
+            "RoadName": "Sg Kadut Ave",
+            "Description": "Sri Arasakesari Sivan Tp"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "49139",
+            "Longitude": 103.7535208650928,
+            "Latitude": 1.40797195308481,
+            "RoadName": "Sg Kadut Ave",
+            "Description": "Bef Sg Kadut Way"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "49011",
+            "Longitude": 103.75228251770571,
+            "Latitude": 1.41051803168987,
+            "RoadName": "Sg Kadut St 1",
+            "Description": "Opp Kim Hock Corp Pte Ltd"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "49021",
+            "Longitude": 103.75177016684295,
+            "Latitude": 1.41337474993907,
+            "RoadName": "Sg Kadut St 1",
+            "Description": "WHYE WAH DEVT & CONSTRN"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "49031",
+            "Longitude": 103.75124374338,
+            "Latitude": 1.41631604671773,
+            "RoadName": "Sg Kadut St 1",
+            "Description": "Opp Crown Alliance Industries"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "49041",
+            "Longitude": 103.75071744712069,
+            "Latitude": 1.41926629646719,
+            "RoadName": "Sg Kadut St 1",
+            "Description": "DHdeco Pte Ltd"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "49051",
+            "Longitude": 103.75010170518756,
+            "Latitude": 1.42276696289419,
+            "RoadName": "Sg Kadut St 1",
+            "Description": "Aft Sg Kadut Eating Hse"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "49061",
+            "Longitude": 103.74894489726996,
+            "Latitude": 1.42612604353693,
+            "RoadName": "Sg Kadut St 1",
+            "Description": "Poh Cheong Concrete Products"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "49071",
+            "Longitude": 103.74707415989546,
+            "Latitude": 1.42920936914454,
+            "RoadName": "Sg Kadut Dr",
+            "Description": "Opp Wason Wood Ind"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "45441",
+            "Longitude": 103.74745276475524,
+            "Latitude": 1.43189396450238,
+            "RoadName": "Sg Kadut Dr",
+            "Description": "Opp Eng Hua Furniture Mfg Pte Ltd"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "49081",
+            "Longitude": 103.74846964367356,
+            "Latitude": 1.43392569720193,
+            "RoadName": "Sg Kadut Dr",
+            "Description": "Aft Kranji Cres"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "49169",
+            "Longitude": 103.74855065686643,
+            "Latitude": 1.4356326647634,
+            "RoadName": "Kranji Way",
+            "Description": "Tong Seng Concrete Ltd"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "49159",
+            "Longitude": 103.7458149911703,
+            "Latitude": 1.43702428430753,
+            "RoadName": "Kranji Way",
+            "Description": "Econ Group"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "49149",
+            "Longitude": 103.74315061627054,
+            "Latitude": 1.43838341066284,
+            "RoadName": "Kranji Way",
+            "Description": "Bef Fishing Ground A"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "49199",
+            "Longitude": 103.73578447263064,
+            "Latitude": 1.4383674275063,
+            "RoadName": "Kranji Way",
+            "Description": "Kranji Reservoir Pk B"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "49141",
+            "Longitude": 103.74365393048626,
+            "Latitude": 1.4383065782824,
+            "RoadName": "Kranji Way",
+            "Description": "Ctrl Granite Ind"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "49151",
+            "Longitude": 103.74684027798631,
+            "Latitude": 1.43666749998525,
+            "RoadName": "Kranji Way",
+            "Description": "Daiya Engrg"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "49171",
+            "Longitude": 103.75086631663139,
+            "Latitude": 1.43471927034855,
+            "RoadName": "Kranji Way",
+            "Description": "OPP SHINGDA CONSTRN"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "49181",
+            "Longitude": 103.75406639623813,
+            "Latitude": 1.43689816677634,
+            "RoadName": "Kranji Loop",
+            "Description": "Dapolite Ind"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "49129",
+            "Longitude": 103.75521112659418,
+            "Latitude": 1.43487511854102,
+            "RoadName": "Kranji Rd",
+            "Description": "Lip Guan Ind"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "49119",
+            "Longitude": 103.75568435534463,
+            "Latitude": 1.43218727065725,
+            "RoadName": "Kranji Rd",
+            "Description": "Blk 2"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "49109",
+            "Longitude": 103.75622617449282,
+            "Latitude": 1.42885154471804,
+            "RoadName": "Kranji Rd",
+            "Description": "Kranji Wtr Reclam Plt"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "49099",
+            "Longitude": 103.7566,
+            "Latitude": 1.42763,
+            "RoadName": "Kranji Rd",
+            "Description": "AFT KRANJI WATER RECLAMATION PLANT"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "45149",
+            "Longitude": 103.75694671247683,
+            "Latitude": 1.4251485321405,
+            "RoadName": "Kranji Rd",
+            "Description": "Bef W'Lands Rd"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "45121",
+            "Longitude": 103.75863222200965,
+            "Latitude": 1.42402638898738,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp S'pore Turf Club"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "45131",
+            "Longitude": 103.76103770449444,
+            "Latitude": 1.42513583961154,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Kranji Stn"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "46389",
+            "Longitude": 103.76660954719264,
+            "Latitude": 1.42930397640592,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Aft W'Lands Ind Pk D St 2"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "46499",
+            "Longitude": 103.77219638823969,
+            "Latitude": 1.4322913388299,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Opp Blk 402"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "46521",
+            "Longitude": 103.77429333367095,
+            "Latitude": 1.43237833345523,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Marsiling Stn"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "46531",
+            "Longitude": 103.77751138903017,
+            "Latitude": 1.43240249999047,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 173"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "46541",
+            "Longitude": 103.78083569681783,
+            "Latitude": 1.43328331503309,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Opp Blk 347"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        }
+    ]
+}

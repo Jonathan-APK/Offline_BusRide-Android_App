@@ -1,0 +1,108 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "60221",
+            "Longitude": 103.87081431318353,
+            "Latitude": 1.32212380559601,
+            "RoadName": "Geylang Bahru",
+            "Description": "BLK 73/GEYLANG BAHRU STN"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "80291",
+            "Longitude": 103.87229334189442,
+            "Latitude": 1.3195596877041,
+            "RoadName": "Geylang Bahru",
+            "Description": "Blk 82"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "80301",
+            "Longitude": 103.87348616263843,
+            "Latitude": 1.31643329020681,
+            "RoadName": "Upp Boon Keng Rd",
+            "Description": "Bef Blk 19"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "80311",
+            "Longitude": 103.87260027800174,
+            "Latitude": 1.31443333298525,
+            "RoadName": "Upp Boon Keng Rd",
+            "Description": "Blk 3B"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "80109",
+            "Longitude": 103.871430158598,
+            "Latitude": 1.31324473748019,
+            "RoadName": "Lor 1 Geylang",
+            "Description": "Opp Kallang Stn/Blk 2C"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "80051",
+            "Longitude": 103.87326194447365,
+            "Latitude": 1.31251499997324,
+            "RoadName": "Sims Ave",
+            "Description": "Aft Lor 1 Geylang"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "80169",
+            "Longitude": 103.86336013257065,
+            "Latitude": 1.30070547633658,
+            "RoadName": "Nicoll Highway",
+            "Description": "Nicoll Highway Stn"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "80159",
+            "Longitude": 103.85795174896221,
+            "Latitude": 1.295962316986,
+            "RoadName": "Nicoll Highway",
+            "Description": "Suntec City"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "02119",
+            "Longitude": 103.85534334305085,
+            "Latitude": 1.29184407356581,
+            "RoadName": "Nicoll Highway",
+            "Description": "Opp War Memorial Pk"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "03019",
+            "Longitude": 103.85310805599599,
+            "Latitude": 1.284245000013,
+            "RoadName": "Collyer Quay",
+            "Description": "OUE Bayfront"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "03217",
+            "Longitude": 103.8479443674916,
+            "Latitude": 1.27552218897645,
+            "RoadName": "Shenton Way",
+            "Description": "Opp AXA Twr"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        }
+    ]
+}

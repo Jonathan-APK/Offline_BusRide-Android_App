@@ -1,0 +1,228 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "28301",
+            "Longitude": 103.74030301599491,
+            "Latitude": 1.33473899929823,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Blk 131"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "28431",
+            "Longitude": 103.73881557585635,
+            "Latitude": 1.33449626498358,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 134"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "28249",
+            "Longitude": 103.73979174224014,
+            "Latitude": 1.33212287290362,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Jurong East Lib"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "28239",
+            "Longitude": 103.74307145172916,
+            "Latitude": 1.32980442518564,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Jurong Town Hall"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "28229",
+            "Longitude": 103.74593185918442,
+            "Latitude": 1.32536675242565,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "German Ctr"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "20269",
+            "Longitude": 103.74580944947768,
+            "Latitude": 1.32151780618055,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Bef Pandan Gdns"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "20201",
+            "Longitude": 103.74340527799251,
+            "Latitude": 1.32127611097845,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Teban Gdn PO"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "20211",
+            "Longitude": 103.74184000241928,
+            "Latitude": 1.32177193921987,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Blk 41"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "20231",
+            "Longitude": 103.7394439595661,
+            "Latitude": 1.32234407286907,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Bef Hasanah Mque"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "20121",
+            "Longitude": 103.73707999997312,
+            "Latitude": 1.32023972200054,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Blk 51"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "29039",
+            "Longitude": 103.73590151832454,
+            "Latitude": 1.31791472290937,
+            "RoadName": "Penjuru Rd",
+            "Description": "Bef Penjuru Wk"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "29029",
+            "Longitude": 103.73497081366901,
+            "Latitude": 1.3136694444723,
+            "RoadName": "Penjuru Rd",
+            "Description": "Bef Penjuru Cl"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "21059",
+            "Longitude": 103.7301381,
+            "Latitude": 1.311953889,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Aft Penjuru Rd"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "21079",
+            "Longitude": 103.72279763377816,
+            "Latitude": 1.31342751032359,
+            "RoadName": "Jln Buroh",
+            "Description": "Opp Jurong Abattoir"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "21141",
+            "Longitude": 103.71957368500223,
+            "Latitude": 1.31517431113868,
+            "RoadName": "Jurong Port Rd",
+            "Description": "Aft Jln Buroh"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "21151",
+            "Longitude": 103.71988944330612,
+            "Latitude": 1.3169920318205,
+            "RoadName": "Jurong Port Rd",
+            "Description": "CWT Distripark"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "21041",
+            "Longitude": 103.72012027797446,
+            "Latitude": 1.3209197220107,
+            "RoadName": "Jurong Port Rd",
+            "Description": "Aft Jln Terusan"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "21171",
+            "Longitude": 103.71906611098208,
+            "Latitude": 1.3258163890121,
+            "RoadName": "Corporation Rd",
+            "Description": "OPP CORP PL"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "21181",
+            "Longitude": 103.72100725398151,
+            "Latitude": 1.3302374752438,
+            "RoadName": "Corporation Rd",
+            "Description": "Opp Blk 161"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "21549",
+            "Longitude": 103.71899585412747,
+            "Latitude": 1.33088280586201,
+            "RoadName": "Intl Rd",
+            "Description": "Automotive Technology"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "21539",
+            "Longitude": 103.71633089417061,
+            "Latitude": 1.33136152392518,
+            "RoadName": "Third Chin Bee Rd",
+            "Description": "Opp Kaily Packaging"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "21529",
+            "Longitude": 103.71509707566638,
+            "Latitude": 1.3340830392462,
+            "RoadName": "Chin Bee Ave",
+            "Description": "Opp Grandluxe"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "21519",
+            "Longitude": 103.71129155158583,
+            "Latitude": 1.33295908040191,
+            "RoadName": "Chin Bee Ave",
+            "Description": "Amoy Canning"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "21261",
+            "Longitude": 103.71025085451481,
+            "Latitude": 1.33393514008105,
+            "RoadName": "Quality Rd",
+            "Description": "AFT CHIN BEE AVE"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "21259",
+            "Longitude": 103.71043700168366,
+            "Latitude": 1.33604134949327,
+            "RoadName": "Chin Bee Dr",
+            "Description": "Opp Sime Darby"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "21351",
+            "Longitude": 103.70956429008974,
+            "Latitude": 1.33882138642125,
+            "RoadName": "Jln Boon Lay",
+            "Description": "BEF BOON LAY WAY"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int"
+        }
+    ]
+}

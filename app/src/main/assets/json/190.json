@@ -1,0 +1,518 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "44539",
+            "Longitude": 103.74502387945829,
+            "Latitude": 1.38463078337388,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Lot 1 Shoppers' Mall"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "44399",
+            "Longitude": 103.74851002579776,
+            "Latitude": 1.38306278590518,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Opp Blk 210"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "44299",
+            "Longitude": 103.75131333302434,
+            "Latitude": 1.38177250001353,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Cck Polyclinic"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "44289",
+            "Longitude": 103.75380266661918,
+            "Latitude": 1.38140148022937,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Blk 6"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "44279",
+            "Longitude": 103.75635459940506,
+            "Latitude": 1.37910867690077,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Blk 157"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "44141",
+            "Longitude": 103.75773677895589,
+            "Latitude": 1.37835602806756,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Phoenix Stn"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "44251",
+            "Longitude": 103.76227862094703,
+            "Latitude": 1.38033407967784,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 604"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "44241",
+            "Longitude": 103.76586096715347,
+            "Latitude": 1.38117443945082,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Opp Lompang Rd"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "44231",
+            "Longitude": 103.76933485417399,
+            "Latitude": 1.37916686797468,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Zhenghua Pr Sch"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "44261",
+            "Longitude": 103.774277778025,
+            "Latitude": 1.3760822219899,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 270"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "40239",
+            "Longitude": 103.82620193736967,
+            "Latitude": 1.32255443038995,
+            "RoadName": "Whitley Rd",
+            "Description": "Aft Tanglin CC"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "40229",
+            "Longitude": 103.82570109605929,
+            "Latitude": 1.31933337975163,
+            "RoadName": "Stevens Rd",
+            "Description": "Aft Stevens Stn"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "40219",
+            "Longitude": 103.82605954338264,
+            "Latitude": 1.31703698010115,
+            "RoadName": "Stevens Rd",
+            "Description": "Bef Met YMCA"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "40209",
+            "Longitude": 103.82738777802837,
+            "Latitude": 1.31388805600649,
+            "RoadName": "Stevens Rd",
+            "Description": "NOVOTEL MERCURE @ STEVENS"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "40199",
+            "Longitude": 103.83191222199584,
+            "Latitude": 1.31258333303153,
+            "RoadName": "Stevens Rd",
+            "Description": "Opp Raffles Girls' Sch"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "09219",
+            "Longitude": 103.83316088291699,
+            "Latitude": 1.30731999685228,
+            "RoadName": "Scotts Rd",
+            "Description": "Far East Plaza"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "09047",
+            "Longitude": 103.83294467208566,
+            "Latitude": 1.30446065207443,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Stn/Tang Plaza"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "09037",
+            "Longitude": 103.83701253388183,
+            "Latitude": 1.3023400420296,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Mandarin Orchard"
+        },
+        {
+            "Distance": 18,
+            "BusStopCode": "08138",
+            "Longitude": 103.84184700607595,
+            "Latitude": 1.3004785730821,
+            "RoadName": "Orchard Rd",
+            "Description": "Concorde Hotel S'pore"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "08069",
+            "Longitude": 103.84936128375956,
+            "Latitude": 1.29821382250893,
+            "RoadName": "Bras Basah Rd",
+            "Description": "BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "04159",
+            "Longitude": 103.85108138663934,
+            "Latitude": 1.29489484954945,
+            "RoadName": "Victoria St",
+            "Description": "Aft Chijmes"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "04149",
+            "Longitude": 103.84983741344308,
+            "Latitude": 1.29276132399953,
+            "RoadName": "Hill St",
+            "Description": "Grand Pk City Hall"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "04229",
+            "Longitude": 103.84875123545265,
+            "Latitude": 1.29044830830726,
+            "RoadName": "Hill St",
+            "Description": "High St Ctr"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "04239",
+            "Longitude": 103.8474938118651,
+            "Latitude": 1.28882717929599,
+            "RoadName": "New Bridge Rd",
+            "Description": "Clarke Quay Stn"
+        },
+        {
+            "Distance": 20.5,
+            "BusStopCode": "05059",
+            "Longitude": 103.84575036447065,
+            "Latitude": 1.28676420118491,
+            "RoadName": "New Bridge Rd",
+            "Description": "Hong Lim Pk"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "05049",
+            "Longitude": 103.84455070696784,
+            "Latitude": 1.28531114761754,
+            "RoadName": "New Bridge Rd",
+            "Description": "Chinatown Pt"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "05039",
+            "Longitude": 103.84254276754574,
+            "Latitude": 1.28293819129834,
+            "RoadName": "New Bridge Rd",
+            "Description": "New Bridge Ctr"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "05019",
+            "Longitude": 103.84105000000471,
+            "Latitude": 1.28118388885484,
+            "RoadName": "New Bridge Rd",
+            "Description": "Opp Pearl's Ctr"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "10011",
+            "Longitude": 103.83749709165197,
+            "Latitude": 1.2777380589964,
+            "RoadName": "New Bridge Rd",
+            "Description": "BEF NEIL RD"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "10041",
+            "Longitude": 103.83519065305671,
+            "Latitude": 1.27605834770353,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "BEF KAMPONG BAHRU TER"
+        },
+        {
+            "Distance": 22.9,
+            "BusStopCode": "10499",
+            "Longitude": 103.83401000002084,
+            "Latitude": 1.27585400417691,
+            "RoadName": "Spooner Rd",
+            "Description": "KAMPONG BAHRU TER"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "10499",
+            "Longitude": 103.83401000002084,
+            "Latitude": 1.27585400417691,
+            "RoadName": "Spooner Rd",
+            "Description": "KAMPONG BAHRU TER"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "10049",
+            "Longitude": 103.83483786772155,
+            "Latitude": 1.27623302424393,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "OPP KAMPONG BAHRU TER"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "10017",
+            "Longitude": 103.83762574759974,
+            "Latitude": 1.27832046633393,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Aft Hosp Dr"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "05012",
+            "Longitude": 103.84087722199499,
+            "Latitude": 1.28154583300728,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Pearl's Ctr"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "05022",
+            "Longitude": 103.84437203405348,
+            "Latitude": 1.28571089865595,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "People's Pk Ctr"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "04222",
+            "Longitude": 103.84708976365569,
+            "Latitude": 1.28898962180798,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Clarke Quay Stn Exit E"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "04223",
+            "Longitude": 103.84857901022669,
+            "Latitude": 1.29084476137495,
+            "RoadName": "Hill St",
+            "Description": "Old Hill St Police Stn"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "04143",
+            "Longitude": 103.85020606905503,
+            "Latitude": 1.29411640848293,
+            "RoadName": "Hill St",
+            "Description": "Stamford Ct"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "04121",
+            "Longitude": 103.84958029974611,
+            "Latitude": 1.29618544092334,
+            "RoadName": "Stamford Rd",
+            "Description": "SMU"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "08041",
+            "Longitude": 103.84780636909545,
+            "Latitude": 1.29811014243867,
+            "RoadName": "Orchard Rd",
+            "Description": "YMCA"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "08031",
+            "Longitude": 103.8452569595532,
+            "Latitude": 1.29831153783592,
+            "RoadName": "Penang Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "08111",
+            "Longitude": 103.84093746088925,
+            "Latitude": 1.29986928715834,
+            "RoadName": "Penang Rd",
+            "Description": "Winsland Hse"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "08121",
+            "Longitude": 103.83877618459663,
+            "Latitude": 1.30027569326586,
+            "RoadName": "Somerset Rd",
+            "Description": "Somerset Stn"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "09011",
+            "Longitude": 103.83431672376756,
+            "Latitude": 1.30211335092372,
+            "RoadName": "Orchard Turn",
+            "Description": "Opp Ngee Ann City"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "09023",
+            "Longitude": 103.83254180023424,
+            "Latitude": 1.30323727330942,
+            "RoadName": "Orchard Turn",
+            "Description": "Opp Orchard Stn/ION"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "09213",
+            "Longitude": 103.83305083303023,
+            "Latitude": 1.30783805600034,
+            "RoadName": "Scotts Rd",
+            "Description": "Thong Teck Bldg"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "40191",
+            "Longitude": 103.8304269440197,
+            "Latitude": 1.31268555601325,
+            "RoadName": "Stevens Rd",
+            "Description": "Raffles Girls' Sch"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "40201",
+            "Longitude": 103.82743055599407,
+            "Latitude": 1.31358972201496,
+            "RoadName": "Stevens Rd",
+            "Description": "Chelsea Gdns Condo"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "40211",
+            "Longitude": 103.825862990405,
+            "Latitude": 1.31655331624558,
+            "RoadName": "Stevens Rd",
+            "Description": "Opp Met YMCA"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "40221",
+            "Longitude": 103.82545561296305,
+            "Latitude": 1.31902531287493,
+            "RoadName": "Stevens Rd",
+            "Description": "Opp Stevens Stn"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "40231",
+            "Longitude": 103.82568817714628,
+            "Latitude": 1.32214806956461,
+            "RoadName": "Whitley Rd",
+            "Description": "Raffles Town Club"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "44269",
+            "Longitude": 103.77422500002575,
+            "Latitude": 1.37577833299245,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 223"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "44239",
+            "Longitude": 103.76983083299403,
+            "Latitude": 1.37846111098819,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Opp Zhenghua Pr Sch"
+        },
+        {
+            "Distance": 19.3,
+            "BusStopCode": "44249",
+            "Longitude": 103.76649141308671,
+            "Latitude": 1.38049595009817,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 174"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "44259",
+            "Longitude": 103.76297124601712,
+            "Latitude": 1.38029564329691,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 183"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "44149",
+            "Longitude": 103.75776732086608,
+            "Latitude": 1.37798495709362,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Opp Phoenix Stn"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "44271",
+            "Longitude": 103.75614774814443,
+            "Latitude": 1.37867114732017,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Bet Blks 13/14"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "44281",
+            "Longitude": 103.75422740795686,
+            "Latitude": 1.38104915821148,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Blk 8"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "44291",
+            "Longitude": 103.75140111097832,
+            "Latitude": 1.38151999999791,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Opp Cck Polyclinic"
+        },
+        {
+            "Distance": 21.8,
+            "BusStopCode": "44391",
+            "Longitude": 103.74831030292964,
+            "Latitude": 1.38288970873929,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Aft Blk 202"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int"
+        }
+    ]
+}

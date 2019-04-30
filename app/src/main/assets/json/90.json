@@ -1,0 +1,292 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "52509",
+            "Longitude": 103.85017633434691,
+            "Latitude": 1.33115712303762,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "52329",
+            "Longitude": 103.85268688199498,
+            "Latitude": 1.33146817532374,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Stadium"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "52081",
+            "Longitude": 103.8608407974236,
+            "Latitude": 1.33081389290944,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Aft Blk 195"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "60081",
+            "Longitude": 103.8662910461625,
+            "Latitude": 1.32931226062177,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "St. Andrew'S Village"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "60211",
+            "Longitude": 103.87049674985374,
+            "Latitude": 1.32855071811735,
+            "RoadName": "MacPherson Rd",
+            "Description": "Aft Tai Thong Cres"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "70101",
+            "Longitude": 103.87395296821519,
+            "Latitude": 1.3296996501314,
+            "RoadName": "MacPherson Rd",
+            "Description": "Opp Gulab Bldg"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "70111",
+            "Longitude": 103.87714812684305,
+            "Latitude": 1.3307766855737,
+            "RoadName": "MacPherson Rd",
+            "Description": "Opp Cencon Bldg"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "70121",
+            "Longitude": 103.88114282141879,
+            "Latitude": 1.3319080537309,
+            "RoadName": "MacPherson Rd",
+            "Description": "Aft Jln Muhibbah"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "70131",
+            "Longitude": 103.88503448837113,
+            "Latitude": 1.3327616336301,
+            "RoadName": "MacPherson Rd",
+            "Description": "Bef Davidson Rd"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "70141",
+            "Longitude": 103.88723373413463,
+            "Latitude": 1.33325940650465,
+            "RoadName": "MacPherson Rd",
+            "Description": "Citimac Ind Cplx"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "71011",
+            "Longitude": 103.89054392713261,
+            "Latitude": 1.33411688207761,
+            "RoadName": "Airport Rd",
+            "Description": "Aft Paya Lebar Rd"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "71171",
+            "Longitude": 103.89238738026172,
+            "Latitude": 1.33497828854869,
+            "RoadName": "Airport Rd",
+            "Description": "Blk 1022"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "71021",
+            "Longitude": 103.89468782549605,
+            "Latitude": 1.33655775095595,
+            "RoadName": "Airport Rd",
+            "Description": "Opp Comfort Test Ctr"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "71031",
+            "Longitude": 103.8968074607421,
+            "Latitude": 1.33913918063035,
+            "RoadName": "Airport Rd",
+            "Description": "Opp Gordon Warehse Bldg"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "71191",
+            "Longitude": 103.89814797322435,
+            "Latitude": 1.34114100497371,
+            "RoadName": "Airport Rd",
+            "Description": "Aft Defu Lane 12"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "71181",
+            "Longitude": 103.8989460984825,
+            "Latitude": 1.34332868665716,
+            "RoadName": "Airport Rd",
+            "Description": "Opp Paya Lebar Air Base"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "71041",
+            "Longitude": 103.89850711352136,
+            "Latitude": 1.3464532689909,
+            "RoadName": "Airport Rd",
+            "Description": "Opp Air Force Museum"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "73041",
+            "Longitude": 103.89881500673948,
+            "Latitude": 1.3504717976194,
+            "RoadName": "Airport Rd",
+            "Description": "ST Aero"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "73019",
+            "Longitude": 103.89945109919051,
+            "Latitude": 1.35197881564019,
+            "RoadName": "Airport Rd",
+            "Description": "Bef RSAF Roundabout"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "73049",
+            "Longitude": 103.89909496908518,
+            "Latitude": 1.35081770773441,
+            "RoadName": "Airport Rd",
+            "Description": "Air Force Sch"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "71049",
+            "Longitude": 103.89881549663342,
+            "Latitude": 1.34609209274348,
+            "RoadName": "Airport Rd",
+            "Description": "Air Force Museum"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "71189",
+            "Longitude": 103.89909457528678,
+            "Latitude": 1.34494057674135,
+            "RoadName": "Airport Rd",
+            "Description": "Paya Lebar Air Base"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "71029",
+            "Longitude": 103.89504292943955,
+            "Latitude": 1.33654331402892,
+            "RoadName": "Airport Rd",
+            "Description": "Comfort Test Ctr"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "71179",
+            "Longitude": 103.89238294056769,
+            "Latitude": 1.3346773011372,
+            "RoadName": "Airport Rd",
+            "Description": "Opp Blk 1022"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "70149",
+            "Longitude": 103.88646305557553,
+            "Latitude": 1.33291249995394,
+            "RoadName": "MacPherson Rd",
+            "Description": "MacPherson Green Condo"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "70139",
+            "Longitude": 103.88328460405727,
+            "Latitude": 1.33218202150261,
+            "RoadName": "MacPherson Rd",
+            "Description": "Aft Jln Belangkas"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "70129",
+            "Longitude": 103.88058185579888,
+            "Latitude": 1.33157543468156,
+            "RoadName": "MacPherson Rd",
+            "Description": "Opp Jln Muhibbah"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "70119",
+            "Longitude": 103.8777335022986,
+            "Latitude": 1.33075033509776,
+            "RoadName": "MacPherson Rd",
+            "Description": "Cencon Bldg"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "70109",
+            "Longitude": 103.874037265782,
+            "Latitude": 1.32946242383323,
+            "RoadName": "MacPherson Rd",
+            "Description": "Gulab Bldg"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "60219",
+            "Longitude": 103.8704918465033,
+            "Latitude": 1.32829192682419,
+            "RoadName": "MacPherson Rd",
+            "Description": "Bef Siemens Ctr"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "60089",
+            "Longitude": 103.86615967295366,
+            "Latitude": 1.32865054961465,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Opp St. Andrew'S Village"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "52089",
+            "Longitude": 103.86027368842302,
+            "Latitude": 1.32991690265608,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Opp Blk 195"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "52321",
+            "Longitude": 103.8527071071997,
+            "Latitude": 1.3312589884768,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Stadium"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "52501",
+            "Longitude": 103.85011762889827,
+            "Latitude": 1.33090220918791,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int (Last Stop)"
+        }
+    ]
+}

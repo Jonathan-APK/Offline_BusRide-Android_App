@@ -1,0 +1,412 @@
+{
+    "direction 1": [
+        {
+            "Distance": 9.8,
+            "BusStopCode": "93049",
+            "Longitude": 103.9329857782451,
+            "Latitude": 1.31073016722066,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Lagoon View"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "93039",
+            "Longitude": 103.92954154203639,
+            "Latitude": 1.30958474832555,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Laguna Pk"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "93201",
+            "Longitude": 103.92781269211483,
+            "Latitude": 1.30920003741893,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Victoria Sch"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "93029",
+            "Longitude": 103.92471047692146,
+            "Latitude": 1.30851455788092,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Mandarin Gdns"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "93019",
+            "Longitude": 103.92111718654822,
+            "Latitude": 1.30787614366531,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Neptune Ct"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "92089",
+            "Longitude": 103.91764721757994,
+            "Latitude": 1.3071917122941,
+            "RoadName": "Marine Parade Rd",
+            "Description": "CHIJ Katong Convent"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "92079",
+            "Longitude": 103.91487671479106,
+            "Latitude": 1.3065780686947,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Blk 57"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "92069",
+            "Longitude": 103.9110051545323,
+            "Latitude": 1.30566306799291,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Tao Nan Sch"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "92059",
+            "Longitude": 103.90773354554798,
+            "Latitude": 1.30425139809964,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Bet Blks 72/74"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "92049",
+            "Longitude": 103.9059569060291,
+            "Latitude": 1.30300441466613,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Parkway Parade"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "92241",
+            "Longitude": 103.9009525469614,
+            "Latitude": 1.30178441800843,
+            "RoadName": "Amber Rd",
+            "Description": "Amber Gdns"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "92099",
+            "Longitude": 103.89900426571224,
+            "Latitude": 1.3023783312326,
+            "RoadName": "Mountbatten Rd",
+            "Description": "One Amber"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "82059",
+            "Longitude": 103.89745113021507,
+            "Latitude": 1.3012419783155,
+            "RoadName": "Tg Katong Rd Sth",
+            "Description": "Opp Tg Katong Rd Sth P/G"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "02149",
+            "Longitude": 103.85955533029184,
+            "Latitude": 1.29560459817725,
+            "RoadName": "Temasek Blvd",
+            "Description": "Suntec Twr Three"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "02159",
+            "Longitude": 103.85840672828635,
+            "Latitude": 1.29360811227161,
+            "RoadName": "Temasek Blvd",
+            "Description": "Opp Suntec Convention Ctr"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "02089",
+            "Longitude": 103.8592061110504,
+            "Latitude": 1.29152694444975,
+            "RoadName": "Raffles Blvd",
+            "Description": "Pan Pacific Hotel"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "02171",
+            "Longitude": 103.86092194446034,
+            "Latitude": 1.29070000003898,
+            "RoadName": "Temasek Ave",
+            "Description": "Opp The Ritz-Carlton"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "02051",
+            "Longitude": 103.85903388899317,
+            "Latitude": 1.2895030556082,
+            "RoadName": "Raffles Ave",
+            "Description": "Seating Gallery"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "02061",
+            "Longitude": 103.85640388886262,
+            "Latitude": 1.2899638888957,
+            "RoadName": "Raffles Ave",
+            "Description": "The Esplanade"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "04111",
+            "Longitude": 103.85128983925452,
+            "Latitude": 1.2940020309036,
+            "RoadName": "Stamford Rd",
+            "Description": "Capitol Bldg"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "04121",
+            "Longitude": 103.84958029974611,
+            "Latitude": 1.29618544092334,
+            "RoadName": "Stamford Rd",
+            "Description": "SMU"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "08041",
+            "Longitude": 103.84780636909545,
+            "Latitude": 1.29811014243867,
+            "RoadName": "Orchard Rd",
+            "Description": "YMCA"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "08031",
+            "Longitude": 103.8452569595532,
+            "Latitude": 1.29831153783592,
+            "RoadName": "Penang Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 23.5,
+            "BusStopCode": "08111",
+            "Longitude": 103.84093746088925,
+            "Latitude": 1.29986928715834,
+            "RoadName": "Penang Rd",
+            "Description": "Winsland Hse"
+        },
+        {
+            "Distance": 23.8,
+            "BusStopCode": "08121",
+            "Longitude": 103.83877618459663,
+            "Latitude": 1.30027569326586,
+            "RoadName": "Somerset Rd",
+            "Description": "Somerset Stn"
+        },
+        {
+            "Distance": 24.1,
+            "BusStopCode": "09059",
+            "Longitude": 103.83623804216019,
+            "Latitude": 1.30044251755834,
+            "RoadName": "Grange Rd",
+            "Description": "Natl Youth Council"
+        },
+        {
+            "Distance": 24.6,
+            "BusStopCode": "09022",
+            "Longitude": 103.83239784275958,
+            "Latitude": 1.30252834773643,
+            "RoadName": "Orchard Blvd",
+            "Description": "Bef Orchard Stn Exit B"
+        },
+        {
+            "Distance": 25.1,
+            "BusStopCode": "09111",
+            "Longitude": 103.82914529614989,
+            "Latitude": 1.30453752623147,
+            "RoadName": "Orchard Blvd",
+            "Description": "Opp Four Seasons Hotel"
+        },
+        {
+            "Distance": 25.6,
+            "BusStopCode": "09191",
+            "Longitude": 103.82549755834486,
+            "Latitude": 1.30488653118311,
+            "RoadName": "Tomlinson Rd",
+            "Description": "The Regent S'pore"
+        },
+        {
+            "Distance": 25.7,
+            "BusStopCode": "09159",
+            "Longitude": 103.82568042620605,
+            "Latitude": 1.30602637557418,
+            "RoadName": "Tanglin Rd",
+            "Description": "Aft Tomlinson Rd"
+        },
+        {
+            "Distance": 26,
+            "BusStopCode": "09169",
+            "Longitude": 103.82835507326037,
+            "Latitude": 1.3070135326348,
+            "RoadName": "Orchard Rd",
+            "Description": "Delfi Orchard"
+        },
+        {
+            "Distance": 26.3,
+            "BusStopCode": "09179",
+            "Longitude": 103.83049004618626,
+            "Latitude": 1.30587966240898,
+            "RoadName": "Orchard Rd",
+            "Description": "Royal Thai Embassy"
+        },
+        {
+            "Distance": 26.6,
+            "BusStopCode": "09047",
+            "Longitude": 103.83294467208566,
+            "Latitude": 1.30446065207443,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Stn/Tang Plaza"
+        },
+        {
+            "Distance": 27.1,
+            "BusStopCode": "09037",
+            "Longitude": 103.83701253388183,
+            "Latitude": 1.3023400420296,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Mandarin Orchard"
+        },
+        {
+            "Distance": 27.8,
+            "BusStopCode": "08138",
+            "Longitude": 103.84184700607595,
+            "Latitude": 1.3004785730821,
+            "RoadName": "Orchard Rd",
+            "Description": "Concorde Hotel S'pore"
+        },
+        {
+            "Distance": 28.2,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 28.7,
+            "BusStopCode": "08069",
+            "Longitude": 103.84936128375956,
+            "Latitude": 1.29821382250893,
+            "RoadName": "Bras Basah Rd",
+            "Description": "BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 29,
+            "BusStopCode": "04179",
+            "Longitude": 103.85147164487202,
+            "Latitude": 1.29647916306741,
+            "RoadName": "Bras Basah Rd",
+            "Description": "AFT BRAS BASAH STN EXIT A"
+        },
+        {
+            "Distance": 29.4,
+            "BusStopCode": "02049",
+            "Longitude": 103.85402155505173,
+            "Latitude": 1.29452091230981,
+            "RoadName": "Bras Basah Rd",
+            "Description": "Raffles Hotel"
+        },
+        {
+            "Distance": 30,
+            "BusStopCode": "02151",
+            "Longitude": 103.85784623004031,
+            "Latitude": 1.29317776320814,
+            "RoadName": "Temasek Blvd",
+            "Description": "Suntec Convention Ctr"
+        },
+        {
+            "Distance": 30.7,
+            "BusStopCode": "02161",
+            "Longitude": 103.86093156188176,
+            "Latitude": 1.29268553508737,
+            "RoadName": "Temasek Ave",
+            "Description": "Promenade Stn"
+        },
+        {
+            "Distance": 36.4,
+            "BusStopCode": "82051",
+            "Longitude": 103.89740107761654,
+            "Latitude": 1.30079999936599,
+            "RoadName": "Tg Katong Rd Sth",
+            "Description": "Tg Katong Rd Sth P/G"
+        },
+        {
+            "Distance": 37.1,
+            "BusStopCode": "92249",
+            "Longitude": 103.90118149629421,
+            "Latitude": 1.30166304472072,
+            "RoadName": "Amber Rd",
+            "Description": "Opp Amber Gdns"
+        },
+        {
+            "Distance": 37.7,
+            "BusStopCode": "92041",
+            "Longitude": 103.90583013375219,
+            "Latitude": 1.30327282994495,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Opp Parkway Parade"
+        },
+        {
+            "Distance": 38.1,
+            "BusStopCode": "92051",
+            "Longitude": 103.90783296450577,
+            "Latitude": 1.30461834682389,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Opp Blk 72"
+        },
+        {
+            "Distance": 38.5,
+            "BusStopCode": "92061",
+            "Longitude": 103.91059595623031,
+            "Latitude": 1.30585304722559,
+            "RoadName": "Marine Parade Rd",
+            "Description": "CHIJ Katong Convent (Pr)"
+        },
+        {
+            "Distance": 39,
+            "BusStopCode": "92071",
+            "Longitude": 103.9149769,
+            "Latitude": 1.306795,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Opp Blk 57"
+        },
+        {
+            "Distance": 39.3,
+            "BusStopCode": "92081",
+            "Longitude": 103.91754269765207,
+            "Latitude": 1.30751338586806,
+            "RoadName": "Marine Parade Rd",
+            "Description": "St. Patrick's Sec Sch"
+        },
+        {
+            "Distance": 39.7,
+            "BusStopCode": "93011",
+            "Longitude": 103.92151900444857,
+            "Latitude": 1.30822971200422,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Opp Neptune Ct"
+        },
+        {
+            "Distance": 40.1,
+            "BusStopCode": "93021",
+            "Longitude": 103.92426998119757,
+            "Latitude": 1.30867772794032,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Opp Mandarin Gdns"
+        },
+        {
+            "Distance": 40.4,
+            "BusStopCode": "93199",
+            "Longitude": 103.92628500000932,
+            "Latitude": 1.30794833296674,
+            "RoadName": "Siglap Rd",
+            "Description": "Opp Mandarin Gdns"
+        }
+    ]
+}

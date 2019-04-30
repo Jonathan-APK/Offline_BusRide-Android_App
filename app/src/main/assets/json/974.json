@@ -1,0 +1,398 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44029",
+            "Longitude": 103.7621954983533,
+            "Latitude": 1.37863409952448,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bt Panjang Stn Exit A/Lrt"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "44259",
+            "Longitude": 103.76297124601712,
+            "Latitude": 1.38029564329691,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 183"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "44149",
+            "Longitude": 103.75776732086608,
+            "Latitude": 1.37798495709362,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Opp Phoenix Stn"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "44139",
+            "Longitude": 103.75536565517723,
+            "Latitude": 1.37680960030968,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Opp Blk 26"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "44129",
+            "Longitude": 103.75092697249079,
+            "Latitude": 1.37741713631203,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Opp Blk 113"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "44449",
+            "Longitude": 103.74762704486072,
+            "Latitude": 1.37889232196067,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Opp Blks 237/239"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "44459",
+            "Longitude": 103.74454562435122,
+            "Latitude": 1.38028731431529,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 277"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "44469",
+            "Longitude": 103.74275222200647,
+            "Latitude": 1.38243888902379,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 414"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "44539",
+            "Longitude": 103.74502387945829,
+            "Latitude": 1.38463078337388,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Lot 1 Shoppers' Mall"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "44541",
+            "Longitude": 103.74593527798108,
+            "Latitude": 1.38764444400097,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Northvale Condo"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "27109",
+            "Longitude": 103.70082305601869,
+            "Latitude": 1.35309472199852,
+            "RoadName": "Jln Bahar",
+            "Description": "Westwood Sec Sch"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "27099",
+            "Longitude": 103.70360999821403,
+            "Latitude": 1.35023689448473,
+            "RoadName": "Jln Bahar",
+            "Description": "Blk 271 CP"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "21379",
+            "Longitude": 103.70648912988919,
+            "Latitude": 1.34534855216089,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 263"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "21369",
+            "Longitude": 103.70800310705765,
+            "Latitude": 1.34309123717886,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Opp Blk 695"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "22491",
+            "Longitude": 103.70478201670083,
+            "Latitude": 1.33721274298352,
+            "RoadName": "Jurong West St 64",
+            "Description": "Blk 662D"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "22501",
+            "Longitude": 103.70297133237953,
+            "Latitude": 1.33769199118033,
+            "RoadName": "Jurong West St 63",
+            "Description": "Blk 662A"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "22511",
+            "Longitude": 103.70029665103546,
+            "Latitude": 1.33746181720219,
+            "RoadName": "Jurong West St 63",
+            "Description": "Blk 658C"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "22521",
+            "Longitude": 103.69776790191162,
+            "Latitude": 1.33741647896432,
+            "RoadName": "Jurong West St 63",
+            "Description": "Pioneer Stn Exit A"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "22469",
+            "Longitude": 103.69631873743737,
+            "Latitude": 1.33649062479414,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "Blk 653B"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "22479",
+            "Longitude": 103.693102645977,
+            "Latitude": 1.33474242487786,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Aft Jurong West St 93"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "23041",
+            "Longitude": 103.69055967203332,
+            "Latitude": 1.33334088691759,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Opp Jurong Camp"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "23051",
+            "Longitude": 103.68928138898715,
+            "Latitude": 1.33168972198862,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Bef Kian Teck Rd"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "23061",
+            "Longitude": 103.68652222202904,
+            "Latitude": 1.329527778021,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Aft Kian Teck Rd"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "23071",
+            "Longitude": 103.68257796013837,
+            "Latitude": 1.32977056006705,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Opp SAFTI Military Inst"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "24009",
+            "Longitude": 103.67839791240787,
+            "Latitude": 1.32697254709069,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "24009",
+            "Longitude": 103.67839791240787,
+            "Latitude": 1.32697254709069,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Int"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "23079",
+            "Longitude": 103.68181544225693,
+            "Latitude": 1.33017908917854,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "SAFTI Military Inst"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "23069",
+            "Longitude": 103.68582019131013,
+            "Latitude": 1.32989950511553,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Bef Kian Teck Rd"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "23059",
+            "Longitude": 103.68813759846915,
+            "Latitude": 1.33071284667323,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Aft Kian Teck Rd"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "23049",
+            "Longitude": 103.69061140570352,
+            "Latitude": 1.33410764081742,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Jurong Camp"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "22471",
+            "Longitude": 103.6931453983202,
+            "Latitude": 1.33509047686273,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Bef Jurong West St 93"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "22461",
+            "Longitude": 103.6962049999685,
+            "Latitude": 1.33596194443399,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "Opp Blk 653B"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "22529",
+            "Longitude": 103.69728617102128,
+            "Latitude": 1.33777262767008,
+            "RoadName": "Jurong West St 63",
+            "Description": "Pioneer Stn Exit B"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "22519",
+            "Longitude": 103.6999522210238,
+            "Latitude": 1.33773359608761,
+            "RoadName": "Jurong West St 63",
+            "Description": "Blk 608"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "22509",
+            "Longitude": 103.70323491142737,
+            "Latitude": 1.33799405073941,
+            "RoadName": "Jurong West St 63",
+            "Description": "Blk 664C"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "22499",
+            "Longitude": 103.70488157561539,
+            "Latitude": 1.33752755300605,
+            "RoadName": "Jurong West St 64",
+            "Description": "Opp Blk 662C"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "21361",
+            "Longitude": 103.70767181671128,
+            "Latitude": 1.34302323304896,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 695"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "21371",
+            "Longitude": 103.70617873626036,
+            "Latitude": 1.34522722613512,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 680C"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "27091",
+            "Longitude": 103.70388500000492,
+            "Latitude": 1.34910999998031,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Blk 271 CP"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "27101",
+            "Longitude": 103.70111638902962,
+            "Latitude": 1.35259472200365,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Westwood Sec Sch"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "44549",
+            "Longitude": 103.746189135824,
+            "Latitude": 1.38748720575146,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Opp Northvale Condo"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "44531",
+            "Longitude": 103.74453624872069,
+            "Latitude": 1.38425405298158,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Opp Choa Chu Kang Stn"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "44461",
+            "Longitude": 103.7430047219692,
+            "Latitude": 1.3825705560115,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 352"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "44451",
+            "Longitude": 103.74424353296656,
+            "Latitude": 1.38077375279629,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 224"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "44441",
+            "Longitude": 103.74754322627454,
+            "Latitude": 1.37924285981093,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 239"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "44121",
+            "Longitude": 103.75093552549583,
+            "Latitude": 1.37769846227758,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 113"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "44131",
+            "Longitude": 103.75532192967427,
+            "Latitude": 1.37710069702793,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Blk 26"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "44141",
+            "Longitude": 103.75773677895589,
+            "Latitude": 1.37835602806756,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Phoenix Stn"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "44031",
+            "Longitude": 103.76232373807855,
+            "Latitude": 1.37785685552262,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Bt Panjang Stn"
+        }
+    ]
+}

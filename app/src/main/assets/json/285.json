@@ -1,0 +1,156 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "17239",
+            "Longitude": 103.7658489,
+            "Latitude": 1.312440556,
+            "RoadName": "Clementi Ave 3",
+            "Description": "NTUC Fairprice"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "17259",
+            "Longitude": 103.76746074010758,
+            "Latitude": 1.31092798217655,
+            "RoadName": "Clementi Ave 2",
+            "Description": "Blk 408"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "17061",
+            "Longitude": 103.76180505768346,
+            "Latitude": 1.30775834752765,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 701"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "17071",
+            "Longitude": 103.76044433406533,
+            "Latitude": 1.30891781912545,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 513"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "20291",
+            "Longitude": 103.75771430804498,
+            "Latitude": 1.31095062259154,
+            "RoadName": "West Coast Rd",
+            "Description": "Tanglin Sec Sch"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "20281",
+            "Longitude": 103.75484214400765,
+            "Latitude": 1.31234219524906,
+            "RoadName": "West Coast Highway",
+            "Description": "Opp The Japanese Sec Sch"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "20341",
+            "Longitude": 103.75047333297755,
+            "Latitude": 1.31186472196722,
+            "RoadName": "Pandan Loop",
+            "Description": "Pan Tech Ind Cplx"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "20331",
+            "Longitude": 103.74926333296754,
+            "Latitude": 1.31329138901596,
+            "RoadName": "Pandan Loop",
+            "Description": "Vejoil Pte Ltd"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "20329",
+            "Longitude": 103.75102066090028,
+            "Latitude": 1.31503304622752,
+            "RoadName": "Pandan Loop",
+            "Description": "S'pore Food Ind"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "20319",
+            "Longitude": 103.75284421307401,
+            "Latitude": 1.31259468493848,
+            "RoadName": "Pandan Loop",
+            "Description": "Blk T Pandan Light Ind Pk"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "20309",
+            "Longitude": 103.75403766163392,
+            "Latitude": 1.31062303116794,
+            "RoadName": "Pandan Loop",
+            "Description": "Blk L Pandan Light Ind Pk"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "20299",
+            "Longitude": 103.75857544044081,
+            "Latitude": 1.3109280417106,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Tanglin Sec Sch"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "17079",
+            "Longitude": 103.75999360222924,
+            "Latitude": 1.30968304242083,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 512"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "17069",
+            "Longitude": 103.76214066046377,
+            "Latitude": 1.3077663717505,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Blk 701"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "17251",
+            "Longitude": 103.76744,
+            "Latitude": 1.31148,
+            "RoadName": "Clementi Ave 2",
+            "Description": "Opp Blk 408"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "17161",
+            "Longitude": 103.76685476875124,
+            "Latitude": 1.31240993603605,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Blk 329"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "17171",
+            "Longitude": 103.76502698264449,
+            "Latitude": 1.31497399268611,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Clementi Stn"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int (Last Stop)"
+        }
+    ]
+}

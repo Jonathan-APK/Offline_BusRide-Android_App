@@ -1,0 +1,236 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (First Stop)"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "75129",
+            "Longitude": 103.93936521711959,
+            "Latitude": 1.35563642049496,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Darul Ghufran Mque"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "75139",
+            "Longitude": 103.93612503756641,
+            "Latitude": 1.35563964372785,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 863"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "75161",
+            "Longitude": 103.93456070784656,
+            "Latitude": 1.35324997143303,
+            "RoadName": "Tampines St 83",
+            "Description": "Blk 855"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "75201",
+            "Longitude": 103.93353377368994,
+            "Latitude": 1.35078500992301,
+            "RoadName": "Tampines St 83",
+            "Description": "Blk 835"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "75081",
+            "Longitude": 103.93426738811776,
+            "Latitude": 1.34986941891093,
+            "RoadName": "Tampines Ave 3",
+            "Description": "Blk 831"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "75099",
+            "Longitude": 103.93423427925954,
+            "Latitude": 1.34810640028821,
+            "RoadName": "Tampines St 81",
+            "Description": "Blk 897"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "75219",
+            "Longitude": 103.9321567318492,
+            "Latitude": 1.34971138040971,
+            "RoadName": "Tampines St 81",
+            "Description": "Blk 889"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "75109",
+            "Longitude": 103.93102423699943,
+            "Latitude": 1.35115140327554,
+            "RoadName": "Tampines Ave 3",
+            "Description": "Blk 888"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "75111",
+            "Longitude": 103.93201333297846,
+            "Latitude": 1.35304499998303,
+            "RoadName": "Tampines St 84",
+            "Description": "Blk 874A"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "75169",
+            "Longitude": 103.93440612457627,
+            "Latitude": 1.35327639994383,
+            "RoadName": "Tampines St 83",
+            "Description": "Opp Blk 853"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "75131",
+            "Longitude": 103.93709646027764,
+            "Latitude": 1.35594818346107,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Bet Blks 701/702"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "75121",
+            "Longitude": 103.93903255460283,
+            "Latitude": 1.35593392058986,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Darul Ghufran Mque"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "76191",
+            "Longitude": 103.94477445426702,
+            "Latitude": 1.3569438864901,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 401"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "76151",
+            "Longitude": 103.9470479110451,
+            "Latitude": 1.35533098906606,
+            "RoadName": "Tampines St 21",
+            "Description": "Blk 237"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "76401",
+            "Longitude": 103.95086166698833,
+            "Latitude": 1.35501333299594,
+            "RoadName": "Tampines St 21",
+            "Description": "Blk 230B"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "76181",
+            "Longitude": 103.95308027923268,
+            "Latitude": 1.35384110037439,
+            "RoadName": "Tampines St 23",
+            "Description": "Blk 216"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "76411",
+            "Longitude": 103.95742752062093,
+            "Latitude": 1.35385001382018,
+            "RoadName": "Tampines St 32",
+            "Description": "Ngee Ann Sec Sch"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "76421",
+            "Longitude": 103.95987193850509,
+            "Latitude": 1.35384124345467,
+            "RoadName": "Tampines St 32",
+            "Description": "Opp Blk 331"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "76439",
+            "Longitude": 103.96260527798987,
+            "Latitude": 1.35288166702581,
+            "RoadName": "Tampines St 33",
+            "Description": "Blk 351"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "76449",
+            "Longitude": 103.96113006140774,
+            "Latitude": 1.35207508249597,
+            "RoadName": "Tampines St 33",
+            "Description": "Blk 343"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "76459",
+            "Longitude": 103.95873194771903,
+            "Latitude": 1.35208003080961,
+            "RoadName": "Tampines St 33",
+            "Description": "Blk 323"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "76419",
+            "Longitude": 103.95648530342,
+            "Latitude": 1.35366243500181,
+            "RoadName": "Tampines St 32",
+            "Description": "Blk 307A"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "76189",
+            "Longitude": 103.95279611102576,
+            "Latitude": 1.3537000000187,
+            "RoadName": "Tampines St 23",
+            "Description": "Opp Blk 216"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "76409",
+            "Longitude": 103.9507954515594,
+            "Latitude": 1.35484670853897,
+            "RoadName": "Tampines St 21",
+            "Description": "Blk 259"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "76159",
+            "Longitude": 103.94720149012322,
+            "Latitude": 1.35517831738683,
+            "RoadName": "Tampines St 21",
+            "Description": "Opp Blk 237"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "76199",
+            "Longitude": 103.94535428432116,
+            "Latitude": 1.35660016333768,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 503"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (Last Stop)"
+        }
+    ]
+}

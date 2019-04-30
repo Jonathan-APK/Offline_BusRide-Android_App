@@ -1,0 +1,284 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "59179",
+            "Longitude": 103.83988331688866,
+            "Latitude": 1.43221439515231,
+            "RoadName": "Yishun Ave 9",
+            "Description": "Blk 241"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "59389",
+            "Longitude": 103.84208246442347,
+            "Latitude": 1.43202071867504,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 314"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "59399",
+            "Longitude": 103.84552062872451,
+            "Latitude": 1.43026750784845,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 367"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "59409",
+            "Longitude": 103.84640616622914,
+            "Latitude": 1.42663883088373,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Evangel Family Ch"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "59419",
+            "Longitude": 103.84598027430432,
+            "Latitude": 1.42525968028764,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 413"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "59639",
+            "Longitude": 103.84412388893058,
+            "Latitude": 1.42318166665872,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Bet Blks 445/449"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "59579",
+            "Longitude": 103.84389849997935,
+            "Latitude": 1.42026429997499,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 456"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "59761",
+            "Longitude": 103.8432675,
+            "Latitude": 1.418496389,
+            "RoadName": "Yishun Ave 1",
+            "Description": "Blk 504C"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "59719",
+            "Longitude": 103.8420025,
+            "Latitude": 1.417565,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 672C"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "59439",
+            "Longitude": 103.83835440290515,
+            "Latitude": 1.41781023946668,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 858"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "59429",
+            "Longitude": 103.83503056128593,
+            "Latitude": 1.4174261275063,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 846"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "59569",
+            "Longitude": 103.83293900021363,
+            "Latitude": 1.41849332350079,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 798"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "59329",
+            "Longitude": 103.83179596945222,
+            "Latitude": 1.41968029160119,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Naval Base Sec Sch"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "59089",
+            "Longitude": 103.83155749997911,
+            "Latitude": 1.42397861098025,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 774"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "59319",
+            "Longitude": 103.83201083297399,
+            "Latitude": 1.42617166698404,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Yishun JC"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "59309",
+            "Longitude": 103.83063072371398,
+            "Latitude": 1.42826195477761,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Jiemin Pr Sch"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "59111",
+            "Longitude": 103.82888452126694,
+            "Latitude": 1.43016395103424,
+            "RoadName": "Yishun Ave 5",
+            "Description": "Blk 701"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "57089",
+            "Longitude": 103.82685672676006,
+            "Latitude": 1.42740500891774,
+            "RoadName": "Sembawang Rd",
+            "Description": "Blk 713"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "59511",
+            "Longitude": 103.82895211582186,
+            "Latitude": 1.42716904966997,
+            "RoadName": "Yishun St 71",
+            "Description": "Yishun Sec Sch"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "59311",
+            "Longitude": 103.83218609995292,
+            "Latitude": 1.4260484365847,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 760"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "59081",
+            "Longitude": 103.83164666791833,
+            "Latitude": 1.42371474872973,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 774"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "59321",
+            "Longitude": 103.831802328761,
+            "Latitude": 1.42004673882783,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 794"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "59561",
+            "Longitude": 103.83293375107691,
+            "Latitude": 1.41870141531997,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 798"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "59421",
+            "Longitude": 103.8351341252188,
+            "Latitude": 1.41762836917061,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 624"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "59431",
+            "Longitude": 103.8377761,
+            "Latitude": 1.417801111,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 630"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "59711",
+            "Longitude": 103.8427906,
+            "Latitude": 1.418173889,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 672C"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "59571",
+            "Longitude": 103.8437325,
+            "Latitude": 1.420725,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Northbrooks Sec Sch"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "59631",
+            "Longitude": 103.84397389045573,
+            "Latitude": 1.42333778088573,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 445"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "59411",
+            "Longitude": 103.8457261,
+            "Latitude": 1.425213889,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 356"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "59401",
+            "Longitude": 103.84615134332738,
+            "Latitude": 1.42705456686774,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 358"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "59391",
+            "Longitude": 103.84523111093658,
+            "Latitude": 1.43021107363512,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 342B"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "59381",
+            "Longitude": 103.84196021620254,
+            "Latitude": 1.43181131616813,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 314"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "59171",
+            "Longitude": 103.84019665786346,
+            "Latitude": 1.43226509746155,
+            "RoadName": "Yishun Ave 9",
+            "Description": "Blk 309"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int (Last Stop)"
+        }
+    ]
+}

@@ -1,0 +1,582 @@
+{
+    "direction 1": [
+        {
+            "Distance": null,
+            "BusStopCode": "22609",
+            "Longitude": 103.69830144019609,
+            "Latitude": 1.33048210252836,
+            "RoadName": "Soon Lee Rd",
+            "Description": "Soon Lee Bus Pk"
+        },
+        {
+            "Distance": 0.1,
+            "BusStopCode": "22191",
+            "Longitude": 103.69832754842358,
+            "Latitude": 1.33130584013018,
+            "RoadName": "Soon Lee Rd",
+            "Description": "Sbst Soon Lee Depot"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "22181",
+            "Longitude": 103.69637694442996,
+            "Latitude": 1.33301611112037,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "S'pore Post"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "22461",
+            "Longitude": 103.6962049999685,
+            "Latitude": 1.33596194443399,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "Opp Blk 653B"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "22451",
+            "Longitude": 103.69561280580359,
+            "Latitude": 1.33817022625307,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "Opp Blk 643"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "27301",
+            "Longitude": 103.69439784182157,
+            "Latitude": 1.34045284969365,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "Blk 978"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "27369",
+            "Longitude": 103.6941039562493,
+            "Latitude": 1.34285373346865,
+            "RoadName": "Jurong West Ave 5",
+            "Description": "Blk 834"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "27359",
+            "Longitude": 103.69601368907118,
+            "Latitude": 1.34441434989381,
+            "RoadName": "Jurong West Ave 5",
+            "Description": "Blk 817"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "27439",
+            "Longitude": 103.6971171383191,
+            "Latitude": 1.34941077845235,
+            "RoadName": "Jurong West Ave 5",
+            "Description": "Blk 861"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "27449",
+            "Longitude": 103.70107895859192,
+            "Latitude": 1.35053242519874,
+            "RoadName": "Jurong West Ave 5",
+            "Description": "Aft Westwood Ave"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "27459",
+            "Longitude": 103.70399035610369,
+            "Latitude": 1.35145070001383,
+            "RoadName": "Jurong West Ave 3",
+            "Description": "Blk 273B"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "27469",
+            "Longitude": 103.70486709831036,
+            "Latitude": 1.35307192192765,
+            "RoadName": "Jurong West Ave 3",
+            "Description": "Blk 276B"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "27479",
+            "Longitude": 103.70818261767401,
+            "Latitude": 1.3518923433776,
+            "RoadName": "Jurong West St 23",
+            "Description": "Opp Corporation Pr Sch"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "21169",
+            "Longitude": 103.71275812568066,
+            "Latitude": 1.35074356093462,
+            "RoadName": "Corporation Rd",
+            "Description": "Jurong JC"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "28539",
+            "Longitude": 103.71542393424821,
+            "Latitude": 1.34975477386966,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 538"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "28409",
+            "Longitude": 103.71793769087185,
+            "Latitude": 1.35081149361542,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 454"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "28529",
+            "Longitude": 103.7206511492765,
+            "Latitude": 1.35117921308914,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 441"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "28519",
+            "Longitude": 103.72452492776075,
+            "Latitude": 1.35058416759245,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 425"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "28509",
+            "Longitude": 103.72654009750788,
+            "Latitude": 1.35003470887569,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 422"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "28499",
+            "Longitude": 103.73046199733298,
+            "Latitude": 1.34963044051902,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Jurong Polyclinic"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "28469",
+            "Longitude": 103.73193313637753,
+            "Latitude": 1.34612717332075,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Blk 316"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "28459",
+            "Longitude": 103.7343152870331,
+            "Latitude": 1.34440772894012,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Opp Parc Oasis"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "28291",
+            "Longitude": 103.73638303040048,
+            "Latitude": 1.34446090409168,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 303"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "12209",
+            "Longitude": 103.76429968220569,
+            "Latitude": 1.32653202760922,
+            "RoadName": "Clementi Ave 6",
+            "Description": "Opp Logishub @ Clementi"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "17379",
+            "Longitude": 103.76389432891798,
+            "Latitude": 1.32049089180327,
+            "RoadName": "Clementi Ave 6",
+            "Description": "Blk 304"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "17189",
+            "Longitude": 103.76406408827933,
+            "Latitude": 1.31790502165515,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 317"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "17179",
+            "Longitude": 103.76536000516927,
+            "Latitude": 1.31528191560846,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Clementi Stn"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "17169",
+            "Longitude": 103.76679666702314,
+            "Latitude": 1.31284527799656,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 329"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "17159",
+            "Longitude": 103.7698144,
+            "Latitude": 1.311975556,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 365"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "19049",
+            "Longitude": 103.77479215922537,
+            "Latitude": 1.31266302174215,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Sch Of Science & Tech"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "19039",
+            "Longitude": 103.77868390552867,
+            "Latitude": 1.31167951129602,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Dover Stn"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "19029",
+            "Longitude": 103.78201879388226,
+            "Latitude": 1.3095609201372,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp SP SMA"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "19019",
+            "Longitude": 103.78475916699466,
+            "Latitude": 1.30807305598128,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Blk 19A CP"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "11199",
+            "Longitude": 103.78843145303215,
+            "Latitude": 1.30837970735444,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 15"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "11189",
+            "Longitude": 103.79254222202354,
+            "Latitude": 1.30740138898924,
+            "RoadName": "C'wealth Ave",
+            "Description": "Blk 43"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "11389",
+            "Longitude": 103.7929321687807,
+            "Latitude": 1.30906501014268,
+            "RoadName": "Holland Dr",
+            "Description": "Blk 46"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": null,
+            "BusStopCode": "11379",
+            "Longitude": 103.79236323128613,
+            "Latitude": 1.30917002463976,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Ter"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "11381",
+            "Longitude": 103.79328294102335,
+            "Latitude": 1.30841137865065,
+            "RoadName": "Holland Dr",
+            "Description": "Blk 10A"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "11181",
+            "Longitude": 103.79227638896938,
+            "Latitude": 1.30722333300814,
+            "RoadName": "C'wealth Ave",
+            "Description": "Opp Blk 43"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "11191",
+            "Longitude": 103.7883731546267,
+            "Latitude": 1.30801640815091,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Buona Vista Stn"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "19011",
+            "Longitude": 103.78423666696615,
+            "Latitude": 1.30781638901709,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 19A CP"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "19021",
+            "Longitude": 103.7812018067838,
+            "Latitude": 1.30965490194051,
+            "RoadName": "C'wealth Ave West",
+            "Description": "SP SMA"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "19031",
+            "Longitude": 103.77838361113201,
+            "Latitude": 1.31123416666912,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Dover Stn"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "19041",
+            "Longitude": 103.77552750001337,
+            "Latitude": 1.31235972197855,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Sch Of Science & Tech"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "17151",
+            "Longitude": 103.76960993525367,
+            "Latitude": 1.31169519353522,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 410"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "17161",
+            "Longitude": 103.76685476875124,
+            "Latitude": 1.31240993603605,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Blk 329"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "17171",
+            "Longitude": 103.76502698264449,
+            "Latitude": 1.31497399268611,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Clementi Stn"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "17181",
+            "Longitude": 103.7638854582427,
+            "Latitude": 1.31749570803723,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Blk 317"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "17371",
+            "Longitude": 103.76356592222618,
+            "Latitude": 1.32058194734278,
+            "RoadName": "Clementi Ave 6",
+            "Description": "Blk 201"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "12201",
+            "Longitude": 103.76399509585458,
+            "Latitude": 1.32670826856501,
+            "RoadName": "Clementi Ave 6",
+            "Description": "Logishub @ Clementi"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "28299",
+            "Longitude": 103.73667027224192,
+            "Latitude": 1.34438323067917,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 253"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "28451",
+            "Longitude": 103.73465998158574,
+            "Latitude": 1.34394189080479,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Parc Oasis"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "28461",
+            "Longitude": 103.73205383657178,
+            "Latitude": 1.345332402809,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Blk 347"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "28491",
+            "Longitude": 103.7307863306416,
+            "Latitude": 1.34905596073619,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Opp Jurong Polyclinic"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "28501",
+            "Longitude": 103.72737769835274,
+            "Latitude": 1.34980328426271,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 490"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "28511",
+            "Longitude": 103.7237236090261,
+            "Latitude": 1.35063596491215,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 463"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "28521",
+            "Longitude": 103.72120042369096,
+            "Latitude": 1.35097548065061,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 457"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "28401",
+            "Longitude": 103.71861401513462,
+            "Latitude": 1.3506545513673,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 502"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "28531",
+            "Longitude": 103.71652940446651,
+            "Latitude": 1.35006115514965,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 536"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "21161",
+            "Longitude": 103.7127413228723,
+            "Latitude": 1.35043949411648,
+            "RoadName": "Corporation Rd",
+            "Description": "Opp Jurong JC"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "27471",
+            "Longitude": 103.70782478135614,
+            "Latitude": 1.35216655807357,
+            "RoadName": "Jurong West St 23",
+            "Description": "Corporation Pr Sch"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "27461",
+            "Longitude": 103.70512862147237,
+            "Latitude": 1.35293305775698,
+            "RoadName": "Jurong West Ave 3",
+            "Description": "Opp Blk 276B"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "27451",
+            "Longitude": 103.7041505569119,
+            "Latitude": 1.35128613677034,
+            "RoadName": "Jurong West Ave 3",
+            "Description": "Bet Blks 272D/271A"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "27441",
+            "Longitude": 103.70079327483805,
+            "Latitude": 1.35032868767666,
+            "RoadName": "Jurong West Ave 5",
+            "Description": "Bet Blks 757/758"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "27431",
+            "Longitude": 103.69734630614052,
+            "Latitude": 1.34946527300866,
+            "RoadName": "Jurong West Ave 5",
+            "Description": "Blk 762"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "27351",
+            "Longitude": 103.69613170622605,
+            "Latitude": 1.34423200986065,
+            "RoadName": "Jurong West Ave 5",
+            "Description": "Blk 715"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "27361",
+            "Longitude": 103.6945223808434,
+            "Latitude": 1.34294490356227,
+            "RoadName": "Jurong West Ave 5",
+            "Description": "Blk 710"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "27309",
+            "Longitude": 103.69426536144466,
+            "Latitude": 1.3410704693164,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "Blk 705"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "22459",
+            "Longitude": 103.69572041924057,
+            "Latitude": 1.33856290426228,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "Blk 643"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "22469",
+            "Longitude": 103.69631873743737,
+            "Latitude": 1.33649062479414,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "Blk 653B"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "22189",
+            "Longitude": 103.69666289847902,
+            "Latitude": 1.33369710730493,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "Pioneer Junction"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "22199",
+            "Longitude": 103.69847431049809,
+            "Latitude": 1.33102248150132,
+            "RoadName": "Soon Lee Rd",
+            "Description": "Opp Sbst Soon Lee Depot"
+        }
+    ]
+}

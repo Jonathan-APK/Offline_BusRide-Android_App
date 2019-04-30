@@ -1,0 +1,518 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "84549",
+            "Longitude": 103.92512088883021,
+            "Latitude": 1.32720168851924,
+            "RoadName": "Chai Chee St",
+            "Description": "Opp Blk 42"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "84559",
+            "Longitude": 103.92287121813423,
+            "Latitude": 1.32833305090006,
+            "RoadName": "Chai Chee St",
+            "Description": "Opp Blks 50/51"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "84569",
+            "Longitude": 103.92011115886494,
+            "Latitude": 1.3279697494091,
+            "RoadName": "Chai Chee St",
+            "Description": "Opp Blk 53"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "84579",
+            "Longitude": 103.91948961283839,
+            "Latitude": 1.32584772443012,
+            "RoadName": "Chai Chee Dr",
+            "Description": "Aft Chai Chee St"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "84589",
+            "Longitude": 103.91954371811282,
+            "Latitude": 1.32311277295983,
+            "RoadName": "Chai Chee Dr",
+            "Description": "Bef New Upp Changi Rd"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "83099",
+            "Longitude": 103.91810427638708,
+            "Latitude": 1.32076378388187,
+            "RoadName": "Changi Rd",
+            "Description": "Aft Perpetual Succour Ch"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "83079",
+            "Longitude": 103.91505416701378,
+            "Latitude": 1.31976833302337,
+            "RoadName": "Changi Rd",
+            "Description": "Bef Siglap Plain"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "83059",
+            "Longitude": 103.91222670426201,
+            "Latitude": 1.31888900641724,
+            "RoadName": "Changi Rd",
+            "Description": "Mjd Kassim"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "83049",
+            "Longitude": 103.91002178191968,
+            "Latitude": 1.318489754773,
+            "RoadName": "Changi Rd",
+            "Description": "Bef Lor 110 Changi"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "83029",
+            "Longitude": 103.90635251996308,
+            "Latitude": 1.31774429797349,
+            "RoadName": "Changi Rd",
+            "Description": "Aft Kg Eunos"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "82069",
+            "Longitude": 103.90295147896967,
+            "Latitude": 1.31709537499354,
+            "RoadName": "Changi Rd",
+            "Description": "Aft Lor 106 Changi"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "82049",
+            "Longitude": 103.89891621295058,
+            "Latitude": 1.31634170548514,
+            "RoadName": "Changi Rd",
+            "Description": "Joo Chiat Cplx"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "82029",
+            "Longitude": 103.89559528546464,
+            "Latitude": 1.31569833821527,
+            "RoadName": "Geylang Rd",
+            "Description": "Blk 14 Mkt/FC"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "82109",
+            "Longitude": 103.89331774481381,
+            "Latitude": 1.3151892235607,
+            "RoadName": "Geylang Rd",
+            "Description": "City Plaza"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "81069",
+            "Longitude": 103.89084333204679,
+            "Latitude": 1.314713072947,
+            "RoadName": "Geylang Rd",
+            "Description": "Opp Lor 39 Geylang"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "81049",
+            "Longitude": 103.88729074830816,
+            "Latitude": 1.31402602433639,
+            "RoadName": "Geylang Rd",
+            "Description": "Aft Lor 34 Geylang"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "81029",
+            "Longitude": 103.88497531416832,
+            "Latitude": 1.31359869606059,
+            "RoadName": "Geylang Rd",
+            "Description": "Aft Lor 28 Geylang"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "80089",
+            "Longitude": 103.88080516731976,
+            "Latitude": 1.31274483593155,
+            "RoadName": "Geylang Rd",
+            "Description": "Bef Lor 18 Geylang"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "80069",
+            "Longitude": 103.87715016317217,
+            "Latitude": 1.31214703288286,
+            "RoadName": "Geylang Rd",
+            "Description": "Opp Mohd Salleh Mque"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "80049",
+            "Longitude": 103.87363663982293,
+            "Latitude": 1.31077707819718,
+            "RoadName": "Geylang Rd",
+            "Description": "Aft Sims Way"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "80101",
+            "Longitude": 103.87153830811837,
+            "Latitude": 1.31251933500742,
+            "RoadName": "Lor 1 Geylang",
+            "Description": "Kallang Stn/Opp Blk 2C"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "60051",
+            "Longitude": 103.86571468040536,
+            "Latitude": 1.3141464005633,
+            "RoadName": "Boon Keng Rd",
+            "Description": "Opp Kallang Pl"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "60021",
+            "Longitude": 103.86669874193286,
+            "Latitude": 1.31828596087227,
+            "RoadName": "Kallang Bahru",
+            "Description": "Chubb S'pore"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "60031",
+            "Longitude": 103.87007832529532,
+            "Latitude": 1.3204097072077,
+            "RoadName": "Kallang Bahru",
+            "Description": "BEF GEYLANG BAHRU STN"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "60229",
+            "Longitude": 103.87024013608315,
+            "Latitude": 1.32258108743147,
+            "RoadName": "Geylang Bahru",
+            "Description": "Blk 68"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "60159",
+            "Longitude": 103.86764196002876,
+            "Latitude": 1.32409476572475,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Blk 54"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "60161",
+            "Longitude": 103.8655673081052,
+            "Latitude": 1.32477289725503,
+            "RoadName": "S'goon Rd",
+            "Description": "St. Michael's Pl"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "60181",
+            "Longitude": 103.86738538742665,
+            "Latitude": 1.32714561804071,
+            "RoadName": "S'goon Rd",
+            "Description": "Aft Moonstone Lane"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "60089",
+            "Longitude": 103.86615967295366,
+            "Latitude": 1.32865054961465,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Opp St. Andrew'S Village"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "52089",
+            "Longitude": 103.86027368842302,
+            "Latitude": 1.32991690265608,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Opp Blk 195"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "52321",
+            "Longitude": 103.8527071071997,
+            "Latitude": 1.3312589884768,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Stadium"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "52501",
+            "Longitude": 103.85011762889827,
+            "Latitude": 1.33090220918791,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "52509",
+            "Longitude": 103.85017633434691,
+            "Latitude": 1.33115712303762,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "52329",
+            "Longitude": 103.85268688199498,
+            "Latitude": 1.33146817532374,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Stadium"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "52081",
+            "Longitude": 103.8608407974236,
+            "Latitude": 1.33081389290944,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Aft Blk 195"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "60081",
+            "Longitude": 103.8662910461625,
+            "Latitude": 1.32931226062177,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "St. Andrew'S Village"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "60179",
+            "Longitude": 103.86834025123765,
+            "Latitude": 1.32634025655419,
+            "RoadName": "Bendemeer Rd",
+            "Description": "MOM Svcs Ctr"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "60221",
+            "Longitude": 103.87081431318353,
+            "Latitude": 1.32212380559601,
+            "RoadName": "Geylang Bahru",
+            "Description": "BLK 73/GEYLANG BAHRU STN"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "60039",
+            "Longitude": 103.86983042567824,
+            "Latitude": 1.31996473842763,
+            "RoadName": "Kallang Bahru",
+            "Description": "Opp Blk 66"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "60029",
+            "Longitude": 103.86600136758759,
+            "Latitude": 1.31717045698013,
+            "RoadName": "Kallang Bahru",
+            "Description": "Blk 16"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "60059",
+            "Longitude": 103.86586250001177,
+            "Latitude": 1.31434638899368,
+            "RoadName": "Boon Keng Rd",
+            "Description": "Bef Kallang Pl"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "80109",
+            "Longitude": 103.871430158598,
+            "Latitude": 1.31324473748019,
+            "RoadName": "Lor 1 Geylang",
+            "Description": "Opp Kallang Stn/Blk 2C"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "80051",
+            "Longitude": 103.87326194447365,
+            "Latitude": 1.31251499997324,
+            "RoadName": "Sims Ave",
+            "Description": "Aft Lor 1 Geylang"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "80071",
+            "Longitude": 103.87655394006379,
+            "Latitude": 1.31380009198455,
+            "RoadName": "Sims Ave",
+            "Description": "Yi Xiu Fty Bldg"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "80091",
+            "Longitude": 103.88095141640784,
+            "Latitude": 1.31489775184137,
+            "RoadName": "Sims Ave",
+            "Description": "Bef Lor 23 Geylang"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "81011",
+            "Longitude": 103.88335173265862,
+            "Latitude": 1.31532318660502,
+            "RoadName": "Sims Ave",
+            "Description": "Aft Aljunied Stn"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "81031",
+            "Longitude": 103.88604854571838,
+            "Latitude": 1.31580283030533,
+            "RoadName": "Sims Ave",
+            "Description": "Blk 134"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "81051",
+            "Longitude": 103.89033436777706,
+            "Latitude": 1.31662343087312,
+            "RoadName": "Sims Ave",
+            "Description": "Sims Ville"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "82011",
+            "Longitude": 103.89480000904068,
+            "Latitude": 1.31736957951855,
+            "RoadName": "Sims Ave",
+            "Description": "Aft Tg Katong Cplx"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "82033",
+            "Longitude": 103.898237229405,
+            "Latitude": 1.31798449318919,
+            "RoadName": "Sims Ave",
+            "Description": "Blk 414"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "82061",
+            "Longitude": 103.9022689641617,
+            "Latitude": 1.31876162629115,
+            "RoadName": "Sims Ave",
+            "Description": "Eunos Stn/ Int"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "83011",
+            "Longitude": 103.90725404505461,
+            "Latitude": 1.31971491091921,
+            "RoadName": "Sims Ave East",
+            "Description": "Casa Sarina"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "83031",
+            "Longitude": 103.91000032422843,
+            "Latitude": 1.32027026937212,
+            "RoadName": "Sims Ave East",
+            "Description": "Opp Hong San Si Tp"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "83062",
+            "Longitude": 103.9133277893385,
+            "Latitude": 1.32096859171096,
+            "RoadName": "Sims Ave East",
+            "Description": "Kembangan Stn"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "83081",
+            "Longitude": 103.91736615804473,
+            "Latitude": 1.32138694232025,
+            "RoadName": "Sims Ave East",
+            "Description": "Opp Perpetual Succour Ch"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "84581",
+            "Longitude": 103.91945047474212,
+            "Latitude": 1.3238068248883,
+            "RoadName": "Chai Chee Dr",
+            "Description": "Opp Bedok Sth NPC"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "84571",
+            "Longitude": 103.9187401751097,
+            "Latitude": 1.32653228537615,
+            "RoadName": "Chai Chee Dr",
+            "Description": "OPP BLK 55"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "84561",
+            "Longitude": 103.91973825722668,
+            "Latitude": 1.32804725721627,
+            "RoadName": "Chai Chee St",
+            "Description": "BLK 53"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "84551",
+            "Longitude": 103.9225201285922,
+            "Latitude": 1.32853887137542,
+            "RoadName": "Chai Chee St",
+            "Description": "BLK 51"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "84541",
+            "Longitude": 103.92519155563974,
+            "Latitude": 1.32761801937398,
+            "RoadName": "Chai Chee St",
+            "Description": "Blk 42"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        }
+    ]
+}

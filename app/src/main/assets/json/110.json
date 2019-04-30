@@ -1,0 +1,244 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "67759",
+            "Longitude": 103.89720218513328,
+            "Latitude": 1.39129522332876,
+            "RoadName": "Compassvale Rd",
+            "Description": "COMPASSVALE INT (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "67191",
+            "Longitude": 103.89710881285436,
+            "Latitude": 1.38908889970693,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 223D"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "67349",
+            "Longitude": 103.8953369095349,
+            "Latitude": 1.38837810902521,
+            "RoadName": "Compassvale Dr",
+            "Description": "Blk 204 CP"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "67359",
+            "Longitude": 103.890440628588,
+            "Latitude": 1.39002594193182,
+            "RoadName": "Anchorvale Dr",
+            "Description": "Nan Chiau High Sch"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "67369",
+            "Longitude": 103.88853458899818,
+            "Latitude": 1.39071731059511,
+            "RoadName": "Anchorvale Dr",
+            "Description": "Blk 306 CP"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "67379",
+            "Longitude": 103.88700896307408,
+            "Latitude": 1.3927256179225,
+            "RoadName": "Anchorvale Rd",
+            "Description": "Opp Blk 313 CP"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "67761",
+            "Longitude": 103.887595,
+            "Latitude": 1.396006,
+            "RoadName": "Anchorvale Rd",
+            "Description": "OPP BLK 326D"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "67319",
+            "Longitude": 103.8888966274991,
+            "Latitude": 1.39738047818719,
+            "RoadName": "Anchorvale St",
+            "Description": "Blk 336B"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "67429",
+            "Longitude": 103.89381749259768,
+            "Latitude": 1.39637340662334,
+            "RoadName": "Anchorvale St",
+            "Description": "Cheng Lim LRT"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "67599",
+            "Longitude": 103.89490664468322,
+            "Latitude": 1.3972004371065,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Opp Blk 293D"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "65199",
+            "Longitude": 103.90542736761212,
+            "Latitude": 1.39591721161169,
+            "RoadName": "TPE",
+            "Description": "Aft Punggol Rd"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "95151",
+            "Longitude": 103.98181795541137,
+            "Latitude": 1.34209640049942,
+            "RoadName": "Airport Blvd",
+            "Description": "Airport Police Stn"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "95011",
+            "Longitude": 103.98406055558529,
+            "Latitude": 1.34719486317101,
+            "RoadName": "Airport Blvd",
+            "Description": "Bef Changi Airport PTB3"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "95109",
+            "Longitude": 103.98635233782801,
+            "Latitude": 1.35650049529119,
+            "RoadName": "PTB3 Basement",
+            "Description": "Changi Airport PTB3"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "95029",
+            "Longitude": 103.99069984684058,
+            "Latitude": 1.36126748727797,
+            "RoadName": "PTB1 Basement",
+            "Description": "Changi Airport PTB1"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "95129",
+            "Longitude": 103.9892195407387,
+            "Latitude": 1.35509298857124,
+            "RoadName": "PTB2 Basement",
+            "Description": "Changi Airport PTB2"
+        },
+        {
+            "Distance": 20.8,
+            "BusStopCode": "95019",
+            "Longitude": 103.98488339642644,
+            "Latitude": 1.34794299896363,
+            "RoadName": "Airport Blvd",
+            "Description": "Aft Changi Airport PTB2"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "95209",
+            "Longitude": 103.98206408704047,
+            "Latitude": 1.33899412275069,
+            "RoadName": "T4 CRESCENT",
+            "Description": "CHANGI AIRPORT PTB4"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "95159",
+            "Longitude": 103.9823888759626,
+            "Latitude": 1.34203653965365,
+            "RoadName": "Airport Blvd",
+            "Description": "Near SATS Flight Kitchen"
+        },
+        {
+            "Distance": 35.4,
+            "BusStopCode": "65191",
+            "Longitude": 103.90539999997036,
+            "Latitude": 1.39527356921611,
+            "RoadName": "TPE",
+            "Description": "Bef Punggol Rd"
+        },
+        {
+            "Distance": 36.7,
+            "BusStopCode": "67591",
+            "Longitude": 103.8953647897483,
+            "Latitude": 1.39790048032037,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Blk 286B"
+        },
+        {
+            "Distance": 37.2,
+            "BusStopCode": "67421",
+            "Longitude": 103.89376724340975,
+            "Latitude": 1.39616692483827,
+            "RoadName": "Anchorvale St",
+            "Description": "OPP CHENG LIM LRT"
+        },
+        {
+            "Distance": 37.4,
+            "BusStopCode": "67311",
+            "Longitude": 103.88980246889258,
+            "Latitude": 1.39695849054084,
+            "RoadName": "Anchorvale St",
+            "Description": "Blk 330"
+        },
+        {
+            "Distance": 37.7,
+            "BusStopCode": "67769",
+            "Longitude": 103.88766378607079,
+            "Latitude": 1.39607378603056,
+            "RoadName": "Anchorvale Rd",
+            "Description": "BLK 326D"
+        },
+        {
+            "Distance": 38.1,
+            "BusStopCode": "67371",
+            "Longitude": 103.88713972197542,
+            "Latitude": 1.39259972198676,
+            "RoadName": "Anchorvale Rd",
+            "Description": "Blk 313 CP"
+        },
+        {
+            "Distance": 38.5,
+            "BusStopCode": "67361",
+            "Longitude": 103.88834913656447,
+            "Latitude": 1.39099505909557,
+            "RoadName": "Anchorvale Dr",
+            "Description": "Blk 313B"
+        },
+        {
+            "Distance": 38.8,
+            "BusStopCode": "67351",
+            "Longitude": 103.8913545454022,
+            "Latitude": 1.38994475443116,
+            "RoadName": "Anchorvale Dr",
+            "Description": "Blk 321 CP"
+        },
+        {
+            "Distance": 39.3,
+            "BusStopCode": "67341",
+            "Longitude": 103.89505169031366,
+            "Latitude": 1.38864779457077,
+            "RoadName": "Compassvale Dr",
+            "Description": "Opp Blk 204 CP"
+        },
+        {
+            "Distance": 39.6,
+            "BusStopCode": "67199",
+            "Longitude": 103.89689165133598,
+            "Latitude": 1.3889487081629,
+            "RoadName": "Compassvale Rd",
+            "Description": "Opp Blk 223D"
+        },
+        {
+            "Distance": 39.9,
+            "BusStopCode": "67759",
+            "Longitude": 103.89720218513328,
+            "Latitude": 1.39129522332876,
+            "RoadName": "Compassvale Rd",
+            "Description": "COMPASSVALE INT (Last Stop)"
+        }
+    ]
+}

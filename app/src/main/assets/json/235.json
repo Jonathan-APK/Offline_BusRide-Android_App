@@ -1,0 +1,188 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "52509",
+            "Longitude": 103.85017633434691,
+            "Latitude": 1.33115712303762,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "52329",
+            "Longitude": 103.85268688199498,
+            "Latitude": 1.33146817532374,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Stadium"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "52339",
+            "Longitude": 103.8558608329901,
+            "Latitude": 1.33287166703192,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Blk 26"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "52309",
+            "Longitude": 103.85467626312281,
+            "Latitude": 1.33390300713051,
+            "RoadName": "Toa Payoh East",
+            "Description": "Opp Blk 35"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "52281",
+            "Longitude": 103.85362416699164,
+            "Latitude": 1.33444611098518,
+            "RoadName": "Lor 5 Toa Payoh",
+            "Description": "Blk 68"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "52291",
+            "Longitude": 103.85224710756584,
+            "Latitude": 1.3369700601272,
+            "RoadName": "Lor 5 Toa Payoh",
+            "Description": "Blk 59"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "52229",
+            "Longitude": 103.8488028810671,
+            "Latitude": 1.33775023417492,
+            "RoadName": "Lor 3 Toa Payoh",
+            "Description": "Jackson Sq"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "52201",
+            "Longitude": 103.84650759525915,
+            "Latitude": 1.33918030742933,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Blk 121"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "52169",
+            "Longitude": 103.84465978021645,
+            "Latitude": 1.34013183349101,
+            "RoadName": "Lor 1 Toa Payoh",
+            "Description": "Blk 117"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "52219",
+            "Longitude": 103.84086885618204,
+            "Latitude": 1.33814528405956,
+            "RoadName": "Toa Payoh Rise",
+            "Description": "Bef Caldecott Stn"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "52559",
+            "Longitude": 103.83941071527673,
+            "Latitude": 1.33735684086973,
+            "RoadName": "Toa Payoh Rise",
+            "Description": "Caldecott Stn"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "52211",
+            "Longitude": 103.84081528160415,
+            "Latitude": 1.33832189895284,
+            "RoadName": "Toa Payoh Rise",
+            "Description": "Lighthouse Sch"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "52161",
+            "Longitude": 103.84540645330499,
+            "Latitude": 1.34093830148518,
+            "RoadName": "Lor 1 Toa Payoh",
+            "Description": "Braddell Stn/Blk 111"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "52209",
+            "Longitude": 103.84678448871398,
+            "Latitude": 1.33925873230713,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Blk 101C CP"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "52221",
+            "Longitude": 103.8482286336101,
+            "Latitude": 1.33801162125737,
+            "RoadName": "Lor 3 Toa Payoh",
+            "Description": "Opp Jackson Sq"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "52299",
+            "Longitude": 103.85231928852072,
+            "Latitude": 1.33715967694295,
+            "RoadName": "Lor 5 Toa Payoh",
+            "Description": "Blk 50"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "52289",
+            "Longitude": 103.85386490982448,
+            "Latitude": 1.33501934336797,
+            "RoadName": "Lor 5 Toa Payoh",
+            "Description": "Blk 34"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "52301",
+            "Longitude": 103.85462603898891,
+            "Latitude": 1.33411036071703,
+            "RoadName": "Toa Payoh East",
+            "Description": "Blk 35"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "52331",
+            "Longitude": 103.85581029367948,
+            "Latitude": 1.33246306626276,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 27"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "52321",
+            "Longitude": 103.8527071071997,
+            "Latitude": 1.3312589884768,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Stadium"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "52501",
+            "Longitude": 103.85011762889827,
+            "Latitude": 1.33090220918791,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int (Last Stop)"
+        }
+    ]
+}

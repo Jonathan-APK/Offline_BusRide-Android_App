@@ -1,0 +1,652 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "53009",
+            "Longitude": 103.84988083722291,
+            "Latitude": 1.35045541249544,
+            "RoadName": "Bishan St 13",
+            "Description": "Bishan Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "53261",
+            "Longitude": 103.85179055539538,
+            "Latitude": 1.35285975794309,
+            "RoadName": "Bishan St 14",
+            "Description": "Opp Bishan Stadium"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "53249",
+            "Longitude": 103.84911895270494,
+            "Latitude": 1.35538305217047,
+            "RoadName": "Bishan Rd",
+            "Description": "BLK 210"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "54539",
+            "Longitude": 103.85104805599867,
+            "Latitude": 1.35857111103202,
+            "RoadName": "Bishan Rd",
+            "Description": "BISHAN PK"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "54101",
+            "Longitude": 103.85465761724518,
+            "Latitude": 1.35732097800984,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Aft Ang Mo Kio Ave 10"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "66091",
+            "Longitude": 103.86145166702076,
+            "Latitude": 1.35454666698201,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Golden Hill Est"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "66031",
+            "Longitude": 103.86572364607075,
+            "Latitude": 1.35465640659199,
+            "RoadName": "Lor Chuan",
+            "Description": "Cardiff Residence"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "66041",
+            "Longitude": 103.8697219448858,
+            "Latitude": 1.3557230306281,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 230"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "66051",
+            "Longitude": 103.87196190877665,
+            "Latitude": 1.35585499445871,
+            "RoadName": "Boundary Rd",
+            "Description": "Opp Blk 257"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "66379",
+            "Longitude": 103.87285801649963,
+            "Latitude": 1.35339155862192,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "66359",
+            "Longitude": 103.87328604946424,
+            "Latitude": 1.35080698547823,
+            "RoadName": "S'goon Ctrl",
+            "Description": "S'Goon Stn Exit C/Blk 201"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "62141",
+            "Longitude": 103.87515194713767,
+            "Latitude": 1.35149112412235,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 1"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "62059",
+            "Longitude": 103.87859583297927,
+            "Latitude": 1.35170138896709,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Blk 161"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "62229",
+            "Longitude": 103.88212234368397,
+            "Latitude": 1.35108999372692,
+            "RoadName": "Lor Ah Soo",
+            "Description": "The Minton"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "63309",
+            "Longitude": 103.88581055600547,
+            "Latitude": 1.35205944401441,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Opp Paya Lebar Girls' Sch"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "63299",
+            "Longitude": 103.88833522800789,
+            "Latitude": 1.35263165715857,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Blk 115"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "63289",
+            "Longitude": 103.88966083299925,
+            "Latitude": 1.3540116670036,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Aljunied CC"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "63279",
+            "Longitude": 103.88983499998875,
+            "Latitude": 1.35623805601182,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Opp Yuying Sec Sch"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "63269",
+            "Longitude": 103.88905763623875,
+            "Latitude": 1.35875481272429,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Blk 232"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "63131",
+            "Longitude": 103.89033109494885,
+            "Latitude": 1.36120884403234,
+            "RoadName": "Tampines Rd",
+            "Description": "THE TEMBUSU"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "64201",
+            "Longitude": 103.89420777799334,
+            "Latitude": 1.36172833297814,
+            "RoadName": "Tampines Rd",
+            "Description": "Aft Hougang Ave 3"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "64211",
+            "Longitude": 103.89765089844938,
+            "Latitude": 1.36219637653141,
+            "RoadName": "Tampines Rd",
+            "Description": "Aft Hougang Ave 7"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "64221",
+            "Longitude": 103.90086280526522,
+            "Latitude": 1.36263972024077,
+            "RoadName": "Tampines Rd",
+            "Description": "Opp Defu Ave 2"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "64131",
+            "Longitude": 103.9035055135566,
+            "Latitude": 1.3630249842487,
+            "RoadName": "Tampines Rd",
+            "Description": "Bef KPE"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "77339",
+            "Longitude": 103.93278653475954,
+            "Latitude": 1.3780301775267,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "77289",
+            "Longitude": 103.93596534133927,
+            "Latitude": 1.37889759950996,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 738"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "77239",
+            "Longitude": 103.93793201117523,
+            "Latitude": 1.37741830757924,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 643"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "77249",
+            "Longitude": 103.939861116152,
+            "Latitude": 1.37599439507295,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 640"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "78049",
+            "Longitude": 103.94180578126523,
+            "Latitude": 1.3744627816256,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 612"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "77019",
+            "Longitude": 103.94351079998545,
+            "Latitude": 1.3737108000359,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 515"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "77029",
+            "Longitude": 103.94597779999948,
+            "Latitude": 1.37274960000662,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 571"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "77039",
+            "Longitude": 103.94834855629753,
+            "Latitude": 1.37159118708865,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Bef Pasir Ris Ctrl"
+        },
+        {
+            "Distance": 18,
+            "BusStopCode": "77049",
+            "Longitude": 103.95158314847573,
+            "Latitude": 1.36963556960047,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Pasir Ris Town Pk"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "77059",
+            "Longitude": 103.95506338293471,
+            "Latitude": 1.36936138996292,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 425"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "78069",
+            "Longitude": 103.95815838787027,
+            "Latitude": 1.36869168470813,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 442"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "78059",
+            "Longitude": 103.96113744871693,
+            "Latitude": 1.36677606799955,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 210"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "98099",
+            "Longitude": 103.96328361098551,
+            "Latitude": 1.36457166700645,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 269A"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "98019",
+            "Longitude": 103.96338699998489,
+            "Latitude": 1.3622609999684,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Blk 149A"
+        },
+        {
+            "Distance": 24.1,
+            "BusStopCode": "95151",
+            "Longitude": 103.98181795541137,
+            "Latitude": 1.34209640049942,
+            "RoadName": "Airport Blvd",
+            "Description": "Airport Police Stn"
+        },
+        {
+            "Distance": 24.6,
+            "BusStopCode": "95011",
+            "Longitude": 103.98406055558529,
+            "Latitude": 1.34719486317101,
+            "RoadName": "Airport Blvd",
+            "Description": "Bef Changi Airport PTB3"
+        },
+        {
+            "Distance": 26,
+            "BusStopCode": "95109",
+            "Longitude": 103.98635233782801,
+            "Latitude": 1.35650049529119,
+            "RoadName": "PTB3 Basement",
+            "Description": "Changi Airport PTB3"
+        },
+        {
+            "Distance": 26.8,
+            "BusStopCode": "95029",
+            "Longitude": 103.99069984684058,
+            "Latitude": 1.36126748727797,
+            "RoadName": "PTB1 Basement",
+            "Description": "Changi Airport PTB1"
+        },
+        {
+            "Distance": 27.6,
+            "BusStopCode": "95129",
+            "Longitude": 103.9892195407387,
+            "Latitude": 1.35509298857124,
+            "RoadName": "PTB2 Basement",
+            "Description": "Changi Airport PTB2"
+        },
+        {
+            "Distance": 28.7,
+            "BusStopCode": "95019",
+            "Longitude": 103.98488339642644,
+            "Latitude": 1.34794299896363,
+            "RoadName": "Airport Blvd",
+            "Description": "Aft Changi Airport PTB2"
+        },
+        {
+            "Distance": 29.5,
+            "BusStopCode": "95159",
+            "Longitude": 103.9823888759626,
+            "Latitude": 1.34203653965365,
+            "RoadName": "Airport Blvd",
+            "Description": "Near SATS Flight Kitchen"
+        },
+        {
+            "Distance": 34,
+            "BusStopCode": "98011",
+            "Longitude": 103.96291600002557,
+            "Latitude": 1.36221388889515,
+            "RoadName": "Loyang Ave",
+            "Description": "Blk 149A"
+        },
+        {
+            "Distance": 34.3,
+            "BusStopCode": "98091",
+            "Longitude": 103.9631266198707,
+            "Latitude": 1.36432808773556,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 156"
+        },
+        {
+            "Distance": 34.7,
+            "BusStopCode": "78051",
+            "Longitude": 103.96118122599651,
+            "Latitude": 1.36625310810093,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 197"
+        },
+        {
+            "Distance": 35.1,
+            "BusStopCode": "78061",
+            "Longitude": 103.95848117561664,
+            "Latitude": 1.36824361151738,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 104"
+        },
+        {
+            "Distance": 35.5,
+            "BusStopCode": "77051",
+            "Longitude": 103.95508527984948,
+            "Latitude": 1.36908504460753,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 115"
+        },
+        {
+            "Distance": 35.9,
+            "BusStopCode": "77041",
+            "Longitude": 103.95130450100082,
+            "Latitude": 1.36944854648197,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 541"
+        },
+        {
+            "Distance": 36.3,
+            "BusStopCode": "77031",
+            "Longitude": 103.9483810573245,
+            "Latitude": 1.37116337071002,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Aft Pasir Ris Ctrl"
+        },
+        {
+            "Distance": 36.6,
+            "BusStopCode": "77021",
+            "Longitude": 103.94557280001845,
+            "Latitude": 1.3726630000055,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Opp Blk 571"
+        },
+        {
+            "Distance": 37,
+            "BusStopCode": "77011",
+            "Longitude": 103.94266590001561,
+            "Latitude": 1.37376489998905,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Opp Blk 515"
+        },
+        {
+            "Distance": 37.3,
+            "BusStopCode": "77241",
+            "Longitude": 103.940272636011,
+            "Latitude": 1.37531331487507,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Opp Blk 640"
+        },
+        {
+            "Distance": 37.6,
+            "BusStopCode": "77231",
+            "Longitude": 103.93844026085439,
+            "Latitude": 1.37670503142246,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Meridian JC"
+        },
+        {
+            "Distance": 37.9,
+            "BusStopCode": "77281",
+            "Longitude": 103.93618729229594,
+            "Latitude": 1.37837166677052,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 740"
+        },
+        {
+            "Distance": 38.3,
+            "BusStopCode": "77331",
+            "Longitude": 103.93338764757789,
+            "Latitude": 1.3782973982979,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Blk 747A"
+        },
+        {
+            "Distance": 43.3,
+            "BusStopCode": "64229",
+            "Longitude": 103.90226237890849,
+            "Latitude": 1.36242315234874,
+            "RoadName": "Tampines Rd",
+            "Description": "Bef Defu Ave 2"
+        },
+        {
+            "Distance": 43.7,
+            "BusStopCode": "64219",
+            "Longitude": 103.89836719781479,
+            "Latitude": 1.36194642289744,
+            "RoadName": "Tampines Rd",
+            "Description": "Aft Defu Ave 2"
+        },
+        {
+            "Distance": 44.1,
+            "BusStopCode": "64209",
+            "Longitude": 103.89452504836862,
+            "Latitude": 1.36146974234447,
+            "RoadName": "Tampines Rd",
+            "Description": "Aft Defu Ave 1"
+        },
+        {
+            "Distance": 44.4,
+            "BusStopCode": "63139",
+            "Longitude": 103.8914116670026,
+            "Latitude": 1.36120166702627,
+            "RoadName": "Tampines Rd",
+            "Description": "Aft En-Naeem Mque"
+        },
+        {
+            "Distance": 45,
+            "BusStopCode": "63261",
+            "Longitude": 103.88913833298105,
+            "Latitude": 1.35896472197244,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Opp Blk 232"
+        },
+        {
+            "Distance": 45.3,
+            "BusStopCode": "63271",
+            "Longitude": 103.88997632456076,
+            "Latitude": 1.35639501261001,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Blk 239"
+        },
+        {
+            "Distance": 45.6,
+            "BusStopCode": "63281",
+            "Longitude": 103.8898808330127,
+            "Latitude": 1.3541297220266,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Blk 105 Mkt/FC"
+        },
+        {
+            "Distance": 46,
+            "BusStopCode": "63291",
+            "Longitude": 103.88785804760475,
+            "Latitude": 1.35225002342978,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Opp Blk 115"
+        },
+        {
+            "Distance": 46.3,
+            "BusStopCode": "63301",
+            "Longitude": 103.88531199399267,
+            "Latitude": 1.35149473186732,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Paya Lebar Girls' Sch"
+        },
+        {
+            "Distance": 46.6,
+            "BusStopCode": "62221",
+            "Longitude": 103.88255343944132,
+            "Latitude": 1.35090140225527,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Opp The Minton"
+        },
+        {
+            "Distance": 47.2,
+            "BusStopCode": "62051",
+            "Longitude": 103.87775496869286,
+            "Latitude": 1.35170429575719,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Jln Chermat"
+        },
+        {
+            "Distance": 47.4,
+            "BusStopCode": "62149",
+            "Longitude": 103.87595332312252,
+            "Latitude": 1.35169173270668,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Paya Lebar Camp"
+        },
+        {
+            "Distance": 47.8,
+            "BusStopCode": "66351",
+            "Longitude": 103.87324486521683,
+            "Latitude": 1.35049831450162,
+            "RoadName": "S'goon Ctrl",
+            "Description": "S'Goon Stn Exit B"
+        },
+        {
+            "Distance": 48.2,
+            "BusStopCode": "66371",
+            "Longitude": 103.87268543240587,
+            "Latitude": 1.353767301605,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 261"
+        },
+        {
+            "Distance": 48.5,
+            "BusStopCode": "66059",
+            "Longitude": 103.87212299732872,
+            "Latitude": 1.35553141738293,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 257A"
+        },
+        {
+            "Distance": 48.9,
+            "BusStopCode": "66049",
+            "Longitude": 103.86896493522666,
+            "Latitude": 1.35535475300084,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 233"
+        },
+        {
+            "Distance": 49.2,
+            "BusStopCode": "66039",
+            "Longitude": 103.86668854745251,
+            "Latitude": 1.35475138514216,
+            "RoadName": "Lor Chuan",
+            "Description": "Blk 307"
+        },
+        {
+            "Distance": 49.9,
+            "BusStopCode": "66099",
+            "Longitude": 103.86142199387719,
+            "Latitude": 1.35427474694456,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Opp Golden Hill Est"
+        },
+        {
+            "Distance": 50.8,
+            "BusStopCode": "54109",
+            "Longitude": 103.85433890252277,
+            "Latitude": 1.35708169204878,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Bef Ang Mo Kio Ave 10"
+        },
+        {
+            "Distance": 51.4,
+            "BusStopCode": "54531",
+            "Longitude": 103.85132688003488,
+            "Latitude": 1.35839974282084,
+            "RoadName": "Bishan Rd",
+            "Description": "OPP BISHAN PK"
+        },
+        {
+            "Distance": 51.7,
+            "BusStopCode": "53241",
+            "Longitude": 103.84995659632311,
+            "Latitude": 1.35615639153054,
+            "RoadName": "Bishan Rd",
+            "Description": "OPP BLK 217"
+        },
+        {
+            "Distance": 52.4,
+            "BusStopCode": "53269",
+            "Longitude": 103.8511190167485,
+            "Latitude": 1.35335792415265,
+            "RoadName": "Bishan St 14",
+            "Description": "Bishan Stadium"
+        },
+        {
+            "Distance": 53,
+            "BusStopCode": "53009",
+            "Longitude": 103.84988083722291,
+            "Latitude": 1.35045541249544,
+            "RoadName": "Bishan St 13",
+            "Description": "Bishan Int (Last Stop)"
+        }
+    ]
+}

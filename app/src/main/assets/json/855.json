@@ -1,0 +1,950 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "59669",
+            "Longitude": 103.83784276257873,
+            "Latitude": 1.42623639393056,
+            "RoadName": "Yishun Ctrl 1",
+            "Description": "Opp Blk 932"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "59699",
+            "Longitude": 103.83604361024612,
+            "Latitude": 1.42465170948607,
+            "RoadName": "Yishun Ctrl 1",
+            "Description": "Opp Blk 935"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "59059",
+            "Longitude": 103.83497942324875,
+            "Latitude": 1.42054602879781,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 608"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "59049",
+            "Longitude": 103.83339984073773,
+            "Latitude": 1.41700998157675,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Khatib Stn"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "59039",
+            "Longitude": 103.83156300557019,
+            "Latitude": 1.41342871609658,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Sports Hall"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "59029",
+            "Longitude": 103.82924769115782,
+            "Latitude": 1.40885843406387,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Yishun Ave 1"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "59019",
+            "Longitude": 103.82763036053306,
+            "Latitude": 1.40217670308957,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Sg Seletar Bridge"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "55279",
+            "Longitude": 103.83433810671694,
+            "Latitude": 1.39414737127204,
+            "RoadName": "Lentor Ave",
+            "Description": "Lentor Flyover"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "55269",
+            "Longitude": 103.83691645885587,
+            "Latitude": 1.39252554978737,
+            "RoadName": "Lentor Ave",
+            "Description": "Opp Bullion Pk Condo"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "55259",
+            "Longitude": 103.83872874845498,
+            "Latitude": 1.39141346219733,
+            "RoadName": "Lentor Ave",
+            "Description": "Opp Countryside Est"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "55029",
+            "Longitude": 103.83917105055716,
+            "Latitude": 1.38565193733046,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "SEASONS PK"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "55019",
+            "Longitude": 103.83616944399448,
+            "Latitude": 1.38228305598375,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "The Calrose"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "56209",
+            "Longitude": 103.83240305645302,
+            "Latitude": 1.38031863295854,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Thomson Hills Dr"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "56199",
+            "Longitude": 103.83003638899949,
+            "Latitude": 1.37892333298882,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "NPB Serangoon Depot"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "56039",
+            "Longitude": 103.82848388900504,
+            "Latitude": 1.37673055602474,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "56029",
+            "Longitude": 103.82870000002058,
+            "Latitude": 1.37359500001635,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Sembawang Hill FC"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "56019",
+            "Longitude": 103.82862910254734,
+            "Latitude": 1.36949553492338,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Ang Mo Kio Ave 1"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "53099",
+            "Longitude": 103.82842866172699,
+            "Latitude": 1.36660638165473,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Ang Mo Kio Ave 1"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "53089",
+            "Longitude": 103.82823689416603,
+            "Latitude": 1.36413164157937,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Faber Gdn"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "53079",
+            "Longitude": 103.82864333297208,
+            "Latitude": 1.36082666696977,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Flame Tree Pk"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "53069",
+            "Longitude": 103.82894351047115,
+            "Latitude": 1.35777159286274,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Windsor Pk Rd"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "53059",
+            "Longitude": 103.8314804136155,
+            "Latitude": 1.35539998953236,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Thomson Plaza"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "53049",
+            "Longitude": 103.83422172361446,
+            "Latitude": 1.35362664583092,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Jln Todak"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "53039",
+            "Longitude": 103.83591070615076,
+            "Latitude": 1.35144681735328,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Thomson CC"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "53029",
+            "Longitude": 103.83729222566143,
+            "Latitude": 1.34939240848355,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Shunfu Est"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "53019",
+            "Longitude": 103.83880345588697,
+            "Latitude": 1.34592211870884,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "OPP ST. THERESA'S HME"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "51079",
+            "Longitude": 103.83615392311769,
+            "Latitude": 1.34178289872759,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp Macritchie Reservoir"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "51119",
+            "Longitude": 103.83257583298696,
+            "Latitude": 1.34014305601694,
+            "RoadName": "Lornie Rd",
+            "Description": "Bef Andrew Rd"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "40269",
+            "Longitude": 103.82660805601813,
+            "Latitude": 1.34105638903249,
+            "RoadName": "Lornie Rd",
+            "Description": "LP 57"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "40259",
+            "Longitude": 103.82256277806692,
+            "Latitude": 1.34031250739109,
+            "RoadName": "Lornie Rd",
+            "Description": "Bef Wallace Way"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "41159",
+            "Longitude": 103.81989450001056,
+            "Latitude": 1.33870170002583,
+            "RoadName": "Lornie Rd",
+            "Description": "Aft Lornie Wk"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "41149",
+            "Longitude": 103.81839656048176,
+            "Latitude": 1.3349264205847,
+            "RoadName": "Adam Rd",
+            "Description": "Opp SICC"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "41139",
+            "Longitude": 103.81485527800427,
+            "Latitude": 1.32962999996746,
+            "RoadName": "Adam Rd",
+            "Description": "Aft The Japanese Assn"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "41129",
+            "Longitude": 103.81399869920736,
+            "Latitude": 1.32542946413096,
+            "RoadName": "Adam Rd",
+            "Description": "Opp S'Pore Bible Coll"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "41119",
+            "Longitude": 103.81245374678939,
+            "Latitude": 1.32074221277671,
+            "RoadName": "Farrer Rd",
+            "Description": "Opp Lutheran Twrs"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "41109",
+            "Longitude": 103.81052861101583,
+            "Latitude": 1.31944666701923,
+            "RoadName": "Farrer Rd",
+            "Description": "Opp St. Margaret's Sec Sch"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "11119",
+            "Longitude": 103.80785606728587,
+            "Latitude": 1.31747833490912,
+            "RoadName": "Farrer Rd",
+            "Description": "Farrer Rd Stn Exit A"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "11109",
+            "Longitude": 103.80574305602846,
+            "Latitude": 1.31552472199926,
+            "RoadName": "Farrer Rd",
+            "Description": "Spanish Village"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "11099",
+            "Longitude": 103.80437666697586,
+            "Latitude": 1.31305333300118,
+            "RoadName": "Farrer Rd",
+            "Description": "Opp Tulip Gdn"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "11089",
+            "Longitude": 103.80334087354639,
+            "Latitude": 1.30946135492693,
+            "RoadName": "Queensway",
+            "Description": "Opp Holland Hill Lodge"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "11079",
+            "Longitude": 103.80185250000659,
+            "Latitude": 1.305441389003,
+            "RoadName": "Queensway",
+            "Description": "Opp Blk 95"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "11069",
+            "Longitude": 103.80161762237655,
+            "Latitude": 1.30236853162324,
+            "RoadName": "Queensway",
+            "Description": "Queensway Sec Sch"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "11059",
+            "Longitude": 103.80097389222824,
+            "Latitude": 1.29882892782979,
+            "RoadName": "Queensway",
+            "Description": "Queenstown Polyclinic"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "11049",
+            "Longitude": 103.79952549937242,
+            "Latitude": 1.2954609366563,
+            "RoadName": "Queensway",
+            "Description": "Opp Blessed Sacrament Ch"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "11039",
+            "Longitude": 103.79998683928974,
+            "Latitude": 1.29245762862665,
+            "RoadName": "Queensway",
+            "Description": "Blk 19"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "11029",
+            "Longitude": 103.80202111098815,
+            "Latitude": 1.29013472201419,
+            "RoadName": "Queensway",
+            "Description": "Blk 166"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "11019",
+            "Longitude": 103.80565677295323,
+            "Latitude": 1.28679632523156,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Pk Hotel Alexandra"
+        },
+        {
+            "Distance": 21.9,
+            "BusStopCode": "10139",
+            "Longitude": 103.8081000223439,
+            "Latitude": 1.28635135443034,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "10119",
+            "Longitude": 103.81122515087834,
+            "Latitude": 1.28598009010704,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Opp Pacific Tech Ctr"
+        },
+        {
+            "Distance": 22.5,
+            "BusStopCode": "10109",
+            "Longitude": 103.81365537642607,
+            "Latitude": 1.28531403163162,
+            "RoadName": "Jln Bt Merah",
+            "Description": "BT MERAH SEC SCH"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "10099",
+            "Longitude": 103.81765723225827,
+            "Latitude": 1.28420923932422,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Opp Bt Merah Town Ctr"
+        },
+        {
+            "Distance": 23.5,
+            "BusStopCode": "10089",
+            "Longitude": 103.82165660905856,
+            "Latitude": 1.28292332245689,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Blk 119"
+        },
+        {
+            "Distance": 23.9,
+            "BusStopCode": "10369",
+            "Longitude": 103.82387343933006,
+            "Latitude": 1.28037471151153,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Opp Cendex Ctr"
+        },
+        {
+            "Distance": 24.3,
+            "BusStopCode": "14039",
+            "Longitude": 103.82345826768822,
+            "Latitude": 1.27663637861466,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Opp St. Theresa's Convent"
+        },
+        {
+            "Distance": 24.8,
+            "BusStopCode": "14029",
+            "Longitude": 103.82418777803016,
+            "Latitude": 1.27247333301883,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Blk 105"
+        },
+        {
+            "Distance": 25.3,
+            "BusStopCode": "14019",
+            "Longitude": 103.82571717446542,
+            "Latitude": 1.2684889249437,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "Opp Mt Faber Lodge"
+        },
+        {
+            "Distance": 26,
+            "BusStopCode": "14141",
+            "Longitude": 103.82211326846237,
+            "Latitude": 1.26552421466644,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "VivoCity"
+        },
+        {
+            "Distance": 26.7,
+            "BusStopCode": "14009",
+            "Longitude": 103.81901469907409,
+            "Latitude": 1.26703502614245,
+            "RoadName": "Seah Im Rd",
+            "Description": "HarbourFront Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "14009",
+            "Longitude": 103.81901469907409,
+            "Latitude": 1.26703502614245,
+            "RoadName": "Seah Im Rd",
+            "Description": "HarbourFront Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "14129",
+            "Longitude": 103.81977877391114,
+            "Latitude": 1.26607869101924,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Harbourfront Stn Exit A"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "14119",
+            "Longitude": 103.8222827803663,
+            "Latitude": 1.26592360897281,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp VivoCity"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "14011",
+            "Longitude": 103.8255261109799,
+            "Latitude": 1.26795444401606,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "Bef Mt Faber Lodge"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "14021",
+            "Longitude": 103.82478361101728,
+            "Latitude": 1.27132972198996,
+            "RoadName": "Lower Delta Rd",
+            "Description": "The Pearl @ Mt Faber"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "14379",
+            "Longitude": 103.82379361102515,
+            "Latitude": 1.27243833303297,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Blk 40"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "14031",
+            "Longitude": 103.82306027800865,
+            "Latitude": 1.27624277802151,
+            "RoadName": "Lower Delta Rd",
+            "Description": "St. Theresa's Convent"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "10361",
+            "Longitude": 103.82353025808791,
+            "Latitude": 1.28038092060065,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Cendex Ctr"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "10081",
+            "Longitude": 103.82241744338572,
+            "Latitude": 1.2822783541702,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Opp Blk 120"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "10091",
+            "Longitude": 103.81783962251122,
+            "Latitude": 1.28394108576437,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Bt Merah Town Ctr"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "10101",
+            "Longitude": 103.81374366011399,
+            "Latitude": 1.28502568134889,
+            "RoadName": "Jln Bt Merah",
+            "Description": "OPP BT MERAH SEC SCH"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "10111",
+            "Longitude": 103.80935410958449,
+            "Latitude": 1.28592835098556,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Opp Blk 28"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "10131",
+            "Longitude": 103.80686549059318,
+            "Latitude": 1.28619141382394,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Opp Blk 2"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "11021",
+            "Longitude": 103.80228694398484,
+            "Latitude": 1.28941805603102,
+            "RoadName": "Queensway",
+            "Description": "Aft Queenstown NPC HQ"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "11031",
+            "Longitude": 103.80045500000118,
+            "Latitude": 1.29119666696879,
+            "RoadName": "Queensway",
+            "Description": "Opp Queen's Cl"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "11041",
+            "Longitude": 103.79952333299494,
+            "Latitude": 1.29624499998226,
+            "RoadName": "Queensway",
+            "Description": "Aft C'wealth Dr"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "11051",
+            "Longitude": 103.8002979755481,
+            "Latitude": 1.29872166703909,
+            "RoadName": "Queensway",
+            "Description": "Opp Queenstown Polyclinic"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "11061",
+            "Longitude": 103.80118694402536,
+            "Latitude": 1.30265777802206,
+            "RoadName": "Queensway",
+            "Description": "Opp Queensway Sec Sch"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "11071",
+            "Longitude": 103.80170944396954,
+            "Latitude": 1.30621305601609,
+            "RoadName": "Queensway",
+            "Description": "Blk 97"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "11081",
+            "Longitude": 103.80258027799627,
+            "Latitude": 1.30851972202313,
+            "RoadName": "Queensway",
+            "Description": "Viz Holland"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "11091",
+            "Longitude": 103.80367378215983,
+            "Latitude": 1.31219444050072,
+            "RoadName": "Farrer Rd",
+            "Description": "Tulip Gdn"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "11101",
+            "Longitude": 103.80596012189226,
+            "Latitude": 1.31614971080385,
+            "RoadName": "Farrer Rd",
+            "Description": "Farrer Rd Mkt"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "11111",
+            "Longitude": 103.80771866952543,
+            "Latitude": 1.31780157259006,
+            "RoadName": "Farrer Rd",
+            "Description": "Farrer Rd Stn Exit B"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "41101",
+            "Longitude": 103.80921733406133,
+            "Latitude": 1.31908138967253,
+            "RoadName": "Farrer Rd",
+            "Description": "St. Margaret's Sec Sch"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "41111",
+            "Longitude": 103.81185140010722,
+            "Latitude": 1.32081170217365,
+            "RoadName": "Farrer Rd",
+            "Description": "Lutheran Twrs"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "41121",
+            "Longitude": 103.81350777801268,
+            "Latitude": 1.32554444399609,
+            "RoadName": "Adam Rd",
+            "Description": "S'Pore Bible Coll"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "41131",
+            "Longitude": 103.8145129140827,
+            "Latitude": 1.32973612368298,
+            "RoadName": "Adam Rd",
+            "Description": "Opp The Japanese Assn"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "41141",
+            "Longitude": 103.81796101152241,
+            "Latitude": 1.33489306619804,
+            "RoadName": "Adam Rd",
+            "Description": "Bef SICC"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "41151",
+            "Longitude": 103.81931795640678,
+            "Latitude": 1.33799972901638,
+            "RoadName": "Lornie Rd",
+            "Description": "Aft SICC"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "40251",
+            "Longitude": 103.82231128179984,
+            "Latitude": 1.34054275997605,
+            "RoadName": "Lornie Rd",
+            "Description": "Aft Wallace Way"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "40261",
+            "Longitude": 103.82706642150467,
+            "Latitude": 1.34130384192273,
+            "RoadName": "Lornie Rd",
+            "Description": "LP 52"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "51111",
+            "Longitude": 103.83271333302345,
+            "Latitude": 1.34064833298154,
+            "RoadName": "Lornie Rd",
+            "Description": "Opp Andrew Rd"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "51071",
+            "Longitude": 103.83596576505084,
+            "Latitude": 1.34219256998908,
+            "RoadName": "Thomson Rd",
+            "Description": "Macritchie Reservoir"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "53011",
+            "Longitude": 103.83823575360742,
+            "Latitude": 1.34549354899945,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "ST. THERESA'S HME"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "53021",
+            "Longitude": 103.83652457261991,
+            "Latitude": 1.34967996840542,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Shunfu Est"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "53041",
+            "Longitude": 103.8343639597673,
+            "Latitude": 1.35307831612792,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Thomson Ridge"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "53051",
+            "Longitude": 103.8323381,
+            "Latitude": 1.354748333,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Thomson Plaza"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "53061",
+            "Longitude": 103.82883507046125,
+            "Latitude": 1.3571583010953,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Windsor Pk Rd"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "53071",
+            "Longitude": 103.82834252087906,
+            "Latitude": 1.36063333692202,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Flame Tree Pk"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "53081",
+            "Longitude": 103.82783467220469,
+            "Latitude": 1.36319303798878,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Faber Gdn"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "53091",
+            "Longitude": 103.8279237884758,
+            "Latitude": 1.36482025993725,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Ang Mo Kio Ave 1"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "56021",
+            "Longitude": 103.82842917358784,
+            "Latitude": 1.37242858974896,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp S'wang Hill FC"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "56031",
+            "Longitude": 103.82822527799023,
+            "Latitude": 1.37695666700099,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "56191",
+            "Longitude": 103.82944083302411,
+            "Latitude": 1.37879833302094,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp NPB Serangoon Depot"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "56201",
+            "Longitude": 103.83224759401025,
+            "Latitude": 1.38059381566563,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Munshi Abdullah Ave"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "55011",
+            "Longitude": 103.8357043497683,
+            "Latitude": 1.38226165654508,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp The Calrose"
+        },
+        {
+            "Distance": 20.5,
+            "BusStopCode": "55021",
+            "Longitude": 103.83872706499656,
+            "Latitude": 1.3857011784032,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "OPP SEASONS PK"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "55241",
+            "Longitude": 103.84071031595586,
+            "Latitude": 1.38932985258763,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "55251",
+            "Longitude": 103.83885575492444,
+            "Latitude": 1.39093600499761,
+            "RoadName": "Lentor Ave",
+            "Description": "Countryside Est"
+        },
+        {
+            "Distance": 21.7,
+            "BusStopCode": "55261",
+            "Longitude": 103.83649555600854,
+            "Latitude": 1.3924244439738,
+            "RoadName": "Lentor Ave",
+            "Description": "Bullion Pk Condo"
+        },
+        {
+            "Distance": 22.2,
+            "BusStopCode": "55271",
+            "Longitude": 103.83251388902453,
+            "Latitude": 1.39499833298517,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Lentor Flyover"
+        },
+        {
+            "Distance": 23.2,
+            "BusStopCode": "59011",
+            "Longitude": 103.82737908252,
+            "Latitude": 1.40205059877403,
+            "RoadName": "Lentor Ave",
+            "Description": "Bef Sg Seletar Bridge"
+        },
+        {
+            "Distance": 24.1,
+            "BusStopCode": "59021",
+            "Longitude": 103.828825,
+            "Latitude": 1.407988889,
+            "RoadName": "Lentor Ave",
+            "Description": "Bef Yishun Ave 1"
+        },
+        {
+            "Distance": 24.5,
+            "BusStopCode": "59031",
+            "Longitude": 103.83083958669692,
+            "Latitude": 1.41277747172151,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Sports Hall"
+        },
+        {
+            "Distance": 24.9,
+            "BusStopCode": "59041",
+            "Longitude": 103.832591612732,
+            "Latitude": 1.41625420109094,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Bef Khatib Stn"
+        },
+        {
+            "Distance": 25.3,
+            "BusStopCode": "59051",
+            "Longitude": 103.83429674432547,
+            "Latitude": 1.41968270185637,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 790"
+        },
+        {
+            "Distance": 26,
+            "BusStopCode": "59691",
+            "Longitude": 103.836065889713,
+            "Latitude": 1.42486887947665,
+            "RoadName": "Yishun Ctrl 1",
+            "Description": "Bef Blk 935"
+        },
+        {
+            "Distance": 26.3,
+            "BusStopCode": "59661",
+            "Longitude": 103.83762861110566,
+            "Latitude": 1.42631491614237,
+            "RoadName": "Yishun Ctrl 1",
+            "Description": "Blk 932"
+        },
+        {
+            "Distance": 26.4,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int"
+        }
+    ]
+}

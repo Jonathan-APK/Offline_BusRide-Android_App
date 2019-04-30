@@ -1,0 +1,500 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "84029",
+            "Longitude": 103.92517704260585,
+            "Latitude": 1.32295305994698,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Blk 32"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "84019",
+            "Longitude": 103.92262015530929,
+            "Latitude": 1.32221972730517,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Chai Chee Ind Pk"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "83249",
+            "Longitude": 103.92174594601859,
+            "Latitude": 1.31786650545216,
+            "RoadName": "Siglap Rd",
+            "Description": "Flamingo Valley"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "83239",
+            "Longitude": 103.92246139079549,
+            "Latitude": 1.3169597007985,
+            "RoadName": "Siglap Rd",
+            "Description": "Opp Cheviot Hill"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "93119",
+            "Longitude": 103.92298221289045,
+            "Latitude": 1.31431984916508,
+            "RoadName": "Siglap Rd",
+            "Description": "Aft Elite Pk Ave"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "93069",
+            "Longitude": 103.92240015622043,
+            "Latitude": 1.31168943552207,
+            "RoadName": "East Coast Rd",
+            "Description": "Aft Siglap Rd"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "93059",
+            "Longitude": 103.91930777802244,
+            "Latitude": 1.31076138897412,
+            "RoadName": "East Coast Rd",
+            "Description": "Aft Jln Buloh Perindu"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "92159",
+            "Longitude": 103.91655777798785,
+            "Latitude": 1.30976333301363,
+            "RoadName": "East Coast Rd",
+            "Description": "ST. PATRICK'S SCH"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "92149",
+            "Longitude": 103.91434517290193,
+            "Latitude": 1.30928064742874,
+            "RoadName": "East Coast Rd",
+            "Description": "St. Patrick's Green"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "92139",
+            "Longitude": 103.91062932209371,
+            "Latitude": 1.30853972762017,
+            "RoadName": "East Coast Rd",
+            "Description": "Opp Katong Omega Apt"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "92129",
+            "Longitude": 103.90646134135645,
+            "Latitude": 1.30686400495083,
+            "RoadName": "East Coast Rd",
+            "Description": "The Holy Family Ch"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "92119",
+            "Longitude": 103.90277451423108,
+            "Latitude": 1.30444500073,
+            "RoadName": "East Coast Rd",
+            "Description": "Roxy Sq"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "92109",
+            "Longitude": 103.90145614778639,
+            "Latitude": 1.30356602776936,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Opp Katong Shop Ctr"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "92099",
+            "Longitude": 103.89900426571224,
+            "Latitude": 1.3023783312326,
+            "RoadName": "Mountbatten Rd",
+            "Description": "One Amber"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "92161",
+            "Longitude": 103.89656923070308,
+            "Latitude": 1.30380001918907,
+            "RoadName": "Tg Katong Rd",
+            "Description": "Aft Katong PO"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "82071",
+            "Longitude": 103.89541128171984,
+            "Latitude": 1.30725334418948,
+            "RoadName": "Tg Katong Rd",
+            "Description": "Opp Tg Katong Girls' Sch"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "82081",
+            "Longitude": 103.89412794527634,
+            "Latitude": 1.31037284851913,
+            "RoadName": "Tg Katong Rd",
+            "Description": "Aft Dunman Rd"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "82091",
+            "Longitude": 103.89411050584133,
+            "Latitude": 1.31264667096781,
+            "RoadName": "Tg Katong Rd",
+            "Description": "Aft Queen Of Peace Ch"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "82109",
+            "Longitude": 103.89331774481381,
+            "Latitude": 1.3151892235607,
+            "RoadName": "Geylang Rd",
+            "Description": "City Plaza"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "81069",
+            "Longitude": 103.89084333204679,
+            "Latitude": 1.314713072947,
+            "RoadName": "Geylang Rd",
+            "Description": "Opp Lor 39 Geylang"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "81049",
+            "Longitude": 103.88729074830816,
+            "Latitude": 1.31402602433639,
+            "RoadName": "Geylang Rd",
+            "Description": "Aft Lor 34 Geylang"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "81029",
+            "Longitude": 103.88497531416832,
+            "Latitude": 1.31359869606059,
+            "RoadName": "Geylang Rd",
+            "Description": "Aft Lor 28 Geylang"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "81231",
+            "Longitude": 103.88189611100506,
+            "Latitude": 1.31389305598354,
+            "RoadName": "Aljunied Rd",
+            "Description": "Opp Kh Plaza"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "81081",
+            "Longitude": 103.88168156879213,
+            "Latitude": 1.31621665907428,
+            "RoadName": "Aljunied Rd",
+            "Description": "Opp Aljunied Stn"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "81091",
+            "Longitude": 103.88173111103306,
+            "Latitude": 1.31935333297674,
+            "RoadName": "Aljunied Rd",
+            "Description": "Opp Blk 105"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "70011",
+            "Longitude": 103.88116008329277,
+            "Latitude": 1.32317687661433,
+            "RoadName": "Aljunied Rd",
+            "Description": "Opp Blk 125"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "70151",
+            "Longitude": 103.8809633442231,
+            "Latitude": 1.32768374279565,
+            "RoadName": "Merpati Rd",
+            "Description": "Aft Jln Anggerek"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "70161",
+            "Longitude": 103.88324806418214,
+            "Latitude": 1.32758635490072,
+            "RoadName": "Merpati Rd",
+            "Description": "OPP MATTAR STN EXIT A"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "70171",
+            "Longitude": 103.88547138902759,
+            "Latitude": 1.32833666697134,
+            "RoadName": "Circuit Rd",
+            "Description": "Blk 77"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "70181",
+            "Longitude": 103.88691723349123,
+            "Latitude": 1.32886177068404,
+            "RoadName": "Circuit Rd",
+            "Description": "Blk 36"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "70191",
+            "Longitude": 103.88793655793152,
+            "Latitude": 1.32722900950909,
+            "RoadName": "Circuit Rd",
+            "Description": "OPP BLK 66"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "70201",
+            "Longitude": 103.88885416699938,
+            "Latitude": 1.32461138902969,
+            "RoadName": "Circuit Rd",
+            "Description": "OPP MACPHERSON STN EXIT D"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "70211",
+            "Longitude": 103.88696166698931,
+            "Latitude": 1.32362166702646,
+            "RoadName": "Pipit Rd",
+            "Description": "Blk 90"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "70221",
+            "Longitude": 103.88512100988676,
+            "Latitude": 1.32620809233247,
+            "RoadName": "Circuit Rd",
+            "Description": "Blk 79 FC"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "70231",
+            "Longitude": 103.88401361102049,
+            "Latitude": 1.32617666698776,
+            "RoadName": "Mattar Rd",
+            "Description": "OPP MATTAR STN EXIT B"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "70241",
+            "Longitude": 103.88199999996775,
+            "Latitude": 1.32525399997752,
+            "RoadName": "Mattar Rd",
+            "Description": "MacPherson Pr Sch"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "70019",
+            "Longitude": 103.88145725676175,
+            "Latitude": 1.32322990499562,
+            "RoadName": "Aljunied Rd",
+            "Description": "Blk 125"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "81099",
+            "Longitude": 103.88194665985091,
+            "Latitude": 1.31982276662398,
+            "RoadName": "Aljunied Rd",
+            "Description": "Blk 102"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "81089",
+            "Longitude": 103.88202243551633,
+            "Latitude": 1.31628194302502,
+            "RoadName": "Aljunied Rd",
+            "Description": "Aljunied Stn"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "81011",
+            "Longitude": 103.88335173265862,
+            "Latitude": 1.31532318660502,
+            "RoadName": "Sims Ave",
+            "Description": "Aft Aljunied Stn"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "81031",
+            "Longitude": 103.88604854571838,
+            "Latitude": 1.31580283030533,
+            "RoadName": "Sims Ave",
+            "Description": "Blk 134"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "81051",
+            "Longitude": 103.89033436777706,
+            "Latitude": 1.31662343087312,
+            "RoadName": "Sims Ave",
+            "Description": "Sims Ville"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "82119",
+            "Longitude": 103.8940879247112,
+            "Latitude": 1.31619210726015,
+            "RoadName": "Tg Katong Rd",
+            "Description": "Tg Katong Cplx"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "82099",
+            "Longitude": 103.89427184817765,
+            "Latitude": 1.31299461549467,
+            "RoadName": "Tg Katong Rd",
+            "Description": "CDAC Bldg"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "82089",
+            "Longitude": 103.89430403711837,
+            "Latitude": 1.31086356037133,
+            "RoadName": "Tg Katong Rd",
+            "Description": "Aft Ipoh Lane"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "82079",
+            "Longitude": 103.8951960850957,
+            "Latitude": 1.30801114591342,
+            "RoadName": "Tg Katong Rd",
+            "Description": "Tg Katong Girls' Sch"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "92169",
+            "Longitude": 103.8965604644894,
+            "Latitude": 1.30446125380385,
+            "RoadName": "Tg Katong Rd",
+            "Description": "Bef Katong PO"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "92091",
+            "Longitude": 103.89931388900563,
+            "Latitude": 1.30270333303256,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Opp One Amber"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "92101",
+            "Longitude": 103.90129169936806,
+            "Latitude": 1.30370246223719,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Katong Shop Ctr"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "92111",
+            "Longitude": 103.90293341562067,
+            "Latitude": 1.30477657929676,
+            "RoadName": "East Coast Rd",
+            "Description": "Opp Roxy Sq"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "92121",
+            "Longitude": 103.90676515165585,
+            "Latitude": 1.30722207111074,
+            "RoadName": "East Coast Rd",
+            "Description": "Opp The Holy Family Ch"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "92131",
+            "Longitude": 103.91089222198016,
+            "Latitude": 1.30878111099591,
+            "RoadName": "East Coast Rd",
+            "Description": "Katong Omega Apt"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "92141",
+            "Longitude": 103.91428724575974,
+            "Latitude": 1.30939538245506,
+            "RoadName": "East Coast Rd",
+            "Description": "Nafa Arts Kindergarten"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "92151",
+            "Longitude": 103.91602380242344,
+            "Latitude": 1.3098029425373,
+            "RoadName": "East Coast Rd",
+            "Description": "Christ Meth Ch"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "93051",
+            "Longitude": 103.91866922380741,
+            "Latitude": 1.31065440276409,
+            "RoadName": "East Coast Rd",
+            "Description": "Aft Dunbar Wk"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "93061",
+            "Longitude": 103.92260670662348,
+            "Latitude": 1.31199515605411,
+            "RoadName": "East Coast Rd",
+            "Description": "Bef Siglap Rd"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "93111",
+            "Longitude": 103.92278173877762,
+            "Latitude": 1.31451280258696,
+            "RoadName": "Siglap Rd",
+            "Description": "Bef Elite Pk Ave"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "83231",
+            "Longitude": 103.92214229972099,
+            "Latitude": 1.31726812920156,
+            "RoadName": "Siglap Rd",
+            "Description": "Bef Siglap Dr"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "84011",
+            "Longitude": 103.92233358172962,
+            "Latitude": 1.32257749632692,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Chai Chee Ind Pk"
+        },
+        {
+            "Distance": 22.6,
+            "BusStopCode": "84021",
+            "Longitude": 103.92508721683168,
+            "Latitude": 1.32338320435233,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 32"
+        },
+        {
+            "Distance": 23.4,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (Last Stop)"
+        }
+    ]
+}

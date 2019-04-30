@@ -1,0 +1,348 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "76059",
+            "Longitude": 103.94165154852797,
+            "Latitude": 1.35296163572491,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Our Tampines Hub"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "76069",
+            "Longitude": 103.94208629087403,
+            "Latitude": 1.34875342114003,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 147"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "76071",
+            "Longitude": 103.94517805600674,
+            "Latitude": 1.34802638899143,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 141"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "76081",
+            "Longitude": 103.94932305553937,
+            "Latitude": 1.34950194446778,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Opp The Holy Trinity Ch"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "76091",
+            "Longitude": 103.95275166965992,
+            "Latitude": 1.35071636446812,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "96129",
+            "Longitude": 103.95795115114063,
+            "Latitude": 1.3474583546739,
+            "RoadName": "Simei Rd",
+            "Description": "Melville Pk"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "96139",
+            "Longitude": 103.95585291875304,
+            "Latitude": 1.34646413372668,
+            "RoadName": "Simei St 1",
+            "Description": "Blk 148"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "96149",
+            "Longitude": 103.95318111098746,
+            "Latitude": 1.34448666696732,
+            "RoadName": "Simei St 1",
+            "Description": "Simei Stn"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "96159",
+            "Longitude": 103.9517629482475,
+            "Latitude": 1.34192167463909,
+            "RoadName": "Simei St 1",
+            "Description": "Blk 254"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "96169",
+            "Longitude": 103.95346611100372,
+            "Latitude": 1.34226222202581,
+            "RoadName": "Simei St 3",
+            "Description": "Simei Stn"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "96171",
+            "Longitude": 103.9559270984333,
+            "Latitude": 1.34223585449884,
+            "RoadName": "Simei St 4",
+            "Description": "Bet Blks 227/228"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "96291",
+            "Longitude": 103.95772034392319,
+            "Latitude": 1.34193564484603,
+            "RoadName": "Simei St 4",
+            "Description": "Blk 223"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "96209",
+            "Longitude": 103.95943155475572,
+            "Latitude": 1.34020664808373,
+            "RoadName": "Simei Rd",
+            "Description": "Opp Simei Green Condo"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "96449",
+            "Longitude": 103.96388189995498,
+            "Latitude": 1.33980186622645,
+            "RoadName": "Somapah Rd",
+            "Description": "SUTD"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "96419",
+            "Longitude": 103.9638356,
+            "Latitude": 1.337599444,
+            "RoadName": "Changi Sth Ave 1",
+            "Description": "EIGHTRIUM"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "96309",
+            "Longitude": 103.96175810276951,
+            "Latitude": 1.33427655612286,
+            "RoadName": "Changi Sth Ave 1",
+            "Description": "EXPO STN EXIT E"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "96381",
+            "Longitude": 103.96209564305455,
+            "Latitude": 1.3332723569143,
+            "RoadName": "Changi Sth Ave 2",
+            "Description": "Changi City Pt"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "96321",
+            "Longitude": 103.96532458873912,
+            "Latitude": 1.33208271659156,
+            "RoadName": "Changi Sth Ave 2",
+            "Description": "DBS Asia Hub"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "96331",
+            "Longitude": 103.96761886176331,
+            "Latitude": 1.33124389066562,
+            "RoadName": "Changi Sth Ave 2",
+            "Description": "Premier"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "96341",
+            "Longitude": 103.97037694441909,
+            "Latitude": 1.33276553471842,
+            "RoadName": "Changi Sth Ave 2",
+            "Description": "Aft Sunny Metal & Engrg"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "96351",
+            "Longitude": 103.97039204168856,
+            "Latitude": 1.33529647913206,
+            "RoadName": "Changi Sth Ave 4",
+            "Description": "Bef Changi Sth St 1"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "96361",
+            "Longitude": 103.96643704167043,
+            "Latitude": 1.33649110063455,
+            "RoadName": "Changi Business Pk Ctrl 2",
+            "Description": "Aft Akzonobel"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "96371",
+            "Longitude": 103.9664670131305,
+            "Latitude": 1.33433369984263,
+            "RoadName": "Changi Business Pk Ctrl 2",
+            "Description": "STANDARD CHARTERED BANK"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "96329",
+            "Longitude": 103.96526335898176,
+            "Latitude": 1.33202391003542,
+            "RoadName": "Changi Sth Ave 2",
+            "Description": "DHL"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "96389",
+            "Longitude": 103.96219500000879,
+            "Latitude": 1.33316035695047,
+            "RoadName": "Changi Sth Ave 2",
+            "Description": "Opp Changi City Pt"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "96301",
+            "Longitude": 103.9617438259165,
+            "Latitude": 1.33450022538919,
+            "RoadName": "Changi Sth Ave 1",
+            "Description": "EXPO STN EXIT B"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "96411",
+            "Longitude": 103.9637911,
+            "Latitude": 1.337761389,
+            "RoadName": "Changi Sth Ave 1",
+            "Description": "OPP EIGHTRIUM"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "96441",
+            "Longitude": 103.96290652054516,
+            "Latitude": 1.33954269927544,
+            "RoadName": "Somapah Rd",
+            "Description": "OPP SUTD"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "96201",
+            "Longitude": 103.95925914106326,
+            "Latitude": 1.34068848247811,
+            "RoadName": "Simei Rd",
+            "Description": "Simei Green Condo"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "96299",
+            "Longitude": 103.95716526054423,
+            "Latitude": 1.34126498344514,
+            "RoadName": "Simei St 4",
+            "Description": "Simei Green Condo"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "96179",
+            "Longitude": 103.95530716615029,
+            "Latitude": 1.3426613811598,
+            "RoadName": "Simei St 4",
+            "Description": "Modena Condo/Opp Blk 228"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "96161",
+            "Longitude": 103.95354015150029,
+            "Latitude": 1.34211893867102,
+            "RoadName": "Simei St 3",
+            "Description": "Opp Simei Stn"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "96151",
+            "Longitude": 103.95121028080379,
+            "Latitude": 1.34232997550862,
+            "RoadName": "Simei St 1",
+            "Description": "Blk 106"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "96141",
+            "Longitude": 103.95324349664256,
+            "Latitude": 1.34470972121071,
+            "RoadName": "Simei St 1",
+            "Description": "Blk 120"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "96131",
+            "Longitude": 103.95526044455801,
+            "Latitude": 1.34639164071686,
+            "RoadName": "Simei St 1",
+            "Description": "Blk 130"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "96121",
+            "Longitude": 103.95776019526973,
+            "Latitude": 1.34719360554366,
+            "RoadName": "Simei Rd",
+            "Description": "Metta Welfare Assn"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "76099",
+            "Longitude": 103.95249172187374,
+            "Latitude": 1.35026359502623,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 285"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "76089",
+            "Longitude": 103.94923388889873,
+            "Latitude": 1.34916805553714,
+            "RoadName": "Tampines Ave 2",
+            "Description": "The Holy Trinity Ch"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "76079",
+            "Longitude": 103.94563500000055,
+            "Latitude": 1.34794388891649,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "76061",
+            "Longitude": 103.94189805552267,
+            "Latitude": 1.3482019444416,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 938"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "76051",
+            "Longitude": 103.9412639409046,
+            "Latitude": 1.35313809279079,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Our Tampines Hub"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (Last Stop)"
+        }
+    ]
+}

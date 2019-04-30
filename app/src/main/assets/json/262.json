@@ -1,0 +1,196 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "54009",
+            "Longitude": 103.84856716193268,
+            "Latitude": 1.36968769913339,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Ang Mo Kio Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "54339",
+            "Longitude": 103.85057966582927,
+            "Latitude": 1.3678447007404,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 422"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "54329",
+            "Longitude": 103.85247983714417,
+            "Latitude": 1.36449772525141,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 420"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "54319",
+            "Longitude": 103.85305482306448,
+            "Latitude": 1.36205969144532,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Opp Christ The King Ch"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "54099",
+            "Longitude": 103.85104805596895,
+            "Latitude": 1.36118777797342,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "OPP BLK 333"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "54089",
+            "Longitude": 103.8484911674186,
+            "Latitude": 1.36297001065247,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "OPP ANG MO KIO SWIM CPLX"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "54079",
+            "Longitude": 103.84585916699372,
+            "Latitude": 1.36389805596869,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "OPP BLK 315"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "54619",
+            "Longitude": 103.84050288513411,
+            "Latitude": 1.36467168386173,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "OPP BLK 220"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "54629",
+            "Longitude": 103.83801666007233,
+            "Latitude": 1.3655880696456,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "OPP BLK 223"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "54211",
+            "Longitude": 103.83634833298527,
+            "Latitude": 1.36861222198461,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "MAYFLOWER SEC SCH"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "54181",
+            "Longitude": 103.83653495602837,
+            "Latitude": 1.37053305192374,
+            "RoadName": "Ang Mo Kio Ave 4",
+            "Description": "BLK 258"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "54169",
+            "Longitude": 103.83476694396748,
+            "Latitude": 1.37089833300275,
+            "RoadName": "Ang Mo Kio St 11",
+            "Description": "Blk 255"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "56289",
+            "Longitude": 103.83232655288832,
+            "Latitude": 1.37023167757252,
+            "RoadName": "Ang Mo Kio Ave 2",
+            "Description": "Bef Shangri-La Wk"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "56261",
+            "Longitude": 103.83172738576756,
+            "Latitude": 1.36786219023986,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Blk 248"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "54061",
+            "Longitude": 103.83404076959498,
+            "Latitude": 1.36728801688172,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Blk 246"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "54621",
+            "Longitude": 103.83773071305599,
+            "Latitude": 1.36595331171712,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "BLK 223"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "54611",
+            "Longitude": 103.84057417396242,
+            "Latitude": 1.36489470522366,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "BLK 220"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "54071",
+            "Longitude": 103.84490672378502,
+            "Latitude": 1.36433664907741,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "BLK 310"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "54081",
+            "Longitude": 103.84786694396756,
+            "Latitude": 1.36358972199933,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "TECK GHEE CT"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "54091",
+            "Longitude": 103.85092799797833,
+            "Latitude": 1.36167975047647,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "BLK 331"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "54311",
+            "Longitude": 103.85257506359629,
+            "Latitude": 1.36143610819625,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 332"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "54321",
+            "Longitude": 103.85237785571755,
+            "Latitude": 1.3639846735447,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 354"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "54331",
+            "Longitude": 103.85056845375878,
+            "Latitude": 1.36719473720813,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 346"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "54009",
+            "Longitude": 103.84856716193268,
+            "Latitude": 1.36968769913339,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Ang Mo Kio Int (Last Stop)"
+        }
+    ]
+}

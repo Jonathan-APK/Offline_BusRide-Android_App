@@ -1,0 +1,284 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (First Stop)"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "22439",
+            "Longitude": 103.70680944659455,
+            "Latitude": 1.33311257526168,
+            "RoadName": "Enterprise Rd",
+            "Description": "Aft Four Leaves"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "22309",
+            "Longitude": 103.7033808329889,
+            "Latitude": 1.33326999997395,
+            "RoadName": "Enterprise Rd",
+            "Description": "Aft Fan Yoong Rd"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "22299",
+            "Longitude": 103.70177410483808,
+            "Latitude": 1.33068833434452,
+            "RoadName": "Kwong Min Rd",
+            "Description": "Bef Soon Lee Rd"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "22281",
+            "Longitude": 103.70375258407391,
+            "Latitude": 1.32849264291843,
+            "RoadName": "Fan Yoong Rd",
+            "Description": "Aft Soon Lee Rd"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "22219",
+            "Longitude": 103.70260743188996,
+            "Latitude": 1.32764556072381,
+            "RoadName": "Intl Rd",
+            "Description": "Aft Neythal Rd"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "22229",
+            "Longitude": 103.69887468380779,
+            "Latitude": 1.32764334311,
+            "RoadName": "Intl Rd",
+            "Description": "Bef Pioneer Rd Nth"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "23189",
+            "Longitude": 103.69397532297509,
+            "Latitude": 1.32764459746447,
+            "RoadName": "Intl Rd",
+            "Description": "Bef First Lok Yang Rd"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "23179",
+            "Longitude": 103.69102029335356,
+            "Latitude": 1.32767284372911,
+            "RoadName": "Intl Rd",
+            "Description": "Aft Second Lok Yang Rd"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "23169",
+            "Longitude": 103.68867638901021,
+            "Latitude": 1.32768833297607,
+            "RoadName": "Intl Rd",
+            "Description": "Bef Kian Teck Rd"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "23159",
+            "Longitude": 103.68563350571777,
+            "Latitude": 1.32766374044406,
+            "RoadName": "Intl Rd",
+            "Description": "Aft Fifth Lok Yang Rd"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "23489",
+            "Longitude": 103.68048864270644,
+            "Latitude": 1.32759688194654,
+            "RoadName": "Intl Rd",
+            "Description": "Opp Molex"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "23499",
+            "Longitude": 103.67805103515069,
+            "Latitude": 1.32755092355685,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Stn Exit A"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "24149",
+            "Longitude": 103.67466321781171,
+            "Latitude": 1.32754011144327,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Aft Joo Koon Cres"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "24139",
+            "Longitude": 103.67193012673827,
+            "Latitude": 1.32733592150747,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Opp Toyo Ink"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "24129",
+            "Longitude": 103.66987144292962,
+            "Latitude": 1.32614180600676,
+            "RoadName": "Joo Koon Way",
+            "Description": "Opp Yeow San Pte Ltd"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "24571",
+            "Longitude": 103.6690675022225,
+            "Latitude": 1.32367555849755,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Seng Heng Engrg"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "24581",
+            "Longitude": 103.666995833031,
+            "Latitude": 1.3249613889807,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Opp ESAB"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "24599",
+            "Longitude": 103.66926644008088,
+            "Latitude": 1.32562284433654,
+            "RoadName": "Joo Koon Rd",
+            "Description": "Bef Joo Koon Way"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "24489",
+            "Longitude": 103.67111058135133,
+            "Latitude": 1.32574395668742,
+            "RoadName": "Joo Koon Rd",
+            "Description": "Aft Joo Koon Way"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "24499",
+            "Longitude": 103.67439565139507,
+            "Latitude": 1.32598700998791,
+            "RoadName": "Joo Koon Rd",
+            "Description": "Panasonic Ind Devices"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "24159",
+            "Longitude": 103.67664244711858,
+            "Latitude": 1.3268422233348,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Aft Joo Koon Rd"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "23491",
+            "Longitude": 103.67780864699097,
+            "Latitude": 1.32792408366339,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Stn Exit B"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "23481",
+            "Longitude": 103.68174669439477,
+            "Latitude": 1.32791691676156,
+            "RoadName": "Intl Rd",
+            "Description": "Molex"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "23151",
+            "Longitude": 103.68483459543562,
+            "Latitude": 1.32788229015066,
+            "RoadName": "Intl Rd",
+            "Description": "Containers Printers"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "23161",
+            "Longitude": 103.68869472049072,
+            "Latitude": 1.3278839556405,
+            "RoadName": "Intl Rd",
+            "Description": "Aft Kian Teck Rd"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "23171",
+            "Longitude": 103.69118969248986,
+            "Latitude": 1.32789603640425,
+            "RoadName": "Intl Rd",
+            "Description": "SKK (S) Pte Ltd"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "23181",
+            "Longitude": 103.69448861100467,
+            "Latitude": 1.32790305599387,
+            "RoadName": "Intl Rd",
+            "Description": "Aft Kian Teck Rd"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "22221",
+            "Longitude": 103.69785686002558,
+            "Latitude": 1.32790916071437,
+            "RoadName": "Intl Rd",
+            "Description": "Aft Pioneer Rd Nth"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "22271",
+            "Longitude": 103.7001114570651,
+            "Latitude": 1.32924582821916,
+            "RoadName": "Soon Lee Rd",
+            "Description": "Bef Kwong Min Rd"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "22289",
+            "Longitude": 103.70284000001512,
+            "Latitude": 1.32926333300758,
+            "RoadName": "Soon Lee Rd",
+            "Description": "Bef Fan Yoong Rd"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "22329",
+            "Longitude": 103.70501590196446,
+            "Latitude": 1.33024346855102,
+            "RoadName": "Wan Lee Rd",
+            "Description": "Opp Sam Mccoy Engrg"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "22319",
+            "Longitude": 103.70545250001828,
+            "Latitude": 1.33198138900019,
+            "RoadName": "Wan Lee Rd",
+            "Description": "Bef Enterprise Rd"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "22431",
+            "Longitude": 103.70742208599415,
+            "Latitude": 1.33308242562379,
+            "RoadName": "Enterprise Rd",
+            "Description": "Opp Four Leaves"
+        },
+        {
+            "Distance": null,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (Last Stop)"
+        }
+    ]
+}

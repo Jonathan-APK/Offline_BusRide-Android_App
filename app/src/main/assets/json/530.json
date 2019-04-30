@@ -1,0 +1,100 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "13051",
+            "Longitude": 103.8263656209055,
+            "Latitude": 1.29334305906356,
+            "RoadName": "River Valley Rd",
+            "Description": "Opp Valley Pt"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "13062",
+            "Longitude": 103.82852554324063,
+            "Latitude": 1.2948495492402,
+            "RoadName": "River Valley Rd",
+            "Description": "STELLAR RV"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "13071",
+            "Longitude": 103.8322512944371,
+            "Latitude": 1.29636199316259,
+            "RoadName": "River Valley Rd",
+            "Description": "Opp ERC Inst"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "13081",
+            "Longitude": 103.83624277798825,
+            "Latitude": 1.2959113890106,
+            "RoadName": "River Valley Rd",
+            "Description": "St. Thomas Wk"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "13091",
+            "Longitude": 103.83937805601917,
+            "Latitude": 1.29593138900491,
+            "RoadName": "River Valley Rd",
+            "Description": "AFT KIM YAM RD"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "13101",
+            "Longitude": 103.84231209757696,
+            "Latitude": 1.29414162678811,
+            "RoadName": "River Valley Rd",
+            "Description": "Opp Mohd Sultan Rd"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "04339",
+            "Longitude": 103.84500500002959,
+            "Latitude": 1.29221099996741,
+            "RoadName": "River Valley Rd",
+            "Description": "FORT CANNING STN EXIT B"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "04219",
+            "Longitude": 103.84686777836987,
+            "Latitude": 1.29096802754795,
+            "RoadName": "River Valley Rd",
+            "Description": "Opp Clarke Quay"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "05319",
+            "Longitude": 103.84908685850282,
+            "Latitude": 1.28449667301849,
+            "RoadName": "Church St",
+            "Description": "OCBC Ctr"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "03217",
+            "Longitude": 103.8479443674916,
+            "Latitude": 1.27552218897645,
+            "RoadName": "Shenton Way",
+            "Description": "Opp AXA Twr"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        }
+    ]
+}

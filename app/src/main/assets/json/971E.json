@@ -1,0 +1,406 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "00481",
+            "Longitude": 103.7583,
+            "Latitude": 1.383764,
+            "RoadName": "Woodlands Rd",
+            "Description": "BT PANJANG TEMP BUS PK"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "44641",
+            "Longitude": 103.76285898246775,
+            "Latitude": 1.38178063199093,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Blk 602"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "44651",
+            "Longitude": 103.76289650600476,
+            "Latitude": 1.38533394998016,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Blk 617"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "44661",
+            "Longitude": 103.76499586025828,
+            "Latitude": 1.38447517162011,
+            "RoadName": "Jelapang Rd",
+            "Description": "Blk 532"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "44611",
+            "Longitude": 103.76757814102818,
+            "Latitude": 1.3871248273065,
+            "RoadName": "Jelapang Rd",
+            "Description": "Blk 516"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "44701",
+            "Longitude": 103.76879686807085,
+            "Latitude": 1.38927144639115,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Blk 548B"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "44691",
+            "Longitude": 103.7714646491703,
+            "Latitude": 1.38826258050731,
+            "RoadName": "Segar Rd",
+            "Description": "BLK 485"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "44771",
+            "Longitude": 103.77079566381067,
+            "Latitude": 1.38458556236413,
+            "RoadName": "Fajar Rd",
+            "Description": "Fajar Stn"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "44349",
+            "Longitude": 103.7693280970516,
+            "Latitude": 1.3813330335154,
+            "RoadName": "Fajar Rd",
+            "Description": "Bet Blks 443A/443B"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "44339",
+            "Longitude": 103.77114903339667,
+            "Latitude": 1.38084522961484,
+            "RoadName": "Fajar Rd",
+            "Description": "Blk 442D"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "44329",
+            "Longitude": 103.77257633645274,
+            "Latitude": 1.38021501052151,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Bangkit Stn"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "40239",
+            "Longitude": 103.82620193736967,
+            "Latitude": 1.32255443038995,
+            "RoadName": "Whitley Rd",
+            "Description": "Aft Tanglin CC"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "09219",
+            "Longitude": 103.83316088291699,
+            "Latitude": 1.30731999685228,
+            "RoadName": "Scotts Rd",
+            "Description": "Far East Plaza"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "09047",
+            "Longitude": 103.83294467208566,
+            "Latitude": 1.30446065207443,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Stn/Tang Plaza"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "09037",
+            "Longitude": 103.83701253388183,
+            "Latitude": 1.3023400420296,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Mandarin Orchard"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "08138",
+            "Longitude": 103.84184700607595,
+            "Latitude": 1.3004785730821,
+            "RoadName": "Orchard Rd",
+            "Description": "Concorde Hotel S'pore"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "02119",
+            "Longitude": 103.85534334305085,
+            "Latitude": 1.29184407356581,
+            "RoadName": "Nicoll Highway",
+            "Description": "Opp War Memorial Pk"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "03019",
+            "Longitude": 103.85310805599599,
+            "Latitude": 1.284245000013,
+            "RoadName": "Collyer Quay",
+            "Description": "OUE Bayfront"
+        },
+        {
+            "Distance": 21.9,
+            "BusStopCode": "03059",
+            "Longitude": 103.85135652579491,
+            "Latitude": 1.28097649556002,
+            "RoadName": "Raffles Quay",
+            "Description": "One Raffles Quay"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "03217",
+            "Longitude": 103.8479443674916,
+            "Latitude": 1.27552218897645,
+            "RoadName": "Shenton Way",
+            "Description": "Opp AXA Twr"
+        },
+        {
+            "Distance": 23.3,
+            "BusStopCode": "03223",
+            "Longitude": 103.84632468221952,
+            "Latitude": 1.2757033952327,
+            "RoadName": "Anson Rd",
+            "Description": "Intl Plaza"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "03151",
+            "Longitude": 103.84776234627124,
+            "Latitude": 1.27892124625262,
+            "RoadName": "Cecil St",
+            "Description": "Opp GB Bldg"
+        },
+        {
+            "Distance": 24.2,
+            "BusStopCode": "03021",
+            "Longitude": 103.84998903789258,
+            "Latitude": 1.28255524603003,
+            "RoadName": "Cecil St",
+            "Description": "Prudential Twr"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03223",
+            "Longitude": 103.84632468221952,
+            "Latitude": 1.2757033952327,
+            "RoadName": "Anson Rd",
+            "Description": "Intl Plaza"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "03151",
+            "Longitude": 103.84776234627124,
+            "Latitude": 1.27892124625262,
+            "RoadName": "Cecil St",
+            "Description": "Opp GB Bldg"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "03021",
+            "Longitude": 103.84998903789258,
+            "Latitude": 1.28255524603003,
+            "RoadName": "Cecil St",
+            "Description": "Prudential Twr"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "02111",
+            "Longitude": 103.85453419435228,
+            "Latitude": 1.29095592348389,
+            "RoadName": "Esplanade Dr",
+            "Description": "Esplanade Bridge"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "04111",
+            "Longitude": 103.85128983925452,
+            "Latitude": 1.2940020309036,
+            "RoadName": "Stamford Rd",
+            "Description": "Capitol Bldg"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "04121",
+            "Longitude": 103.84958029974611,
+            "Latitude": 1.29618544092334,
+            "RoadName": "Stamford Rd",
+            "Description": "SMU"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "08041",
+            "Longitude": 103.84780636909545,
+            "Latitude": 1.29811014243867,
+            "RoadName": "Orchard Rd",
+            "Description": "YMCA"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "08031",
+            "Longitude": 103.8452569595532,
+            "Latitude": 1.29831153783592,
+            "RoadName": "Penang Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "08111",
+            "Longitude": 103.84093746088925,
+            "Latitude": 1.29986928715834,
+            "RoadName": "Penang Rd",
+            "Description": "Winsland Hse"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "08121",
+            "Longitude": 103.83877618459663,
+            "Latitude": 1.30027569326586,
+            "RoadName": "Somerset Rd",
+            "Description": "Somerset Stn"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "09059",
+            "Longitude": 103.83623804216019,
+            "Latitude": 1.30044251755834,
+            "RoadName": "Grange Rd",
+            "Description": "Natl Youth Council"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "09213",
+            "Longitude": 103.83305083303023,
+            "Latitude": 1.30783805600034,
+            "RoadName": "Scotts Rd",
+            "Description": "Thong Teck Bldg"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "40231",
+            "Longitude": 103.82568817714628,
+            "Latitude": 1.32214806956461,
+            "RoadName": "Whitley Rd",
+            "Description": "Raffles Town Club"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "44321",
+            "Longitude": 103.77233083475981,
+            "Latitude": 1.3798880333463,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Opp Bangkit Stn"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "44331",
+            "Longitude": 103.77084865060209,
+            "Latitude": 1.38022107375265,
+            "RoadName": "Fajar Rd",
+            "Description": "Blk 239"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "44341",
+            "Longitude": 103.76917730998287,
+            "Latitude": 1.3811702972192,
+            "RoadName": "Fajar Rd",
+            "Description": "Blk 401A CP"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "44779",
+            "Longitude": 103.77020678944983,
+            "Latitude": 1.38422184036636,
+            "RoadName": "Fajar Rd",
+            "Description": "Opp Fajar Stn"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "44699",
+            "Longitude": 103.77154344868076,
+            "Latitude": 1.38805300466507,
+            "RoadName": "Segar Rd",
+            "Description": "BLK 457"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "44709",
+            "Longitude": 103.76842967593706,
+            "Latitude": 1.3885418939603,
+            "RoadName": "Segar Rd",
+            "Description": "Blk 547C"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "44619",
+            "Longitude": 103.76763574907523,
+            "Latitude": 1.38695072395596,
+            "RoadName": "Jelapang Rd",
+            "Description": "Blk 506"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "44669",
+            "Longitude": 103.76489752763662,
+            "Latitude": 1.38428576640159,
+            "RoadName": "Jelapang Rd",
+            "Description": "Opp Blk 532"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "44659",
+            "Longitude": 103.76292100976569,
+            "Latitude": 1.38496763142496,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Blk 537A CP"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "44649",
+            "Longitude": 103.76296296396666,
+            "Latitude": 1.38207041321308,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Blk 541A CP"
+        },
+        {
+            "Distance": 22.5,
+            "BusStopCode": "00481",
+            "Longitude": 103.7583,
+            "Latitude": 1.383764,
+            "RoadName": "Woodlands Rd",
+            "Description": "BT PANJANG TEMP BUS PK"
+        }
+    ]
+}

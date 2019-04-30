@@ -1,0 +1,116 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "10339",
+            "Longitude": 103.81857250844851,
+            "Latitude": 1.28115835063292,
+            "RoadName": "Henderson Rd",
+            "Description": "Aft Bt Merah Ctrl"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "14249",
+            "Longitude": 103.81732991211003,
+            "Latitude": 1.27947405747082,
+            "RoadName": "Henderson Rd",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "14279",
+            "Longitude": 103.81920892602811,
+            "Latitude": 1.27591552267791,
+            "RoadName": "Telok Blangah Way",
+            "Description": "Blk 25"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "14319",
+            "Longitude": 103.82071832142381,
+            "Latitude": 1.27340685178245,
+            "RoadName": "Telok Blangah Rise",
+            "Description": "Blk 28"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "14489",
+            "Longitude": 103.82170108549552,
+            "Latitude": 1.2721852066614,
+            "RoadName": "Telok Blangah Rise",
+            "Description": "Blk 36 Mkt/FC"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "14309",
+            "Longitude": 103.82302593897191,
+            "Latitude": 1.27128899958763,
+            "RoadName": "Telok Blangah Rise",
+            "Description": "Blk 41"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "14379",
+            "Longitude": 103.82379361102515,
+            "Latitude": 1.27243833303297,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Blk 40"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "14291",
+            "Longitude": 103.82132649422054,
+            "Latitude": 1.27468440821038,
+            "RoadName": "Telok Blangah Way",
+            "Description": "Blk 27"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "14269",
+            "Longitude": 103.81999451121168,
+            "Latitude": 1.27758480623244,
+            "RoadName": "Telok Blangah Cres",
+            "Description": "Blk 10"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "14259",
+            "Longitude": 103.81865821941,
+            "Latitude": 1.27784501068205,
+            "RoadName": "Telok Blangah Cres",
+            "Description": "Blk 11"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "14241",
+            "Longitude": 103.8168725087535,
+            "Latitude": 1.27914353103301,
+            "RoadName": "Henderson Rd",
+            "Description": "Opp Blk 1"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "10331",
+            "Longitude": 103.81834423228645,
+            "Latitude": 1.28136306628839,
+            "RoadName": "Henderson Rd",
+            "Description": "Bef Bt Merah Ctrl"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int (Last Stop)"
+        }
+    ]
+}

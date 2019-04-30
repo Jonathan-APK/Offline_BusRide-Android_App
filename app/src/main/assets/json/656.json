@@ -1,0 +1,286 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "58121",
+            "Longitude": 103.81929476185202,
+            "Latitude": 1.45329115486737,
+            "RoadName": "Canberra Rd",
+            "Description": "Blk 424A CP"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "58401",
+            "Longitude": 103.81800207598671,
+            "Latitude": 1.45575658287341,
+            "RoadName": "Admiralty Link",
+            "Description": "Opp Blk 491"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "58411",
+            "Longitude": 103.81658372927154,
+            "Latitude": 1.45461200191848,
+            "RoadName": "Admiralty Link",
+            "Description": "Blk 404A CP"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "58341",
+            "Longitude": 103.81687772159036,
+            "Latitude": 1.45267992935187,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 405"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "58311",
+            "Longitude": 103.81810459422103,
+            "Latitude": 1.4501979542693,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 354 CP"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "58251",
+            "Longitude": 103.81895207486829,
+            "Latitude": 1.44803148822713,
+            "RoadName": "Sembawang Dr",
+            "Description": "Sun Plaza"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "58291",
+            "Longitude": 103.8199449173096,
+            "Latitude": 1.44579319988216,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 317"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "58391",
+            "Longitude": 103.82241222202445,
+            "Latitude": 1.44426472199698,
+            "RoadName": "Sembawang Ave",
+            "Description": "Blk 303"
+        },
+        {
+            "Distance": 24.5,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 25,
+            "BusStopCode": "08069",
+            "Longitude": 103.84936128375956,
+            "Latitude": 1.29821382250893,
+            "RoadName": "Bras Basah Rd",
+            "Description": "BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 25.3,
+            "BusStopCode": "04179",
+            "Longitude": 103.85147164487202,
+            "Latitude": 1.29647916306741,
+            "RoadName": "Bras Basah Rd",
+            "Description": "AFT BRAS BASAH STN EXIT A"
+        },
+        {
+            "Distance": 25.7,
+            "BusStopCode": "02049",
+            "Longitude": 103.85402155505173,
+            "Latitude": 1.29452091230981,
+            "RoadName": "Bras Basah Rd",
+            "Description": "Raffles Hotel"
+        },
+        {
+            "Distance": 26.1,
+            "BusStopCode": "02119",
+            "Longitude": 103.85534334305085,
+            "Latitude": 1.29184407356581,
+            "RoadName": "Nicoll Highway",
+            "Description": "Opp War Memorial Pk"
+        },
+        {
+            "Distance": 27.1,
+            "BusStopCode": "03019",
+            "Longitude": 103.85310805599599,
+            "Latitude": 1.284245000013,
+            "RoadName": "Collyer Quay",
+            "Description": "OUE Bayfront"
+        },
+        {
+            "Distance": 27.4,
+            "BusStopCode": "03059",
+            "Longitude": 103.85135652579491,
+            "Latitude": 1.28097649556002,
+            "RoadName": "Raffles Quay",
+            "Description": "One Raffles Quay"
+        },
+        {
+            "Distance": 27.8,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 28.4,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03241",
+            "Longitude": 103.84537,
+            "Latitude": 1.27456,
+            "RoadName": "Anson Rd",
+            "Description": "Mapletree Anson"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "03031",
+            "Longitude": 103.85086074925066,
+            "Latitude": 1.28207492207952,
+            "RoadName": "Robinson Rd",
+            "Description": "Raffles Pl Stn Exit F"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "02111",
+            "Longitude": 103.85453419435228,
+            "Latitude": 1.29095592348389,
+            "RoadName": "Esplanade Dr",
+            "Description": "Esplanade Bridge"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "04111",
+            "Longitude": 103.85128983925452,
+            "Latitude": 1.2940020309036,
+            "RoadName": "Stamford Rd",
+            "Description": "Capitol Bldg"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "04121",
+            "Longitude": 103.84958029974611,
+            "Latitude": 1.29618544092334,
+            "RoadName": "Stamford Rd",
+            "Description": "SMU"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "08041",
+            "Longitude": 103.84780636909545,
+            "Latitude": 1.29811014243867,
+            "RoadName": "Orchard Rd",
+            "Description": "YMCA"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "08031",
+            "Longitude": 103.8452569595532,
+            "Latitude": 1.29831153783592,
+            "RoadName": "Penang Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 25.8,
+            "BusStopCode": "58399",
+            "Longitude": 103.822564665947,
+            "Latitude": 1.44399912458783,
+            "RoadName": "Sembawang Ave",
+            "Description": "Opp Blk 303"
+        },
+        {
+            "Distance": 26.4,
+            "BusStopCode": "58299",
+            "Longitude": 103.81968463382916,
+            "Latitude": 1.44582915331137,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 328"
+        },
+        {
+            "Distance": 26.6,
+            "BusStopCode": "58259",
+            "Longitude": 103.81895151565973,
+            "Latitude": 1.44777267175187,
+            "RoadName": "Sembawang Dr",
+            "Description": "Opp Sun Plaza"
+        },
+        {
+            "Distance": 26.9,
+            "BusStopCode": "58319",
+            "Longitude": 103.81802192152004,
+            "Latitude": 1.44976933938251,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 357C"
+        },
+        {
+            "Distance": 27.3,
+            "BusStopCode": "58349",
+            "Longitude": 103.81642343207659,
+            "Latitude": 1.45273139537549,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 478"
+        },
+        {
+            "Distance": 27.7,
+            "BusStopCode": "58419",
+            "Longitude": 103.81583789207467,
+            "Latitude": 1.4546446175566,
+            "RoadName": "Admiralty Link",
+            "Description": "Blk 482A CP"
+        },
+        {
+            "Distance": 28,
+            "BusStopCode": "58409",
+            "Longitude": 103.81810058815044,
+            "Latitude": 1.4561083849161,
+            "RoadName": "Admiralty Link",
+            "Description": "Blk 491"
+        },
+        {
+            "Distance": 28.7,
+            "BusStopCode": "58129",
+            "Longitude": 103.8198821920911,
+            "Latitude": 1.45284216119403,
+            "RoadName": "Canberra Rd",
+            "Description": "Blk 508 CP"
+        }
+    ]
+}

@@ -1,0 +1,742 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "54009",
+            "Longitude": 103.84856716193268,
+            "Latitude": 1.36968769913339,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Ang Mo Kio Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "54339",
+            "Longitude": 103.85057966582927,
+            "Latitude": 1.3678447007404,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 422"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "54329",
+            "Longitude": 103.85247983714417,
+            "Latitude": 1.36449772525141,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 420"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "54319",
+            "Longitude": 103.85305482306448,
+            "Latitude": 1.36205969144532,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Opp Christ The King Ch"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "54101",
+            "Longitude": 103.85465761724518,
+            "Latitude": 1.35732097800984,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Aft Ang Mo Kio Ave 10"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "66091",
+            "Longitude": 103.86145166702076,
+            "Latitude": 1.35454666698201,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Golden Hill Est"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "66031",
+            "Longitude": 103.86572364607075,
+            "Latitude": 1.35465640659199,
+            "RoadName": "Lor Chuan",
+            "Description": "Cardiff Residence"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "66041",
+            "Longitude": 103.8697219448858,
+            "Latitude": 1.3557230306281,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 230"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "66051",
+            "Longitude": 103.87196190877665,
+            "Latitude": 1.35585499445871,
+            "RoadName": "Boundary Rd",
+            "Description": "Opp Blk 257"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "66379",
+            "Longitude": 103.87285801649963,
+            "Latitude": 1.35339155862192,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "66359",
+            "Longitude": 103.87328604946424,
+            "Latitude": 1.35080698547823,
+            "RoadName": "S'goon Ctrl",
+            "Description": "S'Goon Stn Exit C/Blk 201"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "62141",
+            "Longitude": 103.87515194713767,
+            "Latitude": 1.35149112412235,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 1"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "62059",
+            "Longitude": 103.87859583297927,
+            "Latitude": 1.35170138896709,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Blk 161"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "62049",
+            "Longitude": 103.88022749996824,
+            "Latitude": 1.34904000002665,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Paya Lebar Cres"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "62039",
+            "Longitude": 103.880911959518,
+            "Latitude": 1.3467680506898,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Raya Gdn"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "62029",
+            "Longitude": 103.88273473175272,
+            "Latitude": 1.34411328094155,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Paya Lebar Gdns"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "62019",
+            "Longitude": 103.88405276089232,
+            "Latitude": 1.34215709944082,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Rochdale Rd"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "70309",
+            "Longitude": 103.88639700003634,
+            "Latitude": 1.33965000001824,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Opp Paya Lebar St"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "70299",
+            "Longitude": 103.88758305557131,
+            "Latitude": 1.3374750000156,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Opp Asiawide Ind Bldg"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "70289",
+            "Longitude": 103.8886929999761,
+            "Latitude": 1.3350640000249,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Opp Tai Seng Stn"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "70279",
+            "Longitude": 103.88951499040957,
+            "Latitude": 1.33155751923227,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Opp Trinity @ Paya Lebar"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "70269",
+            "Longitude": 103.89014388885742,
+            "Latitude": 1.32824611112671,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Citipoint Ind Cplx"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "71161",
+            "Longitude": 103.89209147524538,
+            "Latitude": 1.32732994325917,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Blk 3019"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "71151",
+            "Longitude": 103.8944494102938,
+            "Latitude": 1.32814305145316,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Blk 3021"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "71141",
+            "Longitude": 103.89706805602555,
+            "Latitude": 1.32917333299413,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Blk 3023"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "71121",
+            "Longitude": 103.8994169,
+            "Latitude": 1.330081111,
+            "RoadName": "Ubi Ave 2",
+            "Description": "UBI STN EXIT B"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "71131",
+            "Longitude": 103.90140378909662,
+            "Latitude": 1.33127510693644,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Automobile Megamart"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "71091",
+            "Longitude": 103.90373154551283,
+            "Latitude": 1.33073374785934,
+            "RoadName": "Eunos Link",
+            "Description": "Blk 637"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "72021",
+            "Longitude": 103.9063218660858,
+            "Latitude": 1.33096531210116,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 646"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "72061",
+            "Longitude": 103.9098393917043,
+            "Latitude": 1.33177922756641,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 122"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "72071",
+            "Longitude": 103.91184110459187,
+            "Latitude": 1.33219165087886,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 133"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "84499",
+            "Longitude": 103.91399439090614,
+            "Latitude": 1.33508643985694,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 140"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "84489",
+            "Longitude": 103.91618833296936,
+            "Latitude": 1.33804722197723,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Bedok Ind Pk C"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "84461",
+            "Longitude": 103.91939027798064,
+            "Latitude": 1.33807138901241,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Blk 701"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "84471",
+            "Longitude": 103.92199745160043,
+            "Latitude": 1.3373330466218,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 745"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "84621",
+            "Longitude": 103.9249204585602,
+            "Latitude": 1.33831497804809,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Blk 716"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "84611",
+            "Longitude": 103.92795482353951,
+            "Latitude": 1.33922469822607,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Waterfront Isle"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "84631",
+            "Longitude": 103.92948245969215,
+            "Latitude": 1.33879275233871,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Waterfront Waves"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "84601",
+            "Longitude": 103.93116966665325,
+            "Latitude": 1.33820137485609,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Waterfront Key"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "75341",
+            "Longitude": 103.933861255669,
+            "Latitude": 1.33832204097015,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp The Clearwater Condo"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "75061",
+            "Longitude": 103.93646836281481,
+            "Latitude": 1.34071391760745,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Bedok Reform Trg Ctr"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "76289",
+            "Longitude": 103.93814569319093,
+            "Latitude": 1.34738728491099,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp East View Pr Sch"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "76129",
+            "Longitude": 103.93791583710507,
+            "Latitude": 1.34988214931301,
+            "RoadName": "Tampines Ave 4",
+            "Description": "St. Hilda's Sec Sch"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "76119",
+            "Longitude": 103.94009028016603,
+            "Latitude": 1.35188664573357,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Blk 945"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "76051",
+            "Longitude": 103.9412639409046,
+            "Latitude": 1.35313809279079,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Our Tampines Hub"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "76059",
+            "Longitude": 103.94165154852797,
+            "Latitude": 1.35296163572491,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Our Tampines Hub"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "76111",
+            "Longitude": 103.94023387732626,
+            "Latitude": 1.35157455446947,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Blk 945"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "76121",
+            "Longitude": 103.93817517168992,
+            "Latitude": 1.35003333718868,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp St. Hilda's Sec Sch"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "76281",
+            "Longitude": 103.93848632286071,
+            "Latitude": 1.34758373789104,
+            "RoadName": "Tampines Ave 4",
+            "Description": "East View Pr Sch"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "75069",
+            "Longitude": 103.93669999999881,
+            "Latitude": 1.34066333296943,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Bedok Reform Trg Ctr"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "75349",
+            "Longitude": 103.9339578151498,
+            "Latitude": 1.33811824869625,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "The Clearwater Condo"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "84609",
+            "Longitude": 103.93130805598769,
+            "Latitude": 1.33791138898959,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Waterfront Key"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "84639",
+            "Longitude": 103.92937717202952,
+            "Latitude": 1.33857139776249,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Waterfront Waves"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "84619",
+            "Longitude": 103.92746694275839,
+            "Latitude": 1.33896501379939,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Waterfront Isle"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "84629",
+            "Longitude": 103.92537872720727,
+            "Latitude": 1.33815749250804,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 716"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "84479",
+            "Longitude": 103.92253160478627,
+            "Latitude": 1.33742106440195,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 713"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "84469",
+            "Longitude": 103.9197283469228,
+            "Latitude": 1.3375152915469,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 703"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "84481",
+            "Longitude": 103.91532871743395,
+            "Latitude": 1.33753167256033,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Bedok Ind Pk C"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "84491",
+            "Longitude": 103.91420602552198,
+            "Latitude": 1.33456808308445,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 629"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "72079",
+            "Longitude": 103.91201112281274,
+            "Latitude": 1.33201510811169,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 609"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "72069",
+            "Longitude": 103.90977961908514,
+            "Latitude": 1.33150994155892,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 121"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "72029",
+            "Longitude": 103.90655207721196,
+            "Latitude": 1.33086398684,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Blk 646"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "71099",
+            "Longitude": 103.9038336109893,
+            "Latitude": 1.33022638900189,
+            "RoadName": "Eunos Link",
+            "Description": "Blk 311"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "71139",
+            "Longitude": 103.90087888738246,
+            "Latitude": 1.33054224737538,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "71129",
+            "Longitude": 103.8991489,
+            "Latitude": 1.329761944,
+            "RoadName": "Ubi Ave 2",
+            "Description": "UBI STN EXIT A"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "71149",
+            "Longitude": 103.89713767691656,
+            "Latitude": 1.32886553888796,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Blk 3024"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "71159",
+            "Longitude": 103.89457489895001,
+            "Latitude": 1.32787641919412,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Blk 3026"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "71169",
+            "Longitude": 103.89217317535862,
+            "Latitude": 1.32706502989935,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Aztech Bldg"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "70261",
+            "Longitude": 103.88962746952593,
+            "Latitude": 1.32884296980066,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Opp Orion @ Paya Lebar"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "70271",
+            "Longitude": 103.88931512831826,
+            "Latitude": 1.33078171512111,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Le Crescendo"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "70281",
+            "Longitude": 103.8879999999696,
+            "Latitude": 1.33530627797371,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Tai Seng Stn"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "70291",
+            "Longitude": 103.88713611112668,
+            "Latitude": 1.33743499996855,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Asiawide Ind Bldg"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "70301",
+            "Longitude": 103.88575915318087,
+            "Latitude": 1.33965760027057,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Paya Lebar St"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "62011",
+            "Longitude": 103.88345100001618,
+            "Latitude": 1.3421349999944,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Bartley Rd"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "62021",
+            "Longitude": 103.8825074871872,
+            "Latitude": 1.3436889743392,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Wisma AUPE"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "62031",
+            "Longitude": 103.88171014272702,
+            "Latitude": 1.34521001044775,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Bef How Sun Rd"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "62041",
+            "Longitude": 103.88018488884609,
+            "Latitude": 1.3483829232168,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Opp Bethany Presby Ch"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "62051",
+            "Longitude": 103.87775496869286,
+            "Latitude": 1.35170429575719,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Jln Chermat"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "62149",
+            "Longitude": 103.87595332312252,
+            "Latitude": 1.35169173270668,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Paya Lebar Camp"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "66351",
+            "Longitude": 103.87324486521683,
+            "Latitude": 1.35049831450162,
+            "RoadName": "S'goon Ctrl",
+            "Description": "S'Goon Stn Exit B"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "66371",
+            "Longitude": 103.87268543240587,
+            "Latitude": 1.353767301605,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 261"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "66059",
+            "Longitude": 103.87212299732872,
+            "Latitude": 1.35553141738293,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 257A"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "66049",
+            "Longitude": 103.86896493522666,
+            "Latitude": 1.35535475300084,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 233"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "66039",
+            "Longitude": 103.86668854745251,
+            "Latitude": 1.35475138514216,
+            "RoadName": "Lor Chuan",
+            "Description": "Blk 307"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "66099",
+            "Longitude": 103.86142199387719,
+            "Latitude": 1.35427474694456,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Opp Golden Hill Est"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "54109",
+            "Longitude": 103.85433890252277,
+            "Latitude": 1.35708169204878,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Bef Ang Mo Kio Ave 10"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "54311",
+            "Longitude": 103.85257506359629,
+            "Latitude": 1.36143610819625,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 332"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "54321",
+            "Longitude": 103.85237785571755,
+            "Latitude": 1.3639846735447,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 354"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "54331",
+            "Longitude": 103.85056845375878,
+            "Latitude": 1.36719473720813,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 346"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "54009",
+            "Longitude": 103.84856716193268,
+            "Latitude": 1.36968769913339,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Ang Mo Kio Int"
+        }
+    ]
+}

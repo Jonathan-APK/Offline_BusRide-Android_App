@@ -1,0 +1,414 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "46549",
+            "Longitude": 103.7812567265195,
+            "Latitude": 1.43319818915334,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 347"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "46539",
+            "Longitude": 103.77822365534921,
+            "Latitude": 1.43209962904173,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 320"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "46529",
+            "Longitude": 103.77459689006626,
+            "Latitude": 1.43208152770031,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Opp Marsiling Stn"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "46491",
+            "Longitude": 103.77200799456398,
+            "Latitude": 1.43188974761143,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 402"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "44269",
+            "Longitude": 103.77422500002575,
+            "Latitude": 1.37577833299245,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 223"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "44229",
+            "Longitude": 103.771459794786,
+            "Latitude": 1.37656055754166,
+            "RoadName": "Pending Rd",
+            "Description": "Bef Pending Stn"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "44219",
+            "Longitude": 103.769352222019,
+            "Latitude": 1.37578333297826,
+            "RoadName": "Petir Rd",
+            "Description": "Bet Blks 139/140"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "44209",
+            "Longitude": 103.76698269593902,
+            "Latitude": 1.37719530827914,
+            "RoadName": "Petir Rd",
+            "Description": "Opp Petir Stn"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "44731",
+            "Longitude": 103.76432732997739,
+            "Latitude": 1.37887883000016,
+            "RoadName": "Jelebu Rd",
+            "Description": "Opp Blk 180"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "44259",
+            "Longitude": 103.76297124601712,
+            "Latitude": 1.38029564329691,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 183"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "43268",
+            "Longitude": 103.76427530511685,
+            "Latitude": 1.36036935442362,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillington Green Condo"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "43249",
+            "Longitude": 103.76204709426311,
+            "Latitude": 1.35565052307818,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillview Apts"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "43161",
+            "Longitude": 103.75766163401367,
+            "Latitude": 1.34883190699072,
+            "RoadName": "Bt Batok East Ave 4",
+            "Description": "Blk 272"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "43189",
+            "Longitude": 103.75681389918313,
+            "Latitude": 1.34694984968785,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 283"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "43619",
+            "Longitude": 103.75861329619691,
+            "Latitude": 1.34406411828167,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 289E"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "20109",
+            "Longitude": 103.76206999856427,
+            "Latitude": 1.32085220079341,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 203"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "17051",
+            "Longitude": 103.76240145648879,
+            "Latitude": 1.31726409983754,
+            "RoadName": "Clementi Ave 6",
+            "Description": "Opp Regent Pk"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "20019",
+            "Longitude": 103.7615108330155,
+            "Latitude": 1.31357611099308,
+            "RoadName": "AYE",
+            "Description": "Blk 431"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "17149",
+            "Longitude": 103.76346179699715,
+            "Latitude": 1.31171515103681,
+            "RoadName": "AYE",
+            "Description": "Blk 426"
+        },
+        {
+            "Distance": 20.8,
+            "BusStopCode": "17139",
+            "Longitude": 103.7658699915105,
+            "Latitude": 1.30903304650021,
+            "RoadName": "AYE",
+            "Description": "Aft Clementi Swim Cplx"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "17129",
+            "Longitude": 103.76985839745124,
+            "Latitude": 1.30514136653386,
+            "RoadName": "AYE",
+            "Description": "Aft NUS High Sch"
+        },
+        {
+            "Distance": 27.2,
+            "BusStopCode": "15049",
+            "Longitude": 103.80216344738955,
+            "Latitude": 1.274590541032,
+            "RoadName": "Alexandra Rd",
+            "Description": "Bef PSA Bldg"
+        },
+        {
+            "Distance": 28.3,
+            "BusStopCode": "14169",
+            "Longitude": 103.80941810434497,
+            "Latitude": 1.27118550385957,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp Telok Blangah Stn"
+        },
+        {
+            "Distance": 29.7,
+            "BusStopCode": "14129",
+            "Longitude": 103.81977877391114,
+            "Latitude": 1.26607869101924,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Harbourfront Stn Exit A"
+        },
+        {
+            "Distance": 32.2,
+            "BusStopCode": "14519",
+            "Longitude": 103.82570322127442,
+            "Latitude": 1.25352193438281,
+            "RoadName": "Sentosa Gateway",
+            "Description": "Resorts World Sentosa"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "14519",
+            "Longitude": 103.82570322127442,
+            "Latitude": 1.25352193438281,
+            "RoadName": "Sentosa Gateway",
+            "Description": "Resorts World Sentosa"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "14121",
+            "Longitude": 103.81925660621779,
+            "Latitude": 1.26591350024271,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Harbourfront Stn Exit B"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "14161",
+            "Longitude": 103.81009913005327,
+            "Latitude": 1.27075866533548,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Telok Blangah Stn"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "15041",
+            "Longitude": 103.80185648483362,
+            "Latitude": 1.27455320898942,
+            "RoadName": "Alexandra Rd",
+            "Description": "Aft PSA Bldg"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "17121",
+            "Longitude": 103.76944539352431,
+            "Latitude": 1.30476410258543,
+            "RoadName": "AYE",
+            "Description": "Blk 610"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "17131",
+            "Longitude": 103.76591111102081,
+            "Latitude": 1.3080413890204,
+            "RoadName": "AYE",
+            "Description": "Clementi Flyover"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "17141",
+            "Longitude": 103.76349999999258,
+            "Latitude": 1.3109950000148,
+            "RoadName": "AYE",
+            "Description": "Clementi Stadium"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "17059",
+            "Longitude": 103.76170111103328,
+            "Latitude": 1.31694333299923,
+            "RoadName": "Clementi Ave 6",
+            "Description": "Regent Pk"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "20101",
+            "Longitude": 103.76221926730373,
+            "Latitude": 1.31993714188512,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Nan Hua Pr Sch"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "43611",
+            "Longitude": 103.75829172450743,
+            "Latitude": 1.3440783607984,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 290H"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "43181",
+            "Longitude": 103.75681722199707,
+            "Latitude": 1.34648944401178,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Keming Pr Sch"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "43169",
+            "Longitude": 103.7578877455261,
+            "Latitude": 1.34931074950483,
+            "RoadName": "Bt Batok East Ave 4",
+            "Description": "Blk 254"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "43241",
+            "Longitude": 103.76188709548238,
+            "Latitude": 1.35584392851879,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp Hillview Apts"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "43261",
+            "Longitude": 103.76436750000349,
+            "Latitude": 1.3614550000211,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp Hillview Hts"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "44251",
+            "Longitude": 103.76227862094703,
+            "Latitude": 1.38033407967784,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 604"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "44739",
+            "Longitude": 103.76459849996492,
+            "Latitude": 1.37876549999936,
+            "RoadName": "Jelebu Rd",
+            "Description": "Blk 180"
+        },
+        {
+            "Distance": 21.8,
+            "BusStopCode": "44201",
+            "Longitude": 103.7672668951858,
+            "Latitude": 1.37732275970527,
+            "RoadName": "Petir Rd",
+            "Description": "Aft Petir Stn"
+        },
+        {
+            "Distance": 22.1,
+            "BusStopCode": "44211",
+            "Longitude": 103.76921822286211,
+            "Latitude": 1.37610015820197,
+            "RoadName": "Petir Rd",
+            "Description": "Blk 127"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "44221",
+            "Longitude": 103.77099428887409,
+            "Latitude": 1.3762995851872,
+            "RoadName": "Pending Rd",
+            "Description": "Opp Pending Stn"
+        },
+        {
+            "Distance": 22.9,
+            "BusStopCode": "44261",
+            "Longitude": 103.774277778025,
+            "Latitude": 1.3760822219899,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 270"
+        },
+        {
+            "Distance": 29.9,
+            "BusStopCode": "46499",
+            "Longitude": 103.77219638823969,
+            "Latitude": 1.4322913388299,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Opp Blk 402"
+        },
+        {
+            "Distance": 30.1,
+            "BusStopCode": "46521",
+            "Longitude": 103.77429333367095,
+            "Latitude": 1.43237833345523,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Marsiling Stn"
+        },
+        {
+            "Distance": 30.5,
+            "BusStopCode": "46531",
+            "Longitude": 103.77751138903017,
+            "Latitude": 1.43240249999047,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 173"
+        },
+        {
+            "Distance": 30.9,
+            "BusStopCode": "46541",
+            "Longitude": 103.78083569681783,
+            "Latitude": 1.43328331503309,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Opp Blk 347"
+        },
+        {
+            "Distance": 31.6,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        }
+    ]
+}

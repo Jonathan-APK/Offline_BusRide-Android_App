@@ -1,0 +1,116 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "43419",
+            "Longitude": 103.74998784769572,
+            "Latitude": 1.35155523613685,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Blk 628"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "43469",
+            "Longitude": 103.74730862146369,
+            "Latitude": 1.35546802880026,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Bef Bt Batok West Ave 5"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "43479",
+            "Longitude": 103.74723575988492,
+            "Latitude": 1.35765247384472,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Opp Blk 305"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "43489",
+            "Longitude": 103.74635170320164,
+            "Latitude": 1.35978620558748,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Opp Blk 315"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "43499",
+            "Longitude": 103.74686723054008,
+            "Latitude": 1.36259558126251,
+            "RoadName": "Bt Batok West Ave 4",
+            "Description": "Blk 419"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "43669",
+            "Longitude": 103.7461454769507,
+            "Latitude": 1.36548561348564,
+            "RoadName": "Bt Batok West Ave 7",
+            "Description": "Blk 406"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "43679",
+            "Longitude": 103.74421935477038,
+            "Latitude": 1.36506686600259,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Blk 402"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "43681",
+            "Longitude": 103.74358000000312,
+            "Latitude": 1.36178500002853,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "BT BATOK HME FOR THE AGED"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "43481",
+            "Longitude": 103.74637905142735,
+            "Latitude": 1.35992912103835,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Blk 315"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "43471",
+            "Longitude": 103.74730694399486,
+            "Latitude": 1.35796999999619,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Blk 306"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "43461",
+            "Longitude": 103.74749372345552,
+            "Latitude": 1.35504665794029,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Aft Bt Batok West Ave 5"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "43411",
+            "Longitude": 103.75019891787089,
+            "Latitude": 1.35176519952681,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Opp Blk 628"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int (Last Stop)"
+        }
+    ]
+}

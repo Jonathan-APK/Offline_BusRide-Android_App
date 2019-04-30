@@ -1,0 +1,84 @@
+{
+    "direction 1": [
+        {
+            "Distance": 12.6,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "84301",
+            "Longitude": 103.92656628872025,
+            "Latitude": 1.32782140214678,
+            "RoadName": "Bedok Nth Ave 1",
+            "Description": "Opp Kg Chai Chee CC"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "84311",
+            "Longitude": 103.92731666563313,
+            "Latitude": 1.32999872121867,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Blk 521"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "84321",
+            "Longitude": 103.92977387914273,
+            "Latitude": 1.33060063600662,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Blk 516"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "84341",
+            "Longitude": 103.93198370934411,
+            "Latitude": 1.33110349338955,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Opp Fengshan Pr Sch"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "84221",
+            "Longitude": 103.93512740972372,
+            "Latitude": 1.33185798500032,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "84251",
+            "Longitude": 103.93883800719165,
+            "Latitude": 1.33346832060545,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "Blk 99"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "84261",
+            "Longitude": 103.94172824938414,
+            "Latitude": 1.33421994347974,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "St. Anthony's Cano Sch"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "84271",
+            "Longitude": 103.94401471753854,
+            "Latitude": 1.33656310671569,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "Aft Bedok Ind Pk E"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "84591",
+            "Longitude": 103.94699472223161,
+            "Latitude": 1.33774805557922,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "Sbst Bedok Nth Depot"
+        }
+    ]
+}

@@ -1,0 +1,228 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "46281",
+            "Longitude": 103.79002589502426,
+            "Latitude": 1.43878695707764,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 825"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "46421",
+            "Longitude": 103.79353779670151,
+            "Latitude": 1.44087032562722,
+            "RoadName": "Woodlands St 83",
+            "Description": "Evergreen Sec Sch"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "46411",
+            "Longitude": 103.79441916127091,
+            "Latitude": 1.44270591766599,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 869"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "46431",
+            "Longitude": 103.79225565189952,
+            "Latitude": 1.44397726846722,
+            "RoadName": "Woodlands St 82",
+            "Description": "Blk 840"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "46441",
+            "Longitude": 103.78973710977665,
+            "Latitude": 1.44219465826527,
+            "RoadName": "Woodlands St 82",
+            "Description": "Blk 816"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "46261",
+            "Longitude": 103.78694461350949,
+            "Latitude": 1.44256309213662,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Blk 808"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "46279",
+            "Longitude": 103.78690125681027,
+            "Latitude": 1.44021958652464,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 803"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "46251",
+            "Longitude": 103.78908630031805,
+            "Latitude": 1.4409223616912,
+            "RoadName": "Woodlands St 81",
+            "Description": "Riverside Sec Sch"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "46449",
+            "Longitude": 103.79003727703439,
+            "Latitude": 1.44235503567241,
+            "RoadName": "Woodlands St 82",
+            "Description": "Blk 875"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "46439",
+            "Longitude": 103.79265007190847,
+            "Latitude": 1.44413536712492,
+            "RoadName": "Woodlands St 82",
+            "Description": "Blk 880"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "46419",
+            "Longitude": 103.79409801518702,
+            "Latitude": 1.44356110989447,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Evergreen Pr Sch"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "46429",
+            "Longitude": 103.7931500000338,
+            "Latitude": 1.44071444400658,
+            "RoadName": "Woodlands St 83",
+            "Description": "Blk 856"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "46289",
+            "Longitude": 103.79091198323174,
+            "Latitude": 1.43872239825648,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 891C CP"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "46008",
+            "Longitude": 103.78575976841014,
+            "Latitude": 1.43736180998154,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "46559",
+            "Longitude": 103.78127722609429,
+            "Latitude": 1.43550165535928,
+            "RoadName": "Woodlands St 13",
+            "Description": "Opp Blk 101"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "46569",
+            "Longitude": 103.77745880948639,
+            "Latitude": 1.43472154667119,
+            "RoadName": "Woodlands St 13",
+            "Description": "Blk 178"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "46579",
+            "Longitude": 103.77552249997427,
+            "Latitude": 1.43488583298053,
+            "RoadName": "Woodlands St 13",
+            "Description": "Blk 154"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "46589",
+            "Longitude": 103.7741086340661,
+            "Latitude": 1.43632306005208,
+            "RoadName": "Woodlands St 13",
+            "Description": "Blk 146"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "46509",
+            "Longitude": 103.7709643228368,
+            "Latitude": 1.43804390195153,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Town Gdn"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "46069",
+            "Longitude": 103.76933833799299,
+            "Latitude": 1.44288948418349,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Train Checkpt"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "46088",
+            "Longitude": 103.77108660594439,
+            "Latitude": 1.44180914262822,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp Blk 1A"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "46501",
+            "Longitude": 103.77118912980488,
+            "Latitude": 1.43796940271606,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp W'Lands Town Gdn"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "46581",
+            "Longitude": 103.77379636706418,
+            "Latitude": 1.4364411890996,
+            "RoadName": "Woodlands St 13",
+            "Description": "Opp Blk 146"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "46571",
+            "Longitude": 103.7758535357882,
+            "Latitude": 1.43475417848392,
+            "RoadName": "Woodlands St 13",
+            "Description": "Opp Blk 154"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "46561",
+            "Longitude": 103.77719002912507,
+            "Latitude": 1.43461192439784,
+            "RoadName": "Woodlands St 13",
+            "Description": "Opp Blk 178"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "46551",
+            "Longitude": 103.78162336464779,
+            "Latitude": 1.4353272824077,
+            "RoadName": "Woodlands St 13",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (Last Stop)"
+        }
+    ]
+}

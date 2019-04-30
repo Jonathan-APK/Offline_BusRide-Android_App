@@ -1,0 +1,116 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "76059",
+            "Longitude": 103.94165154852797,
+            "Latitude": 1.35296163572491,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Our Tampines Hub"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "76069",
+            "Longitude": 103.94208629087403,
+            "Latitude": 1.34875342114003,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 147"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "76071",
+            "Longitude": 103.94517805600674,
+            "Latitude": 1.34802638899143,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 141"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "76081",
+            "Longitude": 103.94932305553937,
+            "Latitude": 1.34950194446778,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Opp The Holy Trinity Ch"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "76291",
+            "Longitude": 103.95120760822915,
+            "Latitude": 1.3488330441336,
+            "RoadName": "Tampines St 22",
+            "Description": "Angsana Pr Sch"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "76301",
+            "Longitude": 103.95354386528878,
+            "Latitude": 1.34907001187678,
+            "RoadName": "Tampines St 22",
+            "Description": "Blk 283"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "76099",
+            "Longitude": 103.95249172187374,
+            "Latitude": 1.35026359502623,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 285"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "76089",
+            "Longitude": 103.94923388889873,
+            "Latitude": 1.34916805553714,
+            "RoadName": "Tampines Ave 2",
+            "Description": "The Holy Trinity Ch"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "76329",
+            "Longitude": 103.94989623103628,
+            "Latitude": 1.34644501660314,
+            "RoadName": "Tampines St 11",
+            "Description": "Blk 125"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "76339",
+            "Longitude": 103.94698416699394,
+            "Latitude": 1.34547166699324,
+            "RoadName": "Tampines St 11",
+            "Description": "Opp Tampines Changkat Cc"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "76061",
+            "Longitude": 103.94189805552267,
+            "Latitude": 1.3482019444416,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 938"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "76051",
+            "Longitude": 103.9412639409046,
+            "Latitude": 1.35313809279079,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Our Tampines Hub"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (Last Stop)"
+        }
+    ]
+}

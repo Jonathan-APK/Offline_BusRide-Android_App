@@ -1,0 +1,278 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "04239",
+            "Longitude": 103.8474938118651,
+            "Latitude": 1.28882717929599,
+            "RoadName": "New Bridge Rd",
+            "Description": "Clarke Quay Stn"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "05059",
+            "Longitude": 103.84575036447065,
+            "Latitude": 1.28676420118491,
+            "RoadName": "New Bridge Rd",
+            "Description": "Hong Lim Pk"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "05049",
+            "Longitude": 103.84455070696784,
+            "Latitude": 1.28531114761754,
+            "RoadName": "New Bridge Rd",
+            "Description": "Chinatown Pt"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "05039",
+            "Longitude": 103.84254276754574,
+            "Latitude": 1.28293819129834,
+            "RoadName": "New Bridge Rd",
+            "Description": "New Bridge Ctr"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "05019",
+            "Longitude": 103.84105000000471,
+            "Latitude": 1.28118388885484,
+            "RoadName": "New Bridge Rd",
+            "Description": "Opp Pearl's Ctr"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "05069",
+            "Longitude": 103.84029791443083,
+            "Latitude": 1.28027629959632,
+            "RoadName": "New Bridge Rd",
+            "Description": "Outram Pk Stn Exit H"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "10011",
+            "Longitude": 103.83749709165197,
+            "Latitude": 1.2777380589964,
+            "RoadName": "New Bridge Rd",
+            "Description": "BEF NEIL RD"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "11041",
+            "Longitude": 103.79952333299494,
+            "Latitude": 1.29624499998226,
+            "RoadName": "Queensway",
+            "Description": "Aft C'wealth Dr"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "11051",
+            "Longitude": 103.8002979755481,
+            "Latitude": 1.29872166703909,
+            "RoadName": "Queensway",
+            "Description": "Opp Queenstown Polyclinic"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "11161",
+            "Longitude": 103.79839083302141,
+            "Latitude": 1.30213305598263,
+            "RoadName": "C'wealth Ave",
+            "Description": "C'Wealth Stn Exit A/D"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "11171",
+            "Longitude": 103.79479722196947,
+            "Latitude": 1.30535666699303,
+            "RoadName": "C'wealth Ave",
+            "Description": "Opp Blk 7B"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "11181",
+            "Longitude": 103.79227638896938,
+            "Latitude": 1.30722333300814,
+            "RoadName": "C'wealth Ave",
+            "Description": "Opp Blk 43"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "11191",
+            "Longitude": 103.7883731546267,
+            "Latitude": 1.30801640815091,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Buona Vista Stn"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "19011",
+            "Longitude": 103.78423666696615,
+            "Latitude": 1.30781638901709,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 19A CP"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "19031",
+            "Longitude": 103.77838361113201,
+            "Latitude": 1.31123416666912,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Dover Stn"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "17151",
+            "Longitude": 103.76960993525367,
+            "Latitude": 1.31169519353522,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 410"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "17161",
+            "Longitude": 103.76685476875124,
+            "Latitude": 1.31240993603605,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Blk 329"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "17171",
+            "Longitude": 103.76502698264449,
+            "Latitude": 1.31497399268611,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Clementi Stn"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "17239",
+            "Longitude": 103.7658489,
+            "Latitude": 1.312440556,
+            "RoadName": "Clementi Ave 3",
+            "Description": "NTUC Fairprice"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "17159",
+            "Longitude": 103.7698144,
+            "Latitude": 1.311975556,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 365"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "19039",
+            "Longitude": 103.77868390552867,
+            "Latitude": 1.31167951129602,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Dover Stn"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "19019",
+            "Longitude": 103.78475916699466,
+            "Latitude": 1.30807305598128,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Blk 19A CP"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "11199",
+            "Longitude": 103.78843145303215,
+            "Latitude": 1.30837970735444,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 15"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "11189",
+            "Longitude": 103.79254222202354,
+            "Latitude": 1.30740138898924,
+            "RoadName": "C'wealth Ave",
+            "Description": "Blk 43"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "11179",
+            "Longitude": 103.79427940117534,
+            "Latitude": 1.30627521395682,
+            "RoadName": "C'wealth Ave",
+            "Description": "Blk 8"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "11169",
+            "Longitude": 103.79838166697326,
+            "Latitude": 1.30270500001823,
+            "RoadName": "C'wealth Ave",
+            "Description": "C'Wealth Stn Exit B/C"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "11059",
+            "Longitude": 103.80097389222824,
+            "Latitude": 1.29882892782979,
+            "RoadName": "Queensway",
+            "Description": "Queenstown Polyclinic"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "11049",
+            "Longitude": 103.79952549937242,
+            "Latitude": 1.2954609366563,
+            "RoadName": "Queensway",
+            "Description": "Opp Blessed Sacrament Ch"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "10018",
+            "Longitude": 103.83860360621959,
+            "Latitude": 1.27900819665099,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Outram Pk Stn Exit F/SGH"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "05012",
+            "Longitude": 103.84087722199499,
+            "Latitude": 1.28154583300728,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Pearl's Ctr"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "05022",
+            "Longitude": 103.84437203405348,
+            "Latitude": 1.28571089865595,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "People's Pk Ctr"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "04222",
+            "Longitude": 103.84708976365569,
+            "Latitude": 1.28898962180798,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Clarke Quay Stn Exit E"
+        }
+    ]
+}

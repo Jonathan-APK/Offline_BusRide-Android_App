@@ -1,0 +1,108 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "21361",
+            "Longitude": 103.70767181671128,
+            "Latitude": 1.34302323304896,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 695"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "21399",
+            "Longitude": 103.70805985100185,
+            "Latitude": 1.3448140795943,
+            "RoadName": "Boon Lay Ave",
+            "Description": "Opp River Valley High Sch"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "21421",
+            "Longitude": 103.71032595632526,
+            "Latitude": 1.34720307776277,
+            "RoadName": "Boon Lay Ave",
+            "Description": "Blk 176"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "21241",
+            "Longitude": 103.71235425312759,
+            "Latitude": 1.34973665190679,
+            "RoadName": "Boon Lay Ave",
+            "Description": "Opp Blk 213"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "28539",
+            "Longitude": 103.71542393424821,
+            "Latitude": 1.34975477386966,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 538"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "28409",
+            "Longitude": 103.71793769087185,
+            "Latitude": 1.35081149361542,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 454"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "28529",
+            "Longitude": 103.7206511492765,
+            "Latitude": 1.35117921308914,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 441"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "28519",
+            "Longitude": 103.72452492776075,
+            "Latitude": 1.35058416759245,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 425"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "28509",
+            "Longitude": 103.72654009750788,
+            "Latitude": 1.35003470887569,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 422"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "28499",
+            "Longitude": 103.73046199733298,
+            "Latitude": 1.34963044051902,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Jurong Polyclinic"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "28469",
+            "Longitude": 103.73193313637753,
+            "Latitude": 1.34612717332075,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Blk 316"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "28459",
+            "Longitude": 103.7343152870331,
+            "Latitude": 1.34440772894012,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Opp Parc Oasis"
+        }
+    ]
+}

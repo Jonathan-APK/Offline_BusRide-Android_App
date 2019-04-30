@@ -1,0 +1,292 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "45009",
+            "Longitude": 103.76291779489557,
+            "Latitude": 1.37844139790821,
+            "RoadName": "Petir Rd",
+            "Description": "BT PANJANG INT (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "44259",
+            "Longitude": 103.76297124601712,
+            "Latitude": 1.38029564329691,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 183"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "44041",
+            "Longitude": 103.7603697770399,
+            "Latitude": 1.3809505774787,
+            "RoadName": "Woodlands Rd",
+            "Description": "Ten Mile Junction Stn"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "44051",
+            "Longitude": 103.75801976703181,
+            "Latitude": 1.38440811744123,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Blk 632 CP"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "43991",
+            "Longitude": 103.7565,
+            "Latitude": 1.386207,
+            "RoadName": "Woodlands Rd",
+            "Description": "OPP BLK 635A"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "44061",
+            "Longitude": 103.7553863903753,
+            "Latitude": 1.38792499938306,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Yew Tee Flyover"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "45011",
+            "Longitude": 103.75462358144522,
+            "Latitude": 1.38969249598709,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Yew Tee Flyover"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "45021",
+            "Longitude": 103.75383583300305,
+            "Latitude": 1.39385694401888,
+            "RoadName": "Woodlands Rd",
+            "Description": "Heavy Veh Pk"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "45491",
+            "Longitude": 103.752964,
+            "Latitude": 1.394142,
+            "RoadName": "Stagmont Ring",
+            "Description": "BEF CHOA CHU KANG NTH 5"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "45361",
+            "Longitude": 103.7500200571186,
+            "Latitude": 1.39239930690933,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Opp Blk 765"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "45301",
+            "Longitude": 103.74663514172119,
+            "Latitude": 1.39184565454372,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Blk 708"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "45469",
+            "Longitude": 103.74449399998608,
+            "Latitude": 1.39231423792189,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Blk 532"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "45261",
+            "Longitude": 103.7435570382963,
+            "Latitude": 1.39431509144869,
+            "RoadName": "Choa Chu Kang St 52",
+            "Description": "Blk 551"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "45271",
+            "Longitude": 103.74526443744904,
+            "Latitude": 1.39569595459867,
+            "RoadName": "Choa Chu Kang St 52",
+            "Description": "Blk 560"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "45321",
+            "Longitude": 103.74755489070483,
+            "Latitude": 1.39740269682477,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Yew Tee Stn"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "45389",
+            "Longitude": 103.7473817647614,
+            "Latitude": 1.40063804359533,
+            "RoadName": "Choa Chu Kang Nth 7",
+            "Description": "Blk 619"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "45401",
+            "Longitude": 103.74594266826703,
+            "Latitude": 1.40279972616248,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Blk 681"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "45411",
+            "Longitude": 103.74767347957746,
+            "Latitude": 1.4035145178289,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Opp Blk 670"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "45421",
+            "Longitude": 103.75050925171398,
+            "Latitude": 1.40274884902867,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Opp Blk 666"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "45439",
+            "Longitude": 103.75115527801049,
+            "Latitude": 1.40127194398549,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Opp Blk 661"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "45399",
+            "Longitude": 103.74991277803167,
+            "Latitude": 1.39984083299841,
+            "RoadName": "Choa Chu Kang Nth 7",
+            "Description": "Regent Gr Condo"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "45329",
+            "Longitude": 103.7478650735721,
+            "Latitude": 1.39743803967229,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Opp Yew Tee Stn"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "45279",
+            "Longitude": 103.74540871067298,
+            "Latitude": 1.39565860027275,
+            "RoadName": "Choa Chu Kang St 52",
+            "Description": "Blk 563"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "45269",
+            "Longitude": 103.74373102471621,
+            "Latitude": 1.39436168074215,
+            "RoadName": "Choa Chu Kang St 52",
+            "Description": "Blk 544"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "45461",
+            "Longitude": 103.74330600001463,
+            "Latitude": 1.39267723795995,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Blk 540"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "45309",
+            "Longitude": 103.74665022024047,
+            "Latitude": 1.3919980495631,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Blk 754"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "45369",
+            "Longitude": 103.75002597798891,
+            "Latitude": 1.3925860608387,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Blk 765"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "45489",
+            "Longitude": 103.751998,
+            "Latitude": 1.393789,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "BEF CHOA CHU KANG LK"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "45029",
+            "Longitude": 103.75414864750223,
+            "Latitude": 1.39303959514259,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Heavy Veh Pk"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "44999",
+            "Longitude": 103.7545111,
+            "Latitude": 1.391239722,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Yew Tee Flyover"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "45019",
+            "Longitude": 103.75559178864424,
+            "Latitude": 1.38821119718313,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Yew Tee Flyover"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "44069",
+            "Longitude": 103.75717769160771,
+            "Latitude": 1.38592018696626,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft KJE Slip Rd"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "44059",
+            "Longitude": 103.75817595629141,
+            "Latitude": 1.38449631673384,
+            "RoadName": "Woodlands Rd",
+            "Description": "Blk 632 CP"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "44049",
+            "Longitude": 103.7608578414621,
+            "Latitude": 1.38103523807931,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Ten Mile Junction Stn"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "44031",
+            "Longitude": 103.76232373807855,
+            "Latitude": 1.37785685552262,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Bt Panjang Stn"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "45009",
+            "Longitude": 103.76291779489557,
+            "Latitude": 1.37844139790821,
+            "RoadName": "Petir Rd",
+            "Description": "BT PANJANG INT (Last Stop)"
+        }
+    ]
+}

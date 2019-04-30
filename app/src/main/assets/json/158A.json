@@ -1,0 +1,220 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "81089",
+            "Longitude": 103.88202243551633,
+            "Latitude": 1.31628194302502,
+            "RoadName": "Aljunied Rd",
+            "Description": "Aljunied Stn"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "80089",
+            "Longitude": 103.88080516731976,
+            "Latitude": 1.31274483593155,
+            "RoadName": "Geylang Rd",
+            "Description": "Bef Lor 18 Geylang"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "80069",
+            "Longitude": 103.87715016317217,
+            "Latitude": 1.31214703288286,
+            "RoadName": "Geylang Rd",
+            "Description": "Opp Mohd Salleh Mque"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "80119",
+            "Longitude": 103.87599804972949,
+            "Latitude": 1.30992065473549,
+            "RoadName": "Sims Way",
+            "Description": "Aft Geylang Rd"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "80149",
+            "Longitude": 103.8798058337351,
+            "Latitude": 1.3074963710946,
+            "RoadName": "Mountbatten Rd",
+            "Description": "S.A. Deaf"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "80279",
+            "Longitude": 103.88342000727887,
+            "Latitude": 1.30514903438296,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Mountbatten Stn Exit B"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "91099",
+            "Longitude": 103.88471920227425,
+            "Latitude": 1.30320972763591,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Bef Wilkinson Rd"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "91089",
+            "Longitude": 103.88553021350832,
+            "Latitude": 1.29913832558004,
+            "RoadName": "Fort Rd",
+            "Description": "Opp Fort Gdns"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "90069",
+            "Longitude": 103.88258182953015,
+            "Latitude": 1.29795473961403,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Opp Dunman High Sch"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "90059",
+            "Longitude": 103.8791081,
+            "Latitude": 1.297578611,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "S'pore Swim Club"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "90039",
+            "Longitude": 103.87539308856654,
+            "Latitude": 1.29663305723862,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Opp Tg Ria Condo"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "90029",
+            "Longitude": 103.87253085603427,
+            "Latitude": 1.29700669642984,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Opp Pebble Bay"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "90019",
+            "Longitude": 103.86961360282373,
+            "Latitude": 1.29697091533768,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Pk Shore Condo"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "90079",
+            "Longitude": 103.86732745550238,
+            "Latitude": 1.29760718196372,
+            "RoadName": "Rhu Cross",
+            "Description": "Opp Costa Rhu Condo"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "90011",
+            "Longitude": 103.86924820515104,
+            "Latitude": 1.29711286404721,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Bef Tg Rhu View"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "90021",
+            "Longitude": 103.8710544,
+            "Latitude": 1.297235556,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Pebble Bay"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "90031",
+            "Longitude": 103.8750589,
+            "Latitude": 1.296454444,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Tg Ria Condo"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "90051",
+            "Longitude": 103.8791731,
+            "Latitude": 1.297659444,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Opp S'pore Swim Club"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "90061",
+            "Longitude": 103.8824094,
+            "Latitude": 1.2981225,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Dunman High Sch"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "91081",
+            "Longitude": 103.88533388902762,
+            "Latitude": 1.29930499999248,
+            "RoadName": "Fort Rd",
+            "Description": "Fort Gdns"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "91091",
+            "Longitude": 103.88436845345339,
+            "Latitude": 1.30314976548218,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Bef Kg Kayu Rd"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "80271",
+            "Longitude": 103.8831203007559,
+            "Latitude": 1.30511398524943,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Opp Mountbatten Stn"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "80141",
+            "Longitude": 103.87989373246151,
+            "Latitude": 1.30711835522323,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Opp S.A. Deaf"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "80111",
+            "Longitude": 103.87551499911487,
+            "Latitude": 1.30987138105238,
+            "RoadName": "Sims Way",
+            "Description": "Bef Geylang Rd"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "80071",
+            "Longitude": 103.87655394006379,
+            "Latitude": 1.31380009198455,
+            "RoadName": "Sims Ave",
+            "Description": "Yi Xiu Fty Bldg"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "80091",
+            "Longitude": 103.88095141640784,
+            "Latitude": 1.31489775184137,
+            "RoadName": "Sims Ave",
+            "Description": "Bef Lor 23 Geylang"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "81081",
+            "Longitude": 103.88168156879213,
+            "Latitude": 1.31621665907428,
+            "RoadName": "Aljunied Rd",
+            "Description": "Opp Aljunied Stn"
+        }
+    ]
+}

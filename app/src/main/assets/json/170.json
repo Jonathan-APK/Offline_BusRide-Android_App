@@ -1,0 +1,1046 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "01109",
+            "Longitude": 103.85650372998224,
+            "Latitude": 1.30358577565355,
+            "RoadName": "Queen St",
+            "Description": "Queen St Ter"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "07551",
+            "Longitude": 103.8546132267025,
+            "Latitude": 1.30171975809706,
+            "RoadName": "Rochor Rd",
+            "Description": "Fu Lu Shou Cplx"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "07531",
+            "Longitude": 103.8525732326128,
+            "Latitude": 1.30365644370093,
+            "RoadName": "Rochor Canal Rd",
+            "Description": "Rochor Stn"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "40011",
+            "Longitude": 103.84908751469008,
+            "Latitude": 1.30606411522588,
+            "RoadName": "Bt Timah Rd",
+            "Description": "LITTLE INDIA STN EXIT A"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "40271",
+            "Longitude": 103.8463464537845,
+            "Latitude": 1.30880664936794,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Opp KK Women & Child Hosp"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "40021",
+            "Longitude": 103.84281750001429,
+            "Latitude": 1.31103583296953,
+            "RoadName": "Bt Timah Rd",
+            "Description": "BEF WINSTEDT RD"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "40031",
+            "Longitude": 103.84029650342113,
+            "Latitude": 1.31205307720397,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Newton FC"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "40041",
+            "Longitude": 103.83809742560602,
+            "Latitude": 1.3137222313328,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Newton Stn Exit C"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "40051",
+            "Longitude": 103.83570789921559,
+            "Latitude": 1.31652526011987,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Balmoral Plaza"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "40111",
+            "Longitude": 103.83262555597635,
+            "Latitude": 1.31806499998598,
+            "RoadName": "Bt Timah Rd",
+            "Description": "City Twrs"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "40071",
+            "Longitude": 103.829213610999,
+            "Latitude": 1.31918027796911,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Leng Kwang Baptist Ch"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "40081",
+            "Longitude": 103.82605259642706,
+            "Latitude": 1.32012951912406,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Stevens Stn"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "40091",
+            "Longitude": 103.82350944419166,
+            "Latitude": 1.32101807290903,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Bef Lewis Rd"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "41011",
+            "Longitude": 103.81891666700089,
+            "Latitude": 1.32235611101422,
+            "RoadName": "Bt Timah Rd",
+            "Description": "NUS Bt Timah Campus"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "41021",
+            "Longitude": 103.81554000003177,
+            "Latitude": 1.32264999998361,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Botanic Gdns Stn"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "41031",
+            "Longitude": 103.811977237669,
+            "Latitude": 1.3230683576264,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Bef Crown Ctr"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "41041",
+            "Longitude": 103.8102991670086,
+            "Latitude": 1.32398472197176,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Coronation Plaza"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "41051",
+            "Longitude": 103.80715333299845,
+            "Latitude": 1.32612500001248,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Tan Kah Kee Stn"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "41061",
+            "Longitude": 103.80572472199289,
+            "Latitude": 1.32705333303352,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Chinese High Sch"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "41071",
+            "Longitude": 103.80266277802423,
+            "Latitude": 1.328988333013,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Opp Natl JC"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "41081",
+            "Longitude": 103.79727250094409,
+            "Latitude": 1.33082323351422,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Sixth Ave Stn"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "42011",
+            "Longitude": 103.79503057628676,
+            "Latitude": 1.33161452117352,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Sixth Ave Ctr"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "42021",
+            "Longitude": 103.79237058676013,
+            "Latitude": 1.33254537683925,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Aft Maple Ave"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "42031",
+            "Longitude": 103.78997500000864,
+            "Latitude": 1.33332611108217,
+            "RoadName": "Bt Timah Rd",
+            "Description": "The Tessarina"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "42041",
+            "Longitude": 103.78689111113574,
+            "Latitude": 1.33442500001261,
+            "RoadName": "Bt Timah Rd",
+            "Description": "The Nexus"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "42051",
+            "Longitude": 103.78263611110306,
+            "Latitude": 1.33598305556873,
+            "RoadName": "Bt Timah Rd",
+            "Description": "King Albert Pk Stn"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "42061",
+            "Longitude": 103.78039600003811,
+            "Latitude": 1.3368710000163,
+            "RoadName": "Bt Timah Rd",
+            "Description": "King Albert Pk"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "42071",
+            "Longitude": 103.77694915592028,
+            "Latitude": 1.33876225175982,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Pei Hwa Presby Pr Sch"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "42091",
+            "Longitude": 103.77539033846315,
+            "Latitude": 1.34278636864291,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Beauty World Stn Exit B"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "42111",
+            "Longitude": 103.77262861101015,
+            "Latitude": 1.34584805601375,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "WOH HUP BLDG"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "43011",
+            "Longitude": 103.77118138899144,
+            "Latitude": 1.34742333297015,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bt Regency"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "43021",
+            "Longitude": 103.76979529427526,
+            "Latitude": 1.35132007773328,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Old Jurong Rd"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "43041",
+            "Longitude": 103.76845331635313,
+            "Latitude": 1.35582940983395,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Hume Pk Condo"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "43051",
+            "Longitude": 103.76705036241354,
+            "Latitude": 1.35910148170791,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp The Rail Mall"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "43061",
+            "Longitude": 103.76739148459211,
+            "Latitude": 1.36301133873589,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Hillview Stn"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "43071",
+            "Longitude": 103.76698012950051,
+            "Latitude": 1.36511351504744,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp Dairy Farm Rd"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "43081",
+            "Longitude": 103.76572777796798,
+            "Latitude": 1.36704277799302,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp Assumption Eng Sch"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "43091",
+            "Longitude": 103.76474109358477,
+            "Latitude": 1.36863253283887,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bef Cashew Stn"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "43111",
+            "Longitude": 103.76298146518725,
+            "Latitude": 1.37229972154626,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Min Of Defence"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "44011",
+            "Longitude": 103.76257120089846,
+            "Latitude": 1.37448606693865,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp The Linear"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "44021",
+            "Longitude": 103.76172178111382,
+            "Latitude": 1.37820722702851,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bt Panjang Stn Exit B"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "44041",
+            "Longitude": 103.7603697770399,
+            "Latitude": 1.3809505774787,
+            "RoadName": "Woodlands Rd",
+            "Description": "Ten Mile Junction Stn"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "44051",
+            "Longitude": 103.75801976703181,
+            "Latitude": 1.38440811744123,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Blk 632 CP"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "43991",
+            "Longitude": 103.7565,
+            "Latitude": 1.386207,
+            "RoadName": "Woodlands Rd",
+            "Description": "OPP BLK 635A"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "44061",
+            "Longitude": 103.7553863903753,
+            "Latitude": 1.38792499938306,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Yew Tee Flyover"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "45011",
+            "Longitude": 103.75462358144522,
+            "Latitude": 1.38969249598709,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Yew Tee Flyover"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "45021",
+            "Longitude": 103.75383583300305,
+            "Latitude": 1.39385694401888,
+            "RoadName": "Woodlands Rd",
+            "Description": "Heavy Veh Pk"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "45031",
+            "Longitude": 103.75421868895825,
+            "Latitude": 1.39623361717149,
+            "RoadName": "Woodlands Rd",
+            "Description": "Yew Tee Ind Est"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "45041",
+            "Longitude": 103.75556160767161,
+            "Latitude": 1.40062703005588,
+            "RoadName": "Woodlands Rd",
+            "Description": "Thong Huat Bros Pte Ltd"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "45051",
+            "Longitude": 103.7560103,
+            "Latitude": 1.403385556,
+            "RoadName": "Woodlands Rd",
+            "Description": "Da Di Glass"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "45061",
+            "Longitude": 103.75606300126093,
+            "Latitude": 1.40718111138275,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Mandai Est"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "45071",
+            "Longitude": 103.75568311864467,
+            "Latitude": 1.40955433592964,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Mandai Rd"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "45091",
+            "Longitude": 103.75523144616068,
+            "Latitude": 1.41421866753882,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Jln Bumbong"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "45101",
+            "Longitude": 103.75457151987825,
+            "Latitude": 1.41863235748269,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft LP 234"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "45111",
+            "Longitude": 103.75566245596836,
+            "Latitude": 1.42170099129292,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Kranji War Memorial"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "45121",
+            "Longitude": 103.75863222200965,
+            "Latitude": 1.42402638898738,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp S'pore Turf Club"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "45131",
+            "Longitude": 103.76103770449444,
+            "Latitude": 1.42513583961154,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Kranji Stn"
+        },
+        {
+            "Distance": 21.9,
+            "BusStopCode": "46021",
+            "Longitude": 103.76175138901188,
+            "Latitude": 1.42919861102901,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef W'Lands Ind Pk D St 2"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "46031",
+            "Longitude": 103.7619231548512,
+            "Latitude": 1.4335562926407,
+            "RoadName": "Woodlands Rd",
+            "Description": "Kranji Lodge 1"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "46041",
+            "Longitude": 103.76405579624996,
+            "Latitude": 1.43664137008987,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Globalfoundries"
+        },
+        {
+            "Distance": 23.2,
+            "BusStopCode": "46051",
+            "Longitude": 103.76640888181257,
+            "Latitude": 1.43897086088179,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef BKE"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "46069",
+            "Longitude": 103.76933833799299,
+            "Latitude": 1.44288948418349,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Train Checkpt"
+        },
+        {
+            "Distance": 24,
+            "BusStopCode": "46088",
+            "Longitude": 103.77108660594439,
+            "Latitude": 1.44180914262822,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp Blk 1A"
+        },
+        {
+            "Distance": 25.1,
+            "BusStopCode": "46101",
+            "Longitude": 103.76774882217022,
+            "Latitude": 1.44460832436456,
+            "RoadName": "Woodlands Crossing",
+            "Description": "W'Lands Checkpt"
+        },
+        {
+            "Distance": 27.3,
+            "BusStopCode": "46211",
+            "Longitude": 103.76547712149443,
+            "Latitude": 1.46491732433248,
+            "RoadName": "Johor Bahru",
+            "Description": "Johor Bahru Checkpt"
+        },
+        {
+            "Distance": 34.4,
+            "BusStopCode": "46239",
+            "Longitude": 103.74403292148666,
+            "Latitude": 1.49390379286364,
+            "RoadName": "Jln Datin Halimah",
+            "Description": "Larkin Ter"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46239",
+            "Longitude": 103.74403292148666,
+            "Latitude": 1.49390379286364,
+            "RoadName": "Jln Datin Halimah",
+            "Description": "Larkin Ter"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "46219",
+            "Longitude": 103.76826657164715,
+            "Latitude": 1.4654268105665,
+            "RoadName": "Johor Bahru",
+            "Description": "Johor Bahru Checkpt"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "46109",
+            "Longitude": 103.76925342517902,
+            "Latitude": 1.44694093553778,
+            "RoadName": "Woodlands Crossing",
+            "Description": "W'Lands Checkpt"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "46069",
+            "Longitude": 103.76933833799299,
+            "Latitude": 1.44288948418349,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Train Checkpt"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "46088",
+            "Longitude": 103.77108660594439,
+            "Latitude": 1.44180914262822,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp Blk 1A"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "46091",
+            "Longitude": 103.77010864564294,
+            "Latitude": 1.43960616363191,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Town Gdn"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "46059",
+            "Longitude": 103.76656472079625,
+            "Latitude": 1.4387537800127,
+            "RoadName": "Woodlands Rd",
+            "Description": "Globalfoundries/Aft Bke"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "46049",
+            "Longitude": 103.76460658875827,
+            "Latitude": 1.43689983237469,
+            "RoadName": "Woodlands Rd",
+            "Description": "Globalfoundries"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "46039",
+            "Longitude": 103.76200180616921,
+            "Latitude": 1.4330873187738,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Kranji Lodge 1"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "46029",
+            "Longitude": 103.76226643430736,
+            "Latitude": 1.42861423605127,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft W'Lands Ind Pk D St 2"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "45139",
+            "Longitude": 103.76178101875855,
+            "Latitude": 1.42525961270458,
+            "RoadName": "Woodlands Rd",
+            "Description": "Kranji Stn"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "45129",
+            "Longitude": 103.75863462427267,
+            "Latitude": 1.42382925070118,
+            "RoadName": "Woodlands Rd",
+            "Description": "S'pore Turf Club"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "45119",
+            "Longitude": 103.75597729351239,
+            "Latitude": 1.42181345656216,
+            "RoadName": "Woodlands Rd",
+            "Description": "Kranji War Memorial"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "45109",
+            "Longitude": 103.75478033541316,
+            "Latitude": 1.41785797439114,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Jln Bumbong"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "45099",
+            "Longitude": 103.75591307485898,
+            "Latitude": 1.41341731294698,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Jln Bumbong"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "45079",
+            "Longitude": 103.75588199006808,
+            "Latitude": 1.40959346067748,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Mandai Rd"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "45069",
+            "Longitude": 103.75626773948963,
+            "Latitude": 1.4069390779681,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Mandai Est"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "45059",
+            "Longitude": 103.75620896675814,
+            "Latitude": 1.40340952558706,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Da Di Glass"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "45049",
+            "Longitude": 103.75499277801016,
+            "Latitude": 1.39773638898124,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Yew Tee Ind Est Blk 1"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "45039",
+            "Longitude": 103.75427816224409,
+            "Latitude": 1.39585817355572,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Yew Tee Ind Est"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "45029",
+            "Longitude": 103.75414864750223,
+            "Latitude": 1.39303959514259,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Heavy Veh Pk"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "44999",
+            "Longitude": 103.7545111,
+            "Latitude": 1.391239722,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Yew Tee Flyover"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "45019",
+            "Longitude": 103.75559178864424,
+            "Latitude": 1.38821119718313,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Yew Tee Flyover"
+        },
+        {
+            "Distance": 18,
+            "BusStopCode": "44069",
+            "Longitude": 103.75717769160771,
+            "Latitude": 1.38592018696626,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft KJE Slip Rd"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "44059",
+            "Longitude": 103.75817595629141,
+            "Latitude": 1.38449631673384,
+            "RoadName": "Woodlands Rd",
+            "Description": "Blk 632 CP"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "44049",
+            "Longitude": 103.7608578414621,
+            "Latitude": 1.38103523807931,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Ten Mile Junction Stn"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "44029",
+            "Longitude": 103.7621954983533,
+            "Latitude": 1.37863409952448,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bt Panjang Stn Exit A/Lrt"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "44019",
+            "Longitude": 103.7625299525816,
+            "Latitude": 1.37651095528157,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "The Linear"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "43119",
+            "Longitude": 103.76300821940876,
+            "Latitude": 1.37337830995776,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bef Hazel Pk Terr"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "43109",
+            "Longitude": 103.76391083181434,
+            "Latitude": 1.37043731031208,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Cashew Stn"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "43099",
+            "Longitude": 103.76498636840047,
+            "Latitude": 1.36872205121157,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Assumption Pathway Sch"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "43089",
+            "Longitude": 103.76608527288596,
+            "Latitude": 1.36705664197789,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Assumption Eng Sch"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "43069",
+            "Longitude": 103.76768583722071,
+            "Latitude": 1.36296778241046,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "HILLVIEW STN EXIT A"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "43059",
+            "Longitude": 103.7674364,
+            "Latitude": 1.359408611,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "The Rail Mall"
+        },
+        {
+            "Distance": 21.8,
+            "BusStopCode": "43049",
+            "Longitude": 103.76885141403912,
+            "Latitude": 1.3556996199834,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp Hume Pk Condo"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "43029",
+            "Longitude": 103.77000849173528,
+            "Latitude": 1.35218580086883,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp The Hillside"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "43019",
+            "Longitude": 103.7710775,
+            "Latitude": 1.348201944,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Bt Timah Fire Stn"
+        },
+        {
+            "Distance": 23.1,
+            "BusStopCode": "42119",
+            "Longitude": 103.77330275765884,
+            "Latitude": 1.34582513057916,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Southaven II"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "42109",
+            "Longitude": 103.7769164,
+            "Latitude": 1.343246111,
+            "RoadName": "Jln Anak Bt",
+            "Description": "Opp Beauty World Ctr"
+        },
+        {
+            "Distance": 24.1,
+            "BusStopCode": "42089",
+            "Longitude": 103.77941451542826,
+            "Latitude": 1.34007090936874,
+            "RoadName": "Jln Anak Bt",
+            "Description": "Opp Bt Timah Plaza"
+        },
+        {
+            "Distance": 24.8,
+            "BusStopCode": "42059",
+            "Longitude": 103.78180146215335,
+            "Latitude": 1.33679896138996,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp King Albert Pk Stn"
+        },
+        {
+            "Distance": 25,
+            "BusStopCode": "42049",
+            "Longitude": 103.7846322701164,
+            "Latitude": 1.33580349277905,
+            "RoadName": "Dunearn Rd",
+            "Description": "Hua Guan Gdns"
+        },
+        {
+            "Distance": 25.4,
+            "BusStopCode": "42039",
+            "Longitude": 103.7877986922408,
+            "Latitude": 1.33474752657285,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp The Nexus"
+        },
+        {
+            "Distance": 25.9,
+            "BusStopCode": "42029",
+            "Longitude": 103.79206171859214,
+            "Latitude": 1.33325151466609,
+            "RoadName": "Dunearn Rd",
+            "Description": "Aft Swiss Club Rd"
+        },
+        {
+            "Distance": 26.4,
+            "BusStopCode": "42019",
+            "Longitude": 103.79657033601987,
+            "Latitude": 1.33170368135595,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp Sixth Ave Stn"
+        },
+        {
+            "Distance": 26.8,
+            "BusStopCode": "41089",
+            "Longitude": 103.79993319513187,
+            "Latitude": 1.33044921085796,
+            "RoadName": "Dunearn Rd",
+            "Description": "Aft Jln Naga Sari"
+        },
+        {
+            "Distance": 27.2,
+            "BusStopCode": "41079",
+            "Longitude": 103.80304777797754,
+            "Latitude": 1.32940305598521,
+            "RoadName": "Dunearn Rd",
+            "Description": "Natl JC"
+        },
+        {
+            "Distance": 27.8,
+            "BusStopCode": "41069",
+            "Longitude": 103.80758583296918,
+            "Latitude": 1.32652777798065,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp Tan Kah Kee Stn"
+        },
+        {
+            "Distance": 28.2,
+            "BusStopCode": "41049",
+            "Longitude": 103.81026249997407,
+            "Latitude": 1.32469500003392,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp Coronation Plaza"
+        },
+        {
+            "Distance": 28.9,
+            "BusStopCode": "41029",
+            "Longitude": 103.81630566925632,
+            "Latitude": 1.32333331915013,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp Botanic Gdns Stn"
+        },
+        {
+            "Distance": 29.4,
+            "BusStopCode": "41019",
+            "Longitude": 103.82025232877241,
+            "Latitude": 1.32267444098276,
+            "RoadName": "Dunearn Rd",
+            "Description": "Aft Kheam Hock Rd"
+        },
+        {
+            "Distance": 29.8,
+            "BusStopCode": "40099",
+            "Longitude": 103.82344007494515,
+            "Latitude": 1.32185235205471,
+            "RoadName": "Dunearn Rd",
+            "Description": "Aft Dunkirk Ave"
+        },
+        {
+            "Distance": 30.3,
+            "BusStopCode": "40089",
+            "Longitude": 103.82737957359956,
+            "Latitude": 1.3205163708353,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp Stevens Stn"
+        },
+        {
+            "Distance": 30.6,
+            "BusStopCode": "40079",
+            "Longitude": 103.8299145659947,
+            "Latitude": 1.3197216415795,
+            "RoadName": "Dunearn Rd",
+            "Description": "Chinese Girls' Pr Sch"
+        },
+        {
+            "Distance": 30.9,
+            "BusStopCode": "40119",
+            "Longitude": 103.83249521257974,
+            "Latitude": 1.31889734253426,
+            "RoadName": "Dunearn Rd",
+            "Description": "Bef Goldhill Ave"
+        },
+        {
+            "Distance": 31.1,
+            "BusStopCode": "40069",
+            "Longitude": 103.83435129198834,
+            "Latitude": 1.31830398893217,
+            "RoadName": "Dunearn Rd",
+            "Description": "Anglo-Chinese Sch"
+        },
+        {
+            "Distance": 31.4,
+            "BusStopCode": "40059",
+            "Longitude": 103.83634361100417,
+            "Latitude": 1.31662138896806,
+            "RoadName": "Dunearn Rd",
+            "Description": "Chancery Ct"
+        },
+        {
+            "Distance": 31.8,
+            "BusStopCode": "40049",
+            "Longitude": 103.83884638900086,
+            "Latitude": 1.31402305600959,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp Newton Stn Exit C"
+        },
+        {
+            "Distance": 32.1,
+            "BusStopCode": "40039",
+            "Longitude": 103.8407255559936,
+            "Latitude": 1.31230305602353,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Opp Newton FC"
+        },
+        {
+            "Distance": 32.4,
+            "BusStopCode": "40029",
+            "Longitude": 103.84265999998345,
+            "Latitude": 1.31142305600915,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Aft Makepeace Rd"
+        },
+        {
+            "Distance": 32.8,
+            "BusStopCode": "40279",
+            "Longitude": 103.8460393043403,
+            "Latitude": 1.30981925741503,
+            "RoadName": "Bt Timah Rd",
+            "Description": "KK Women & Child Hosp"
+        },
+        {
+            "Distance": 33.3,
+            "BusStopCode": "40019",
+            "Longitude": 103.84920416709382,
+            "Latitude": 1.30664404460339,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Little India Stn"
+        },
+        {
+            "Distance": 33.7,
+            "BusStopCode": "07539",
+            "Longitude": 103.8520009720951,
+            "Latitude": 1.30461300741211,
+            "RoadName": "Sungei Rd",
+            "Description": "Opp Rochor Stn"
+        },
+        {
+            "Distance": 34.2,
+            "BusStopCode": "01109",
+            "Longitude": 103.85650372998224,
+            "Latitude": 1.30358577565355,
+            "RoadName": "Queen St",
+            "Description": "Queen St Ter"
+        }
+    ]
+}

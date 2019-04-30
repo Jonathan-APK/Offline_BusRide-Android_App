@@ -1,0 +1,604 @@
+{
+    "direction 1": [
+        {
+            "Distance": null,
+            "BusStopCode": "02099",
+            "Longitude": 103.86255772172497,
+            "Latitude": 1.29101661693418,
+            "RoadName": "Raffles Blvd",
+            "Description": "Marina Ctr Ter"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "02101",
+            "Longitude": 103.8618029276249,
+            "Latitude": 1.28939197625331,
+            "RoadName": "Raffles Ave",
+            "Description": "AFT S'PORE FLYER"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "02051",
+            "Longitude": 103.85903388899317,
+            "Latitude": 1.2895030556082,
+            "RoadName": "Raffles Ave",
+            "Description": "Seating Gallery"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "02061",
+            "Longitude": 103.85640388886262,
+            "Latitude": 1.2899638888957,
+            "RoadName": "Raffles Ave",
+            "Description": "The Esplanade"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "04167",
+            "Longitude": 103.85145315468638,
+            "Latitude": 1.29250006522444,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "City Hall Stn Exit B"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "04249",
+            "Longitude": 103.85026216508201,
+            "Latitude": 1.29043039362749,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "Opp The Treasury"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "05029",
+            "Longitude": 103.84833343750249,
+            "Latitude": 1.28724656561704,
+            "RoadName": "Sth Bridge Rd",
+            "Description": "Boat Quay"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "04222",
+            "Longitude": 103.84708976365569,
+            "Latitude": 1.28898962180798,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Clarke Quay Stn Exit E"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "04211",
+            "Longitude": 103.84712444398055,
+            "Latitude": 1.29043611099357,
+            "RoadName": "River Valley Rd",
+            "Description": "Clarke Quay"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "04331",
+            "Longitude": 103.84504089382705,
+            "Latitude": 1.29183939431601,
+            "RoadName": "River Valley Rd",
+            "Description": "BEF FORT CANNING STN"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "13109",
+            "Longitude": 103.84272416702719,
+            "Latitude": 1.29350944398488,
+            "RoadName": "River Valley Rd",
+            "Description": "UE Sq"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "13211",
+            "Longitude": 103.841095990069,
+            "Latitude": 1.29241699362559,
+            "RoadName": "Mohd Sultan Rd",
+            "Description": "Aft Unity St"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "06151",
+            "Longitude": 103.83737276969174,
+            "Latitude": 1.28870976841461,
+            "RoadName": "Havelock Rd",
+            "Description": "Hotel Miramar"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "06141",
+            "Longitude": 103.83381241921823,
+            "Latitude": 1.28963300933974,
+            "RoadName": "Havelock Rd",
+            "Description": "Holiday Inn Atrium"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "06131",
+            "Longitude": 103.83222750001508,
+            "Latitude": 1.29152472200833,
+            "RoadName": "Zion Rd",
+            "Description": "The Boys' Brigade HQ"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "13121",
+            "Longitude": 103.8308377640795,
+            "Latitude": 1.29409221679274,
+            "RoadName": "Zion Rd",
+            "Description": "Opp Great World City"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "13141",
+            "Longitude": 103.82996320724997,
+            "Latitude": 1.29745598928819,
+            "RoadName": "Hoot Kiam Rd",
+            "Description": "Aft Zion Full Gospel Ch"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "13191",
+            "Longitude": 103.82987799248593,
+            "Latitude": 1.30266053145965,
+            "RoadName": "Paterson Rd",
+            "Description": "Bef Orchard Blvd"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "09048",
+            "Longitude": 103.83413070051408,
+            "Latitude": 1.30386684425114,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Stn/Lucky Plaza"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "09038",
+            "Longitude": 103.83852481842337,
+            "Latitude": 1.30154262450563,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Somerset Stn"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "08138",
+            "Longitude": 103.84184700607595,
+            "Latitude": 1.3004785730821,
+            "RoadName": "Orchard Rd",
+            "Description": "Concorde Hotel S'pore"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "08079",
+            "Longitude": 103.84910329217985,
+            "Latitude": 1.29921444445586,
+            "RoadName": "Prinsep St",
+            "Description": "Sch of the Arts"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "07011",
+            "Longitude": 103.8498101874305,
+            "Latitude": 1.30099699058522,
+            "RoadName": "Selegie Rd",
+            "Description": "Peace Ctr"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "07021",
+            "Longitude": 103.84995776766847,
+            "Latitude": 1.30324521574524,
+            "RoadName": "Selegie Rd",
+            "Description": "Selegie Ctr"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "07539",
+            "Longitude": 103.8520009720951,
+            "Latitude": 1.30461300741211,
+            "RoadName": "Sungei Rd",
+            "Description": "Opp Rochor Stn"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "07589",
+            "Longitude": 103.85549999983388,
+            "Latitude": 1.30320609782822,
+            "RoadName": "Ophir Rd",
+            "Description": "Opp Rochor Ctr"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "01559",
+            "Longitude": 103.85752923961614,
+            "Latitude": 1.30168731070562,
+            "RoadName": "Ophir Rd",
+            "Description": "Landmark Village Hotel"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "01549",
+            "Longitude": 103.85873120467069,
+            "Latitude": 1.30069868861162,
+            "RoadName": "Ophir Rd",
+            "Description": "Near Bali Lane"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "83101",
+            "Longitude": 103.90489836683336,
+            "Latitude": 1.32066709057479,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Stn"
+        },
+        {
+            "Distance": 20.5,
+            "BusStopCode": "83111",
+            "Longitude": 103.90527311322877,
+            "Latitude": 1.32346854012914,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 17"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "72011",
+            "Longitude": 103.90548361097667,
+            "Latitude": 1.32816499999482,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 322"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "72021",
+            "Longitude": 103.9063218660858,
+            "Latitude": 1.33096531210116,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 646"
+        },
+        {
+            "Distance": 21.9,
+            "BusStopCode": "72061",
+            "Longitude": 103.9098393917043,
+            "Latitude": 1.33177922756641,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 122"
+        },
+        {
+            "Distance": 22.1,
+            "BusStopCode": "72071",
+            "Longitude": 103.91184110459187,
+            "Latitude": 1.33219165087886,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 133"
+        },
+        {
+            "Distance": 22.6,
+            "BusStopCode": "84499",
+            "Longitude": 103.91399439090614,
+            "Latitude": 1.33508643985694,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 140"
+        },
+        {
+            "Distance": 23.2,
+            "BusStopCode": "84489",
+            "Longitude": 103.91618833296936,
+            "Latitude": 1.33804722197723,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Bedok Ind Pk C"
+        },
+        {
+            "Distance": 23.6,
+            "BusStopCode": "84461",
+            "Longitude": 103.91939027798064,
+            "Latitude": 1.33807138901241,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Blk 701"
+        },
+        {
+            "Distance": 24,
+            "BusStopCode": "84471",
+            "Longitude": 103.92199745160043,
+            "Latitude": 1.3373330466218,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 745"
+        },
+        {
+            "Distance": 24.4,
+            "BusStopCode": "84621",
+            "Longitude": 103.9249204585602,
+            "Latitude": 1.33831497804809,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Blk 716"
+        },
+        {
+            "Distance": 24.8,
+            "BusStopCode": "84611",
+            "Longitude": 103.92795482353951,
+            "Latitude": 1.33922469822607,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Waterfront Isle"
+        },
+        {
+            "Distance": 25,
+            "BusStopCode": "84631",
+            "Longitude": 103.92948245969215,
+            "Latitude": 1.33879275233871,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Waterfront Waves"
+        },
+        {
+            "Distance": 25.2,
+            "BusStopCode": "84601",
+            "Longitude": 103.93116966665325,
+            "Latitude": 1.33820137485609,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Waterfront Key"
+        },
+        {
+            "Distance": 25.6,
+            "BusStopCode": "75341",
+            "Longitude": 103.933861255669,
+            "Latitude": 1.33832204097015,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp The Clearwater Condo"
+        },
+        {
+            "Distance": 26,
+            "BusStopCode": "75061",
+            "Longitude": 103.93646836281481,
+            "Latitude": 1.34071391760745,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Bedok Reform Trg Ctr"
+        },
+        {
+            "Distance": 26.8,
+            "BusStopCode": "75229",
+            "Longitude": 103.93676608938834,
+            "Latitude": 1.34499782605889,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly East G"
+        },
+        {
+            "Distance": 27.3,
+            "BusStopCode": "75239",
+            "Longitude": 103.93257655832721,
+            "Latitude": 1.34675259898315,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly"
+        },
+        {
+            "Distance": 27.7,
+            "BusStopCode": "75249",
+            "Longitude": 103.93017010145029,
+            "Latitude": 1.34791499671757,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly West G"
+        },
+        {
+            "Distance": 28.1,
+            "BusStopCode": "75031",
+            "Longitude": 103.92946243284943,
+            "Latitude": 1.35080696753697,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Opp Springfield Sec Sch"
+        },
+        {
+            "Distance": 28.6,
+            "BusStopCode": "75151",
+            "Longitude": 103.93145206236657,
+            "Latitude": 1.35451781224143,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Opp Blk 871A"
+        },
+        {
+            "Distance": 29,
+            "BusStopCode": "75141",
+            "Longitude": 103.93377888890949,
+            "Latitude": 1.35625000000112,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 730"
+        },
+        {
+            "Distance": 29.4,
+            "BusStopCode": "75131",
+            "Longitude": 103.93709646027764,
+            "Latitude": 1.35594818346107,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Bet Blks 701/702"
+        },
+        {
+            "Distance": 29.7,
+            "BusStopCode": "75121",
+            "Longitude": 103.93903255460283,
+            "Latitude": 1.35593392058986,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Darul Ghufran Mque"
+        },
+        {
+            "Distance": 30.2,
+            "BusStopCode": "76059",
+            "Longitude": 103.94165154852797,
+            "Latitude": 1.35296163572491,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Our Tampines Hub"
+        },
+        {
+            "Distance": 30.5,
+            "BusStopCode": "76131",
+            "Longitude": 103.94254133694142,
+            "Latitude": 1.35184112001279,
+            "RoadName": "Tampines Ave 4",
+            "Description": "UOB Tampines Ctr"
+        },
+        {
+            "Distance": 30.9,
+            "BusStopCode": "76141",
+            "Longitude": 103.94609060451609,
+            "Latitude": 1.35366689109025,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Tampines Stn/Int"
+        },
+        {
+            "Distance": 31.5,
+            "BusStopCode": "76399",
+            "Longitude": 103.94723337005571,
+            "Latitude": 1.3586225675181,
+            "RoadName": "Tampines St 41",
+            "Description": "Blk 417"
+        },
+        {
+            "Distance": 32,
+            "BusStopCode": "76369",
+            "Longitude": 103.95022273065783,
+            "Latitude": 1.36025642698418,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 496F"
+        },
+        {
+            "Distance": 32.3,
+            "BusStopCode": "76359",
+            "Longitude": 103.95217875196944,
+            "Latitude": 1.36209168075863,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 493B"
+        },
+        {
+            "Distance": 32.7,
+            "BusStopCode": "76279",
+            "Longitude": 103.95504580030337,
+            "Latitude": 1.3618856073242,
+            "RoadName": "Tampines St 45",
+            "Description": "Blk 491C"
+        },
+        {
+            "Distance": 33,
+            "BusStopCode": "76269",
+            "Longitude": 103.95739818627865,
+            "Latitude": 1.36187820405808,
+            "RoadName": "Tampines St 45",
+            "Description": "Opp Blk 489A"
+        },
+        {
+            "Distance": 33.3,
+            "BusStopCode": "76259",
+            "Longitude": 103.95842446373796,
+            "Latitude": 1.35967015846114,
+            "RoadName": "Tampines St 45",
+            "Description": "Opp Blk 487B"
+        },
+        {
+            "Distance": 33.9,
+            "BusStopCode": "76469",
+            "Longitude": 103.95985048163843,
+            "Latitude": 1.35630339357193,
+            "RoadName": "Tampines St 34",
+            "Description": "East Spring Sec Sch"
+        },
+        {
+            "Distance": 34.2,
+            "BusStopCode": "76429",
+            "Longitude": 103.9595890045465,
+            "Latitude": 1.35369222069272,
+            "RoadName": "Tampines St 32",
+            "Description": "Blk 331"
+        },
+        {
+            "Distance": 34.6,
+            "BusStopCode": "76419",
+            "Longitude": 103.95648530342,
+            "Latitude": 1.35366243500181,
+            "RoadName": "Tampines St 32",
+            "Description": "Blk 307A"
+        },
+        {
+            "Distance": 34.8,
+            "BusStopCode": "76109",
+            "Longitude": 103.9551184525466,
+            "Latitude": 1.35296639979416,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 35.3,
+            "BusStopCode": "76099",
+            "Longitude": 103.95249172187374,
+            "Latitude": 1.35026359502623,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 285"
+        },
+        {
+            "Distance": 35.8,
+            "BusStopCode": "76089",
+            "Longitude": 103.94923388889873,
+            "Latitude": 1.34916805553714,
+            "RoadName": "Tampines Ave 2",
+            "Description": "The Holy Trinity Ch"
+        },
+        {
+            "Distance": 36.3,
+            "BusStopCode": "76079",
+            "Longitude": 103.94563500000055,
+            "Latitude": 1.34794388891649,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 36.9,
+            "BusStopCode": "76061",
+            "Longitude": 103.94189805552267,
+            "Latitude": 1.3482019444416,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 938"
+        },
+        {
+            "Distance": 37.4,
+            "BusStopCode": "76111",
+            "Longitude": 103.94023387732626,
+            "Latitude": 1.35157455446947,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Blk 945"
+        },
+        {
+            "Distance": 37.7,
+            "BusStopCode": "76121",
+            "Longitude": 103.93817517168992,
+            "Latitude": 1.35003333718868,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp St. Hilda's Sec Sch"
+        },
+        {
+            "Distance": 38,
+            "BusStopCode": "75079",
+            "Longitude": 103.9370121634589,
+            "Latitude": 1.34858249441921,
+            "RoadName": "Tampines Ave 3",
+            "Description": "Blk 819"
+        },
+        {
+            "Distance": 38.4,
+            "BusStopCode": "75089",
+            "Longitude": 103.93404731779178,
+            "Latitude": 1.34977145890473,
+            "RoadName": "Tampines Ave 3",
+            "Description": "Blk 827"
+        },
+        {
+            "Distance": 38.7,
+            "BusStopCode": "75109",
+            "Longitude": 103.93102423699943,
+            "Latitude": 1.35115140327554,
+            "RoadName": "Tampines Ave 3",
+            "Description": "Blk 888"
+        }
+    ]
+}

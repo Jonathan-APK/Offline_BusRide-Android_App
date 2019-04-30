@@ -1,0 +1,300 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (First Stop)"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "64551",
+            "Longitude": 103.89033436772391,
+            "Latitude": 1.36988818748014,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Blk 836"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "64529",
+            "Longitude": 103.88933520735068,
+            "Latitude": 1.3699286957754,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Hougang Polyclinic"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "64339",
+            "Longitude": 103.88702988625133,
+            "Latitude": 1.37136834322266,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 602"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "64411",
+            "Longitude": 103.88503406200056,
+            "Latitude": 1.37353273194871,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 670"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "64479",
+            "Longitude": 103.88353995121632,
+            "Latitude": 1.374401340713,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Blk 665"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "64489",
+            "Longitude": 103.88067688397112,
+            "Latitude": 1.37488764981722,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Blk 946A"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "64499",
+            "Longitude": 103.87828864496953,
+            "Latitude": 1.3748828566071,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Regentville"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "66439",
+            "Longitude": 103.87551294197841,
+            "Latitude": 1.37393762072692,
+            "RoadName": "S'goon Nth Ave 4",
+            "Description": "Blk 504A CP"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "66429",
+            "Longitude": 103.87243744452265,
+            "Latitude": 1.37352182697727,
+            "RoadName": "S'goon Nth Ave 4",
+            "Description": "Blk 530"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "66101",
+            "Longitude": 103.87325896613375,
+            "Latitude": 1.37094045484466,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 516"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "63219",
+            "Longitude": 103.8762710483349,
+            "Latitude": 1.36856637012739,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Blk 139"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "63209",
+            "Longitude": 103.87522122785421,
+            "Latitude": 1.36605804817414,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Toho Green"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "63199",
+            "Longitude": 103.87383805598819,
+            "Latitude": 1.36327972197547,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Nth Ave 1"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "63189",
+            "Longitude": 103.87363460960414,
+            "Latitude": 1.36133997852966,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Gdn Way"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "63179",
+            "Longitude": 103.87393532776181,
+            "Latitude": 1.35999305129204,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Tai Seng Chr Ch"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "63369",
+            "Longitude": 103.87410388898788,
+            "Latitude": 1.35663166702793,
+            "RoadName": "Yio Chu Kang Link",
+            "Description": "Serangoon Sports Cplx"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "66379",
+            "Longitude": 103.87285801649963,
+            "Latitude": 1.35339155862192,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "66359",
+            "Longitude": 103.87328604946424,
+            "Latitude": 1.35080698547823,
+            "RoadName": "S'goon Ctrl",
+            "Description": "S'Goon Stn Exit C/Blk 201"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "62141",
+            "Longitude": 103.87515194713767,
+            "Latitude": 1.35149112412235,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 1"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "63141",
+            "Longitude": 103.87491322643768,
+            "Latitude": 1.35404612202219,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "63361",
+            "Longitude": 103.87383985365209,
+            "Latitude": 1.35744648841295,
+            "RoadName": "Yio Chu Kang Link",
+            "Description": "Opp S'Goon Sports Cplx"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "63181",
+            "Longitude": 103.87346222201559,
+            "Latitude": 1.36083138898279,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef St. Helier's Ave"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "63191",
+            "Longitude": 103.87403972199432,
+            "Latitude": 1.36426277802723,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Nth Ave 1"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "63201",
+            "Longitude": 103.87492029493984,
+            "Latitude": 1.36617789459924,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 133"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "63211",
+            "Longitude": 103.87573084011618,
+            "Latitude": 1.36814638231195,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 138"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "66109",
+            "Longitude": 103.8746132395795,
+            "Latitude": 1.3699792245468,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "66421",
+            "Longitude": 103.87340722201968,
+            "Latitude": 1.37365500000249,
+            "RoadName": "S'goon Nth Ave 4",
+            "Description": "Blk 537"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "66431",
+            "Longitude": 103.87526422817183,
+            "Latitude": 1.37297644274866,
+            "RoadName": "S'goon Nth Ave 4",
+            "Description": "Opp Blk 506A"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "64491",
+            "Longitude": 103.87905166700338,
+            "Latitude": 1.37513027801163,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Hougang 1"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "64481",
+            "Longitude": 103.8807864140804,
+            "Latitude": 1.37514474329335,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Bet Blks 930/931"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "64471",
+            "Longitude": 103.8839677779891,
+            "Latitude": 1.37454805598778,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Blk 917"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "64419",
+            "Longitude": 103.88521854859373,
+            "Latitude": 1.37339164793235,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 681"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "64331",
+            "Longitude": 103.88805955105329,
+            "Latitude": 1.37143555507852,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 508"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "64521",
+            "Longitude": 103.88956725593734,
+            "Latitude": 1.36983992146019,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 834"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "64559",
+            "Longitude": 103.8908113889665,
+            "Latitude": 1.37060388901687,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Blk 830A"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (Last Stop)"
+        }
+    ]
+}

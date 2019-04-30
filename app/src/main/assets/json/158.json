@@ -1,0 +1,540 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int (First Stop)"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "62179",
+            "Longitude": 103.8748318800615,
+            "Latitude": 1.34864500235611,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 421"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "62169",
+            "Longitude": 103.8764688890183,
+            "Latitude": 1.34763166701234,
+            "RoadName": "S'goon Ave 1",
+            "Description": "Blk 426"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "62159",
+            "Longitude": 103.8776519633928,
+            "Latitude": 1.34592441628878,
+            "RoadName": "S'goon Ave 1",
+            "Description": "Opp Rindu Terr"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "62089",
+            "Longitude": 103.8782509427123,
+            "Latitude": 1.34383983323818,
+            "RoadName": "Bartley Rd",
+            "Description": "Bartley Chr Ch"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "62079",
+            "Longitude": 103.87976646424752,
+            "Latitude": 1.34296635529936,
+            "RoadName": "Bartley Rd",
+            "Description": "AFT BARTLEY STN EXIT B"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "62069",
+            "Longitude": 103.88161305566761,
+            "Latitude": 1.34209858960795,
+            "RoadName": "Bartley Rd",
+            "Description": "Bef Upp Paya Lebar Rd"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "70309",
+            "Longitude": 103.88639700003634,
+            "Latitude": 1.33965000001824,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Opp Paya Lebar St"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "70299",
+            "Longitude": 103.88758305557131,
+            "Latitude": 1.3374750000156,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Opp Asiawide Ind Bldg"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "70289",
+            "Longitude": 103.8886929999761,
+            "Latitude": 1.3350640000249,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Opp Tai Seng Stn"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "70279",
+            "Longitude": 103.88951499040957,
+            "Latitude": 1.33155751923227,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Opp Trinity @ Paya Lebar"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "70269",
+            "Longitude": 103.89014388885742,
+            "Latitude": 1.32824611112671,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Citipoint Ind Cplx"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "70379",
+            "Longitude": 103.88933975894,
+            "Latitude": 1.32604294133609,
+            "RoadName": "Circuit Link",
+            "Description": "Opp Macpherson Stn Exit A"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "70201",
+            "Longitude": 103.88885416699938,
+            "Latitude": 1.32461138902969,
+            "RoadName": "Circuit Rd",
+            "Description": "OPP MACPHERSON STN EXIT D"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "70211",
+            "Longitude": 103.88696166698931,
+            "Latitude": 1.32362166702646,
+            "RoadName": "Pipit Rd",
+            "Description": "Blk 90"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "70221",
+            "Longitude": 103.88512100988676,
+            "Latitude": 1.32620809233247,
+            "RoadName": "Circuit Rd",
+            "Description": "Blk 79 FC"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "70231",
+            "Longitude": 103.88401361102049,
+            "Latitude": 1.32617666698776,
+            "RoadName": "Mattar Rd",
+            "Description": "OPP MATTAR STN EXIT B"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "70241",
+            "Longitude": 103.88199999996775,
+            "Latitude": 1.32525399997752,
+            "RoadName": "Mattar Rd",
+            "Description": "MacPherson Pr Sch"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "70019",
+            "Longitude": 103.88145725676175,
+            "Latitude": 1.32322990499562,
+            "RoadName": "Aljunied Rd",
+            "Description": "Blk 125"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "81099",
+            "Longitude": 103.88194665985091,
+            "Latitude": 1.31982276662398,
+            "RoadName": "Aljunied Rd",
+            "Description": "Blk 102"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "81089",
+            "Longitude": 103.88202243551633,
+            "Latitude": 1.31628194302502,
+            "RoadName": "Aljunied Rd",
+            "Description": "Aljunied Stn"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "80089",
+            "Longitude": 103.88080516731976,
+            "Latitude": 1.31274483593155,
+            "RoadName": "Geylang Rd",
+            "Description": "Bef Lor 18 Geylang"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "80069",
+            "Longitude": 103.87715016317217,
+            "Latitude": 1.31214703288286,
+            "RoadName": "Geylang Rd",
+            "Description": "Opp Mohd Salleh Mque"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "80119",
+            "Longitude": 103.87599804972949,
+            "Latitude": 1.30992065473549,
+            "RoadName": "Sims Way",
+            "Description": "Aft Geylang Rd"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "80149",
+            "Longitude": 103.8798058337351,
+            "Latitude": 1.3074963710946,
+            "RoadName": "Mountbatten Rd",
+            "Description": "S.A. Deaf"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "80279",
+            "Longitude": 103.88342000727887,
+            "Latitude": 1.30514903438296,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Mountbatten Stn Exit B"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "91099",
+            "Longitude": 103.88471920227425,
+            "Latitude": 1.30320972763591,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Bef Wilkinson Rd"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "91089",
+            "Longitude": 103.88553021350832,
+            "Latitude": 1.29913832558004,
+            "RoadName": "Fort Rd",
+            "Description": "Opp Fort Gdns"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "90069",
+            "Longitude": 103.88258182953015,
+            "Latitude": 1.29795473961403,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Opp Dunman High Sch"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "90059",
+            "Longitude": 103.8791081,
+            "Latitude": 1.297578611,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "S'pore Swim Club"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "90039",
+            "Longitude": 103.87539308856654,
+            "Latitude": 1.29663305723862,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Opp Tg Ria Condo"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "90029",
+            "Longitude": 103.87253085603427,
+            "Latitude": 1.29700669642984,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Opp Pebble Bay"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "90019",
+            "Longitude": 103.86961360282373,
+            "Latitude": 1.29697091533768,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Pk Shore Condo"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "90079",
+            "Longitude": 103.86732745550238,
+            "Latitude": 1.29760718196372,
+            "RoadName": "Rhu Cross",
+            "Description": "Opp Costa Rhu Condo"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "90011",
+            "Longitude": 103.86924820515104,
+            "Latitude": 1.29711286404721,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Bef Tg Rhu View"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "90021",
+            "Longitude": 103.8710544,
+            "Latitude": 1.297235556,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Pebble Bay"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "90031",
+            "Longitude": 103.8750589,
+            "Latitude": 1.296454444,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Tg Ria Condo"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "90051",
+            "Longitude": 103.8791731,
+            "Latitude": 1.297659444,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Opp S'pore Swim Club"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "90061",
+            "Longitude": 103.8824094,
+            "Latitude": 1.2981225,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Dunman High Sch"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "91081",
+            "Longitude": 103.88533388902762,
+            "Latitude": 1.29930499999248,
+            "RoadName": "Fort Rd",
+            "Description": "Fort Gdns"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "91091",
+            "Longitude": 103.88436845345339,
+            "Latitude": 1.30314976548218,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Bef Kg Kayu Rd"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "80271",
+            "Longitude": 103.8831203007559,
+            "Latitude": 1.30511398524943,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Opp Mountbatten Stn"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "80141",
+            "Longitude": 103.87989373246151,
+            "Latitude": 1.30711835522323,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Opp S.A. Deaf"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "80111",
+            "Longitude": 103.87551499911487,
+            "Latitude": 1.30987138105238,
+            "RoadName": "Sims Way",
+            "Description": "Bef Geylang Rd"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "80071",
+            "Longitude": 103.87655394006379,
+            "Latitude": 1.31380009198455,
+            "RoadName": "Sims Ave",
+            "Description": "Yi Xiu Fty Bldg"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "80091",
+            "Longitude": 103.88095141640784,
+            "Latitude": 1.31489775184137,
+            "RoadName": "Sims Ave",
+            "Description": "Bef Lor 23 Geylang"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "81081",
+            "Longitude": 103.88168156879213,
+            "Latitude": 1.31621665907428,
+            "RoadName": "Aljunied Rd",
+            "Description": "Opp Aljunied Stn"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "81091",
+            "Longitude": 103.88173111103306,
+            "Latitude": 1.31935333297674,
+            "RoadName": "Aljunied Rd",
+            "Description": "Opp Blk 105"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "70011",
+            "Longitude": 103.88116008329277,
+            "Latitude": 1.32317687661433,
+            "RoadName": "Aljunied Rd",
+            "Description": "Opp Blk 125"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "70151",
+            "Longitude": 103.8809633442231,
+            "Latitude": 1.32768374279565,
+            "RoadName": "Merpati Rd",
+            "Description": "Aft Jln Anggerek"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "70161",
+            "Longitude": 103.88324806418214,
+            "Latitude": 1.32758635490072,
+            "RoadName": "Merpati Rd",
+            "Description": "OPP MATTAR STN EXIT A"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "70171",
+            "Longitude": 103.88547138902759,
+            "Latitude": 1.32833666697134,
+            "RoadName": "Circuit Rd",
+            "Description": "Blk 77"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "70181",
+            "Longitude": 103.88691723349123,
+            "Latitude": 1.32886177068404,
+            "RoadName": "Circuit Rd",
+            "Description": "Blk 36"
+        },
+        {
+            "Distance": 20.8,
+            "BusStopCode": "70191",
+            "Longitude": 103.88793655793152,
+            "Latitude": 1.32722900950909,
+            "RoadName": "Circuit Rd",
+            "Description": "OPP BLK 66"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "70371",
+            "Longitude": 103.88932330108935,
+            "Latitude": 1.32623288866609,
+            "RoadName": "Circuit Link",
+            "Description": "Macpherson Stn Exit A"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "70261",
+            "Longitude": 103.88962746952593,
+            "Latitude": 1.32884296980066,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Opp Orion @ Paya Lebar"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "70271",
+            "Longitude": 103.88931512831826,
+            "Latitude": 1.33078171512111,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Le Crescendo"
+        },
+        {
+            "Distance": 22.1,
+            "BusStopCode": "70281",
+            "Longitude": 103.8879999999696,
+            "Latitude": 1.33530627797371,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Tai Seng Stn"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "70291",
+            "Longitude": 103.88713611112668,
+            "Latitude": 1.33743499996855,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Asiawide Ind Bldg"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "70301",
+            "Longitude": 103.88575915318087,
+            "Latitude": 1.33965760027057,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Paya Lebar St"
+        },
+        {
+            "Distance": 23.2,
+            "BusStopCode": "62061",
+            "Longitude": 103.88178158303499,
+            "Latitude": 1.34173536917551,
+            "RoadName": "Bartley Rd",
+            "Description": "Aft Upp Paya Lebar Rd"
+        },
+        {
+            "Distance": 23.5,
+            "BusStopCode": "62071",
+            "Longitude": 103.88002892732668,
+            "Latitude": 1.34252980960729,
+            "RoadName": "Bartley Rd",
+            "Description": "BARTLEY STN EXIT A"
+        },
+        {
+            "Distance": 24.1,
+            "BusStopCode": "62151",
+            "Longitude": 103.87754406103582,
+            "Latitude": 1.34568958726335,
+            "RoadName": "S'goon Ave 1",
+            "Description": "Rindu Terr"
+        },
+        {
+            "Distance": 24.4,
+            "BusStopCode": "62161",
+            "Longitude": 103.87601972203167,
+            "Latitude": 1.34750333302055,
+            "RoadName": "S'goon Ave 1",
+            "Description": "St.Gabriel's Sec Sch"
+        },
+        {
+            "Distance": 24.6,
+            "BusStopCode": "62171",
+            "Longitude": 103.87462371780227,
+            "Latitude": 1.34826139600257,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 409"
+        },
+        {
+            "Distance": 24.9,
+            "BusStopCode": "62139",
+            "Longitude": 103.87341165935781,
+            "Latitude": 1.3490461240579,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit A/Blk 413"
+        },
+        {
+            "Distance": 25.4,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int (Last Stop)"
+        }
+    ]
+}

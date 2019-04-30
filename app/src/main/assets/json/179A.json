@@ -1,0 +1,100 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (First Stop)"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "27281",
+            "Longitude": 103.68780555602468,
+            "Latitude": 1.34565500002282,
+            "RoadName": "Lien Ying Chow Dr",
+            "Description": "Hall 1"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "27291",
+            "Longitude": 103.68649929145208,
+            "Latitude": 1.34772267411254,
+            "RoadName": "Lien Ying Chow Dr",
+            "Description": "Opp Hall 6"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "27311",
+            "Longitude": 103.68539285058924,
+            "Latitude": 1.34902211051484,
+            "RoadName": "Lien Ying Chow Dr",
+            "Description": "Hall 2"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "27061",
+            "Longitude": 103.68387082088056,
+            "Latitude": 1.34984722128218,
+            "RoadName": "Nanyang Dr",
+            "Description": "Opp Blk 41"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "27211",
+            "Longitude": 103.68050066497821,
+            "Latitude": 1.34793140650697,
+            "RoadName": "Nanyang Dr",
+            "Description": "Lee Wee Nam Lib"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "27221",
+            "Longitude": 103.67851763727317,
+            "Latitude": 1.34623151653928,
+            "RoadName": "Nanyang Dr",
+            "Description": "Sch Of CEE"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "27231",
+            "Longitude": 103.67922271593845,
+            "Latitude": 1.34207972361937,
+            "RoadName": "Nanyang Dr",
+            "Description": "Sch Of Comm And Info"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "27241",
+            "Longitude": 103.68089382456998,
+            "Latitude": 1.33998726585628,
+            "RoadName": "Nanyang Dr",
+            "Description": "Hall 7"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "27251",
+            "Longitude": 103.68371694398068,
+            "Latitude": 1.34228305598254,
+            "RoadName": "Nanyang Dr",
+            "Description": "Innovation Ctr"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "27261",
+            "Longitude": 103.6868651241412,
+            "Latitude": 1.34383372710626,
+            "RoadName": "Nanyang Dr",
+            "Description": "Hall 4"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (Last Stop)"
+        }
+    ]
+}

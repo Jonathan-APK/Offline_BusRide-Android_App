@@ -1,0 +1,388 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "10499",
+            "Longitude": 103.83401000002084,
+            "Latitude": 1.27585400417691,
+            "RoadName": "Spooner Rd",
+            "Description": "KAMPONG BAHRU TER (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "10051",
+            "Longitude": 103.83214410914843,
+            "Latitude": 1.2774116353284,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Blk 149"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "10061",
+            "Longitude": 103.82948638898173,
+            "Latitude": 1.27860472196885,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Blk 140"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "10071",
+            "Longitude": 103.82638920754815,
+            "Latitude": 1.28045309423663,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Blk 111"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "10371",
+            "Longitude": 103.824502653383,
+            "Latitude": 1.28365072319387,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Blk 129"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "10171",
+            "Longitude": 103.82346004890803,
+            "Latitude": 1.28736808047078,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Opp Tiong Bahru Pk"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "10181",
+            "Longitude": 103.8209448467392,
+            "Latitude": 1.28848771148124,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "BEF AR-RABITAH MQUE"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "10191",
+            "Longitude": 103.81903121724014,
+            "Latitude": 1.28860026020096,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Blk 78"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "10201",
+            "Longitude": 103.81662854691157,
+            "Latitude": 1.28928144532567,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Opp Redhill Stn"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "10281",
+            "Longitude": 103.81445166697797,
+            "Latitude": 1.29153833298318,
+            "RoadName": "Alexandra Rd",
+            "Description": "SIS Bldg"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "10291",
+            "Longitude": 103.81065866068086,
+            "Latitude": 1.29215855273858,
+            "RoadName": "Alexandra Rd",
+            "Description": "Bef Dawson Rd"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "11539",
+            "Longitude": 103.80786180498694,
+            "Latitude": 1.29117049549107,
+            "RoadName": "Alexandra Rd",
+            "Description": "Lea Hin Hardware Fty"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "11529",
+            "Longitude": 103.8060909305284,
+            "Latitude": 1.28903120647732,
+            "RoadName": "Alexandra Rd",
+            "Description": "Bef IKEA Ind Bldg"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "11519",
+            "Longitude": 103.80334129425303,
+            "Latitude": 1.28665742231261,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Queensway Shop Ctr"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "18019",
+            "Longitude": 103.80252305556165,
+            "Latitude": 1.28091055556275,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp SP Jain"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "15059",
+            "Longitude": 103.80270111113056,
+            "Latitude": 1.27686194443878,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Alexandra Pt"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "15049",
+            "Longitude": 103.80216344738955,
+            "Latitude": 1.274590541032,
+            "RoadName": "Alexandra Rd",
+            "Description": "Bef PSA Bldg"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "14189",
+            "Longitude": 103.80398363214624,
+            "Latitude": 1.27269303340787,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Aft Alexandra Rd"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "14179",
+            "Longitude": 103.80630000533797,
+            "Latitude": 1.27188454577735,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Yeo's Bldg"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "14169",
+            "Longitude": 103.80941810434497,
+            "Latitude": 1.27118550385957,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp Telok Blangah Stn"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "14041",
+            "Longitude": 103.81247079301698,
+            "Latitude": 1.2732727805917,
+            "RoadName": "Henderson Rd",
+            "Description": "Blk 54"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "14349",
+            "Longitude": 103.81339813671549,
+            "Latitude": 1.27579029839825,
+            "RoadName": "Telok Blangah Hts",
+            "Description": "Blk 59"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "14339",
+            "Longitude": 103.81124504785828,
+            "Latitude": 1.276660654539,
+            "RoadName": "Telok Blangah Hts",
+            "Description": "Bef Telok Blangah St 32"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "14329",
+            "Longitude": 103.8094536607413,
+            "Latitude": 1.27434961469084,
+            "RoadName": "Telok Blangah St 32",
+            "Description": "Blk 67"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "14491",
+            "Longitude": 103.8079488888896,
+            "Latitude": 1.27278805556375,
+            "RoadName": "Telok Blangah Dr",
+            "Description": "Opp Telok Blangah Mkt/FC"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "14501",
+            "Longitude": 103.8065181,
+            "Latitude": 1.277055,
+            "RoadName": "Telok Blangah St 31",
+            "Description": "OPP BLK 91A"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "14391",
+            "Longitude": 103.80858611110148,
+            "Latitude": 1.27790999999895,
+            "RoadName": "Telok Blangah Hts",
+            "Description": "Opp Blk 85"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "14331",
+            "Longitude": 103.8110680555484,
+            "Latitude": 1.27694611110347,
+            "RoadName": "Telok Blangah Hts",
+            "Description": "Aft Telok Blangah St 32"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "14341",
+            "Longitude": 103.81347388887318,
+            "Latitude": 1.2759338888633,
+            "RoadName": "Telok Blangah Hts",
+            "Description": "Opp Blk 59"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "14049",
+            "Longitude": 103.81304231999674,
+            "Latitude": 1.27324166755337,
+            "RoadName": "Henderson Rd",
+            "Description": "Opp Blk 55"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "14161",
+            "Longitude": 103.81009913005327,
+            "Latitude": 1.27075866533548,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Telok Blangah Stn"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "14171",
+            "Longitude": 103.80654857059398,
+            "Latitude": 1.27145959833005,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp Yeo's Bldg"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "15041",
+            "Longitude": 103.80185648483362,
+            "Latitude": 1.27455320898942,
+            "RoadName": "Alexandra Rd",
+            "Description": "Aft PSA Bldg"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "15051",
+            "Longitude": 103.80248500000464,
+            "Latitude": 1.27718388886974,
+            "RoadName": "Alexandra Rd",
+            "Description": "Alexandra Pt"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "18011",
+            "Longitude": 103.8021033300325,
+            "Latitude": 1.28087089714667,
+            "RoadName": "Alexandra Rd",
+            "Description": "SP Jain"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "11511",
+            "Longitude": 103.80251884462385,
+            "Latitude": 1.2859468736223,
+            "RoadName": "Alexandra Rd",
+            "Description": "Alexandra Hosp"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "11521",
+            "Longitude": 103.80543003047167,
+            "Latitude": 1.2885710102662,
+            "RoadName": "Alexandra Rd",
+            "Description": "Anchorpoint"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "11531",
+            "Longitude": 103.80753083302794,
+            "Latitude": 1.29108833302538,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Lea Hin Hardware Fty"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "10299",
+            "Longitude": 103.81146486767658,
+            "Latitude": 1.29233498466278,
+            "RoadName": "Alexandra Rd",
+            "Description": "Aft Dawson Rd"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "10209",
+            "Longitude": 103.81672885450702,
+            "Latitude": 1.28954631749853,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Redhill Stn"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "10199",
+            "Longitude": 103.81936618662205,
+            "Latitude": 1.28875723330649,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Delta Swim Cplx"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "10189",
+            "Longitude": 103.82183192865197,
+            "Latitude": 1.28858805222806,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Blk 104A CP"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "10179",
+            "Longitude": 103.82395833301354,
+            "Latitude": 1.28722333302937,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Tiong Bahru Pk"
+        },
+        {
+            "Distance": 18,
+            "BusStopCode": "10379",
+            "Longitude": 103.82489520929732,
+            "Latitude": 1.28373603376667,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Blk 25B"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "10079",
+            "Longitude": 103.82708906887606,
+            "Latitude": 1.2803950142786,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Blk 201"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "10069",
+            "Longitude": 103.83008250001669,
+            "Latitude": 1.27855472196877,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Opp Blk 140"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "10059",
+            "Longitude": 103.83275178077875,
+            "Latitude": 1.27739664167497,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Opp Blk 149"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "10499",
+            "Longitude": 103.83401000002084,
+            "Latitude": 1.27585400417691,
+            "RoadName": "Spooner Rd",
+            "Description": "KAMPONG BAHRU TER (Last Stop)"
+        }
+    ]
+}

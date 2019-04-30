@@ -1,0 +1,116 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "56251",
+            "Longitude": 103.8344186109838,
+            "Latitude": 1.37637472203353,
+            "RoadName": "Ang Mo Kio Ave 2",
+            "Description": "Opp Horizon Gdns"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "56241",
+            "Longitude": 103.83320833301671,
+            "Latitude": 1.37199166697877,
+            "RoadName": "Ang Mo Kio Ave 2",
+            "Description": "St. Nicholas Girls'"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "56289",
+            "Longitude": 103.83232655288832,
+            "Latitude": 1.37023167757252,
+            "RoadName": "Ang Mo Kio Ave 2",
+            "Description": "Bef Shangri-La Wk"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "56261",
+            "Longitude": 103.83172738576756,
+            "Latitude": 1.36786219023986,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Blk 248"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "54061",
+            "Longitude": 103.83404076959498,
+            "Latitude": 1.36728801688172,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Blk 246"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "54621",
+            "Longitude": 103.83773071305599,
+            "Latitude": 1.36595331171712,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "BLK 223"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "54611",
+            "Longitude": 103.84057417396242,
+            "Latitude": 1.36489470522366,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "BLK 220"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "54071",
+            "Longitude": 103.84490672378502,
+            "Latitude": 1.36433664907741,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "BLK 310"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "54081",
+            "Longitude": 103.84786694396756,
+            "Latitude": 1.36358972199933,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "TECK GHEE CT"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "54091",
+            "Longitude": 103.85092799797833,
+            "Latitude": 1.36167975047647,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "BLK 331"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "03223",
+            "Longitude": 103.84632468221952,
+            "Latitude": 1.2757033952327,
+            "RoadName": "Anson Rd",
+            "Description": "Intl Plaza"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "03151",
+            "Longitude": 103.84776234627124,
+            "Latitude": 1.27892124625262,
+            "RoadName": "Cecil St",
+            "Description": "Opp GB Bldg"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "03021",
+            "Longitude": 103.84998903789258,
+            "Latitude": 1.28255524603003,
+            "RoadName": "Cecil St",
+            "Description": "Prudential Twr"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        }
+    ]
+}

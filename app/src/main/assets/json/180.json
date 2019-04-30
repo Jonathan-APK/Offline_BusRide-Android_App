@@ -1,0 +1,380 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "22499",
+            "Longitude": 103.70488157561539,
+            "Latitude": 1.33752755300605,
+            "RoadName": "Jurong West St 64",
+            "Description": "Opp Blk 662C"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "21699",
+            "Longitude": 103.71203075013112,
+            "Latitude": 1.34154982082089,
+            "RoadName": "Boon Lay Way",
+            "Description": "SUMMERDALE"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "21689",
+            "Longitude": 103.71442338427325,
+            "Latitude": 1.34241984576482,
+            "RoadName": "Boon Lay Way",
+            "Description": "Blk 200"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "28099",
+            "Longitude": 103.71929832147642,
+            "Latitude": 1.34432009933148,
+            "RoadName": "Boon Lay Way",
+            "Description": "Opp Lakeside Stn"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "28379",
+            "Longitude": 103.72426131705271,
+            "Latitude": 1.34513639882838,
+            "RoadName": "Boon Lay Way",
+            "Description": "Aft Jurong West St 51"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "28369",
+            "Longitude": 103.72747138899737,
+            "Latitude": 1.34449722197147,
+            "RoadName": "Boon Lay Way",
+            "Description": "Opp Jurong Lake"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "28359",
+            "Longitude": 103.73119944403174,
+            "Latitude": 1.34388722199927,
+            "RoadName": "Boon Lay Way",
+            "Description": "Blk 350"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "28349",
+            "Longitude": 103.73318514055593,
+            "Latitude": 1.34255113741933,
+            "RoadName": "Boon Lay Way",
+            "Description": "Opp Chinese Gdn Stn"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "28281",
+            "Longitude": 103.73537548132207,
+            "Latitude": 1.3420603281321,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Parc Oasis"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "28291",
+            "Longitude": 103.73638303040048,
+            "Latitude": 1.34446090409168,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 303"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "43459",
+            "Longitude": 103.73807456781998,
+            "Latitude": 1.34808666498981,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Aft PIE"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "43761",
+            "Longitude": 103.73765826692882,
+            "Latitude": 1.35079436745796,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Opp Dulwich Coll"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "43751",
+            "Longitude": 103.73652916703305,
+            "Latitude": 1.3558055559742,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Opp Blk 443D"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "43781",
+            "Longitude": 103.73860159776643,
+            "Latitude": 1.35886131299107,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Opp Blk 437A"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "43771",
+            "Longitude": 103.74136328540868,
+            "Latitude": 1.36200917978122,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Bef Bt Batok West Ave 2"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "43671",
+            "Longitude": 103.743456828696,
+            "Latitude": 1.36459985984635,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Opp Dunearn Sec Sch"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "44171",
+            "Longitude": 103.74704828649467,
+            "Latitude": 1.36801215768924,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Bef Bt Batok West Ave 5"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "44161",
+            "Longitude": 103.74995297031272,
+            "Latitude": 1.37071120082306,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Aft Bt Batok West Ave 5"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "44151",
+            "Longitude": 103.75223395114867,
+            "Latitude": 1.37392273953012,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Opp Bt Batok Fire Stn"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "44131",
+            "Longitude": 103.75532192967427,
+            "Latitude": 1.37710069702793,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Blk 26"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "44141",
+            "Longitude": 103.75773677895589,
+            "Latitude": 1.37835602806756,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Phoenix Stn"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "44029",
+            "Longitude": 103.7621954983533,
+            "Latitude": 1.37863409952448,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bt Panjang Stn Exit A/Lrt"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "45009",
+            "Longitude": 103.76291779489557,
+            "Latitude": 1.37844139790821,
+            "RoadName": "Petir Rd",
+            "Description": "BT PANJANG INT"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "44259",
+            "Longitude": 103.76297124601712,
+            "Latitude": 1.38029564329691,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 183"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "44149",
+            "Longitude": 103.75776732086608,
+            "Latitude": 1.37798495709362,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Opp Phoenix Stn"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "44139",
+            "Longitude": 103.75536565517723,
+            "Latitude": 1.37680960030968,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Opp Blk 26"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "44159",
+            "Longitude": 103.7525923087755,
+            "Latitude": 1.37401429037273,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Bt Batok Fire Stn"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "44169",
+            "Longitude": 103.75017065253876,
+            "Latitude": 1.37047453510829,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Bef Bt Batok West Ave 5"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "44179",
+            "Longitude": 103.74735822064176,
+            "Latitude": 1.36783174007175,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Aft Bt Batok West Ave 5"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "43679",
+            "Longitude": 103.74421935477038,
+            "Latitude": 1.36506686600259,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Blk 402"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "43779",
+            "Longitude": 103.74177024979922,
+            "Latitude": 1.36195561634293,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Aft Bt Batok West Ave 2"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "43789",
+            "Longitude": 103.73950237742633,
+            "Latitude": 1.35915702140816,
+            "RoadName": "Bt Batok Rd",
+            "Description": "BLK 436A"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "43759",
+            "Longitude": 103.73690126563862,
+            "Latitude": 1.35596765339105,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Blk 443D"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "43769",
+            "Longitude": 103.73781565466237,
+            "Latitude": 1.35151426989451,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Dulwich Coll/Blk 445"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "43453",
+            "Longitude": 103.7385,
+            "Latitude": 1.3479,
+            "RoadName": "Greenbank Pk",
+            "Description": "BEF PIE"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "28299",
+            "Longitude": 103.73667027224192,
+            "Latitude": 1.34438323067917,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 253"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "28289",
+            "Longitude": 103.73598888901057,
+            "Latitude": 1.34238972202327,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 228"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "28341",
+            "Longitude": 103.73271277802048,
+            "Latitude": 1.34247027799798,
+            "RoadName": "Boon Lay Way",
+            "Description": "Chinese Gdn Stn"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "28351",
+            "Longitude": 103.73105583301476,
+            "Latitude": 1.343615278018,
+            "RoadName": "Boon Lay Way",
+            "Description": "Opp Blk 350"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "28361",
+            "Longitude": 103.72748780602458,
+            "Latitude": 1.34418881822068,
+            "RoadName": "Boon Lay Way",
+            "Description": "Jurong Lake"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "28371",
+            "Longitude": 103.72409194399874,
+            "Latitude": 1.34487972199034,
+            "RoadName": "Boon Lay Way",
+            "Description": "Bef Jurong West St 51"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "28091",
+            "Longitude": 103.72012487725401,
+            "Latitude": 1.34425795644531,
+            "RoadName": "Boon Lay Way",
+            "Description": "Lakeside Stn"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "21681",
+            "Longitude": 103.71466298692037,
+            "Latitude": 1.34228732259066,
+            "RoadName": "Boon Lay Way",
+            "Description": "Opp Blk 200"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "21691",
+            "Longitude": 103.71138811111824,
+            "Latitude": 1.34107859811695,
+            "RoadName": "Boon Lay Way",
+            "Description": "OPP SUMMERDALE"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "22491",
+            "Longitude": 103.70478201670083,
+            "Latitude": 1.33721274298352,
+            "RoadName": "Jurong West St 64",
+            "Description": "Blk 662D"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (Last Stop)"
+        }
+    ]
+}

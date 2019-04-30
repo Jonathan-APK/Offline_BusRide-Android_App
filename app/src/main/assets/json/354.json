@@ -1,0 +1,100 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int (First Stop)"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "78109",
+            "Longitude": 103.95388142049359,
+            "Latitude": 1.37533322687905,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Downtown East"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "78099",
+            "Longitude": 103.95708795238238,
+            "Latitude": 1.37740660071471,
+            "RoadName": "Jln Loyang Besar",
+            "Description": "Aft Loyang Gdns"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "78251",
+            "Longitude": 103.9595522242097,
+            "Latitude": 1.37824090541171,
+            "RoadName": "Jln Loyang Besar",
+            "Description": "Lighthouse"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "78261",
+            "Longitude": 103.9606174383779,
+            "Latitude": 1.37865831081472,
+            "RoadName": "Jln Loyang Besar",
+            "Description": "Opp Ripple Bay"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "78271",
+            "Longitude": 103.96383348445823,
+            "Latitude": 1.37922254801698,
+            "RoadName": "Jln Loyang Besar",
+            "Description": "Casa Pasir Ris"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "78279",
+            "Longitude": 103.96426677704831,
+            "Latitude": 1.37923567744466,
+            "RoadName": "Jln Loyang Besar",
+            "Description": "Opp Loyang Townhse"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "78269",
+            "Longitude": 103.96096176266686,
+            "Latitude": 1.37861875398733,
+            "RoadName": "Jln Loyang Besar",
+            "Description": "Ripple Bay"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "78259",
+            "Longitude": 103.95936584739643,
+            "Latitude": 1.37802115263457,
+            "RoadName": "Jln Loyang Besar",
+            "Description": "Opp Lighthouse"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "78091",
+            "Longitude": 103.95624713617742,
+            "Latitude": 1.37681617858505,
+            "RoadName": "Pasir Ris Cl",
+            "Description": "Opp Downtown East"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "78101",
+            "Longitude": 103.95404801695994,
+            "Latitude": 1.37506644391944,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Downtown East"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int (Last Stop)"
+        }
+    ]
+}

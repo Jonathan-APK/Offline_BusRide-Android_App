@@ -1,0 +1,220 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (First Stop)"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "22489",
+            "Longitude": 103.70536833792208,
+            "Latitude": 1.34258460261,
+            "RoadName": "Jurong West Ctrl 1",
+            "Description": "Blk 683A"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "21371",
+            "Longitude": 103.70617873626036,
+            "Latitude": 1.34522722613512,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 680C"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "27091",
+            "Longitude": 103.70388500000492,
+            "Latitude": 1.34910999998031,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Blk 271 CP"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "27101",
+            "Longitude": 103.70111638902962,
+            "Latitude": 1.35259472200365,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Westwood Sec Sch"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "27121",
+            "Longitude": 103.69521277798744,
+            "Latitude": 1.35682305601032,
+            "RoadName": "Jln Bahar",
+            "Description": "Bef Nanyang Ave"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "27171",
+            "Longitude": 103.6916825448322,
+            "Latitude": 1.35604565059158,
+            "RoadName": "Nanyang Ave",
+            "Description": "Bef Lor Danau"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "27181",
+            "Longitude": 103.68903620638115,
+            "Latitude": 1.35587588807417,
+            "RoadName": "Nanyang Ave",
+            "Description": "PUB Sub-Stn"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "27011",
+            "Longitude": 103.68610938870162,
+            "Latitude": 1.35586334559449,
+            "RoadName": "Nanyang Cres",
+            "Description": "Blk 55"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "27071",
+            "Longitude": 103.68452767084537,
+            "Latitude": 1.35507533539502,
+            "RoadName": "Nanyang Cres",
+            "Description": "Nanyang Crescent Hall"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "27021",
+            "Longitude": 103.68192916699402,
+            "Latitude": 1.35324138896679,
+            "RoadName": "Nanyang Cres",
+            "Description": "Hall 15"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "27031",
+            "Longitude": 103.68051749839925,
+            "Latitude": 1.35186815681876,
+            "RoadName": "Nanyang Cres",
+            "Description": "Hall 12"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "27041",
+            "Longitude": 103.67864247139183,
+            "Latitude": 1.35071936245692,
+            "RoadName": "Nanyang Cres",
+            "Description": "CP 7"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "27051",
+            "Longitude": 103.67665805600423,
+            "Latitude": 1.34845333297072,
+            "RoadName": "Nanyang Cres",
+            "Description": "NIE Lib"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "27219",
+            "Longitude": 103.68025240016884,
+            "Latitude": 1.34793269501118,
+            "RoadName": "Nanyang Dr",
+            "Description": "Blk 2"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "27069",
+            "Longitude": 103.68418444402793,
+            "Latitude": 1.35008972199881,
+            "RoadName": "Nanyang Dr",
+            "Description": "Blk 41"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "27209",
+            "Longitude": 103.68569234331088,
+            "Latitude": 1.35150701703353,
+            "RoadName": "Nanyang Ave",
+            "Description": "Hall 8"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "27199",
+            "Longitude": 103.68685754938303,
+            "Latitude": 1.35434216792763,
+            "RoadName": "Nanyang Ave",
+            "Description": "Hall 11"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "27189",
+            "Longitude": 103.68903921690323,
+            "Latitude": 1.35607204234326,
+            "RoadName": "Nanyang Ave",
+            "Description": "Opp PUB Sub-Stn"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "27179",
+            "Longitude": 103.6917825773122,
+            "Latitude": 1.35618418171977,
+            "RoadName": "Nanyang Ave",
+            "Description": "Aft Lor Danau"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "27169",
+            "Longitude": 103.69424464254188,
+            "Latitude": 1.35693103245165,
+            "RoadName": "Nanyang Ave",
+            "Description": "Bef Jln Bahar"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "27129",
+            "Longitude": 103.69516041986128,
+            "Latitude": 1.35733217246828,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Nanyang Ave"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "27109",
+            "Longitude": 103.70082305601869,
+            "Latitude": 1.35309472199852,
+            "RoadName": "Jln Bahar",
+            "Description": "Westwood Sec Sch"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "27099",
+            "Longitude": 103.70360999821403,
+            "Latitude": 1.35023689448473,
+            "RoadName": "Jln Bahar",
+            "Description": "Blk 271 CP"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "21379",
+            "Longitude": 103.70648912988919,
+            "Latitude": 1.34534855216089,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 263"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "22481",
+            "Longitude": 103.70554089546958,
+            "Latitude": 1.3424622384747,
+            "RoadName": "Jurong West Ctrl 1",
+            "Description": "Blk 691A CP"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (Last Stop)"
+        }
+    ]
+}

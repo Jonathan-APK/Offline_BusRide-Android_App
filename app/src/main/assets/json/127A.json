@@ -1,0 +1,44 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "76529",
+            "Longitude": 103.9405089,
+            "Latitude": 1.357528889,
+            "RoadName": "Tampines Concourse",
+            "Description": "BLK 519A"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "76519",
+            "Longitude": 103.93921870101352,
+            "Latitude": 1.35920624506603,
+            "RoadName": "Tampines Concourse",
+            "Description": "BET BLKS 524B/523D"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "75271",
+            "Longitude": 103.93601495043112,
+            "Latitude": 1.36024833439953,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 721"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "75281",
+            "Longitude": 103.93363809095122,
+            "Latitude": 1.36022789260467,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 742A"
+        }
+    ]
+}

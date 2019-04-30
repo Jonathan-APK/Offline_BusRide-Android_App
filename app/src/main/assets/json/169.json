@@ -1,0 +1,862 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "46271",
+            "Longitude": 103.78588806965098,
+            "Latitude": 1.44040195107982,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Opp Blk 802"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "46269",
+            "Longitude": 103.78588499999181,
+            "Latitude": 1.44217333334596,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Republic Poly"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "46451",
+            "Longitude": 103.78920988459528,
+            "Latitude": 1.44454396366237,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Opp Blk 872"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "46461",
+            "Longitude": 103.79359661898341,
+            "Latitude": 1.44659598354815,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Opp Blk 757A CP"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "46471",
+            "Longitude": 103.79758820990358,
+            "Latitude": 1.44796931841747,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Opp Blk 773"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "46481",
+            "Longitude": 103.8011125258027,
+            "Latitude": 1.44964404178885,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Aft Woodlands Ind Pk E6"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "46721",
+            "Longitude": 103.80178758846797,
+            "Latitude": 1.45248916519346,
+            "RoadName": "Woodlands Ave 8",
+            "Description": "Bef W'Lands Ind Pk E7"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "46711",
+            "Longitude": 103.80084970775462,
+            "Latitude": 1.45470160187201,
+            "RoadName": "Woodlands Ave 8",
+            "Description": "Bef Admiralty Rd West"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "47071",
+            "Longitude": 103.80214839695255,
+            "Latitude": 1.45761031985152,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Bef British American Tobacco"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "47821",
+            "Longitude": 103.80582927631109,
+            "Latitude": 1.46077717684188,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Opp Sumitomo Bakelite S'pore"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "47811",
+            "Longitude": 103.80898707919847,
+            "Latitude": 1.46237692251291,
+            "RoadName": "Admiralty Rd West",
+            "Description": "W'Lands Sunny Food"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "47801",
+            "Longitude": 103.8129834777538,
+            "Latitude": 1.46417400978934,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Sunshine Bakery"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "58141",
+            "Longitude": 103.81653183057891,
+            "Latitude": 1.463365158306,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Sembawang Camp"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "58161",
+            "Longitude": 103.82037350350512,
+            "Latitude": 1.46052755709037,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Bef Sembawang Shipyard G 3"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "58171",
+            "Longitude": 103.82379883168399,
+            "Latitude": 1.45890580814381,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Sembawang Corp Industries"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "58181",
+            "Longitude": 103.82625715308492,
+            "Latitude": 1.45964275024639,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Sembawang Drug Rehab Ctr"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "58191",
+            "Longitude": 103.82875514072087,
+            "Latitude": 1.45875202875202,
+            "RoadName": "Admiralty Rd East",
+            "Description": "Aft Wellington Rd"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "58201",
+            "Longitude": 103.83098996673239,
+            "Latitude": 1.45531234912714,
+            "RoadName": "Admiralty Rd East",
+            "Description": "Aft Queen'S Ave"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "58069",
+            "Longitude": 103.83118398014977,
+            "Latitude": 1.45271386343891,
+            "RoadName": "Sembawang Rd",
+            "Description": "Opp Durban Rd"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "58059",
+            "Longitude": 103.82866296034206,
+            "Latitude": 1.45079007708143,
+            "RoadName": "Sembawang Rd",
+            "Description": "Opp Blk 592C"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "58049",
+            "Longitude": 103.82703542333945,
+            "Latitude": 1.44919525191106,
+            "RoadName": "Sembawang Rd",
+            "Description": "Opp Blk 590C"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "58269",
+            "Longitude": 103.82761997468876,
+            "Latitude": 1.44702361616489,
+            "RoadName": "Canberra Link",
+            "Description": "OPP VISIONAIRE"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "59529",
+            "Longitude": 103.8318142995419,
+            "Latitude": 1.44035052900307,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Sapphire"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "59259",
+            "Longitude": 103.83379791523895,
+            "Latitude": 1.43716783426775,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Darul Makmur Mque"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "59099",
+            "Longitude": 103.83522544787667,
+            "Latitude": 1.43272835490407,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 220"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "59073",
+            "Longitude": 103.8354631,
+            "Latitude": 1.428686944,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Stn"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "59069",
+            "Longitude": 103.83536957259517,
+            "Latitude": 1.42657294826877,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Blk 757"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "59339",
+            "Longitude": 103.83378411194366,
+            "Latitude": 1.42273567302859,
+            "RoadName": "Yishun Ave 3",
+            "Description": "Blk 776"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "59549",
+            "Longitude": 103.83052605711299,
+            "Latitude": 1.42313912325939,
+            "RoadName": "Yishun Ave 3",
+            "Description": "Khatib Camp"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "59559",
+            "Longitude": 103.82821308909149,
+            "Latitude": 1.42511776424343,
+            "RoadName": "Yishun Ave 3",
+            "Description": "Opp Blk 722"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "57079",
+            "Longitude": 103.82566793061787,
+            "Latitude": 1.42443860227619,
+            "RoadName": "Sembawang Rd",
+            "Description": "Khatib Camp"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "57069",
+            "Longitude": 103.82460551333597,
+            "Latitude": 1.4189659270404,
+            "RoadName": "Sembawang Rd",
+            "Description": "Opp Dieppe Barracks"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "57059",
+            "Longitude": 103.82356549744377,
+            "Latitude": 1.41472777811863,
+            "RoadName": "Sembawang Rd",
+            "Description": "Opp Sembawang Air Base"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "57049",
+            "Longitude": 103.82233527798766,
+            "Latitude": 1.41082027802703,
+            "RoadName": "Sembawang Rd",
+            "Description": "Opp Nee Soon HQ 22 SIB"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "57039",
+            "Longitude": 103.8199872220186,
+            "Latitude": 1.40611750000192,
+            "RoadName": "Sembawang Rd",
+            "Description": "SPIRITUAL GRACE PRESBY CH"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "57029",
+            "Longitude": 103.81862261343507,
+            "Latitude": 1.40396290628178,
+            "RoadName": "Sembawang Rd",
+            "Description": "Aft The Springside"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "57019",
+            "Longitude": 103.8173071004643,
+            "Latitude": 1.40086307559896,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Springleaf Nature Pk"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "56099",
+            "Longitude": 103.8188299218487,
+            "Latitude": 1.39606817759915,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Springleaf Rd"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "56089",
+            "Longitude": 103.81861107436661,
+            "Latitude": 1.39205091187219,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft SLE"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "56079",
+            "Longitude": 103.81959791299872,
+            "Latitude": 1.38756640996273,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Old Upp Thomson Rd"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "56069",
+            "Longitude": 103.82320879865532,
+            "Latitude": 1.38530499508514,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Tagore Dr"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "56059",
+            "Longitude": 103.82604547355085,
+            "Latitude": 1.38268805765919,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Tagore Rd"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "56049",
+            "Longitude": 103.82768833298778,
+            "Latitude": 1.37945638898658,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Meadows @ Peirce"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "56039",
+            "Longitude": 103.82848388900504,
+            "Latitude": 1.37673055602474,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "56029",
+            "Longitude": 103.82870000002058,
+            "Latitude": 1.37359500001635,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Sembawang Hill FC"
+        },
+        {
+            "Distance": 20.8,
+            "BusStopCode": "56019",
+            "Longitude": 103.82862910254734,
+            "Latitude": 1.36949553492338,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Ang Mo Kio Ave 1"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "56261",
+            "Longitude": 103.83172738576756,
+            "Latitude": 1.36786219023986,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Blk 248"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "54061",
+            "Longitude": 103.83404076959498,
+            "Latitude": 1.36728801688172,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Blk 246"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "54211",
+            "Longitude": 103.83634833298527,
+            "Latitude": 1.36861222198461,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "MAYFLOWER SEC SCH"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "54221",
+            "Longitude": 103.83959341119167,
+            "Latitude": 1.36995608006054,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Ang Mo Kio Pr Sch"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "54231",
+            "Longitude": 103.84193909880943,
+            "Latitude": 1.36966012463918,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 129"
+        },
+        {
+            "Distance": 23.2,
+            "BusStopCode": "54241",
+            "Longitude": 103.84618005827467,
+            "Latitude": 1.36913518643274,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 700B"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "54009",
+            "Longitude": 103.84856716193268,
+            "Latitude": 1.36968769913339,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Ang Mo Kio Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "54009",
+            "Longitude": 103.84856716193268,
+            "Latitude": 1.36968769913339,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Ang Mo Kio Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "54247",
+            "Longitude": 103.84719306132868,
+            "Latitude": 1.36873836498602,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 322"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "54239",
+            "Longitude": 103.84332015576305,
+            "Latitude": 1.369186093503,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "54229",
+            "Longitude": 103.83993274827546,
+            "Latitude": 1.36960577947339,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Ang Mo Kio Pr Sch"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "54219",
+            "Longitude": 103.83679395921905,
+            "Latitude": 1.36880777071199,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "OPP MAYFLOWER SEC SCH"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "54069",
+            "Longitude": 103.83405562626137,
+            "Latitude": 1.36691997150676,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Opp Blk 246"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "56269",
+            "Longitude": 103.83233403239235,
+            "Latitude": 1.36741835425889,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Opp Blk 248"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "56021",
+            "Longitude": 103.82842917358784,
+            "Latitude": 1.37242858974896,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp S'wang Hill FC"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "56031",
+            "Longitude": 103.82822527799023,
+            "Latitude": 1.37695666700099,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "56041",
+            "Longitude": 103.8275777780206,
+            "Latitude": 1.37916166696569,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Meadows @ Peirce"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "56051",
+            "Longitude": 103.82576395474278,
+            "Latitude": 1.38249472962714,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Tagore Rd"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "56061",
+            "Longitude": 103.82287451682392,
+            "Latitude": 1.38514751918468,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Tagore Dr"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "56071",
+            "Longitude": 103.81964816646843,
+            "Latitude": 1.38717744383548,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Old Upp Thomson Rd"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "56081",
+            "Longitude": 103.81821308362592,
+            "Latitude": 1.39169796746844,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef SLE"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "56091",
+            "Longitude": 103.81841168654944,
+            "Latitude": 1.39634526567884,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Springleaf Rd"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "57011",
+            "Longitude": 103.81717214668784,
+            "Latitude": 1.40015725353057,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Springleaf Nature Pk"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "57021",
+            "Longitude": 103.81834244198308,
+            "Latitude": 1.40414074099185,
+            "RoadName": "Sembawang Rd",
+            "Description": "Forest Hills Condo"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "57031",
+            "Longitude": 103.82012256385369,
+            "Latitude": 1.40705411971506,
+            "RoadName": "Sembawang Rd",
+            "Description": "Nee Soon Driclad Ctr"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "57041",
+            "Longitude": 103.82192312004506,
+            "Latitude": 1.41069268256433,
+            "RoadName": "Sembawang Rd",
+            "Description": "Nee Soon HQ 22 SIB"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "57051",
+            "Longitude": 103.82337367876173,
+            "Latitude": 1.41527125453225,
+            "RoadName": "Sembawang Rd",
+            "Description": "Aft Sembawang Air Base"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "57061",
+            "Longitude": 103.82452638790889,
+            "Latitude": 1.41996142296204,
+            "RoadName": "Sembawang Rd",
+            "Description": "Dieppe Barracks"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "57071",
+            "Longitude": 103.82550580503441,
+            "Latitude": 1.42501608069549,
+            "RoadName": "Sembawang Rd",
+            "Description": "Opp Khatib Camp"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "59551",
+            "Longitude": 103.82822466548578,
+            "Latitude": 1.42539008150192,
+            "RoadName": "Yishun Ave 3",
+            "Description": "Blk 722"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "59541",
+            "Longitude": 103.83018072233915,
+            "Latitude": 1.42363018656288,
+            "RoadName": "Yishun Ave 3",
+            "Description": "Opp Khatib Camp"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "59331",
+            "Longitude": 103.83276716795122,
+            "Latitude": 1.422973728077,
+            "RoadName": "Yishun Ave 3",
+            "Description": "Blk 773"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "59061",
+            "Longitude": 103.83495820649408,
+            "Latitude": 1.42556399229911,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 763"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "59079",
+            "Longitude": 103.835245,
+            "Latitude": 1.429293889,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Stn"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "59091",
+            "Longitude": 103.83510814544051,
+            "Latitude": 1.43165245434506,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 154"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "59251",
+            "Longitude": 103.83368337352286,
+            "Latitude": 1.43669132626001,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Darul Makmur Mque"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "59521",
+            "Longitude": 103.83171080846517,
+            "Latitude": 1.44003661278482,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Sapphire"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "58261",
+            "Longitude": 103.82726305553976,
+            "Latitude": 1.44710213838584,
+            "RoadName": "Canberra Link",
+            "Description": "VISIONAIRE"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "58041",
+            "Longitude": 103.8268558037182,
+            "Latitude": 1.44939346470038,
+            "RoadName": "Sembawang Rd",
+            "Description": "Blk 590C"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "58051",
+            "Longitude": 103.82843083296738,
+            "Latitude": 1.45087972197488,
+            "RoadName": "Sembawang Rd",
+            "Description": "Blk 592C"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "58061",
+            "Longitude": 103.83110625286093,
+            "Latitude": 1.45296423052616,
+            "RoadName": "Sembawang Rd",
+            "Description": "Aft Durban Rd"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "58209",
+            "Longitude": 103.83062638903208,
+            "Latitude": 1.45524083298775,
+            "RoadName": "Admiralty Rd East",
+            "Description": "Aft Pakistan Rd"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "58199",
+            "Longitude": 103.82788431875926,
+            "Latitude": 1.4590501574168,
+            "RoadName": "Admiralty Rd East",
+            "Description": "OPP AUCKLAND ROAD WEST"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "58189",
+            "Longitude": 103.82601182603965,
+            "Latitude": 1.45915444426655,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Opp Sembawang Drug Rehab Ctr"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "58179",
+            "Longitude": 103.82350997035716,
+            "Latitude": 1.45855645310428,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Opp Sembawang Corp Industries"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "58169",
+            "Longitude": 103.82092447388442,
+            "Latitude": 1.45978696349073,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Aft HomeTeamNS Sembawang Resort"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "58149",
+            "Longitude": 103.81788921693168,
+            "Latitude": 1.46190359169667,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Opp Sembawang Shipyard G 8"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "47809",
+            "Longitude": 103.813587498325,
+            "Latitude": 1.46379183832972,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Opp Sunshine Bakery"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "47819",
+            "Longitude": 103.81005089658552,
+            "Latitude": 1.4625580134543,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Opp W'Lands Sunny Food"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "47829",
+            "Longitude": 103.80617388921056,
+            "Latitude": 1.46054631909982,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Sumitomo Bakelite S'pore"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "47079",
+            "Longitude": 103.8029959994045,
+            "Latitude": 1.45786431264124,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Opp British American Tobacco"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "46719",
+            "Longitude": 103.80106314214777,
+            "Latitude": 1.45490953729339,
+            "RoadName": "Woodlands Ave 8",
+            "Description": "Givaudan S'pore"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "46729",
+            "Longitude": 103.80223070821165,
+            "Latitude": 1.4521571470745,
+            "RoadName": "Woodlands Ave 8",
+            "Description": "Aft W'Lands Ind Pk E7"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "46489",
+            "Longitude": 103.80160651744906,
+            "Latitude": 1.44952095631928,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Aft Gambas Ave"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "46479",
+            "Longitude": 103.79840963198184,
+            "Latitude": 1.44796869795143,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Blk 774"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "46469",
+            "Longitude": 103.79491852510797,
+            "Latitude": 1.44668865905093,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Blk 759"
+        },
+        {
+            "Distance": 21.7,
+            "BusStopCode": "46459",
+            "Longitude": 103.78940895329838,
+            "Latitude": 1.4441853308513,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Blk 872"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "46261",
+            "Longitude": 103.78694461350949,
+            "Latitude": 1.44256309213662,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Blk 808"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "46279",
+            "Longitude": 103.78690125681027,
+            "Latitude": 1.44021958652464,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 803"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        }
+    ]
+}

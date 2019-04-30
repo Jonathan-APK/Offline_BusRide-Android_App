@@ -1,0 +1,44 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "17211",
+            "Longitude": 103.7658972301256,
+            "Latitude": 1.31828806129678,
+            "RoadName": "Clementi Ave 4",
+            "Description": "Bet Blks 315/318"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "17201",
+            "Longitude": 103.76734890374861,
+            "Latitude": 1.32055715133061,
+            "RoadName": "Clementi Ave 4",
+            "Description": "Blk 308"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "17219",
+            "Longitude": 103.76615861100824,
+            "Latitude": 1.31820000002277,
+            "RoadName": "Clementi Ave 4",
+            "Description": "Blk 376"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int (Last Stop)"
+        }
+    ]
+}

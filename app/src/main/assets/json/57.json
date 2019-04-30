@@ -1,0 +1,790 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "53009",
+            "Longitude": 103.84988083722291,
+            "Latitude": 1.35045541249544,
+            "RoadName": "Bishan St 13",
+            "Description": "Bishan Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "53221",
+            "Longitude": 103.8484543562104,
+            "Latitude": 1.34816840593896,
+            "RoadName": "Bishan St 11",
+            "Description": "BLK 115"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "53211",
+            "Longitude": 103.84712672325323,
+            "Latitude": 1.34707169454274,
+            "RoadName": "Bishan Rd",
+            "Description": "Opp Raffles Instn"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "52021",
+            "Longitude": 103.84766088139544,
+            "Latitude": 1.34431313758435,
+            "RoadName": "Braddell Rd",
+            "Description": "OPP BLK 1004"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "52031",
+            "Longitude": 103.85026155631283,
+            "Latitude": 1.34404852974216,
+            "RoadName": "Braddell Rd",
+            "Description": "OPP BLK 998"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "52361",
+            "Longitude": 103.8529812160764,
+            "Latitude": 1.33974408909931,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "52351",
+            "Longitude": 103.85328005892127,
+            "Latitude": 1.33836800687246,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 2"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "52341",
+            "Longitude": 103.85562250002782,
+            "Latitude": 1.33625777803173,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Pei Chun Public Sch"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "52331",
+            "Longitude": 103.85581029367948,
+            "Latitude": 1.33246306626276,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 27"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "52321",
+            "Longitude": 103.8527071071997,
+            "Latitude": 1.3312589884768,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Stadium"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "52501",
+            "Longitude": 103.85011762889827,
+            "Latitude": 1.33090220918791,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "52079",
+            "Longitude": 103.84382885735747,
+            "Latitude": 1.32931477158443,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Opp Trellis Twrs"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "50059",
+            "Longitude": 103.84211744421322,
+            "Latitude": 1.32489453398384,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp Thomson Med Ctr"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "50049",
+            "Longitude": 103.84189326889334,
+            "Latitude": 1.32354108650178,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp Novena Lodge"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "50038",
+            "Longitude": 103.84343862536716,
+            "Latitude": 1.31962671001555,
+            "RoadName": "Thomson Rd",
+            "Description": "Novena Stn"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "50029",
+            "Longitude": 103.84484281963609,
+            "Latitude": 1.31647941614673,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp United Sq"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "50019",
+            "Longitude": 103.84763856174139,
+            "Latitude": 1.31194891032358,
+            "RoadName": "Keng Lee Rd",
+            "Description": "Parish Of Christ Ch"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "40109",
+            "Longitude": 103.84770747833439,
+            "Latitude": 1.30949131269895,
+            "RoadName": "Kg Java Rd",
+            "Description": "Opp KK Women & Child Hosp"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "40019",
+            "Longitude": 103.84920416709382,
+            "Latitude": 1.30664404460339,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Little India Stn"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "07539",
+            "Longitude": 103.8520009720951,
+            "Latitude": 1.30461300741211,
+            "RoadName": "Sungei Rd",
+            "Description": "Opp Rochor Stn"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "07589",
+            "Longitude": 103.85549999983388,
+            "Latitude": 1.30320609782822,
+            "RoadName": "Ophir Rd",
+            "Description": "Opp Rochor Ctr"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "01559",
+            "Longitude": 103.85752923961614,
+            "Latitude": 1.30168731070562,
+            "RoadName": "Ophir Rd",
+            "Description": "Landmark Village Hotel"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "01519",
+            "Longitude": 103.8589102973441,
+            "Latitude": 1.29907492488417,
+            "RoadName": "Beach Rd",
+            "Description": "The Gateway"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "01629",
+            "Longitude": 103.85686527780177,
+            "Latitude": 1.29695972219958,
+            "RoadName": "Beach Rd",
+            "Description": "Shaw Twrs"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "01619",
+            "Longitude": 103.85503809424233,
+            "Latitude": 1.29428694178246,
+            "RoadName": "Beach Rd",
+            "Description": "Opp Raffles Hotel"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "02119",
+            "Longitude": 103.85534334305085,
+            "Latitude": 1.29184407356581,
+            "RoadName": "Nicoll Highway",
+            "Description": "Opp War Memorial Pk"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "03019",
+            "Longitude": 103.85310805599599,
+            "Latitude": 1.284245000013,
+            "RoadName": "Collyer Quay",
+            "Description": "OUE Bayfront"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "03059",
+            "Longitude": 103.85135652579491,
+            "Latitude": 1.28097649556002,
+            "RoadName": "Raffles Quay",
+            "Description": "One Raffles Quay"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "03217",
+            "Longitude": 103.8479443674916,
+            "Latitude": 1.27552218897645,
+            "RoadName": "Shenton Way",
+            "Description": "Opp AXA Twr"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "05649",
+            "Longitude": 103.84093912218094,
+            "Latitude": 1.2723842122117,
+            "RoadName": "Keppel Rd",
+            "Description": "Opp Customs Port Br HQ"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "14061",
+            "Longitude": 103.83862035734883,
+            "Latitude": 1.27231269789239,
+            "RoadName": "Keppel Rd",
+            "Description": "Opp Former Railway Stn"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "14071",
+            "Longitude": 103.8339025862589,
+            "Latitude": 1.27220342411953,
+            "RoadName": "Keppel Rd",
+            "Description": "Keppel Workshop"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "14081",
+            "Longitude": 103.83061367871179,
+            "Latitude": 1.27067760623796,
+            "RoadName": "Keppel Rd",
+            "Description": "Tg Pagar DP Blk F5"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "14101",
+            "Longitude": 103.82825805600972,
+            "Latitude": 1.26837500002503,
+            "RoadName": "Keppel Rd",
+            "Description": "Opp Keppel DP Blk 517"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "14141",
+            "Longitude": 103.82211326846237,
+            "Latitude": 1.26552421466644,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "VivoCity"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "14121",
+            "Longitude": 103.81925660621779,
+            "Latitude": 1.26591350024271,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Harbourfront Stn Exit B"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "14131",
+            "Longitude": 103.81675441150337,
+            "Latitude": 1.26740130257465,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Caribbean at Keppel Bay"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "14151",
+            "Longitude": 103.8129359412343,
+            "Latitude": 1.26964765905364,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp Chr Community Chapel"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "14161",
+            "Longitude": 103.81009913005327,
+            "Latitude": 1.27075866533548,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Telok Blangah Stn"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "14171",
+            "Longitude": 103.80654857059398,
+            "Latitude": 1.27145959833005,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp Yeo's Bldg"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "15041",
+            "Longitude": 103.80185648483362,
+            "Latitude": 1.27455320898942,
+            "RoadName": "Alexandra Rd",
+            "Description": "Aft PSA Bldg"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "15051",
+            "Longitude": 103.80248500000464,
+            "Latitude": 1.27718388886974,
+            "RoadName": "Alexandra Rd",
+            "Description": "Alexandra Pt"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "14369",
+            "Longitude": 103.80365927155157,
+            "Latitude": 1.28153635758335,
+            "RoadName": "Depot Rd",
+            "Description": "The Interlace"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "14219",
+            "Longitude": 103.80684961252827,
+            "Latitude": 1.28218647936578,
+            "RoadName": "Depot Rd",
+            "Description": "Opp Blk 114"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "14209",
+            "Longitude": 103.80958869712056,
+            "Latitude": 1.28176397706369,
+            "RoadName": "Depot Rd",
+            "Description": "Aft Hewlett Packard"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "14199",
+            "Longitude": 103.81275056370772,
+            "Latitude": 1.28131676735406,
+            "RoadName": "Depot Rd",
+            "Description": "Blk 118"
+        },
+        {
+            "Distance": 22.1,
+            "BusStopCode": "10331",
+            "Longitude": 103.81834423228645,
+            "Latitude": 1.28136306628839,
+            "RoadName": "Henderson Rd",
+            "Description": "Bef Bt Merah Ctrl"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "10339",
+            "Longitude": 103.81857250844851,
+            "Latitude": 1.28115835063292,
+            "RoadName": "Henderson Rd",
+            "Description": "Aft Bt Merah Ctrl"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "14241",
+            "Longitude": 103.8168725087535,
+            "Latitude": 1.27914353103301,
+            "RoadName": "Henderson Rd",
+            "Description": "Opp Blk 1"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "14191",
+            "Longitude": 103.81211444400743,
+            "Latitude": 1.28121833300943,
+            "RoadName": "Depot Rd",
+            "Description": "Blk 105 CP"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "14201",
+            "Longitude": 103.80914683892263,
+            "Latitude": 1.28167307267242,
+            "RoadName": "Depot Rd",
+            "Description": "Blk 110"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "14471",
+            "Longitude": 103.80664978771298,
+            "Latitude": 1.28201169102423,
+            "RoadName": "Depot Rd",
+            "Description": "Blk 114"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "14211",
+            "Longitude": 103.80521877469815,
+            "Latitude": 1.28161168409316,
+            "RoadName": "Depot Rd",
+            "Description": "ISS Intl Sch"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "18019",
+            "Longitude": 103.80252305556165,
+            "Latitude": 1.28091055556275,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp SP Jain"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "15059",
+            "Longitude": 103.80270111113056,
+            "Latitude": 1.27686194443878,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Alexandra Pt"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "15049",
+            "Longitude": 103.80216344738955,
+            "Latitude": 1.274590541032,
+            "RoadName": "Alexandra Rd",
+            "Description": "Bef PSA Bldg"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "14189",
+            "Longitude": 103.80398363214624,
+            "Latitude": 1.27269303340787,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Aft Alexandra Rd"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "14179",
+            "Longitude": 103.80630000533797,
+            "Latitude": 1.27188454577735,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Yeo's Bldg"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "14169",
+            "Longitude": 103.80941810434497,
+            "Latitude": 1.27118550385957,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp Telok Blangah Stn"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "14159",
+            "Longitude": 103.81315419081787,
+            "Latitude": 1.26994046445496,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Bef Chr Community Chapel"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "14139",
+            "Longitude": 103.81546952380809,
+            "Latitude": 1.2686352773503,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Bef Seah Im Rd"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "14129",
+            "Longitude": 103.81977877391114,
+            "Latitude": 1.26607869101924,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Harbourfront Stn Exit A"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "14119",
+            "Longitude": 103.8222827803663,
+            "Latitude": 1.26592360897281,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp VivoCity"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "14109",
+            "Longitude": 103.82722490505579,
+            "Latitude": 1.26804601553507,
+            "RoadName": "Keppel Rd",
+            "Description": "Keppel DP Blk 517"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "14089",
+            "Longitude": 103.829792773326,
+            "Latitude": 1.27046005041763,
+            "RoadName": "Keppel Rd",
+            "Description": "Opp Tg Pagar DP Blk F5"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "14069",
+            "Longitude": 103.83694861102117,
+            "Latitude": 1.27261333297575,
+            "RoadName": "Keppel Rd",
+            "Description": "Former Railway Stn"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "05641",
+            "Longitude": 103.84140618785226,
+            "Latitude": 1.27272393115133,
+            "RoadName": "Keppel Rd",
+            "Description": "Customs Port Br HQ"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "03223",
+            "Longitude": 103.84632468221952,
+            "Latitude": 1.2757033952327,
+            "RoadName": "Anson Rd",
+            "Description": "Intl Plaza"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "03151",
+            "Longitude": 103.84776234627124,
+            "Latitude": 1.27892124625262,
+            "RoadName": "Cecil St",
+            "Description": "Opp GB Bldg"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "03021",
+            "Longitude": 103.84998903789258,
+            "Latitude": 1.28255524603003,
+            "RoadName": "Cecil St",
+            "Description": "Prudential Twr"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "02111",
+            "Longitude": 103.85453419435228,
+            "Latitude": 1.29095592348389,
+            "RoadName": "Esplanade Dr",
+            "Description": "Esplanade Bridge"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "01611",
+            "Longitude": 103.85539039969967,
+            "Latitude": 1.29529638630566,
+            "RoadName": "Beach Rd",
+            "Description": "Raffles Hotel"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "01621",
+            "Longitude": 103.85655611109846,
+            "Latitude": 1.29695888888745,
+            "RoadName": "Beach Rd",
+            "Description": "Opp Shaw Twrs"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "01541",
+            "Longitude": 103.85734583628746,
+            "Latitude": 1.29886465442254,
+            "RoadName": "Rochor Rd",
+            "Description": "Bugis Stn Exit D"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "07551",
+            "Longitude": 103.8546132267025,
+            "Latitude": 1.30171975809706,
+            "RoadName": "Rochor Rd",
+            "Description": "Fu Lu Shou Cplx"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "07531",
+            "Longitude": 103.8525732326128,
+            "Latitude": 1.30365644370093,
+            "RoadName": "Rochor Canal Rd",
+            "Description": "Rochor Stn"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "40011",
+            "Longitude": 103.84908751469008,
+            "Latitude": 1.30606411522588,
+            "RoadName": "Bt Timah Rd",
+            "Description": "LITTLE INDIA STN EXIT A"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "40101",
+            "Longitude": 103.84779148902439,
+            "Latitude": 1.31036186651665,
+            "RoadName": "Kg Java Rd",
+            "Description": "KK Women & Child Hosp"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "50011",
+            "Longitude": 103.84719777801662,
+            "Latitude": 1.31181999999518,
+            "RoadName": "Kg Java Rd",
+            "Description": "Opp Parish Of Christ Ch"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "50021",
+            "Longitude": 103.84421700922245,
+            "Latitude": 1.3173533543911,
+            "RoadName": "Thomson Rd",
+            "Description": "United Sq"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "50031",
+            "Longitude": 103.84177172353408,
+            "Latitude": 1.32127307292791,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp Novena Ch"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "50041",
+            "Longitude": 103.84161545670325,
+            "Latitude": 1.32362333324914,
+            "RoadName": "Thomson Rd",
+            "Description": "Novena Lodge"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "50051",
+            "Longitude": 103.84186148677112,
+            "Latitude": 1.3256128334349,
+            "RoadName": "Thomson Rd",
+            "Description": "Thomson Med Ctr"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "51011",
+            "Longitude": 103.84095472172798,
+            "Latitude": 1.32770447989161,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp Tan Tong Meng Twr"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "52071",
+            "Longitude": 103.84381843224321,
+            "Latitude": 1.32991416932901,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Trellis Twrs"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "52509",
+            "Longitude": 103.85017633434691,
+            "Latitude": 1.33115712303762,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "52329",
+            "Longitude": 103.85268688199498,
+            "Latitude": 1.33146817532374,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Stadium"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "52339",
+            "Longitude": 103.8558608329901,
+            "Latitude": 1.33287166703192,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Blk 26"
+        },
+        {
+            "Distance": 19.3,
+            "BusStopCode": "52349",
+            "Longitude": 103.85544250002881,
+            "Latitude": 1.33619305600558,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "United Medicare Ctr"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "52369",
+            "Longitude": 103.85273333299853,
+            "Latitude": 1.34001833298065,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 237"
+        },
+        {
+            "Distance": 20.5,
+            "BusStopCode": "52039",
+            "Longitude": 103.85130310024304,
+            "Latitude": 1.34333817728421,
+            "RoadName": "Braddell Rd",
+            "Description": "Aft Muhajirin Mque"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "53219",
+            "Longitude": 103.8465836110301,
+            "Latitude": 1.34606111102286,
+            "RoadName": "Bishan Rd",
+            "Description": "Raffles Instn"
+        },
+        {
+            "Distance": 21.8,
+            "BusStopCode": "53229",
+            "Longitude": 103.84927239325486,
+            "Latitude": 1.34822303496432,
+            "RoadName": "Bishan St 11",
+            "Description": "Blk 501"
+        },
+        {
+            "Distance": 22.2,
+            "BusStopCode": "53009",
+            "Longitude": 103.84988083722291,
+            "Latitude": 1.35045541249544,
+            "RoadName": "Bishan St 13",
+            "Description": "Bishan Int"
+        }
+    ]
+}

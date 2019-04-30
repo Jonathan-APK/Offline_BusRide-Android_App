@@ -1,0 +1,76 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "76059",
+            "Longitude": 103.94165154852797,
+            "Latitude": 1.35296163572491,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Our Tampines Hub"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "76069",
+            "Longitude": 103.94208629087403,
+            "Latitude": 1.34875342114003,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 147"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "96289",
+            "Longitude": 103.94838106593957,
+            "Latitude": 1.34005496226354,
+            "RoadName": "Simei Ave",
+            "Description": "Changi General Hosp"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "96109",
+            "Longitude": 103.95067333143491,
+            "Latitude": 1.33737118239889,
+            "RoadName": "Simei Ave",
+            "Description": "Opp Blk 3012"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "96119",
+            "Longitude": 103.9537488312858,
+            "Latitude": 1.33373145315305,
+            "RoadName": "Simei Ave",
+            "Description": "ITE Coll East Adm Blk"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "96019",
+            "Longitude": 103.95370361097966,
+            "Latitude": 1.33138833299802,
+            "RoadName": "Upp Changi Rd East",
+            "Description": "Aft Simei Ave"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "85109",
+            "Longitude": 103.95134864429271,
+            "Latitude": 1.32945523179761,
+            "RoadName": "Upp Changi Rd East",
+            "Description": "Bef Bedok Rd"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "85099",
+            "Longitude": 103.94645987386455,
+            "Latitude": 1.32684437763421,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Tanah Merah Stn Exit A"
+        }
+    ]
+}

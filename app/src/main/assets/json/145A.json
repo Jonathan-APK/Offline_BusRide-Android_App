@@ -1,0 +1,60 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "10209",
+            "Longitude": 103.81672885450702,
+            "Latitude": 1.28954631749853,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Redhill Stn"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "10199",
+            "Longitude": 103.81936618662205,
+            "Latitude": 1.28875723330649,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Delta Swim Cplx"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "10189",
+            "Longitude": 103.82183192865197,
+            "Latitude": 1.28858805222806,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Blk 104A CP"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "10359",
+            "Longitude": 103.82259298997768,
+            "Latitude": 1.28723833324362,
+            "RoadName": "Henderson Rd",
+            "Description": "Aft Tiong Bahru Rd"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "10349",
+            "Longitude": 103.82104149555396,
+            "Latitude": 1.2849833405097,
+            "RoadName": "Henderson Rd",
+            "Description": "Blk 116"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "10339",
+            "Longitude": 103.81857250844851,
+            "Latitude": 1.28115835063292,
+            "RoadName": "Henderson Rd",
+            "Description": "Aft Bt Merah Ctrl"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "14249",
+            "Longitude": 103.81732991211003,
+            "Latitude": 1.27947405747082,
+            "RoadName": "Henderson Rd",
+            "Description": "Blk 1"
+        }
+    ]
+}

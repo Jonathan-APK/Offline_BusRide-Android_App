@@ -1,0 +1,294 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "59581",
+            "Longitude": 103.8461811,
+            "Latitude": 1.419136944,
+            "RoadName": "Yishun St 41",
+            "Description": "Blk 432C"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "59471",
+            "Longitude": 103.84901971560181,
+            "Latitude": 1.42111543044621,
+            "RoadName": "Yishun Ave 1",
+            "Description": "Blk 430B"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "59461",
+            "Longitude": 103.84695938114267,
+            "Latitude": 1.4233562505923,
+            "RoadName": "Yishun Ave 11",
+            "Description": "Opp Blk 419"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "59639",
+            "Longitude": 103.84412388893058,
+            "Latitude": 1.42318166665872,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Bet Blks 445/449"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "59579",
+            "Longitude": 103.84389849997935,
+            "Latitude": 1.42026429997499,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 456"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "59761",
+            "Longitude": 103.8432675,
+            "Latitude": 1.418496389,
+            "RoadName": "Yishun Ave 1",
+            "Description": "Blk 504C"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "59719",
+            "Longitude": 103.8420025,
+            "Latitude": 1.417565,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 672C"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "59439",
+            "Longitude": 103.83835440290515,
+            "Latitude": 1.41781023946668,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 858"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "59429",
+            "Longitude": 103.83503056128593,
+            "Latitude": 1.4174261275063,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 846"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "08069",
+            "Longitude": 103.84936128375956,
+            "Latitude": 1.29821382250893,
+            "RoadName": "Bras Basah Rd",
+            "Description": "BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "04179",
+            "Longitude": 103.85147164487202,
+            "Latitude": 1.29647916306741,
+            "RoadName": "Bras Basah Rd",
+            "Description": "AFT BRAS BASAH STN EXIT A"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "02049",
+            "Longitude": 103.85402155505173,
+            "Latitude": 1.29452091230981,
+            "RoadName": "Bras Basah Rd",
+            "Description": "Raffles Hotel"
+        },
+        {
+            "Distance": 23.1,
+            "BusStopCode": "02119",
+            "Longitude": 103.85534334305085,
+            "Latitude": 1.29184407356581,
+            "RoadName": "Nicoll Highway",
+            "Description": "Opp War Memorial Pk"
+        },
+        {
+            "Distance": 24.1,
+            "BusStopCode": "03019",
+            "Longitude": 103.85310805599599,
+            "Latitude": 1.284245000013,
+            "RoadName": "Collyer Quay",
+            "Description": "OUE Bayfront"
+        },
+        {
+            "Distance": 24.4,
+            "BusStopCode": "03059",
+            "Longitude": 103.85135652579491,
+            "Latitude": 1.28097649556002,
+            "RoadName": "Raffles Quay",
+            "Description": "One Raffles Quay"
+        },
+        {
+            "Distance": 24.8,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 25.4,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03222",
+            "Longitude": 103.84489562922414,
+            "Latitude": 1.27397836925637,
+            "RoadName": "Anson Rd",
+            "Description": "Hub Synergy Pt"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "03031",
+            "Longitude": 103.85086074925066,
+            "Latitude": 1.28207492207952,
+            "RoadName": "Robinson Rd",
+            "Description": "Raffles Pl Stn Exit F"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "02111",
+            "Longitude": 103.85453419435228,
+            "Latitude": 1.29095592348389,
+            "RoadName": "Esplanade Dr",
+            "Description": "Esplanade Bridge"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "04111",
+            "Longitude": 103.85128983925452,
+            "Latitude": 1.2940020309036,
+            "RoadName": "Stamford Rd",
+            "Description": "Capitol Bldg"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "04121",
+            "Longitude": 103.84958029974611,
+            "Latitude": 1.29618544092334,
+            "RoadName": "Stamford Rd",
+            "Description": "SMU"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "08041",
+            "Longitude": 103.84780636909545,
+            "Latitude": 1.29811014243867,
+            "RoadName": "Orchard Rd",
+            "Description": "YMCA"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "08031",
+            "Longitude": 103.8452569595532,
+            "Latitude": 1.29831153783592,
+            "RoadName": "Penang Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "59421",
+            "Longitude": 103.8351341252188,
+            "Latitude": 1.41762836917061,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 624"
+        },
+        {
+            "Distance": 23.1,
+            "BusStopCode": "59431",
+            "Longitude": 103.8377761,
+            "Latitude": 1.417801111,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 630"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "59711",
+            "Longitude": 103.8427906,
+            "Latitude": 1.418173889,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 672C"
+        },
+        {
+            "Distance": 24.2,
+            "BusStopCode": "59581",
+            "Longitude": 103.8461811,
+            "Latitude": 1.419136944,
+            "RoadName": "Yishun St 41",
+            "Description": "Blk 432C"
+        },
+        {
+            "Distance": 24.7,
+            "BusStopCode": "59471",
+            "Longitude": 103.84901971560181,
+            "Latitude": 1.42111543044621,
+            "RoadName": "Yishun Ave 1",
+            "Description": "Blk 430B"
+        },
+        {
+            "Distance": 25.3,
+            "BusStopCode": "59461",
+            "Longitude": 103.84695938114267,
+            "Latitude": 1.4233562505923,
+            "RoadName": "Yishun Ave 11",
+            "Description": "Opp Blk 419"
+        },
+        {
+            "Distance": 25.7,
+            "BusStopCode": "59639",
+            "Longitude": 103.84412388893058,
+            "Latitude": 1.42318166665872,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Bet Blks 445/449"
+        },
+        {
+            "Distance": 26,
+            "BusStopCode": "59579",
+            "Longitude": 103.84389849997935,
+            "Latitude": 1.42026429997499,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 456"
+        }
+    ]
+}

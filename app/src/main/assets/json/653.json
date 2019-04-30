@@ -1,0 +1,318 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "43811",
+            "Longitude": 103.76492799419663,
+            "Latitude": 1.35839109999144,
+            "RoadName": "Hume Ave",
+            "Description": "Bef Summerhill"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "43821",
+            "Longitude": 103.7675828524089,
+            "Latitude": 1.35675369196927,
+            "RoadName": "Hume Ave",
+            "Description": "Opp Symphony Hts"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "43279",
+            "Longitude": 103.76591020179649,
+            "Latitude": 1.36203855984679,
+            "RoadName": "Hillview Rd",
+            "Description": "Aft Hillview Stn"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "43268",
+            "Longitude": 103.76427530511685,
+            "Latitude": 1.36036935442362,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillington Green Condo"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "43259",
+            "Longitude": 103.76266305599302,
+            "Latitude": 1.35757277797812,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp Hillbrooks"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "43249",
+            "Longitude": 103.76204709426311,
+            "Latitude": 1.35565052307818,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillview Apts"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "43239",
+            "Longitude": 103.76002837789773,
+            "Latitude": 1.35308576389352,
+            "RoadName": "Hillview Ave",
+            "Description": "The Petals Condo"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "43449",
+            "Longitude": 103.7590516971924,
+            "Latitude": 1.35150377570255,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Blk 258"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "43439",
+            "Longitude": 103.75622664327469,
+            "Latitude": 1.35118101224765,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Blk 242"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "43429",
+            "Longitude": 103.75389074656302,
+            "Latitude": 1.35108692530475,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Blk 240"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "43179",
+            "Longitude": 103.75430345301592,
+            "Latitude": 1.3489707828044,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 231"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "43189",
+            "Longitude": 103.75681389918313,
+            "Latitude": 1.34694984968785,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 283"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "43619",
+            "Longitude": 103.75861329619691,
+            "Latitude": 1.34406411828167,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 289E"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "43629",
+            "Longitude": 103.75915813592935,
+            "Latitude": 1.34240810773422,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Yusof Ishak Sec Sch"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "42319",
+            "Longitude": 103.76043841269879,
+            "Latitude": 1.33915373900693,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Burgundy Hill"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "03241",
+            "Longitude": 103.84537,
+            "Latitude": 1.27456,
+            "RoadName": "Anson Rd",
+            "Description": "Mapletree Anson"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "03381",
+            "Longitude": 103.85306513725685,
+            "Latitude": 1.28162601329006,
+            "RoadName": "Marina Blvd",
+            "Description": "The Sail"
+        },
+        {
+            "Distance": 21.8,
+            "BusStopCode": "03391",
+            "Longitude": 103.85498006767988,
+            "Latitude": 1.28037660340352,
+            "RoadName": "Marina Blvd",
+            "Description": "Marina Bay Financial Ctr"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03539",
+            "Longitude": 103.85561610012866,
+            "Latitude": 1.2775330547661,
+            "RoadName": "Central Blvd",
+            "Description": "Marina Bay Stn"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "03529",
+            "Longitude": 103.85278769921703,
+            "Latitude": 1.27939957419063,
+            "RoadName": "Central Blvd",
+            "Description": "Downtown Stn"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "42311",
+            "Longitude": 103.76028055601957,
+            "Latitude": 1.33865749997067,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Opp Burgundy Hill"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "43621",
+            "Longitude": 103.75908187494267,
+            "Latitude": 1.34169275195642,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Opp Parkview Apts"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "43611",
+            "Longitude": 103.75829172450743,
+            "Latitude": 1.3440783607984,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 290H"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "43181",
+            "Longitude": 103.75681722199707,
+            "Latitude": 1.34648944401178,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Keming Pr Sch"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "43171",
+            "Longitude": 103.75460496382075,
+            "Latitude": 1.34859644473183,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 229"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "43421",
+            "Longitude": 103.75362047618977,
+            "Latitude": 1.35109278850869,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Blk 503"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "43431",
+            "Longitude": 103.75644264494997,
+            "Latitude": 1.35138376789986,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Opp Blk 242"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "43441",
+            "Longitude": 103.75897289147882,
+            "Latitude": 1.35173000550557,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Opp Blk 258"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "43231",
+            "Longitude": 103.76006304222618,
+            "Latitude": 1.35393625714127,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp The Petals Condo"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "43241",
+            "Longitude": 103.76188709548238,
+            "Latitude": 1.35584392851879,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp Hillview Apts"
+        },
+        {
+            "Distance": 19.3,
+            "BusStopCode": "43251",
+            "Longitude": 103.76319656643706,
+            "Latitude": 1.35859534411792,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillbrooks"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "43811",
+            "Longitude": 103.76492799419663,
+            "Latitude": 1.35839109999144,
+            "RoadName": "Hume Ave",
+            "Description": "Bef Summerhill"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "43821",
+            "Longitude": 103.7675828524089,
+            "Latitude": 1.35675369196927,
+            "RoadName": "Hume Ave",
+            "Description": "Opp Symphony Hts"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "43279",
+            "Longitude": 103.76591020179649,
+            "Latitude": 1.36203855984679,
+            "RoadName": "Hillview Rd",
+            "Description": "Aft Hillview Stn"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "43268",
+            "Longitude": 103.76427530511685,
+            "Latitude": 1.36036935442362,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillington Green Condo"
+        }
+    ]
+}

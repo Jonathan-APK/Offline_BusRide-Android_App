@@ -1,0 +1,302 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84211",
+            "Longitude": 103.93443969781201,
+            "Latitude": 1.33004744658174,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 403"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "84521",
+            "Longitude": 103.93393805556471,
+            "Latitude": 1.33230500002897,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 506"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "84201",
+            "Longitude": 103.93309401156243,
+            "Latitude": 1.33660054449421,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "BEDOK RESVR STN EXIT A"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "84609",
+            "Longitude": 103.93130805598769,
+            "Latitude": 1.33791138898959,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Waterfront Key"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "84639",
+            "Longitude": 103.92937717202952,
+            "Latitude": 1.33857139776249,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Waterfront Waves"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "84619",
+            "Longitude": 103.92746694275839,
+            "Latitude": 1.33896501379939,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Waterfront Isle"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "84629",
+            "Longitude": 103.92537872720727,
+            "Latitude": 1.33815749250804,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 716"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "84479",
+            "Longitude": 103.92253160478627,
+            "Latitude": 1.33742106440195,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 713"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "84469",
+            "Longitude": 103.9197283469228,
+            "Latitude": 1.3375152915469,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 703"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "84491",
+            "Longitude": 103.91420602552198,
+            "Latitude": 1.33456808308445,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 629"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "72079",
+            "Longitude": 103.91201112281274,
+            "Latitude": 1.33201510811169,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 609"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "72069",
+            "Longitude": 103.90977961908514,
+            "Latitude": 1.33150994155892,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 121"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "72029",
+            "Longitude": 103.90655207721196,
+            "Latitude": 1.33086398684,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Blk 646"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "72019",
+            "Longitude": 103.90546507501655,
+            "Latitude": 1.32884628389091,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Mans"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "05049",
+            "Longitude": 103.84455070696784,
+            "Latitude": 1.28531114761754,
+            "RoadName": "New Bridge Rd",
+            "Description": "Chinatown Pt"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "05039",
+            "Longitude": 103.84254276754574,
+            "Latitude": 1.28293819129834,
+            "RoadName": "New Bridge Rd",
+            "Description": "New Bridge Ctr"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "05019",
+            "Longitude": 103.84105000000471,
+            "Latitude": 1.28118388885484,
+            "RoadName": "New Bridge Rd",
+            "Description": "Opp Pearl's Ctr"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "10011",
+            "Longitude": 103.83749709165197,
+            "Latitude": 1.2777380589964,
+            "RoadName": "New Bridge Rd",
+            "Description": "BEF NEIL RD"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "10499",
+            "Longitude": 103.83401000002084,
+            "Latitude": 1.27585400417691,
+            "RoadName": "Spooner Rd",
+            "Description": "KAMPONG BAHRU TER"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "10499",
+            "Longitude": 103.83401000002084,
+            "Latitude": 1.27585400417691,
+            "RoadName": "Spooner Rd",
+            "Description": "KAMPONG BAHRU TER"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "10017",
+            "Longitude": 103.83762574759974,
+            "Latitude": 1.27832046633393,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Aft Hosp Dr"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "05012",
+            "Longitude": 103.84087722199499,
+            "Latitude": 1.28154583300728,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Pearl's Ctr"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "05013",
+            "Longitude": 103.84299874303983,
+            "Latitude": 1.28406979945936,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "People's Pk Cplx"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "72011",
+            "Longitude": 103.90548361097667,
+            "Latitude": 1.32816499999482,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 322"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "72021",
+            "Longitude": 103.9063218660858,
+            "Latitude": 1.33096531210116,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 646"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "72061",
+            "Longitude": 103.9098393917043,
+            "Latitude": 1.33177922756641,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 122"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "72071",
+            "Longitude": 103.91184110459187,
+            "Latitude": 1.33219165087886,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 133"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "84499",
+            "Longitude": 103.91399439090614,
+            "Latitude": 1.33508643985694,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 140"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "84461",
+            "Longitude": 103.91939027798064,
+            "Latitude": 1.33807138901241,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Blk 701"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "84471",
+            "Longitude": 103.92199745160043,
+            "Latitude": 1.3373330466218,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 745"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "84621",
+            "Longitude": 103.9249204585602,
+            "Latitude": 1.33831497804809,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Blk 716"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "84611",
+            "Longitude": 103.92795482353951,
+            "Latitude": 1.33922469822607,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Waterfront Isle"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "84631",
+            "Longitude": 103.92948245969215,
+            "Latitude": 1.33879275233871,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Waterfront Waves"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "84601",
+            "Longitude": 103.93116966665325,
+            "Latitude": 1.33820137485609,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Waterfront Key"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "84209",
+            "Longitude": 103.93333589306084,
+            "Latitude": 1.33702513693776,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "BEDOK RESVR STN EXIT B"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "84529",
+            "Longitude": 103.93431305555218,
+            "Latitude": 1.33213305553955,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "84219",
+            "Longitude": 103.9348130555732,
+            "Latitude": 1.32940888887166,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Bet Blks 139/140"
+        }
+    ]
+}

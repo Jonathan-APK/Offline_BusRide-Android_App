@@ -1,0 +1,148 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "67261",
+            "Longitude": 103.89464206866457,
+            "Latitude": 1.3865874133088,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Blk 203B"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "67209",
+            "Longitude": 103.89618101813248,
+            "Latitude": 1.38690839585967,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 203"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "67199",
+            "Longitude": 103.89689165133598,
+            "Latitude": 1.3889487081629,
+            "RoadName": "Compassvale Rd",
+            "Description": "Opp Blk 223D"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "67189",
+            "Longitude": 103.89742612835978,
+            "Latitude": 1.39059955869523,
+            "RoadName": "Compassvale Rd",
+            "Description": "Opp Blk 241"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "67249",
+            "Longitude": 103.89850423466406,
+            "Latitude": 1.39376571527248,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 259C"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "67259",
+            "Longitude": 103.90046238900585,
+            "Latitude": 1.39465386086721,
+            "RoadName": "Compassvale St",
+            "Description": "Compassvale Stn Exit B"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "65061",
+            "Longitude": 103.9018594759131,
+            "Latitude": 1.39490129020977,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 298A"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "65199",
+            "Longitude": 103.90542736761212,
+            "Latitude": 1.39591721161169,
+            "RoadName": "TPE",
+            "Description": "Aft Punggol Rd"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "75359",
+            "Longitude": 103.93147946559002,
+            "Latitude": 1.37438650022455,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "75369",
+            "Longitude": 103.93056528604264,
+            "Latitude": 1.37079630405212,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp HNS Micro Siltronic"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "75319",
+            "Longitude": 103.93106194445039,
+            "Latitude": 1.36720805556001,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp Tampines Dormitory"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "75299",
+            "Longitude": 103.93106617032824,
+            "Latitude": 1.36239101738996,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ave 9"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "75289",
+            "Longitude": 103.93331674675824,
+            "Latitude": 1.36045667202312,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Opp Blks 741/742"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "75279",
+            "Longitude": 103.93620400344062,
+            "Latitude": 1.3604749400553,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Opp Blk 721"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "76549",
+            "Longitude": 103.94061354425413,
+            "Latitude": 1.3604278704904,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Opp Citylife@ Tampines"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "76191",
+            "Longitude": 103.94477445426702,
+            "Latitude": 1.3569438864901,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 401"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "76149",
+            "Longitude": 103.94636710560508,
+            "Latitude": 1.35370728527221,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Tampines Stn/Int"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "76139",
+            "Longitude": 103.94385009279503,
+            "Latitude": 1.35162691843499,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Century Sq"
+        }
+    ]
+}

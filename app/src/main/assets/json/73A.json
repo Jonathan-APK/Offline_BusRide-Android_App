@@ -1,0 +1,228 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "54009",
+            "Longitude": 103.84856716193268,
+            "Latitude": 1.36968769913339,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Ang Mo Kio Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "54261",
+            "Longitude": 103.85075454495572,
+            "Latitude": 1.36946941916508,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Ang Mo Kio Stn"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "54271",
+            "Longitude": 103.85356664655984,
+            "Latitude": 1.36996326781056,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 586"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "54281",
+            "Longitude": 103.85601277845504,
+            "Latitude": 1.3694902568174,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 570"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "54291",
+            "Longitude": 103.85886147831553,
+            "Latitude": 1.36918861426324,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 564"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "54301",
+            "Longitude": 103.86284675062745,
+            "Latitude": 1.37019500530585,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 5022"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "66341",
+            "Longitude": 103.86525341485559,
+            "Latitude": 1.37114196132937,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Daikin S'pore"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "66331",
+            "Longitude": 103.8701543470715,
+            "Latitude": 1.37173176460482,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 554"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "66421",
+            "Longitude": 103.87340722201968,
+            "Latitude": 1.37365500000249,
+            "RoadName": "S'goon Nth Ave 4",
+            "Description": "Blk 537"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "66431",
+            "Longitude": 103.87526422817183,
+            "Latitude": 1.37297644274866,
+            "RoadName": "S'goon Nth Ave 4",
+            "Description": "Opp Blk 506A"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "64109",
+            "Longitude": 103.87690900449827,
+            "Latitude": 1.37202330151763,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Gracehaven S Army"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "63219",
+            "Longitude": 103.8762710483349,
+            "Latitude": 1.36856637012739,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Blk 139"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "63209",
+            "Longitude": 103.87522122785421,
+            "Latitude": 1.36605804817414,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Toho Green"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "66149",
+            "Longitude": 103.87236222198605,
+            "Latitude": 1.36291833299844,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Aft Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "66139",
+            "Longitude": 103.86929111065648,
+            "Latitude": 1.36357778856307,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Opp Trinity Meth Ch"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "66271",
+            "Longitude": 103.86578916701893,
+            "Latitude": 1.36398333300081,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Serangoon Gdn Circus"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "66129",
+            "Longitude": 103.8680175,
+            "Latitude": 1.361491111,
+            "RoadName": "Lor Chuan",
+            "Description": "Aft Chuan Gdn"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "66119",
+            "Longitude": 103.86812666696963,
+            "Latitude": 1.35683000003038,
+            "RoadName": "Lor Chuan",
+            "Description": "Summer Pl"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "66039",
+            "Longitude": 103.86668854745251,
+            "Latitude": 1.35475138514216,
+            "RoadName": "Lor Chuan",
+            "Description": "Blk 307"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "66029",
+            "Longitude": 103.86143525134639,
+            "Latitude": 1.35017159420349,
+            "RoadName": "Lor Chuan",
+            "Description": "St. Gabriel's Pr Sch"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "66019",
+            "Longitude": 103.86040421534554,
+            "Latitude": 1.34602837489201,
+            "RoadName": "Lor Chuan",
+            "Description": "Bef Braddell Rd"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "52069",
+            "Longitude": 103.85856611406128,
+            "Latitude": 1.34314389988912,
+            "RoadName": "Braddell Rd",
+            "Description": "Comfortdelgro Corp Ltd"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "52059",
+            "Longitude": 103.85622585798508,
+            "Latitude": 1.34309745890513,
+            "RoadName": "Braddell Rd",
+            "Description": "Blk 219"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "52361",
+            "Longitude": 103.8529812160764,
+            "Latitude": 1.33974408909931,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "52279",
+            "Longitude": 103.84992957112877,
+            "Latitude": 1.33702420555118,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Blk 56"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "52259",
+            "Longitude": 103.85165691373105,
+            "Latitude": 1.33278746546959,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Opp Chung Hwa Free Clinic"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "52501",
+            "Longitude": 103.85011762889827,
+            "Latitude": 1.33090220918791,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int"
+        }
+    ]
+}

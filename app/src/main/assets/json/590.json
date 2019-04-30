@@ -1,0 +1,132 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "45421",
+            "Longitude": 103.75050925171398,
+            "Latitude": 1.40274884902867,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Opp Blk 666"
+        },
+        {
+            "Distance": 0.2,
+            "BusStopCode": "45439",
+            "Longitude": 103.75115527801049,
+            "Latitude": 1.40127194398549,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Opp Blk 661"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "45371",
+            "Longitude": 103.75193731177454,
+            "Latitude": 1.39533587133451,
+            "RoadName": "Choa Chu Kang Nth 6",
+            "Description": "Opp Yew Mei Green Condo"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "45361",
+            "Longitude": 103.7500200571186,
+            "Latitude": 1.39239930690933,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Opp Blk 765"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "45301",
+            "Longitude": 103.74663514172119,
+            "Latitude": 1.39184565454372,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Blk 708"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "09219",
+            "Longitude": 103.83316088291699,
+            "Latitude": 1.30731999685228,
+            "RoadName": "Scotts Rd",
+            "Description": "Far East Plaza"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "09037",
+            "Longitude": 103.83701253388183,
+            "Latitude": 1.3023400420296,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Mandarin Orchard"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "08137",
+            "Longitude": 103.84100500816844,
+            "Latitude": 1.30073968408393,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Plaza"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "08058",
+            "Longitude": 103.84654115271174,
+            "Latitude": 1.2989583431631,
+            "RoadName": "Orchard Rd",
+            "Description": "Aft Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "08069",
+            "Longitude": 103.84936128375956,
+            "Latitude": 1.29821382250893,
+            "RoadName": "Bras Basah Rd",
+            "Description": "BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "04179",
+            "Longitude": 103.85147164487202,
+            "Latitude": 1.29647916306741,
+            "RoadName": "Bras Basah Rd",
+            "Description": "AFT BRAS BASAH STN EXIT A"
+        },
+        {
+            "Distance": 23.8,
+            "BusStopCode": "02119",
+            "Longitude": 103.85534334305085,
+            "Latitude": 1.29184407356581,
+            "RoadName": "Nicoll Highway",
+            "Description": "Opp War Memorial Pk"
+        },
+        {
+            "Distance": 24.8,
+            "BusStopCode": "03019",
+            "Longitude": 103.85310805599599,
+            "Latitude": 1.284245000013,
+            "RoadName": "Collyer Quay",
+            "Description": "OUE Bayfront"
+        },
+        {
+            "Distance": 25.6,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 26,
+            "BusStopCode": "03217",
+            "Longitude": 103.8479443674916,
+            "Latitude": 1.27552218897645,
+            "RoadName": "Shenton Way",
+            "Description": "Opp AXA Twr"
+        },
+        {
+            "Distance": 26.2,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        }
+    ]
+}

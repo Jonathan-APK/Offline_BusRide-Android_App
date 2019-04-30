@@ -1,0 +1,694 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "28441",
+            "Longitude": 103.73884916698127,
+            "Latitude": 1.33576638902918,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "28071",
+            "Longitude": 103.73904242961275,
+            "Latitude": 1.33765035288669,
+            "RoadName": "Boon Lay Way",
+            "Description": "Blk 105"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "28081",
+            "Longitude": 103.73664764665054,
+            "Latitude": 1.33950830792818,
+            "RoadName": "Boon Lay Way",
+            "Description": "Blk 112"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "28281",
+            "Longitude": 103.73537548132207,
+            "Latitude": 1.3420603281321,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Parc Oasis"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "28291",
+            "Longitude": 103.73638303040048,
+            "Latitude": 1.34446090409168,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 303"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "43459",
+            "Longitude": 103.73807456781998,
+            "Latitude": 1.34808666498981,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Aft PIE"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "43349",
+            "Longitude": 103.74073750002215,
+            "Latitude": 1.34989138902216,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Opp Princess E Pr Sch"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "43539",
+            "Longitude": 103.7433686110311,
+            "Latitude": 1.35142277800259,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Opp Blk 140"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "43409",
+            "Longitude": 103.74623591627208,
+            "Latitude": 1.35235542005389,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Opp Blk 127"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "43411",
+            "Longitude": 103.75019891787089,
+            "Latitude": 1.35176519952681,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Opp Blk 628"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "43179",
+            "Longitude": 103.75430345301592,
+            "Latitude": 1.3489707828044,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 231"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "43189",
+            "Longitude": 103.75681389918313,
+            "Latitude": 1.34694984968785,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 283"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "43619",
+            "Longitude": 103.75861329619691,
+            "Latitude": 1.34406411828167,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 289E"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "43629",
+            "Longitude": 103.75915813592935,
+            "Latitude": 1.34240810773422,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Yusof Ishak Sec Sch"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "42319",
+            "Longitude": 103.76043841269879,
+            "Latitude": 1.33915373900693,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Burgundy Hill"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "52071",
+            "Longitude": 103.84381843224321,
+            "Latitude": 1.32991416932901,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Trellis Twrs"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "52509",
+            "Longitude": 103.85017633434691,
+            "Latitude": 1.33115712303762,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "52329",
+            "Longitude": 103.85268688199498,
+            "Latitude": 1.33146817532374,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Stadium"
+        },
+        {
+            "Distance": 25.4,
+            "BusStopCode": "72011",
+            "Longitude": 103.90548361097667,
+            "Latitude": 1.32816499999482,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 322"
+        },
+        {
+            "Distance": 25.8,
+            "BusStopCode": "72021",
+            "Longitude": 103.9063218660858,
+            "Latitude": 1.33096531210116,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 646"
+        },
+        {
+            "Distance": 26.3,
+            "BusStopCode": "72061",
+            "Longitude": 103.9098393917043,
+            "Latitude": 1.33177922756641,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 122"
+        },
+        {
+            "Distance": 26.5,
+            "BusStopCode": "72071",
+            "Longitude": 103.91184110459187,
+            "Latitude": 1.33219165087886,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 133"
+        },
+        {
+            "Distance": 27,
+            "BusStopCode": "84499",
+            "Longitude": 103.91399439090614,
+            "Latitude": 1.33508643985694,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 140"
+        },
+        {
+            "Distance": 27.6,
+            "BusStopCode": "84489",
+            "Longitude": 103.91618833296936,
+            "Latitude": 1.33804722197723,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Bedok Ind Pk C"
+        },
+        {
+            "Distance": 28,
+            "BusStopCode": "84461",
+            "Longitude": 103.91939027798064,
+            "Latitude": 1.33807138901241,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Blk 701"
+        },
+        {
+            "Distance": 28.4,
+            "BusStopCode": "84471",
+            "Longitude": 103.92199745160043,
+            "Latitude": 1.3373330466218,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 745"
+        },
+        {
+            "Distance": 28.8,
+            "BusStopCode": "84621",
+            "Longitude": 103.9249204585602,
+            "Latitude": 1.33831497804809,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Blk 716"
+        },
+        {
+            "Distance": 29.2,
+            "BusStopCode": "84611",
+            "Longitude": 103.92795482353951,
+            "Latitude": 1.33922469822607,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Waterfront Isle"
+        },
+        {
+            "Distance": 29.4,
+            "BusStopCode": "84631",
+            "Longitude": 103.92948245969215,
+            "Latitude": 1.33879275233871,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Waterfront Waves"
+        },
+        {
+            "Distance": 29.6,
+            "BusStopCode": "84601",
+            "Longitude": 103.93116966665325,
+            "Latitude": 1.33820137485609,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Waterfront Key"
+        },
+        {
+            "Distance": 29.9,
+            "BusStopCode": "84209",
+            "Longitude": 103.93333589306084,
+            "Latitude": 1.33702513693776,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "BEDOK RESVR STN EXIT B"
+        },
+        {
+            "Distance": 30.4,
+            "BusStopCode": "84529",
+            "Longitude": 103.93431305555218,
+            "Latitude": 1.33213305553955,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 30.7,
+            "BusStopCode": "84219",
+            "Longitude": 103.9348130555732,
+            "Latitude": 1.32940888887166,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Bet Blks 139/140"
+        },
+        {
+            "Distance": 31.2,
+            "BusStopCode": "84199",
+            "Longitude": 103.9355563841307,
+            "Latitude": 1.32553283664673,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Opp Blk 220 CP"
+        },
+        {
+            "Distance": 31.7,
+            "BusStopCode": "84051",
+            "Longitude": 103.93957942418302,
+            "Latitude": 1.32531855805156,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Sports Cplx"
+        },
+        {
+            "Distance": 32,
+            "BusStopCode": "84061",
+            "Longitude": 103.94223128727671,
+            "Latitude": 1.32584790501258,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "The Tanamera Condo"
+        },
+        {
+            "Distance": 32.6,
+            "BusStopCode": "84101",
+            "Longitude": 103.94421518494586,
+            "Latitude": 1.32298200464523,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Opp Blk 49"
+        },
+        {
+            "Distance": 32.9,
+            "BusStopCode": "84661",
+            "Longitude": 103.94438908816849,
+            "Latitude": 1.31992811557233,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Blk 172"
+        },
+        {
+            "Distance": 33.2,
+            "BusStopCode": "84671",
+            "Longitude": 103.94509555597209,
+            "Latitude": 1.31759333301805,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Aft Blk 156"
+        },
+        {
+            "Distance": 33.5,
+            "BusStopCode": "94051",
+            "Longitude": 103.94737959133388,
+            "Latitude": 1.31710244970995,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Opp Temasek Sec Sch"
+        },
+        {
+            "Distance": 34,
+            "BusStopCode": "94061",
+            "Longitude": 103.95138333302127,
+            "Latitude": 1.31843666702467,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Kew Green Condo"
+        },
+        {
+            "Distance": 34.2,
+            "BusStopCode": "94009",
+            "Longitude": 103.95256713632443,
+            "Latitude": 1.31795981372922,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Upp East Coast Ter"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "94009",
+            "Longitude": 103.95256713632443,
+            "Latitude": 1.31795981372922,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Upp East Coast Ter"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "94069",
+            "Longitude": 103.95085659912792,
+            "Latitude": 1.31809668590525,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Opp Kew Green Condo"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "94059",
+            "Longitude": 103.94798092494041,
+            "Latitude": 1.31707137658578,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Temasek Sec Sch"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "84679",
+            "Longitude": 103.94476555602924,
+            "Latitude": 1.31804305599346,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Opp Blk 156"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "84669",
+            "Longitude": 103.94418156021838,
+            "Latitude": 1.31994111212465,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Blk 73"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "84109",
+            "Longitude": 103.9441209521673,
+            "Latitude": 1.32350836424044,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Blk 50"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "84069",
+            "Longitude": 103.94219019887281,
+            "Latitude": 1.32548742810424,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 55"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "84059",
+            "Longitude": 103.93953481204565,
+            "Latitude": 1.32493504095045,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 65"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "84191",
+            "Longitude": 103.93533757051014,
+            "Latitude": 1.32566318975139,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 220 CP"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "84211",
+            "Longitude": 103.93443969781201,
+            "Latitude": 1.33004744658174,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 403"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "84521",
+            "Longitude": 103.93393805556471,
+            "Latitude": 1.33230500002897,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 506"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "84201",
+            "Longitude": 103.93309401156243,
+            "Latitude": 1.33660054449421,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "BEDOK RESVR STN EXIT A"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "84609",
+            "Longitude": 103.93130805598769,
+            "Latitude": 1.33791138898959,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Waterfront Key"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "84639",
+            "Longitude": 103.92937717202952,
+            "Latitude": 1.33857139776249,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Waterfront Waves"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "84619",
+            "Longitude": 103.92746694275839,
+            "Latitude": 1.33896501379939,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Waterfront Isle"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "84629",
+            "Longitude": 103.92537872720727,
+            "Latitude": 1.33815749250804,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 716"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "84479",
+            "Longitude": 103.92253160478627,
+            "Latitude": 1.33742106440195,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 713"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "84469",
+            "Longitude": 103.9197283469228,
+            "Latitude": 1.3375152915469,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 703"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "84481",
+            "Longitude": 103.91532871743395,
+            "Latitude": 1.33753167256033,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Bedok Ind Pk C"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "84491",
+            "Longitude": 103.91420602552198,
+            "Latitude": 1.33456808308445,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 629"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "72079",
+            "Longitude": 103.91201112281274,
+            "Latitude": 1.33201510811169,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 609"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "72069",
+            "Longitude": 103.90977961908514,
+            "Latitude": 1.33150994155892,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 121"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "72029",
+            "Longitude": 103.90655207721196,
+            "Latitude": 1.33086398684,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Blk 646"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "72019",
+            "Longitude": 103.90546507501655,
+            "Latitude": 1.32884628389091,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Mans"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "52321",
+            "Longitude": 103.8527071071997,
+            "Latitude": 1.3312589884768,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Stadium"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "52501",
+            "Longitude": 103.85011762889827,
+            "Latitude": 1.33090220918791,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "52079",
+            "Longitude": 103.84382885735747,
+            "Latitude": 1.32931477158443,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Opp Trellis Twrs"
+        },
+        {
+            "Distance": 29.2,
+            "BusStopCode": "42311",
+            "Longitude": 103.76028055601957,
+            "Latitude": 1.33865749997067,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Opp Burgundy Hill"
+        },
+        {
+            "Distance": 29.6,
+            "BusStopCode": "43621",
+            "Longitude": 103.75908187494267,
+            "Latitude": 1.34169275195642,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Opp Parkview Apts"
+        },
+        {
+            "Distance": 29.9,
+            "BusStopCode": "43611",
+            "Longitude": 103.75829172450743,
+            "Latitude": 1.3440783607984,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 290H"
+        },
+        {
+            "Distance": 30.2,
+            "BusStopCode": "43181",
+            "Longitude": 103.75681722199707,
+            "Latitude": 1.34648944401178,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Keming Pr Sch"
+        },
+        {
+            "Distance": 30.6,
+            "BusStopCode": "43171",
+            "Longitude": 103.75460496382075,
+            "Latitude": 1.34859644473183,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 229"
+        },
+        {
+            "Distance": 31.2,
+            "BusStopCode": "43419",
+            "Longitude": 103.74998784769572,
+            "Latitude": 1.35155523613685,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Blk 628"
+        },
+        {
+            "Distance": 31.6,
+            "BusStopCode": "43401",
+            "Longitude": 103.74681637316733,
+            "Latitude": 1.35226498779767,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Bt Batok Polyclinic"
+        },
+        {
+            "Distance": 32,
+            "BusStopCode": "43531",
+            "Longitude": 103.7437763360561,
+            "Latitude": 1.35154868659228,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Blk 140"
+        },
+        {
+            "Distance": 32.4,
+            "BusStopCode": "43341",
+            "Longitude": 103.74139303669513,
+            "Latitude": 1.34972199038423,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Princess E Pr Sch"
+        },
+        {
+            "Distance": 32.9,
+            "BusStopCode": "43453",
+            "Longitude": 103.7385,
+            "Latitude": 1.3479,
+            "RoadName": "Greenbank Pk",
+            "Description": "BEF PIE"
+        },
+        {
+            "Distance": 33.3,
+            "BusStopCode": "28299",
+            "Longitude": 103.73667027224192,
+            "Latitude": 1.34438323067917,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 253"
+        },
+        {
+            "Distance": 33.6,
+            "BusStopCode": "28289",
+            "Longitude": 103.73598888901057,
+            "Latitude": 1.34238972202327,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 228"
+        },
+        {
+            "Distance": 33.9,
+            "BusStopCode": "28089",
+            "Longitude": 103.73634638831608,
+            "Latitude": 1.34016358625469,
+            "RoadName": "Boon Lay Way",
+            "Description": "Bef Yuhua CC"
+        },
+        {
+            "Distance": 34.2,
+            "BusStopCode": "28079",
+            "Longitude": 103.7386009027093,
+            "Latitude": 1.33839906637569,
+            "RoadName": "Boon Lay Way",
+            "Description": "Blk 210"
+        },
+        {
+            "Distance": 34.6,
+            "BusStopCode": "28449",
+            "Longitude": 103.73944500002973,
+            "Latitude": 1.33618166701348,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Bef Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 35.1,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int"
+        }
+    ]
+}

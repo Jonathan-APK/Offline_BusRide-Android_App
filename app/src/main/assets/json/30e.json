@@ -1,0 +1,294 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "84029",
+            "Longitude": 103.92517704260585,
+            "Latitude": 1.32295305994698,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Blk 32"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "84019",
+            "Longitude": 103.92262015530929,
+            "Latitude": 1.32221972730517,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Chai Chee Ind Pk"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "82069",
+            "Longitude": 103.90295147896967,
+            "Latitude": 1.31709537499354,
+            "RoadName": "Changi Rd",
+            "Description": "Aft Lor 106 Changi"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "81199",
+            "Longitude": 103.8906311270188,
+            "Latitude": 1.30862937328019,
+            "RoadName": "Dunman Rd",
+            "Description": "BEF OLD AIRPORT RD"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "81189",
+            "Longitude": 103.88850877408412,
+            "Latitude": 1.30821308595952,
+            "RoadName": "Old Airport Rd",
+            "Description": "Dakota Stn Exit B/Blk 60"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "81179",
+            "Longitude": 103.88490711001795,
+            "Latitude": 1.30726086825664,
+            "RoadName": "Old Airport Rd",
+            "Description": "Blk 22"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "91099",
+            "Longitude": 103.88471920227425,
+            "Latitude": 1.30320972763591,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Bef Wilkinson Rd"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "91089",
+            "Longitude": 103.88553021350832,
+            "Latitude": 1.29913832558004,
+            "RoadName": "Fort Rd",
+            "Description": "Opp Fort Gdns"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "14141",
+            "Longitude": 103.82211326846237,
+            "Latitude": 1.26552421466644,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "VivoCity"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "14121",
+            "Longitude": 103.81925660621779,
+            "Latitude": 1.26591350024271,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Harbourfront Stn Exit B"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "15141",
+            "Longitude": 103.80095947823813,
+            "Latitude": 1.27275860463579,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Labrador Pk Stn"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "15151",
+            "Longitude": 103.79822208982421,
+            "Latitude": 1.27389192906939,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Opp Mapletree Biz City"
+        },
+        {
+            "Distance": 20.5,
+            "BusStopCode": "15161",
+            "Longitude": 103.79666055940478,
+            "Latitude": 1.27443806198132,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Pasir Panjang Ctr"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "15201",
+            "Longitude": 103.78970861437152,
+            "Latitude": 1.27680819120105,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Aft Pasir Panjang Stn"
+        },
+        {
+            "Distance": 22.5,
+            "BusStopCode": "16011",
+            "Longitude": 103.78186930413443,
+            "Latitude": 1.28277766355314,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Opp Haw Par Villa Stn"
+        },
+        {
+            "Distance": 23.3,
+            "BusStopCode": "16031",
+            "Longitude": 103.77846479413628,
+            "Latitude": 1.28800629048399,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Opp S'pore Science Pk II"
+        },
+        {
+            "Distance": 24,
+            "BusStopCode": "16061",
+            "Longitude": 103.77356171611027,
+            "Latitude": 1.29046257201356,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Opp Heng Mui Keng Terr"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "16069",
+            "Longitude": 103.7731166669843,
+            "Latitude": 1.29082972200391,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Heng Mui Keng Terr"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "16039",
+            "Longitude": 103.77872029260048,
+            "Latitude": 1.28799020188116,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "S'pore Science Pk II"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "16019",
+            "Longitude": 103.78217614858187,
+            "Latitude": 1.28278078585184,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Haw Par Villa Stn"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "15209",
+            "Longitude": 103.79023432729963,
+            "Latitude": 1.27706561928684,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Bef Pasir Panjang Stn"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "15169",
+            "Longitude": 103.79673994290195,
+            "Latitude": 1.27481499269165,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Harbourside Ind Bldg 2"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "15159",
+            "Longitude": 103.79839350407595,
+            "Latitude": 1.27426303773784,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Mapletree Business City"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "15149",
+            "Longitude": 103.80055546758587,
+            "Latitude": 1.27341871854745,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Labrador Pk Stn/PSA Bldg"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "14129",
+            "Longitude": 103.81977877391114,
+            "Latitude": 1.26607869101924,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Harbourfront Stn Exit A"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "14119",
+            "Longitude": 103.8222827803663,
+            "Latitude": 1.26592360897281,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp VivoCity"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "91081",
+            "Longitude": 103.88533388902762,
+            "Latitude": 1.29930499999248,
+            "RoadName": "Fort Rd",
+            "Description": "Fort Gdns"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "91091",
+            "Longitude": 103.88436845345339,
+            "Latitude": 1.30314976548218,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Bef Kg Kayu Rd"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "81171",
+            "Longitude": 103.88500750064323,
+            "Latitude": 1.30751703730041,
+            "RoadName": "Old Airport Rd",
+            "Description": "Blk 39"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "81181",
+            "Longitude": 103.88847214403829,
+            "Latitude": 1.30845544825732,
+            "RoadName": "Old Airport Rd",
+            "Description": "Dakota Stn Exit A/Blk 99"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "81191",
+            "Longitude": 103.89180000002517,
+            "Latitude": 1.30913166702397,
+            "RoadName": "Dunman Rd",
+            "Description": "AFT OLD AIRPORT RD"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "82061",
+            "Longitude": 103.9022689641617,
+            "Latitude": 1.31876162629115,
+            "RoadName": "Sims Ave",
+            "Description": "Eunos Stn/ Int"
+        },
+        {
+            "Distance": 23.5,
+            "BusStopCode": "84011",
+            "Longitude": 103.92233358172962,
+            "Latitude": 1.32257749632692,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Chai Chee Ind Pk"
+        },
+        {
+            "Distance": 23.8,
+            "BusStopCode": "84021",
+            "Longitude": 103.92508721683168,
+            "Latitude": 1.32338320435233,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 32"
+        },
+        {
+            "Distance": 24.6,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        }
+    ]
+}

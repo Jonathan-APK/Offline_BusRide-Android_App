@@ -1,0 +1,100 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "78169",
+            "Longitude": 103.96024801184656,
+            "Latitude": 1.36906973013181,
+            "RoadName": "Pasir Ris Dr 4",
+            "Description": "Opp Blk 216"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "78209",
+            "Longitude": 103.96221418839181,
+            "Latitude": 1.3713650312338,
+            "RoadName": "Pasir Ris St 21",
+            "Description": "Blk 242"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "78219",
+            "Longitude": 103.96327818546209,
+            "Latitude": 1.36725694472542,
+            "RoadName": "Pasir Ris St 21",
+            "Description": "Opp Blk 204"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "78051",
+            "Longitude": 103.96118122599651,
+            "Latitude": 1.36625310810093,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 197"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "78061",
+            "Longitude": 103.95848117561664,
+            "Latitude": 1.36824361151738,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 104"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "77051",
+            "Longitude": 103.95508527984948,
+            "Latitude": 1.36908504460753,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 115"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "77041",
+            "Longitude": 103.95130450100082,
+            "Latitude": 1.36944854648197,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 541"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "77031",
+            "Longitude": 103.9483810573245,
+            "Latitude": 1.37116337071002,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Aft Pasir Ris Ctrl"
+        },
+        {
+            "Distance": 28.5,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 28.8,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 29.1,
+            "BusStopCode": "03031",
+            "Longitude": 103.85086074925066,
+            "Latitude": 1.28207492207952,
+            "RoadName": "Robinson Rd",
+            "Description": "Raffles Pl Stn Exit F"
+        },
+        {
+            "Distance": 29.7,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        }
+    ]
+}

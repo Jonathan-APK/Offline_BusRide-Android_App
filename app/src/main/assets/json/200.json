@@ -1,0 +1,356 @@
+{
+    "direction 1": [
+        {
+            "Distance": null,
+            "BusStopCode": "11379",
+            "Longitude": 103.79236323128613,
+            "Latitude": 1.30917002463976,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Ter"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "11381",
+            "Longitude": 103.79328294102335,
+            "Latitude": 1.30841137865065,
+            "RoadName": "Holland Dr",
+            "Description": "Blk 10A"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "11181",
+            "Longitude": 103.79227638896938,
+            "Latitude": 1.30722333300814,
+            "RoadName": "C'wealth Ave",
+            "Description": "Opp Blk 43"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "11369",
+            "Longitude": 103.79084827741467,
+            "Latitude": 1.3063259638605,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Stn Exit D"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "18149",
+            "Longitude": 103.78724143833315,
+            "Latitude": 1.30253001117245,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Opp Anglo-Chinese JC"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "18129",
+            "Longitude": 103.78570767644749,
+            "Latitude": 1.29776225378985,
+            "RoadName": "Buona Vista Flyover",
+            "Description": "Ayer Rajah Ind Est"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "15139",
+            "Longitude": 103.7845849999835,
+            "Latitude": 1.29241000003008,
+            "RoadName": "Sth Buona Vista Rd",
+            "Description": "Kent Ridge Stn Exit B"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "15129",
+            "Longitude": 103.78401870729115,
+            "Latitude": 1.28916467783169,
+            "RoadName": "Sth Buona Vista Rd",
+            "Description": "Opp Sci Pk 2/The Gemini"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "15119",
+            "Longitude": 103.78501111787651,
+            "Latitude": 1.28703802671813,
+            "RoadName": "Sth Buona Vista Rd",
+            "Description": "Opp Sci Pk 2/The Galen"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "15109",
+            "Longitude": 103.78581066082835,
+            "Latitude": 1.28591970870508,
+            "RoadName": "Sth Buona Vista Rd",
+            "Description": "LP 30"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "15099",
+            "Longitude": 103.78789349372825,
+            "Latitude": 1.28305620100972,
+            "RoadName": "Sth Buona Vista Rd",
+            "Description": "Natl Leadership Inst"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "15079",
+            "Longitude": 103.7868256,
+            "Latitude": 1.280779444,
+            "RoadName": "Sth Buona Vista Rd",
+            "Description": "Aft Lor Sarhad"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "15221",
+            "Longitude": 103.78531823285157,
+            "Latitude": 1.28004889012663,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Aft Sth Buona Vista Rd"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "16201",
+            "Longitude": 103.7841069,
+            "Latitude": 1.281298611,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Barossa Gdns"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "16011",
+            "Longitude": 103.78186930413443,
+            "Latitude": 1.28277766355314,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Opp Haw Par Villa Stn"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "16021",
+            "Longitude": 103.77981027693801,
+            "Latitude": 1.28625793147796,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Opp Gloria Man"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "16031",
+            "Longitude": 103.77846479413628,
+            "Latitude": 1.28800629048399,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Opp S'pore Science Pk II"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "16041",
+            "Longitude": 103.77689838408504,
+            "Latitude": 1.28915398566994,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "OPP LUXE VILLE"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "16051",
+            "Longitude": 103.77490282061994,
+            "Latitude": 1.28985118336786,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "The Crystal Tabernacle Ch"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "16061",
+            "Longitude": 103.77356171611027,
+            "Latitude": 1.29046257201356,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Opp Heng Mui Keng Terr"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "16071",
+            "Longitude": 103.77109438530917,
+            "Latitude": 1.29128369274019,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Opp Pasir Panjang PO"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "16081",
+            "Longitude": 103.76866138900287,
+            "Latitude": 1.29195777797363,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Aft Palm Green Condo"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "16009",
+            "Longitude": 103.76988323197696,
+            "Latitude": 1.29425341056334,
+            "RoadName": "Clementi Rd",
+            "Description": "Kent Ridge Ter"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "16089",
+            "Longitude": 103.76908420716119,
+            "Latitude": 1.29201138346787,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Aft Clementi Rd"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "16079",
+            "Longitude": 103.77129836184207,
+            "Latitude": 1.29138264862382,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Bef Pasir Panjang PO"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "16069",
+            "Longitude": 103.7731166669843,
+            "Latitude": 1.29082972200391,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Heng Mui Keng Terr"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "16059",
+            "Longitude": 103.77594136139503,
+            "Latitude": 1.28967266173408,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Jamiyah Halfway Hse"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "16049",
+            "Longitude": 103.77738654614421,
+            "Latitude": 1.28913789650054,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "WHITEHAVEN"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "16039",
+            "Longitude": 103.77872029260048,
+            "Latitude": 1.28799020188116,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "S'pore Science Pk II"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "16029",
+            "Longitude": 103.78022138902949,
+            "Latitude": 1.28608472200879,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Gloria Man"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "16019",
+            "Longitude": 103.78217614858187,
+            "Latitude": 1.28278078585184,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Haw Par Villa Stn"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "16209",
+            "Longitude": 103.7840106664928,
+            "Latitude": 1.28158795339781,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "HORIZON RESIDENCES"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "15229",
+            "Longitude": 103.78572727156029,
+            "Latitude": 1.27937638961898,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Bef Sth Buona Vista Rd"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "15071",
+            "Longitude": 103.78701416697068,
+            "Latitude": 1.28142472197061,
+            "RoadName": "Sth Buona Vista Rd",
+            "Description": "Opp Lor Sarhad"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "15091",
+            "Longitude": 103.78781105381566,
+            "Latitude": 1.28290732015735,
+            "RoadName": "Sth Buona Vista Rd",
+            "Description": "Opp Natl Leadership Inst"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "15101",
+            "Longitude": 103.78562083299963,
+            "Latitude": 1.28617611097876,
+            "RoadName": "Sth Buona Vista Rd",
+            "Description": "Opp LP 31"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "15111",
+            "Longitude": 103.78484166701072,
+            "Latitude": 1.28676277798099,
+            "RoadName": "Sth Buona Vista Rd",
+            "Description": "Sci Pk 2/The Galen"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "15121",
+            "Longitude": 103.78373044277906,
+            "Latitude": 1.2889414210404,
+            "RoadName": "Sth Buona Vista Rd",
+            "Description": "Sci Pk 2/The Gemini"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "15131",
+            "Longitude": 103.78448903561744,
+            "Latitude": 1.29254343742409,
+            "RoadName": "Sth Buona Vista Rd",
+            "Description": "Kent Ridge Stn"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "18121",
+            "Longitude": 103.7854209482613,
+            "Latitude": 1.29751168042934,
+            "RoadName": "Buona Vista Flyover",
+            "Description": "Opp Ayer Rajah Ind Est"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "18141",
+            "Longitude": 103.78788091438994,
+            "Latitude": 1.30418279677397,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Aft Anglo-Chinese JC"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "11361",
+            "Longitude": 103.79058123542397,
+            "Latitude": 1.30649698638726,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Stn Exit C"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "11189",
+            "Longitude": 103.79254222202354,
+            "Latitude": 1.30740138898924,
+            "RoadName": "C'wealth Ave",
+            "Description": "Blk 43"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "11389",
+            "Longitude": 103.7929321687807,
+            "Latitude": 1.30906501014268,
+            "RoadName": "Holland Dr",
+            "Description": "Blk 46"
+        }
+    ]
+}

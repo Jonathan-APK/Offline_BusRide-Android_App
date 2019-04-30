@@ -1,0 +1,52 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "54019",
+            "Longitude": 103.84418333302729,
+            "Latitude": 1.36618666697727,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Aft Blk 304"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "53169",
+            "Longitude": 103.84248787868405,
+            "Latitude": 1.36213468684692,
+            "RoadName": "Marymount Rd",
+            "Description": "Blk 254"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "53379",
+            "Longitude": 103.84386020713477,
+            "Latitude": 1.36018670154842,
+            "RoadName": "Bishan St 22",
+            "Description": "Blk 245"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "53389",
+            "Longitude": 103.84516933880761,
+            "Latitude": 1.35804473736933,
+            "RoadName": "Bishan St 22",
+            "Description": "Opp Bishan Nth Shop Mall"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "53399",
+            "Longitude": 103.8470163249439,
+            "Latitude": 1.35464002820911,
+            "RoadName": "Bishan St 22",
+            "Description": "Blk 202"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "53231",
+            "Longitude": 103.84797987894204,
+            "Latitude": 1.35089997844732,
+            "RoadName": "Bishan Rd",
+            "Description": "BISHAN STN"
+        }
+    ]
+}

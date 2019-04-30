@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    tools:context="com.mybusoffline.fypmybusoffline.UIClass.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/toolBarColor"
+        android:minHeight="?attr/actionBarSize"
+        android:id="@+id/mainToolbar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:theme="@style/ToolbarTheme"/>
+
+    <ImageView
+        android:id="@+id/mainPageImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:layout_marginBottom="300dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mainToolbar"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/track_your_journey_image" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/trackText"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:gravity="start"
+        android:text="Track Your Bus Journey"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:fontFamily="sans-serif"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.34"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mainPageImage"
+        app:layout_constraintVertical_bias="0.089"
+        app:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/scanQrButton"
+        android:layout_width="175dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="48dp"
+        android:enabled="true"
+        android:onClick="scanQRCode"
+        android:text="Scan QR Code"
+        android:theme="@style/BlueButton"
+        app:layout_constraintHorizontal_bias="0.614"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/trackText" />
+
+    <Button
+        android:id="@+id/selectBusServiceButton"
+        android:layout_width="175dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="24dp"
+        android:enabled="true"
+        android:onClick="selectBusGo"
+        android:text="Select Bus Service"
+        android:theme="@style/BlueButton"
+        app:layout_constraintHorizontal_bias="0.61"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scanQrButton" />
+
+    <ImageView
+        android:id="@+id/scanQrImage"
+        android:layout_width="64dp"
+        android:layout_height="53dp"
+        app:layout_constraintBottom_toBottomOf="@+id/scanQrButton"
+        app:layout_constraintEnd_toStartOf="@+id/scanQrButton"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/scanQrButton"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/scan_qr" />
+
+    <ImageView
+        android:id="@+id/busImage"
+        android:layout_width="61dp"
+        android:layout_height="39dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintBottom_toBottomOf="@+id/selectBusServiceButton"
+        app:layout_constraintEnd_toStartOf="@+id/selectBusServiceButton"
+        app:layout_constraintHorizontal_bias="0.98"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/selectBusServiceButton"
+        app:layout_constraintVertical_bias="0.55"
+        app:srcCompat="@drawable/bus" />
+    <!--
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="134dp"
+            android:layout_height="94dp"
+            android:text="Hello World!"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:text="Button"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.68" />
+
+        <TextView
+            android:id="@+id/jsonText"
+            android:layout_width="322dp"
+            android:layout_height="145dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="TextView"
+            app:layout_constraintBottom_toTopOf="@+id/textView1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />-->
+
+</android.support.constraint.ConstraintLayout>

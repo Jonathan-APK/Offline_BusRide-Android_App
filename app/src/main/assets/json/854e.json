@@ -1,0 +1,204 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "59073",
+            "Longitude": 103.8354631,
+            "Latitude": 1.428686944,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Stn"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "59069",
+            "Longitude": 103.83536957259517,
+            "Latitude": 1.42657294826877,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Blk 757"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "59059",
+            "Longitude": 103.83497942324875,
+            "Latitude": 1.42054602879781,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 608"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "59049",
+            "Longitude": 103.83339984073773,
+            "Latitude": 1.41700998157675,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Khatib Stn"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "59039",
+            "Longitude": 103.83156300557019,
+            "Latitude": 1.41342871609658,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Sports Hall"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "67051",
+            "Longitude": 103.87302341120069,
+            "Latitude": 1.3873944756683,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Seletar Hills Est"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "64129",
+            "Longitude": 103.87686804999332,
+            "Latitude": 1.37995970749936,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 988B"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "64119",
+            "Longitude": 103.87713655364794,
+            "Latitude": 1.37679164872283,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 953"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "64109",
+            "Longitude": 103.87690900449827,
+            "Latitude": 1.37202330151763,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Gracehaven S Army"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "63311",
+            "Longitude": 103.87780647158901,
+            "Latitude": 1.36990463865149,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 634"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "63321",
+            "Longitude": 103.88132215113495,
+            "Latitude": 1.36913602302795,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 627"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "63331",
+            "Longitude": 103.88492703491212,
+            "Latitude": 1.36836866548657,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 615"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "63341",
+            "Longitude": 103.88882988119938,
+            "Latitude": 1.36751402871615,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 709"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "63249",
+            "Longitude": 103.89261277802149,
+            "Latitude": 1.36395805601148,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "63071",
+            "Longitude": 103.89332464938751,
+            "Latitude": 1.3597807263938,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Opp Blk 248"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "63081",
+            "Longitude": 103.89260949897677,
+            "Latitude": 1.3568307844677,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Opp Blk 241"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "63091",
+            "Longitude": 103.89147049226345,
+            "Latitude": 1.35385498086943,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Opp Blk 106"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "63101",
+            "Longitude": 103.8903098431232,
+            "Latitude": 1.35110728949265,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Opp Blk 169"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "71061",
+            "Longitude": 103.89506854137488,
+            "Latitude": 1.33901443022109,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Bef Airport Rd"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "71071",
+            "Longitude": 103.89785574766542,
+            "Latitude": 1.33638181561906,
+            "RoadName": "Eunos Link",
+            "Description": "Opp Comfort Driving Ctr"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "71081",
+            "Longitude": 103.9005998503616,
+            "Latitude": 1.33375855817569,
+            "RoadName": "Eunos Link",
+            "Description": "Eunos Technolink"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "71091",
+            "Longitude": 103.90373154551283,
+            "Latitude": 1.33073374785934,
+            "RoadName": "Eunos Link",
+            "Description": "Blk 637"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "72019",
+            "Longitude": 103.90546507501655,
+            "Latitude": 1.32884628389091,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Mans"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        }
+    ]
+}

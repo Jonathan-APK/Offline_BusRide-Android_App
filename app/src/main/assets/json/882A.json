@@ -1,0 +1,60 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "58009",
+            "Longitude": 103.81941391689068,
+            "Latitude": 1.44748179252514,
+            "RoadName": "Sembawang Vista",
+            "Description": "Sembawang Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "58259",
+            "Longitude": 103.81895151565973,
+            "Latitude": 1.44777267175187,
+            "RoadName": "Sembawang Dr",
+            "Description": "Opp Sun Plaza"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "58219",
+            "Longitude": 103.8199297231716,
+            "Latitude": 1.44953463697186,
+            "RoadName": "Sembawang Way",
+            "Description": "Opp Sembawang Stn"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "58111",
+            "Longitude": 103.82075231895968,
+            "Latitude": 1.45096272310028,
+            "RoadName": "Canberra Rd",
+            "Description": "Blk 351 CP"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "58481",
+            "Longitude": 103.82267933798676,
+            "Latitude": 1.45305905176825,
+            "RoadName": "Wellington Circle",
+            "Description": "Opp Wellington Pr Sch"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "58491",
+            "Longitude": 103.82431343665893,
+            "Latitude": 1.45272174340224,
+            "RoadName": "Montreal Dr",
+            "Description": "Opp Blk 507A"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "58501",
+            "Longitude": 103.82708492151545,
+            "Latitude": 1.4507187825944,
+            "RoadName": "Montreal Link",
+            "Description": "Blk 592A"
+        }
+    ]
+}

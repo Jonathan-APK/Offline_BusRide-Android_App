@@ -1,0 +1,348 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "65201",
+            "Longitude": 103.903580214986,
+            "Latitude": 1.40083471013366,
+            "RoadName": "Punggol Field",
+            "Description": "Opp Blk 201A"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "65079",
+            "Longitude": 103.90474802293774,
+            "Latitude": 1.39893574516181,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 102C"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "65069",
+            "Longitude": 103.90236824858533,
+            "Latitude": 1.39504382175966,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 190C"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "65059",
+            "Longitude": 103.90129355204087,
+            "Latitude": 1.39308440832899,
+            "RoadName": "Punggol Rd",
+            "Description": "St. Anne's Ch"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "65049",
+            "Longitude": 103.90187166698628,
+            "Latitude": 1.38993499998792,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 126A"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "65039",
+            "Longitude": 103.9019239673808,
+            "Latitude": 1.38732741861632,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 124"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "65029",
+            "Longitude": 103.90061583298267,
+            "Latitude": 1.38461500003195,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 111"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "65019",
+            "Longitude": 103.89749237919405,
+            "Latitude": 1.38151407829697,
+            "RoadName": "Punggol Rd",
+            "Description": "The Rivervale"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "64029",
+            "Longitude": 103.89688283812272,
+            "Latitude": 1.37781617357511,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Blk 458"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "64429",
+            "Longitude": 103.8952195672541,
+            "Latitude": 1.37481689904602,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 412"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "64381",
+            "Longitude": 103.89170384962591,
+            "Latitude": 1.37288245131287,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Blk 521"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "64391",
+            "Longitude": 103.88976573946181,
+            "Latitude": 1.37145414929063,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 831"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "63351",
+            "Longitude": 103.88786388897049,
+            "Latitude": 1.36922638899711,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Hougang Swim Cplx"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "63341",
+            "Longitude": 103.88882988119938,
+            "Latitude": 1.36751402871615,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 709"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "63059",
+            "Longitude": 103.88984149586426,
+            "Latitude": 1.36437667280221,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Serangoon JC"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "63049",
+            "Longitude": 103.88752277779692,
+            "Latitude": 1.36219166668854,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Glad Tidings Ch"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "63039",
+            "Longitude": 103.88538416663954,
+            "Latitude": 1.36026000003341,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit C"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "63029",
+            "Longitude": 103.88218027802674,
+            "Latitude": 1.35727472200293,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp The Helping Hand"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "63019",
+            "Longitude": 103.87800141702434,
+            "Latitude": 1.35347964311763,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Upp S'Goon Shop Ctr"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "62149",
+            "Longitude": 103.87595332312252,
+            "Latitude": 1.35169173270668,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Paya Lebar Camp"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "66351",
+            "Longitude": 103.87324486521683,
+            "Latitude": 1.35049831450162,
+            "RoadName": "S'goon Ctrl",
+            "Description": "S'Goon Stn Exit B"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "66371",
+            "Longitude": 103.87268543240587,
+            "Latitude": 1.353767301605,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 261"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "63149",
+            "Longitude": 103.87452555599006,
+            "Latitude": 1.35489972198729,
+            "RoadName": "Boundary Rd",
+            "Description": "Serangoon Stadium"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "63011",
+            "Longitude": 103.87823575937183,
+            "Latitude": 1.35432115760902,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Upp S'Goon Shop Ctr"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "63021",
+            "Longitude": 103.88161613087621,
+            "Latitude": 1.3570580828827,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "The Helping Hand"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "63031",
+            "Longitude": 103.88535194446017,
+            "Latitude": 1.36050444441455,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit B"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "63041",
+            "Longitude": 103.88754805602413,
+            "Latitude": 1.36259166703136,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Glad Tidings Ch"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "63051",
+            "Longitude": 103.8891427848695,
+            "Latitude": 1.36415166798646,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Serangoon JC"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "63349",
+            "Longitude": 103.88923358520269,
+            "Latitude": 1.36687207146588,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 708"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "63359",
+            "Longitude": 103.88779233654836,
+            "Latitude": 1.36936804895468,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Hougang Swim Cplx"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "64399",
+            "Longitude": 103.8892571932248,
+            "Latitude": 1.37121818386818,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 512"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "64389",
+            "Longitude": 103.89156818388481,
+            "Latitude": 1.37313809346006,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 522"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "64421",
+            "Longitude": 103.89511829229477,
+            "Latitude": 1.37505042808455,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 421"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "64021",
+            "Longitude": 103.89663845377325,
+            "Latitude": 1.37788950153352,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 458"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "65011",
+            "Longitude": 103.89720951783346,
+            "Latitude": 1.38159696830765,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp The Rivervale"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "65021",
+            "Longitude": 103.89961345545082,
+            "Latitude": 1.38403136207098,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp Blk 110"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "65031",
+            "Longitude": 103.90162639249785,
+            "Latitude": 1.38711827264676,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 227D"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "65041",
+            "Longitude": 103.90162265734195,
+            "Latitude": 1.38984412426173,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 231"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "65061",
+            "Longitude": 103.9018594759131,
+            "Latitude": 1.39490129020977,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 298A"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "65071",
+            "Longitude": 103.90416383740006,
+            "Latitude": 1.39845074063981,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp Blk 103A"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "65209",
+            "Longitude": 103.90387509832152,
+            "Latitude": 1.40040560689368,
+            "RoadName": "Punggol Field",
+            "Description": "Aft Punggol Rd"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (Last Stop)"
+        }
+    ]
+}

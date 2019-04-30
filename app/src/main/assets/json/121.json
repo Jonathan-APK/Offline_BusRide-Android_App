@@ -1,0 +1,316 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "10499",
+            "Longitude": 103.83401000002084,
+            "Latitude": 1.27585400417691,
+            "RoadName": "Spooner Rd",
+            "Description": "KAMPONG BAHRU TER (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "10049",
+            "Longitude": 103.83483786772155,
+            "Latitude": 1.27623302424393,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "OPP KAMPONG BAHRU TER"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "10017",
+            "Longitude": 103.83762574759974,
+            "Latitude": 1.27832046633393,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Aft Hosp Dr"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "06011",
+            "Longitude": 103.83801388886192,
+            "Latitude": 1.28165999996967,
+            "RoadName": "Outram Rd",
+            "Description": "Opp Outram Pk Stn"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "06051",
+            "Longitude": 103.83405671725487,
+            "Latitude": 1.28475980959972,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Blk 55"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "06071",
+            "Longitude": 103.83360028266564,
+            "Latitude": 1.28685859481289,
+            "RoadName": "Zion Rd",
+            "Description": "Blk 2B"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "06081",
+            "Longitude": 103.83349881780524,
+            "Latitude": 1.28837086415387,
+            "RoadName": "Zion Rd",
+            "Description": "Blk 94"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "10221",
+            "Longitude": 103.83111793441608,
+            "Latitude": 1.29032906602668,
+            "RoadName": "Ganges Ave",
+            "Description": "Ganges Ctr"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "10231",
+            "Longitude": 103.8278819,
+            "Latitude": 1.290468056,
+            "RoadName": "Ganges Ave",
+            "Description": "Blk 51 CP"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "10389",
+            "Longitude": 103.82573455047122,
+            "Latitude": 1.28875832991208,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Blk 48"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "10169",
+            "Longitude": 103.82748123930962,
+            "Latitude": 1.28599961406266,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Tiong Bahru Plaza"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "10121",
+            "Longitude": 103.8288419,
+            "Latitude": 1.282626111,
+            "RoadName": "Kim Tian Rd",
+            "Description": "Blk 126 CP"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "10071",
+            "Longitude": 103.82638920754815,
+            "Latitude": 1.28045309423663,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Blk 111"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "10501",
+            "Longitude": 103.82528065411316,
+            "Latitude": 1.28105845355429,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Blk 104"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "10369",
+            "Longitude": 103.82387343933006,
+            "Latitude": 1.28037471151153,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Opp Cendex Ctr"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "14039",
+            "Longitude": 103.82345826768822,
+            "Latitude": 1.27663637861466,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Opp St. Theresa's Convent"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "14291",
+            "Longitude": 103.82132649422054,
+            "Latitude": 1.27468440821038,
+            "RoadName": "Telok Blangah Way",
+            "Description": "Blk 27"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "14269",
+            "Longitude": 103.81999451121168,
+            "Latitude": 1.27758480623244,
+            "RoadName": "Telok Blangah Cres",
+            "Description": "Blk 10"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "14259",
+            "Longitude": 103.81865821941,
+            "Latitude": 1.27784501068205,
+            "RoadName": "Telok Blangah Cres",
+            "Description": "Blk 11"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "14279",
+            "Longitude": 103.81920892602811,
+            "Latitude": 1.27591552267791,
+            "RoadName": "Telok Blangah Way",
+            "Description": "Blk 25"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "14319",
+            "Longitude": 103.82071832142381,
+            "Latitude": 1.27340685178245,
+            "RoadName": "Telok Blangah Rise",
+            "Description": "Blk 28"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "14489",
+            "Longitude": 103.82170108549552,
+            "Latitude": 1.2721852066614,
+            "RoadName": "Telok Blangah Rise",
+            "Description": "Blk 36 Mkt/FC"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "14309",
+            "Longitude": 103.82302593897191,
+            "Latitude": 1.27128899958763,
+            "RoadName": "Telok Blangah Rise",
+            "Description": "Blk 41"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "14379",
+            "Longitude": 103.82379361102515,
+            "Latitude": 1.27243833303297,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Blk 40"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "14031",
+            "Longitude": 103.82306027800865,
+            "Latitude": 1.27624277802151,
+            "RoadName": "Lower Delta Rd",
+            "Description": "St. Theresa's Convent"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "10361",
+            "Longitude": 103.82353025808791,
+            "Latitude": 1.28038092060065,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Cendex Ctr"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "10079",
+            "Longitude": 103.82708906887606,
+            "Latitude": 1.2803950142786,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Blk 201"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "10129",
+            "Longitude": 103.8285719444802,
+            "Latitude": 1.28231999999009,
+            "RoadName": "Kim Tian Rd",
+            "Description": "Blk 121"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "10151",
+            "Longitude": 103.8285292287095,
+            "Latitude": 1.28572048365401,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Ctrl Green Condo"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "10161",
+            "Longitude": 103.82668969231534,
+            "Latitude": 1.28593135445772,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Opp Tiong Bahru Plaza"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "10381",
+            "Longitude": 103.82559411728036,
+            "Latitude": 1.28906972186602,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Opp Blk 48"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "10239",
+            "Longitude": 103.82865,
+            "Latitude": 1.2906,
+            "RoadName": "Ganges Ave",
+            "Description": "Blk 79"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "10229",
+            "Longitude": 103.83178189529583,
+            "Latitude": 1.29052137840164,
+            "RoadName": "Ganges Ave",
+            "Description": "Opp Harvest Mans"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "06069",
+            "Longitude": 103.83496162445665,
+            "Latitude": 1.28623157720487,
+            "RoadName": "Outram Rd",
+            "Description": "Aft Furama RiverFront"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "06049",
+            "Longitude": 103.83517705055233,
+            "Latitude": 1.28474856880259,
+            "RoadName": "Outram Rd",
+            "Description": "BEF OUTRAM FLYOVER"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "06029",
+            "Longitude": 103.8383828488293,
+            "Latitude": 1.28177041153491,
+            "RoadName": "Outram Rd",
+            "Description": "Outram Pk Stn"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "10011",
+            "Longitude": 103.83749709165197,
+            "Latitude": 1.2777380589964,
+            "RoadName": "New Bridge Rd",
+            "Description": "BEF NEIL RD"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "10041",
+            "Longitude": 103.83519065305671,
+            "Latitude": 1.27605834770353,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "BEF KAMPONG BAHRU TER"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "10499",
+            "Longitude": 103.83401000002084,
+            "Latitude": 1.27585400417691,
+            "RoadName": "Spooner Rd",
+            "Description": "KAMPONG BAHRU TER (Last Stop)"
+        }
+    ]
+}

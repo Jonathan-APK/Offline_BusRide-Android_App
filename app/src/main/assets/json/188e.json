@@ -1,0 +1,228 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "44461",
+            "Longitude": 103.7430047219692,
+            "Latitude": 1.3825705560115,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 352"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "44451",
+            "Longitude": 103.74424353296656,
+            "Latitude": 1.38077375279629,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 224"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "44441",
+            "Longitude": 103.74754322627454,
+            "Latitude": 1.37924285981093,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 239"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "44121",
+            "Longitude": 103.75093552549583,
+            "Latitude": 1.37769846227758,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 113"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "43641",
+            "Longitude": 103.75026447996078,
+            "Latitude": 1.36530401539571,
+            "RoadName": "Bt Batok West Ave 7",
+            "Description": "Opp HomeTeamNS"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "43831",
+            "Longitude": 103.74788610102789,
+            "Latitude": 1.36512501870188,
+            "RoadName": "Bt Batok West Ave 7",
+            "Description": "Blk 334"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "43491",
+            "Longitude": 103.74714799810218,
+            "Latitude": 1.36395398644152,
+            "RoadName": "Bt Batok West Ave 4",
+            "Description": "Blk 331"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "43481",
+            "Longitude": 103.74637905142735,
+            "Latitude": 1.35992912103835,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Blk 315"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "43471",
+            "Longitude": 103.74730694399486,
+            "Latitude": 1.35796999999619,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Blk 306"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "43461",
+            "Longitude": 103.74749372345552,
+            "Latitude": 1.35504665794029,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Aft Bt Batok West Ave 5"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "43401",
+            "Longitude": 103.74681637316733,
+            "Latitude": 1.35226498779767,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Bt Batok Polyclinic"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "43321",
+            "Longitude": 103.74510884287126,
+            "Latitude": 1.34990599565613,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Opp Blk 144"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "43371",
+            "Longitude": 103.74590277613717,
+            "Latitude": 1.34682313984594,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "43699",
+            "Longitude": 103.74628307427523,
+            "Latitude": 1.34475341160997,
+            "RoadName": "Bt Batok Ave 1",
+            "Description": "Blk 298"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "28629",
+            "Longitude": 103.74424995812674,
+            "Latitude": 1.34195331167525,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 266"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "28631",
+            "Longitude": 103.74418616293988,
+            "Latitude": 1.34053157728505,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Opp Blk 288D"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "28641",
+            "Longitude": 103.74610320575732,
+            "Latitude": 1.33917889755759,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 284"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "28651",
+            "Longitude": 103.74794188238828,
+            "Latitude": 1.33515192012369,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Opp IMM Bldg"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "20019",
+            "Longitude": 103.7615108330155,
+            "Latitude": 1.31357611099308,
+            "RoadName": "AYE",
+            "Description": "Blk 431"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "16159",
+            "Longitude": 103.77017032679849,
+            "Latitude": 1.30060333385651,
+            "RoadName": "Clementi Rd",
+            "Description": "NUS Fac Of Engrg"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "16149",
+            "Longitude": 103.76994027003138,
+            "Latitude": 1.29781833402646,
+            "RoadName": "Clementi Rd",
+            "Description": "NUS Fac Of Architecture"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "16139",
+            "Longitude": 103.76974861100446,
+            "Latitude": 1.29537944399618,
+            "RoadName": "Clementi Rd",
+            "Description": "Bef Kent Ridge Ter"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "15199",
+            "Longitude": 103.79318399639808,
+            "Latitude": 1.27604240853686,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Opp Currency Hse"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "15169",
+            "Longitude": 103.79673994290195,
+            "Latitude": 1.27481499269165,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Harbourside Ind Bldg 2"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "15159",
+            "Longitude": 103.79839350407595,
+            "Latitude": 1.27426303773784,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Mapletree Business City"
+        },
+        {
+            "Distance": 19.3,
+            "BusStopCode": "15149",
+            "Longitude": 103.80055546758587,
+            "Latitude": 1.27341871854745,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Labrador Pk Stn/PSA Bldg"
+        },
+        {
+            "Distance": 21.7,
+            "BusStopCode": "14009",
+            "Longitude": 103.81901469907409,
+            "Latitude": 1.26703502614245,
+            "RoadName": "Seah Im Rd",
+            "Description": "HarbourFront Int"
+        }
+    ]
+}

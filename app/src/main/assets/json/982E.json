@@ -1,0 +1,318 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44589",
+            "Longitude": 103.7401815256426,
+            "Latitude": 1.37512566998176,
+            "RoadName": "Choa Chu Kang Ave 5",
+            "Description": "Opp Blk 489A"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "44559",
+            "Longitude": 103.73789066346548,
+            "Latitude": 1.37620955732727,
+            "RoadName": "Choa Chu Kang Ave 5",
+            "Description": "Blk 483"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "44629",
+            "Longitude": 103.73644907938714,
+            "Latitude": 1.37851168892339,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Blk 457"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "44509",
+            "Longitude": 103.73845177601393,
+            "Latitude": 1.38081340360597,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Blk 442"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "44499",
+            "Longitude": 103.74089358044327,
+            "Latitude": 1.3832016053923,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Blk 429A CP"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "44461",
+            "Longitude": 103.7430047219692,
+            "Latitude": 1.3825705560115,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 352"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "44451",
+            "Longitude": 103.74424353296656,
+            "Latitude": 1.38077375279629,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 224"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "44441",
+            "Longitude": 103.74754322627454,
+            "Latitude": 1.37924285981093,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 239"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "44119",
+            "Longitude": 103.74930565785152,
+            "Latitude": 1.38048445565999,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Blk 204"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "44299",
+            "Longitude": 103.75131333302434,
+            "Latitude": 1.38177250001353,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Cck Polyclinic"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "44289",
+            "Longitude": 103.75380266661918,
+            "Latitude": 1.38140148022937,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Blk 6"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "44279",
+            "Longitude": 103.75635459940506,
+            "Latitude": 1.37910867690077,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Blk 157"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "44139",
+            "Longitude": 103.75536565517723,
+            "Latitude": 1.37680960030968,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Opp Blk 26"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "44159",
+            "Longitude": 103.7525923087755,
+            "Latitude": 1.37401429037273,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Bt Batok Fire Stn"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "44169",
+            "Longitude": 103.75017065253876,
+            "Latitude": 1.37047453510829,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Bef Bt Batok West Ave 5"
+        },
+        {
+            "Distance": 24.5,
+            "BusStopCode": "03222",
+            "Longitude": 103.84489562922414,
+            "Latitude": 1.27397836925637,
+            "RoadName": "Anson Rd",
+            "Description": "Hub Synergy Pt"
+        },
+        {
+            "Distance": 25.2,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 25.5,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 26.1,
+            "BusStopCode": "03381",
+            "Longitude": 103.85306513725685,
+            "Latitude": 1.28162601329006,
+            "RoadName": "Marina Blvd",
+            "Description": "The Sail"
+        },
+        {
+            "Distance": 26.3,
+            "BusStopCode": "03391",
+            "Longitude": 103.85498006767988,
+            "Latitude": 1.28037660340352,
+            "RoadName": "Marina Blvd",
+            "Description": "Marina Bay Financial Ctr"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03539",
+            "Longitude": 103.85561610012866,
+            "Latitude": 1.2775330547661,
+            "RoadName": "Central Blvd",
+            "Description": "Marina Bay Stn"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "03529",
+            "Longitude": 103.85278769921703,
+            "Latitude": 1.27939957419063,
+            "RoadName": "Central Blvd",
+            "Description": "Downtown Stn"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "03217",
+            "Longitude": 103.8479443674916,
+            "Latitude": 1.27552218897645,
+            "RoadName": "Shenton Way",
+            "Description": "Opp AXA Twr"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "44161",
+            "Longitude": 103.74995297031272,
+            "Latitude": 1.37071120082306,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Aft Bt Batok West Ave 5"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "44151",
+            "Longitude": 103.75223395114867,
+            "Latitude": 1.37392273953012,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Opp Bt Batok Fire Stn"
+        },
+        {
+            "Distance": 22.5,
+            "BusStopCode": "44131",
+            "Longitude": 103.75532192967427,
+            "Latitude": 1.37710069702793,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Blk 26"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "44271",
+            "Longitude": 103.75614774814443,
+            "Latitude": 1.37867114732017,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Bet Blks 13/14"
+        },
+        {
+            "Distance": 23.1,
+            "BusStopCode": "44281",
+            "Longitude": 103.75422740795686,
+            "Latitude": 1.38104915821148,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Blk 8"
+        },
+        {
+            "Distance": 23.4,
+            "BusStopCode": "44291",
+            "Longitude": 103.75140111097832,
+            "Latitude": 1.38151999999791,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Opp Cck Polyclinic"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "44111",
+            "Longitude": 103.74975224203959,
+            "Latitude": 1.38094121398036,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Opp Blk 203"
+        },
+        {
+            "Distance": 24.2,
+            "BusStopCode": "44449",
+            "Longitude": 103.74762704486072,
+            "Latitude": 1.37889232196067,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Opp Blks 237/239"
+        },
+        {
+            "Distance": 24.6,
+            "BusStopCode": "44459",
+            "Longitude": 103.74454562435122,
+            "Latitude": 1.38028731431529,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 277"
+        },
+        {
+            "Distance": 24.9,
+            "BusStopCode": "44469",
+            "Longitude": 103.74275222200647,
+            "Latitude": 1.38243888902379,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 414"
+        },
+        {
+            "Distance": 25.1,
+            "BusStopCode": "44491",
+            "Longitude": 103.74175317755231,
+            "Latitude": 1.38358841426131,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Bet Blks 416/417"
+        },
+        {
+            "Distance": 25.6,
+            "BusStopCode": "44501",
+            "Longitude": 103.73879787160988,
+            "Latitude": 1.38087128691259,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Blk 426"
+        },
+        {
+            "Distance": 25.9,
+            "BusStopCode": "44621",
+            "Longitude": 103.73710050197961,
+            "Latitude": 1.37922934454518,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Opp Concord Pr Sch"
+        },
+        {
+            "Distance": 26.4,
+            "BusStopCode": "44551",
+            "Longitude": 103.73843005883766,
+            "Latitude": 1.37602460873449,
+            "RoadName": "Choa Chu Kang Ave 5",
+            "Description": "Opp Blk 486"
+        },
+        {
+            "Distance": 26.6,
+            "BusStopCode": "44581",
+            "Longitude": 103.74031352986161,
+            "Latitude": 1.37532277779344,
+            "RoadName": "Choa Chu Kang Ave 5",
+            "Description": "Blk 489A"
+        }
+    ]
+}

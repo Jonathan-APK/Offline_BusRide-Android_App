@@ -1,0 +1,508 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "43419",
+            "Longitude": 103.74998784769572,
+            "Latitude": 1.35155523613685,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Blk 628"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "43399",
+            "Longitude": 103.74808875836682,
+            "Latitude": 1.35066714575721,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Opp Blk 120"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "43389",
+            "Longitude": 103.74834299093746,
+            "Latitude": 1.34760499094973,
+            "RoadName": "Bt Batok Ave 1",
+            "Description": "Opp Blk 102"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "43519",
+            "Longitude": 103.74835776931137,
+            "Latitude": 1.34527424103226,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Opp Bt Batok Swim Cplx"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "43749",
+            "Longitude": 103.75163638787585,
+            "Latitude": 1.34661217154358,
+            "RoadName": "Bt Batok St 21",
+            "Description": "Opp Bt View Sec Sch"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "43739",
+            "Longitude": 103.75454805492608,
+            "Latitude": 1.34646078257571,
+            "RoadName": "Bt Batok St 21",
+            "Description": "Blk 217"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "43169",
+            "Longitude": 103.7578877455261,
+            "Latitude": 1.34931074950483,
+            "RoadName": "Bt Batok East Ave 4",
+            "Description": "Blk 254"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "43231",
+            "Longitude": 103.76006304222618,
+            "Latitude": 1.35393625714127,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp The Petals Condo"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "43241",
+            "Longitude": 103.76188709548238,
+            "Latitude": 1.35584392851879,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp Hillview Apts"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "43291",
+            "Longitude": 103.7613803711349,
+            "Latitude": 1.35796167034005,
+            "RoadName": "Jln Batu Nilam",
+            "Description": "Aft Jln Remaja"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "43301",
+            "Longitude": 103.76206438472947,
+            "Latitude": 1.35900254167529,
+            "RoadName": "Jln Batu Nilam",
+            "Description": "Opp Hillbrooks"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "43261",
+            "Longitude": 103.76436750000349,
+            "Latitude": 1.3614550000211,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp Hillview Hts"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "43811",
+            "Longitude": 103.76492799419663,
+            "Latitude": 1.35839109999144,
+            "RoadName": "Hume Ave",
+            "Description": "Bef Summerhill"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "43821",
+            "Longitude": 103.7675828524089,
+            "Latitude": 1.35675369196927,
+            "RoadName": "Hume Ave",
+            "Description": "Opp Symphony Hts"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "43029",
+            "Longitude": 103.77000849173528,
+            "Latitude": 1.35218580086883,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp The Hillside"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "43019",
+            "Longitude": 103.7710775,
+            "Latitude": 1.348201944,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Bt Timah Fire Stn"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "42119",
+            "Longitude": 103.77330275765884,
+            "Latitude": 1.34582513057916,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Southaven II"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "42099",
+            "Longitude": 103.77579384383286,
+            "Latitude": 1.34160317659437,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Beauty World Stn Exit A"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "42151",
+            "Longitude": 103.77531978477353,
+            "Latitude": 1.34009254981171,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Beauty World Stn Exit C"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "42161",
+            "Longitude": 103.77264625507586,
+            "Latitude": 1.34027669212035,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Blk 18"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "42239",
+            "Longitude": 103.77016055707928,
+            "Latitude": 1.34027047980738,
+            "RoadName": "Toh Tuck Rd",
+            "Description": "Aft Jln Jurong Kechil"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "42309",
+            "Longitude": 103.76890878569641,
+            "Latitude": 1.3380616700805,
+            "RoadName": "Toh Tuck Terr",
+            "Description": "Hse No. 45"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "42249",
+            "Longitude": 103.76697148211271,
+            "Latitude": 1.33696603683043,
+            "RoadName": "Lor Kismis",
+            "Description": "Bef Eng Kong Pl"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "42291",
+            "Longitude": 103.76430234507968,
+            "Latitude": 1.33769605916429,
+            "RoadName": "Toh Tuck Rise",
+            "Description": "Opp Toh Tuck Cres"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "42209",
+            "Longitude": 103.76363595867413,
+            "Latitude": 1.33914661405948,
+            "RoadName": "Toh Tuck Rd",
+            "Description": "Aft Toh Tuck Rise"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "28109",
+            "Longitude": 103.7593317971408,
+            "Latitude": 1.33327344230787,
+            "RoadName": "Toh Tuck Ave",
+            "Description": "SMRT Ulu Pandan Depot"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "28189",
+            "Longitude": 103.75850603827898,
+            "Latitude": 1.32992124735954,
+            "RoadName": "Toh Tuck Ave",
+            "Description": "Aft Toh Tuck Link"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "28019",
+            "Longitude": 103.75894333173954,
+            "Latitude": 1.32492720506757,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Aft Toh Tuck Ave"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "20109",
+            "Longitude": 103.76206999856427,
+            "Latitude": 1.32085220079341,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 203"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "17189",
+            "Longitude": 103.76406408827933,
+            "Latitude": 1.31790502165515,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 317"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "17181",
+            "Longitude": 103.7638854582427,
+            "Latitude": 1.31749570803723,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Blk 317"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "20101",
+            "Longitude": 103.76221926730373,
+            "Latitude": 1.31993714188512,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Nan Hua Pr Sch"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "28011",
+            "Longitude": 103.7591472219987,
+            "Latitude": 1.32425805601593,
+            "RoadName": "C'wealth Ave West",
+            "Description": "BEF TOH TUCK AVE"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "28181",
+            "Longitude": 103.75819801692671,
+            "Latitude": 1.32996642498284,
+            "RoadName": "Toh Tuck Ave",
+            "Description": "Bef Toh Tuck Link"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "28101",
+            "Longitude": 103.75905617435505,
+            "Latitude": 1.33312436803086,
+            "RoadName": "Toh Tuck Ave",
+            "Description": "Opp SMRT Ulu Pandan Depot"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "42201",
+            "Longitude": 103.76383096590918,
+            "Latitude": 1.33939353535638,
+            "RoadName": "Toh Tuck Rd",
+            "Description": "Bef Toh Tuck Rise"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "42299",
+            "Longitude": 103.76447557607713,
+            "Latitude": 1.3373703046187,
+            "RoadName": "Toh Tuck Rise",
+            "Description": "Aft Toh Tuck Cres"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "42241",
+            "Longitude": 103.76708487597254,
+            "Latitude": 1.33711750136148,
+            "RoadName": "Lor Kismis",
+            "Description": "Aft Eng Kong Pl"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "42301",
+            "Longitude": 103.76866950533451,
+            "Latitude": 1.33874676722579,
+            "RoadName": "Toh Tuck Terr",
+            "Description": "Opp Hse No. 19"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "42231",
+            "Longitude": 103.7706058329681,
+            "Latitude": 1.34056805598593,
+            "RoadName": "Toh Tuck Rd",
+            "Description": "Bef Jln Jurong Kechil"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "42169",
+            "Longitude": 103.77366130505683,
+            "Latitude": 1.34038575681297,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Opp Blk 19"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "42159",
+            "Longitude": 103.77530898996658,
+            "Latitude": 1.34036805329812,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Opp Beauty World Stn"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "42091",
+            "Longitude": 103.77539033846315,
+            "Latitude": 1.34278636864291,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Beauty World Stn Exit B"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "42111",
+            "Longitude": 103.77262861101015,
+            "Latitude": 1.34584805601375,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "WOH HUP BLDG"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "43011",
+            "Longitude": 103.77118138899144,
+            "Latitude": 1.34742333297015,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bt Regency"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "43021",
+            "Longitude": 103.76979529427526,
+            "Latitude": 1.35132007773328,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Old Jurong Rd"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "43829",
+            "Longitude": 103.767370833003,
+            "Latitude": 1.35685805598526,
+            "RoadName": "Hume Ave",
+            "Description": "Symphony Hts"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "43819",
+            "Longitude": 103.76512620416916,
+            "Latitude": 1.35815575609947,
+            "RoadName": "Hume Ave",
+            "Description": "Hillview Green"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "43267",
+            "Longitude": 103.76453111102046,
+            "Latitude": 1.36131333302001,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillview Hts"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "43309",
+            "Longitude": 103.7619941010074,
+            "Latitude": 1.35871024095534,
+            "RoadName": "Jln Batu Nilam",
+            "Description": "Hillbrooks"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "43289",
+            "Longitude": 103.76144116190218,
+            "Latitude": 1.35736881542526,
+            "RoadName": "Jln Remaja",
+            "Description": "Hillview Hse"
+        },
+        {
+            "Distance": 23.3,
+            "BusStopCode": "43249",
+            "Longitude": 103.76204709426311,
+            "Latitude": 1.35565052307818,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillview Apts"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "43239",
+            "Longitude": 103.76002837789773,
+            "Latitude": 1.35308576389352,
+            "RoadName": "Hillview Ave",
+            "Description": "The Petals Condo"
+        },
+        {
+            "Distance": 24.5,
+            "BusStopCode": "43161",
+            "Longitude": 103.75766163401367,
+            "Latitude": 1.34883190699072,
+            "RoadName": "Bt Batok East Ave 4",
+            "Description": "Blk 272"
+        },
+        {
+            "Distance": 25,
+            "BusStopCode": "43731",
+            "Longitude": 103.75421605015862,
+            "Latitude": 1.34630310628015,
+            "RoadName": "Bt Batok St 21",
+            "Description": "Opp Blk 217"
+        },
+        {
+            "Distance": 25.3,
+            "BusStopCode": "43741",
+            "Longitude": 103.75185667801935,
+            "Latitude": 1.34650419288551,
+            "RoadName": "Bt Batok St 21",
+            "Description": "Bt View Sec Sch"
+        },
+        {
+            "Distance": 25.7,
+            "BusStopCode": "43511",
+            "Longitude": 103.74849870531534,
+            "Latitude": 1.34497394208663,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Bt Batok Swim Cplx"
+        },
+        {
+            "Distance": 26.1,
+            "BusStopCode": "43381",
+            "Longitude": 103.74766049075139,
+            "Latitude": 1.34696555762849,
+            "RoadName": "Bt Batok Ave 1",
+            "Description": "Blk 102"
+        },
+        {
+            "Distance": 26.5,
+            "BusStopCode": "43391",
+            "Longitude": 103.7477975366473,
+            "Latitude": 1.34989395166691,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok CC"
+        },
+        {
+            "Distance": 27,
+            "BusStopCode": "43411",
+            "Longitude": 103.75019891787089,
+            "Latitude": 1.35176519952681,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Opp Blk 628"
+        },
+        {
+            "Distance": 27.4,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int (Last Stop)"
+        }
+    ]
+}

@@ -1,0 +1,958 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "45009",
+            "Longitude": 103.76291779489557,
+            "Latitude": 1.37844139790821,
+            "RoadName": "Petir Rd",
+            "Description": "BT PANJANG INT"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "44259",
+            "Longitude": 103.76297124601712,
+            "Latitude": 1.38029564329691,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 183"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "44029",
+            "Longitude": 103.7621954983533,
+            "Latitude": 1.37863409952448,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bt Panjang Stn Exit A/Lrt"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "44019",
+            "Longitude": 103.7625299525816,
+            "Latitude": 1.37651095528157,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "The Linear"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "43119",
+            "Longitude": 103.76300821940876,
+            "Latitude": 1.37337830995776,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bef Hazel Pk Terr"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "43109",
+            "Longitude": 103.76391083181434,
+            "Latitude": 1.37043731031208,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Cashew Stn"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "43099",
+            "Longitude": 103.76498636840047,
+            "Latitude": 1.36872205121157,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Assumption Pathway Sch"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "43089",
+            "Longitude": 103.76608527288596,
+            "Latitude": 1.36705664197789,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Assumption Eng Sch"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "43279",
+            "Longitude": 103.76591020179649,
+            "Latitude": 1.36203855984679,
+            "RoadName": "Hillview Rd",
+            "Description": "Aft Hillview Stn"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "43268",
+            "Longitude": 103.76427530511685,
+            "Latitude": 1.36036935442362,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillington Green Condo"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "43259",
+            "Longitude": 103.76266305599302,
+            "Latitude": 1.35757277797812,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp Hillbrooks"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "43249",
+            "Longitude": 103.76204709426311,
+            "Latitude": 1.35565052307818,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillview Apts"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "43239",
+            "Longitude": 103.76002837789773,
+            "Latitude": 1.35308576389352,
+            "RoadName": "Hillview Ave",
+            "Description": "The Petals Condo"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "43449",
+            "Longitude": 103.7590516971924,
+            "Latitude": 1.35150377570255,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Blk 258"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "43439",
+            "Longitude": 103.75622664327469,
+            "Latitude": 1.35118101224765,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Blk 242"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "43429",
+            "Longitude": 103.75389074656302,
+            "Latitude": 1.35108692530475,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Blk 240"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "43419",
+            "Longitude": 103.74998784769572,
+            "Latitude": 1.35155523613685,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Blk 628"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "43401",
+            "Longitude": 103.74681637316733,
+            "Latitude": 1.35226498779767,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Bt Batok Polyclinic"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "43321",
+            "Longitude": 103.74510884287126,
+            "Latitude": 1.34990599565613,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Opp Blk 144"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "43371",
+            "Longitude": 103.74590277613717,
+            "Latitude": 1.34682313984594,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "43699",
+            "Longitude": 103.74628307427523,
+            "Latitude": 1.34475341160997,
+            "RoadName": "Bt Batok Ave 1",
+            "Description": "Blk 298"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "28629",
+            "Longitude": 103.74424995812674,
+            "Latitude": 1.34195331167525,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 266"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "28319",
+            "Longitude": 103.74173313734524,
+            "Latitude": 1.33862623918679,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 207"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "28449",
+            "Longitude": 103.73944500002973,
+            "Latitude": 1.33618166701348,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Bef Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "28431",
+            "Longitude": 103.73881557585635,
+            "Latitude": 1.33449626498358,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 134"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "28249",
+            "Longitude": 103.73979174224014,
+            "Latitude": 1.33212287290362,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Jurong East Lib"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "28239",
+            "Longitude": 103.74307145172916,
+            "Latitude": 1.32980442518564,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Jurong Town Hall"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "28229",
+            "Longitude": 103.74593185918442,
+            "Latitude": 1.32536675242565,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "German Ctr"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "20269",
+            "Longitude": 103.74580944947768,
+            "Latitude": 1.32151780618055,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Bef Pandan Gdns"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "20259",
+            "Longitude": 103.74477002532701,
+            "Latitude": 1.31962187605788,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "C'wealth Sec Sch"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "20159",
+            "Longitude": 103.74640166581365,
+            "Latitude": 1.31851137522994,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 411"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "20149",
+            "Longitude": 103.74897266925451,
+            "Latitude": 1.31795969674094,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 408"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "20139",
+            "Longitude": 103.75204376675156,
+            "Latitude": 1.31584166892255,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Angliss Bldg"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "20289",
+            "Longitude": 103.75503415636196,
+            "Latitude": 1.31248801817062,
+            "RoadName": "West Coast Highway",
+            "Description": "The Japanese Sec Sch"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "17339",
+            "Longitude": 103.75850472198644,
+            "Latitude": 1.30785722199073,
+            "RoadName": "West Coast Highway",
+            "Description": "Blk 518"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "17329",
+            "Longitude": 103.76058388902574,
+            "Latitude": 1.30505055600585,
+            "RoadName": "West Coast Highway",
+            "Description": "Blk 705"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "17319",
+            "Longitude": 103.76229972130764,
+            "Latitude": 1.30183915639239,
+            "RoadName": "West Coast Highway",
+            "Description": "Blk 716"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "17369",
+            "Longitude": 103.76386861099263,
+            "Latitude": 1.29840583296856,
+            "RoadName": "West Coast Highway",
+            "Description": "Aft West Coast Link"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "17309",
+            "Longitude": 103.7652455560114,
+            "Latitude": 1.29537083302023,
+            "RoadName": "West Coast Highway",
+            "Description": "West Coast View"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "17359",
+            "Longitude": 103.76621750002619,
+            "Latitude": 1.29333722200355,
+            "RoadName": "West Coast Highway",
+            "Description": "Bef Clementi Rd"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "17299",
+            "Longitude": 103.77005055601747,
+            "Latitude": 1.29060555603074,
+            "RoadName": "West Coast Highway",
+            "Description": "Opp West Coast Pk"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "16249",
+            "Longitude": 103.77400682988979,
+            "Latitude": 1.28928277099215,
+            "RoadName": "West Coast Highway",
+            "Description": "Bef Wholesale Ctr"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "16239",
+            "Longitude": 103.77893444397212,
+            "Latitude": 1.28643527800393,
+            "RoadName": "West Coast Highway",
+            "Description": "Opp Wholesale Ctr"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "16229",
+            "Longitude": 103.78159959377587,
+            "Latitude": 1.2830090731877,
+            "RoadName": "West Coast Highway",
+            "Description": "Haw Par Villa Stn"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "16219",
+            "Longitude": 103.78362361100768,
+            "Latitude": 1.28015833301245,
+            "RoadName": "West Coast Highway",
+            "Description": "Opp Wharves Bldg"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "15219",
+            "Longitude": 103.78701031206879,
+            "Latitude": 1.27818114088895,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Pasir View Pk"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "15209",
+            "Longitude": 103.79023432729963,
+            "Latitude": 1.27706561928684,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Bef Pasir Panjang Stn"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "15199",
+            "Longitude": 103.79318399639808,
+            "Latitude": 1.27604240853686,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Opp Currency Hse"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "15169",
+            "Longitude": 103.79673994290195,
+            "Latitude": 1.27481499269165,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Harbourside Ind Bldg 2"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "15159",
+            "Longitude": 103.79839350407595,
+            "Latitude": 1.27426303773784,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Mapletree Business City"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "15149",
+            "Longitude": 103.80055546758587,
+            "Latitude": 1.27341871854745,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Labrador Pk Stn/PSA Bldg"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "14189",
+            "Longitude": 103.80398363214624,
+            "Latitude": 1.27269303340787,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Aft Alexandra Rd"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "14179",
+            "Longitude": 103.80630000533797,
+            "Latitude": 1.27188454577735,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Yeo's Bldg"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "14169",
+            "Longitude": 103.80941810434497,
+            "Latitude": 1.27118550385957,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp Telok Blangah Stn"
+        },
+        {
+            "Distance": 20.8,
+            "BusStopCode": "14041",
+            "Longitude": 103.81247079301698,
+            "Latitude": 1.2732727805917,
+            "RoadName": "Henderson Rd",
+            "Description": "Blk 54"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "14051",
+            "Longitude": 103.81507555599188,
+            "Latitude": 1.27581500000367,
+            "RoadName": "Henderson Rd",
+            "Description": "Aft Telok Blangah Hts"
+        },
+        {
+            "Distance": 21.7,
+            "BusStopCode": "14241",
+            "Longitude": 103.8168725087535,
+            "Latitude": 1.27914353103301,
+            "RoadName": "Henderson Rd",
+            "Description": "Opp Blk 1"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "10331",
+            "Longitude": 103.81834423228645,
+            "Latitude": 1.28136306628839,
+            "RoadName": "Henderson Rd",
+            "Description": "Bef Bt Merah Ctrl"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "10339",
+            "Longitude": 103.81857250844851,
+            "Latitude": 1.28115835063292,
+            "RoadName": "Henderson Rd",
+            "Description": "Aft Bt Merah Ctrl"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "14249",
+            "Longitude": 103.81732991211003,
+            "Latitude": 1.27947405747082,
+            "RoadName": "Henderson Rd",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "14059",
+            "Longitude": 103.81514365492288,
+            "Latitude": 1.27537485139506,
+            "RoadName": "Henderson Rd",
+            "Description": "Bef Telok Blangah Hts"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "14049",
+            "Longitude": 103.81304231999674,
+            "Latitude": 1.27324166755337,
+            "RoadName": "Henderson Rd",
+            "Description": "Opp Blk 55"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "14161",
+            "Longitude": 103.81009913005327,
+            "Latitude": 1.27075866533548,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Telok Blangah Stn"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "14171",
+            "Longitude": 103.80654857059398,
+            "Latitude": 1.27145959833005,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp Yeo's Bldg"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "15141",
+            "Longitude": 103.80095947823813,
+            "Latitude": 1.27275860463579,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Labrador Pk Stn"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "15151",
+            "Longitude": 103.79822208982421,
+            "Latitude": 1.27389192906939,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Opp Mapletree Biz City"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "15161",
+            "Longitude": 103.79666055940478,
+            "Latitude": 1.27443806198132,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Pasir Panjang Ctr"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "15191",
+            "Longitude": 103.79263571257981,
+            "Latitude": 1.27581227029734,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Pasir Panjang Stn/Fc"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "15201",
+            "Longitude": 103.78970861437152,
+            "Latitude": 1.27680819120105,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Aft Pasir Panjang Stn"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "15211",
+            "Longitude": 103.78642808592167,
+            "Latitude": 1.27792442096507,
+            "RoadName": "Pasir Panjang Rd",
+            "Description": "Opp Pasir View Pk"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "16211",
+            "Longitude": 103.78357583299086,
+            "Latitude": 1.27941861098854,
+            "RoadName": "West Coast Highway",
+            "Description": "Wharves Bldg"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "16221",
+            "Longitude": 103.78118424868649,
+            "Latitude": 1.28297585453544,
+            "RoadName": "West Coast Highway",
+            "Description": "Opp Haw Par Villa Stn"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "16231",
+            "Longitude": 103.77852933168337,
+            "Latitude": 1.28635947284714,
+            "RoadName": "West Coast Highway",
+            "Description": "Wholesale Ctr"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "16241",
+            "Longitude": 103.77352611096799,
+            "Latitude": 1.28910305603308,
+            "RoadName": "West Coast Highway",
+            "Description": "Bef West Coast Pk"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "17291",
+            "Longitude": 103.7696982607242,
+            "Latitude": 1.29035140506061,
+            "RoadName": "West Coast Highway",
+            "Description": "West Coast Pk"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "17351",
+            "Longitude": 103.76576444402885,
+            "Latitude": 1.29358000003179,
+            "RoadName": "West Coast Highway",
+            "Description": "Aft Clementi Rd"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "17301",
+            "Longitude": 103.76516694401265,
+            "Latitude": 1.29495361097608,
+            "RoadName": "West Coast Highway",
+            "Description": "Opp West Coast View"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "17361",
+            "Longitude": 103.76346250000067,
+            "Latitude": 1.29859750001329,
+            "RoadName": "West Coast Highway",
+            "Description": "Opp West Coast Link"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "17311",
+            "Longitude": 103.76229444678326,
+            "Latitude": 1.30101698629873,
+            "RoadName": "West Coast Highway",
+            "Description": "Emerson Process"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "17321",
+            "Longitude": 103.76035361097789,
+            "Latitude": 1.30483416696998,
+            "RoadName": "West Coast Highway",
+            "Description": "Tien Wah Press Bldg"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "17331",
+            "Longitude": 103.75833111102287,
+            "Latitude": 1.30758833300768,
+            "RoadName": "West Coast Highway",
+            "Description": "Opp Blk 518"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "20281",
+            "Longitude": 103.75484214400765,
+            "Latitude": 1.31234219524906,
+            "RoadName": "West Coast Highway",
+            "Description": "Opp The Japanese Sec Sch"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "20131",
+            "Longitude": 103.7518511517015,
+            "Latitude": 1.3155936163792,
+            "RoadName": "West Coast Rd",
+            "Description": "S'pore Food Industries Bldg"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "20141",
+            "Longitude": 103.7487710528033,
+            "Latitude": 1.31771999750607,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Blk 408"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "20151",
+            "Longitude": 103.74631047251557,
+            "Latitude": 1.31829668687275,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Blk 411"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "20251",
+            "Longitude": 103.74447102076279,
+            "Latitude": 1.31975500989852,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Bef Teban Gdns Rd"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "20261",
+            "Longitude": 103.74546423225033,
+            "Latitude": 1.3215997308483,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Aft Pandan Gdns"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "20271",
+            "Longitude": 103.74550887325397,
+            "Latitude": 1.32527553308365,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp German Ctr"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "28221",
+            "Longitude": 103.74494173101616,
+            "Latitude": 1.32761805004,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Intl Business Pk"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "28231",
+            "Longitude": 103.74248183726264,
+            "Latitude": 1.32986201071411,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Jurong Town Hall"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "28241",
+            "Longitude": 103.73957485927775,
+            "Latitude": 1.33175858461326,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Jurong East Lib"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "28439",
+            "Longitude": 103.7385749816785,
+            "Latitude": 1.33451434015094,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 124"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "28441",
+            "Longitude": 103.73884916698127,
+            "Latitude": 1.33576638902918,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "28311",
+            "Longitude": 103.74108351905207,
+            "Latitude": 1.33825277511898,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "28621",
+            "Longitude": 103.74358012428006,
+            "Latitude": 1.34154348249683,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 241"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "43691",
+            "Longitude": 103.74605567060456,
+            "Latitude": 1.34490189049397,
+            "RoadName": "Bt Batok Ave 1",
+            "Description": "Blk 190"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "43379",
+            "Longitude": 103.74518662694207,
+            "Latitude": 1.34716553724092,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Blk 185"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "43329",
+            "Longitude": 103.74483998148368,
+            "Latitude": 1.34976204246765,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Blk 146"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "43409",
+            "Longitude": 103.74623591627208,
+            "Latitude": 1.35235542005389,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Opp Blk 127"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "43411",
+            "Longitude": 103.75019891787089,
+            "Latitude": 1.35176519952681,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Opp Blk 628"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "43421",
+            "Longitude": 103.75362047618977,
+            "Latitude": 1.35109278850869,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Blk 503"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "43431",
+            "Longitude": 103.75644264494997,
+            "Latitude": 1.35138376789986,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Opp Blk 242"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "43441",
+            "Longitude": 103.75897289147882,
+            "Latitude": 1.35173000550557,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Opp Blk 258"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "43231",
+            "Longitude": 103.76006304222618,
+            "Latitude": 1.35393625714127,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp The Petals Condo"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "43241",
+            "Longitude": 103.76188709548238,
+            "Latitude": 1.35584392851879,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp Hillview Apts"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "43251",
+            "Longitude": 103.76319656643706,
+            "Latitude": 1.35859534411792,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillbrooks"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "43261",
+            "Longitude": 103.76436750000349,
+            "Latitude": 1.3614550000211,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp Hillview Hts"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "43271",
+            "Longitude": 103.76588123664067,
+            "Latitude": 1.36222569232805,
+            "RoadName": "Hillview Rd",
+            "Description": "Glendale Pk Condo"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "43061",
+            "Longitude": 103.76739148459211,
+            "Latitude": 1.36301133873589,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Hillview Stn"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "43071",
+            "Longitude": 103.76698012950051,
+            "Latitude": 1.36511351504744,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp Dairy Farm Rd"
+        },
+        {
+            "Distance": 20.5,
+            "BusStopCode": "43081",
+            "Longitude": 103.76572777796798,
+            "Latitude": 1.36704277799302,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp Assumption Eng Sch"
+        },
+        {
+            "Distance": 20.8,
+            "BusStopCode": "43091",
+            "Longitude": 103.76474109358477,
+            "Latitude": 1.36863253283887,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bef Cashew Stn"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "43111",
+            "Longitude": 103.76298146518725,
+            "Latitude": 1.37229972154626,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Min Of Defence"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "44011",
+            "Longitude": 103.76257120089846,
+            "Latitude": 1.37448606693865,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp The Linear"
+        },
+        {
+            "Distance": 21.9,
+            "BusStopCode": "44021",
+            "Longitude": 103.76172178111382,
+            "Latitude": 1.37820722702851,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bt Panjang Stn Exit B"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "44251",
+            "Longitude": 103.76227862094703,
+            "Latitude": 1.38033407967784,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 604"
+        },
+        {
+            "Distance": 23.1,
+            "BusStopCode": "45009",
+            "Longitude": 103.76291779489557,
+            "Latitude": 1.37844139790821,
+            "RoadName": "Petir Rd",
+            "Description": "BT PANJANG INT"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "59179",
+            "Longitude": 103.83988331688866,
+            "Latitude": 1.43221439515231,
+            "RoadName": "Yishun Ave 9",
+            "Description": "Blk 241"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "59389",
+            "Longitude": 103.84208246442347,
+            "Latitude": 1.43202071867504,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 314"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "59641",
+            "Longitude": 103.8457231,
+            "Latitude": 1.43152,
+            "RoadName": "Yishun St 31",
+            "Description": "Bet Blks 333C/333D"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "59621",
+            "Longitude": 103.84410555917717,
+            "Latitude": 1.43416283001882,
+            "RoadName": "Yishun Ave 6",
+            "Description": "Bet Blks 318A/318B"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "59181",
+            "Longitude": 103.84218833299445,
+            "Latitude": 1.43416611096992,
+            "RoadName": "Yishun Ave 9",
+            "Description": "Opp Blk 245"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "59171",
+            "Longitude": 103.84019665786346,
+            "Latitude": 1.43226509746155,
+            "RoadName": "Yishun Ave 9",
+            "Description": "Blk 309"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int (Last Stop)"
+        }
+    ]
+}

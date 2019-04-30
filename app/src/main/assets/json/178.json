@@ -1,0 +1,1142 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "46291",
+            "Longitude": 103.78248384607947,
+            "Latitude": 1.4364014799639,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 106"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "46199",
+            "Longitude": 103.78065534399263,
+            "Latitude": 1.43955043252866,
+            "RoadName": "Marsiling Rise",
+            "Description": "Blk 120"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "46181",
+            "Longitude": 103.778867882596,
+            "Latitude": 1.44015882292646,
+            "RoadName": "Marsiling Rd",
+            "Description": "Opp Blk 12"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "46209",
+            "Longitude": 103.77727510649777,
+            "Latitude": 1.44025242879024,
+            "RoadName": "Marsiling Dr",
+            "Description": "Blk 2"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "46709",
+            "Longitude": 103.77554719559573,
+            "Latitude": 1.44144739085946,
+            "RoadName": "Marsiling Dr",
+            "Description": "Aft Blk 1"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "46119",
+            "Longitude": 103.77252382232057,
+            "Latitude": 1.44101545973486,
+            "RoadName": "Admiralty Rd",
+            "Description": "Marsiling CC"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "46091",
+            "Longitude": 103.77010864564294,
+            "Latitude": 1.43960616363191,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Town Gdn"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "46059",
+            "Longitude": 103.76656472079625,
+            "Latitude": 1.4387537800127,
+            "RoadName": "Woodlands Rd",
+            "Description": "Globalfoundries/Aft Bke"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "46049",
+            "Longitude": 103.76460658875827,
+            "Latitude": 1.43689983237469,
+            "RoadName": "Woodlands Rd",
+            "Description": "Globalfoundries"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "46039",
+            "Longitude": 103.76200180616921,
+            "Latitude": 1.4330873187738,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Kranji Lodge 1"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "46029",
+            "Longitude": 103.76226643430736,
+            "Latitude": 1.42861423605127,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft W'Lands Ind Pk D St 2"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "45139",
+            "Longitude": 103.76178101875855,
+            "Latitude": 1.42525961270458,
+            "RoadName": "Woodlands Rd",
+            "Description": "Kranji Stn"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "45129",
+            "Longitude": 103.75863462427267,
+            "Latitude": 1.42382925070118,
+            "RoadName": "Woodlands Rd",
+            "Description": "S'pore Turf Club"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "45119",
+            "Longitude": 103.75597729351239,
+            "Latitude": 1.42181345656216,
+            "RoadName": "Woodlands Rd",
+            "Description": "Kranji War Memorial"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "45109",
+            "Longitude": 103.75478033541316,
+            "Latitude": 1.41785797439114,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Jln Bumbong"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "45099",
+            "Longitude": 103.75591307485898,
+            "Latitude": 1.41341731294698,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Jln Bumbong"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "45079",
+            "Longitude": 103.75588199006808,
+            "Latitude": 1.40959346067748,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Mandai Rd"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "45069",
+            "Longitude": 103.75626773948963,
+            "Latitude": 1.4069390779681,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Mandai Est"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "45059",
+            "Longitude": 103.75620896675814,
+            "Latitude": 1.40340952558706,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Da Di Glass"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "45049",
+            "Longitude": 103.75499277801016,
+            "Latitude": 1.39773638898124,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Yew Tee Ind Est Blk 1"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "45039",
+            "Longitude": 103.75427816224409,
+            "Latitude": 1.39585817355572,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Yew Tee Ind Est"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "45029",
+            "Longitude": 103.75414864750223,
+            "Latitude": 1.39303959514259,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Heavy Veh Pk"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "44999",
+            "Longitude": 103.7545111,
+            "Latitude": 1.391239722,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Yew Tee Flyover"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "45019",
+            "Longitude": 103.75559178864424,
+            "Latitude": 1.38821119718313,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Yew Tee Flyover"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "44069",
+            "Longitude": 103.75717769160771,
+            "Latitude": 1.38592018696626,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft KJE Slip Rd"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "44059",
+            "Longitude": 103.75817595629141,
+            "Latitude": 1.38449631673384,
+            "RoadName": "Woodlands Rd",
+            "Description": "Blk 632 CP"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "44049",
+            "Longitude": 103.7608578414621,
+            "Latitude": 1.38103523807931,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Ten Mile Junction Stn"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "44029",
+            "Longitude": 103.7621954983533,
+            "Latitude": 1.37863409952448,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bt Panjang Stn Exit A/Lrt"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "44019",
+            "Longitude": 103.7625299525816,
+            "Latitude": 1.37651095528157,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "The Linear"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "43119",
+            "Longitude": 103.76300821940876,
+            "Latitude": 1.37337830995776,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bef Hazel Pk Terr"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "43109",
+            "Longitude": 103.76391083181434,
+            "Latitude": 1.37043731031208,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Cashew Stn"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "43099",
+            "Longitude": 103.76498636840047,
+            "Latitude": 1.36872205121157,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Assumption Pathway Sch"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "43089",
+            "Longitude": 103.76608527288596,
+            "Latitude": 1.36705664197789,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Assumption Eng Sch"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "43069",
+            "Longitude": 103.76768583722071,
+            "Latitude": 1.36296778241046,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "HILLVIEW STN EXIT A"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "43059",
+            "Longitude": 103.7674364,
+            "Latitude": 1.359408611,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "The Rail Mall"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "43049",
+            "Longitude": 103.76885141403912,
+            "Latitude": 1.3556996199834,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp Hume Pk Condo"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "43029",
+            "Longitude": 103.77000849173528,
+            "Latitude": 1.35218580086883,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp The Hillside"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "43631",
+            "Longitude": 103.7685845905285,
+            "Latitude": 1.34785920936647,
+            "RoadName": "Old Jurong Rd",
+            "Description": "YWMA Kindergarten"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "43201",
+            "Longitude": 103.76464638897035,
+            "Latitude": 1.34694499998204,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Opp Autobacs"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "43191",
+            "Longitude": 103.75931336284916,
+            "Latitude": 1.34638492790435,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Blk 288C"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "43181",
+            "Longitude": 103.75681722199707,
+            "Latitude": 1.34648944401178,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Keming Pr Sch"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "43171",
+            "Longitude": 103.75460496382075,
+            "Latitude": 1.34859644473183,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 229"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "43419",
+            "Longitude": 103.74998784769572,
+            "Latitude": 1.35155523613685,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Blk 628"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "43401",
+            "Longitude": 103.74681637316733,
+            "Latitude": 1.35226498779767,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Bt Batok Polyclinic"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "43531",
+            "Longitude": 103.7437763360561,
+            "Latitude": 1.35154868659228,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Blk 140"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "43341",
+            "Longitude": 103.74139303669513,
+            "Latitude": 1.34972199038423,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Princess E Pr Sch"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "43453",
+            "Longitude": 103.7385,
+            "Latitude": 1.3479,
+            "RoadName": "Greenbank Pk",
+            "Description": "BEF PIE"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "28299",
+            "Longitude": 103.73667027224192,
+            "Latitude": 1.34438323067917,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 253"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "28289",
+            "Longitude": 103.73598888901057,
+            "Latitude": 1.34238972202327,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 228"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "28279",
+            "Longitude": 103.73423653369264,
+            "Latitude": 1.33948295480474,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 114"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "28269",
+            "Longitude": 103.73499280022457,
+            "Latitude": 1.33653242651923,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 118"
+        },
+        {
+            "Distance": 20.8,
+            "BusStopCode": "28259",
+            "Longitude": 103.73698833298555,
+            "Latitude": 1.33415472196842,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp S'pore Science Ctr"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "28249",
+            "Longitude": 103.73979174224014,
+            "Latitude": 1.33212287290362,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Jurong East Lib"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "28239",
+            "Longitude": 103.74307145172916,
+            "Latitude": 1.32980442518564,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Jurong Town Hall"
+        },
+        {
+            "Distance": 22.1,
+            "BusStopCode": "28309",
+            "Longitude": 103.74578490414557,
+            "Latitude": 1.32628627629778,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Intl Business Pk"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "20061",
+            "Longitude": 103.74298566424717,
+            "Latitude": 1.32380614051658,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Aft Jurong Town Hall Rd"
+        },
+        {
+            "Distance": 23.4,
+            "BusStopCode": "20081",
+            "Longitude": 103.73879228035435,
+            "Latitude": 1.32660472912447,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Carrier S'pore"
+        },
+        {
+            "Distance": 24.6,
+            "BusStopCode": "21011",
+            "Longitude": 103.72866849877529,
+            "Latitude": 1.32534328766029,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Aft Jurong Lake"
+        },
+        {
+            "Distance": 25.1,
+            "BusStopCode": "21021",
+            "Longitude": 103.72379008890384,
+            "Latitude": 1.32419322170223,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Bef Jurong Port Rd"
+        },
+        {
+            "Distance": 25.9,
+            "BusStopCode": "21171",
+            "Longitude": 103.71906611098208,
+            "Latitude": 1.3258163890121,
+            "RoadName": "Corporation Rd",
+            "Description": "OPP CORP PL"
+        },
+        {
+            "Distance": 26.4,
+            "BusStopCode": "21181",
+            "Longitude": 103.72100725398151,
+            "Latitude": 1.3302374752438,
+            "RoadName": "Corporation Rd",
+            "Description": "Opp Blk 161"
+        },
+        {
+            "Distance": 26.7,
+            "BusStopCode": "21191",
+            "Longitude": 103.72044541450344,
+            "Latitude": 1.33290982216515,
+            "RoadName": "Corporation Rd",
+            "Description": "Jurong Stadium"
+        },
+        {
+            "Distance": 26.9,
+            "BusStopCode": "21271",
+            "Longitude": 103.71947315443572,
+            "Latitude": 1.33465896770641,
+            "RoadName": "Corporation Rd",
+            "Description": "Opp Assyakirin Mque"
+        },
+        {
+            "Distance": 27.2,
+            "BusStopCode": "21201",
+            "Longitude": 103.71778639139953,
+            "Latitude": 1.33683396424463,
+            "RoadName": "Corporation Rd",
+            "Description": "Sime Rengo Packaging Ltd"
+        },
+        {
+            "Distance": 27.6,
+            "BusStopCode": "21211",
+            "Longitude": 103.71606833298439,
+            "Latitude": 1.34004972199531,
+            "RoadName": "Corporation Rd",
+            "Description": "Opp Lakepoint Condo"
+        },
+        {
+            "Distance": 28,
+            "BusStopCode": "21681",
+            "Longitude": 103.71466298692037,
+            "Latitude": 1.34228732259066,
+            "RoadName": "Boon Lay Way",
+            "Description": "Opp Blk 200"
+        },
+        {
+            "Distance": 28.3,
+            "BusStopCode": "21691",
+            "Longitude": 103.71138811111824,
+            "Latitude": 1.34107859811695,
+            "RoadName": "Boon Lay Way",
+            "Description": "OPP SUMMERDALE"
+        },
+        {
+            "Distance": 29.4,
+            "BusStopCode": "22491",
+            "Longitude": 103.70478201670083,
+            "Latitude": 1.33721274298352,
+            "RoadName": "Jurong West St 64",
+            "Description": "Blk 662D"
+        },
+        {
+            "Distance": 29.9,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "22499",
+            "Longitude": 103.70488157561539,
+            "Latitude": 1.33752755300605,
+            "RoadName": "Jurong West St 64",
+            "Description": "Opp Blk 662C"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "21699",
+            "Longitude": 103.71203075013112,
+            "Latitude": 1.34154982082089,
+            "RoadName": "Boon Lay Way",
+            "Description": "SUMMERDALE"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "21689",
+            "Longitude": 103.71442338427325,
+            "Latitude": 1.34241984576482,
+            "RoadName": "Boon Lay Way",
+            "Description": "Blk 200"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "21229",
+            "Longitude": 103.71602021559848,
+            "Latitude": 1.34200346086893,
+            "RoadName": "Corporation Rd",
+            "Description": "Opp S'Pore A'Space Mfg"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "21219",
+            "Longitude": 103.71625930906035,
+            "Latitude": 1.34010356133429,
+            "RoadName": "Corporation Rd",
+            "Description": "Lakepoint Condo"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "21209",
+            "Longitude": 103.71805599895127,
+            "Latitude": 1.33687648564633,
+            "RoadName": "Corporation Rd",
+            "Description": "Opp Sime Rengo Packaging Ltd"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "21279",
+            "Longitude": 103.71952517818409,
+            "Latitude": 1.33491282590378,
+            "RoadName": "Corporation Rd",
+            "Description": "Assyakirin Mque"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "21199",
+            "Longitude": 103.72051292839538,
+            "Latitude": 1.333309472028,
+            "RoadName": "Corporation Rd",
+            "Description": "Opp Jurong Stadium"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "21189",
+            "Longitude": 103.72122294249655,
+            "Latitude": 1.33026046590704,
+            "RoadName": "Corporation Rd",
+            "Description": "Blk 161"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "21179",
+            "Longitude": 103.71929527796603,
+            "Latitude": 1.32586166697514,
+            "RoadName": "Corporation Rd",
+            "Description": "CORP PL"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "21029",
+            "Longitude": 103.72167144503253,
+            "Latitude": 1.32431513164759,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "AFT CORP PL"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "21019",
+            "Longitude": 103.72703317988619,
+            "Latitude": 1.32554867828642,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Aft Yuan Ching Rd"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "20089",
+            "Longitude": 103.7392229529496,
+            "Latitude": 1.32702967705527,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Opp Carrier S'pore"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "20069",
+            "Longitude": 103.74418793943124,
+            "Latitude": 1.32405636523113,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Bef Jurong Town Hall Rd"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "20271",
+            "Longitude": 103.74550887325397,
+            "Latitude": 1.32527553308365,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp German Ctr"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "28221",
+            "Longitude": 103.74494173101616,
+            "Latitude": 1.32761805004,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Intl Business Pk"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "28231",
+            "Longitude": 103.74248183726264,
+            "Latitude": 1.32986201071411,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Jurong Town Hall"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "28241",
+            "Longitude": 103.73957485927775,
+            "Latitude": 1.33175858461326,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Jurong East Lib"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "28251",
+            "Longitude": 103.7369883329766,
+            "Latitude": 1.33382805600325,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "S'pore Science Ctr"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "28261",
+            "Longitude": 103.73489878344925,
+            "Latitude": 1.33614236992322,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Aft S'pore Science Ctr"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "28271",
+            "Longitude": 103.73390575121081,
+            "Latitude": 1.33899259685337,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Blk 114"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "28281",
+            "Longitude": 103.73537548132207,
+            "Latitude": 1.3420603281321,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Parc Oasis"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "28291",
+            "Longitude": 103.73638303040048,
+            "Latitude": 1.34446090409168,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 303"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "43459",
+            "Longitude": 103.73807456781998,
+            "Latitude": 1.34808666498981,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Aft PIE"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "43349",
+            "Longitude": 103.74073750002215,
+            "Latitude": 1.34989138902216,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Opp Princess E Pr Sch"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "43539",
+            "Longitude": 103.7433686110311,
+            "Latitude": 1.35142277800259,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Opp Blk 140"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "43409",
+            "Longitude": 103.74623591627208,
+            "Latitude": 1.35235542005389,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Opp Blk 127"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "43411",
+            "Longitude": 103.75019891787089,
+            "Latitude": 1.35176519952681,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Opp Blk 628"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "43179",
+            "Longitude": 103.75430345301592,
+            "Latitude": 1.3489707828044,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 231"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "43189",
+            "Longitude": 103.75681389918313,
+            "Latitude": 1.34694984968785,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 283"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "43199",
+            "Longitude": 103.75920055445125,
+            "Latitude": 1.34663409083885,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Ch Of St. Mary"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "43209",
+            "Longitude": 103.76384248905434,
+            "Latitude": 1.34697997431974,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Autobacs"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "43639",
+            "Longitude": 103.76845262919154,
+            "Latitude": 1.34810218754524,
+            "RoadName": "Old Jurong Rd",
+            "Description": "Opp YWMA Kindergarten"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "43021",
+            "Longitude": 103.76979529427526,
+            "Latitude": 1.35132007773328,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Old Jurong Rd"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "43041",
+            "Longitude": 103.76845331635313,
+            "Latitude": 1.35582940983395,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Hume Pk Condo"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "43051",
+            "Longitude": 103.76705036241354,
+            "Latitude": 1.35910148170791,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp The Rail Mall"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "43061",
+            "Longitude": 103.76739148459211,
+            "Latitude": 1.36301133873589,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Hillview Stn"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "43071",
+            "Longitude": 103.76698012950051,
+            "Latitude": 1.36511351504744,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp Dairy Farm Rd"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "43081",
+            "Longitude": 103.76572777796798,
+            "Latitude": 1.36704277799302,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp Assumption Eng Sch"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "43091",
+            "Longitude": 103.76474109358477,
+            "Latitude": 1.36863253283887,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bef Cashew Stn"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "43111",
+            "Longitude": 103.76298146518725,
+            "Latitude": 1.37229972154626,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Min Of Defence"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "44011",
+            "Longitude": 103.76257120089846,
+            "Latitude": 1.37448606693865,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp The Linear"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "44021",
+            "Longitude": 103.76172178111382,
+            "Latitude": 1.37820722702851,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bt Panjang Stn Exit B"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "44041",
+            "Longitude": 103.7603697770399,
+            "Latitude": 1.3809505774787,
+            "RoadName": "Woodlands Rd",
+            "Description": "Ten Mile Junction Stn"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "44051",
+            "Longitude": 103.75801976703181,
+            "Latitude": 1.38440811744123,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Blk 632 CP"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "43991",
+            "Longitude": 103.7565,
+            "Latitude": 1.386207,
+            "RoadName": "Woodlands Rd",
+            "Description": "OPP BLK 635A"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "44061",
+            "Longitude": 103.7553863903753,
+            "Latitude": 1.38792499938306,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Yew Tee Flyover"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "45011",
+            "Longitude": 103.75462358144522,
+            "Latitude": 1.38969249598709,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Yew Tee Flyover"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "45021",
+            "Longitude": 103.75383583300305,
+            "Latitude": 1.39385694401888,
+            "RoadName": "Woodlands Rd",
+            "Description": "Heavy Veh Pk"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "45031",
+            "Longitude": 103.75421868895825,
+            "Latitude": 1.39623361717149,
+            "RoadName": "Woodlands Rd",
+            "Description": "Yew Tee Ind Est"
+        },
+        {
+            "Distance": 21.7,
+            "BusStopCode": "45041",
+            "Longitude": 103.75556160767161,
+            "Latitude": 1.40062703005588,
+            "RoadName": "Woodlands Rd",
+            "Description": "Thong Huat Bros Pte Ltd"
+        },
+        {
+            "Distance": 22.1,
+            "BusStopCode": "45051",
+            "Longitude": 103.7560103,
+            "Latitude": 1.403385556,
+            "RoadName": "Woodlands Rd",
+            "Description": "Da Di Glass"
+        },
+        {
+            "Distance": 22.5,
+            "BusStopCode": "45061",
+            "Longitude": 103.75606300126093,
+            "Latitude": 1.40718111138275,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Mandai Est"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "45071",
+            "Longitude": 103.75568311864467,
+            "Latitude": 1.40955433592964,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Mandai Rd"
+        },
+        {
+            "Distance": 23.3,
+            "BusStopCode": "45091",
+            "Longitude": 103.75523144616068,
+            "Latitude": 1.41421866753882,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Jln Bumbong"
+        },
+        {
+            "Distance": 23.8,
+            "BusStopCode": "45101",
+            "Longitude": 103.75457151987825,
+            "Latitude": 1.41863235748269,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft LP 234"
+        },
+        {
+            "Distance": 24.2,
+            "BusStopCode": "45111",
+            "Longitude": 103.75566245596836,
+            "Latitude": 1.42170099129292,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Kranji War Memorial"
+        },
+        {
+            "Distance": 24.6,
+            "BusStopCode": "45121",
+            "Longitude": 103.75863222200965,
+            "Latitude": 1.42402638898738,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp S'pore Turf Club"
+        },
+        {
+            "Distance": 24.9,
+            "BusStopCode": "45131",
+            "Longitude": 103.76103770449444,
+            "Latitude": 1.42513583961154,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Kranji Stn"
+        },
+        {
+            "Distance": 25.7,
+            "BusStopCode": "46389",
+            "Longitude": 103.76660954719264,
+            "Latitude": 1.42930397640592,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Aft W'Lands Ind Pk D St 2"
+        },
+        {
+            "Distance": 26.4,
+            "BusStopCode": "46499",
+            "Longitude": 103.77219638823969,
+            "Latitude": 1.4322913388299,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Opp Blk 402"
+        },
+        {
+            "Distance": 26.8,
+            "BusStopCode": "46519",
+            "Longitude": 103.77213801008084,
+            "Latitude": 1.43554811627266,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp Blk 144"
+        },
+        {
+            "Distance": 27.1,
+            "BusStopCode": "46509",
+            "Longitude": 103.7709643228368,
+            "Latitude": 1.43804390195153,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Town Gdn"
+        },
+        {
+            "Distance": 27.9,
+            "BusStopCode": "46069",
+            "Longitude": 103.76933833799299,
+            "Latitude": 1.44288948418349,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Train Checkpt"
+        },
+        {
+            "Distance": 28.2,
+            "BusStopCode": "46088",
+            "Longitude": 103.77108660594439,
+            "Latitude": 1.44180914262822,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp Blk 1A"
+        },
+        {
+            "Distance": 28.6,
+            "BusStopCode": "46111",
+            "Longitude": 103.77372416702165,
+            "Latitude": 1.44132222201705,
+            "RoadName": "Admiralty Rd",
+            "Description": "Blk 23"
+        },
+        {
+            "Distance": 29.1,
+            "BusStopCode": "46201",
+            "Longitude": 103.77680238652405,
+            "Latitude": 1.44071020952285,
+            "RoadName": "Marsiling Dr",
+            "Description": "Blk 10"
+        },
+        {
+            "Distance": 29.3,
+            "BusStopCode": "46189",
+            "Longitude": 103.77854042726402,
+            "Latitude": 1.44008271628617,
+            "RoadName": "Marsiling Rd",
+            "Description": "Blk 12"
+        },
+        {
+            "Distance": 29.6,
+            "BusStopCode": "46191",
+            "Longitude": 103.78053807087814,
+            "Latitude": 1.43978268235949,
+            "RoadName": "Marsiling Rise",
+            "Description": "Opp Blk 120"
+        },
+        {
+            "Distance": 30,
+            "BusStopCode": "46299",
+            "Longitude": 103.78274585693057,
+            "Latitude": 1.43692705673107,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Opp Blk 106"
+        },
+        {
+            "Distance": 30.5,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        }
+    ]
+}

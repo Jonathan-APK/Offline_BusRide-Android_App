@@ -1,0 +1,156 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "65221",
+            "Longitude": 103.90480763848863,
+            "Latitude": 1.40402842836975,
+            "RoadName": "Punggol Ctrl",
+            "Description": "BLK 303D"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "65091",
+            "Longitude": 103.90655641325277,
+            "Latitude": 1.4039796271467,
+            "RoadName": "Punggol Rd",
+            "Description": "BLK 301A"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "65489",
+            "Longitude": 103.90566900789092,
+            "Latitude": 1.40819500002156,
+            "RoadName": "Sentul Cres",
+            "Description": "Aft Punggol Dr"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "65469",
+            "Longitude": 103.90097793657458,
+            "Latitude": 1.40982305558831,
+            "RoadName": "Sumang Link",
+            "Description": "Blk 310B"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "65619",
+            "Longitude": 103.900079,
+            "Latitude": 1.41150194,
+            "RoadName": "Punggol Way",
+            "Description": "Nibong Stn Exit A"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "65629",
+            "Longitude": 103.902533,
+            "Latitude": 1.41645306,
+            "RoadName": "Punggol Way",
+            "Description": "Samudera Stn Exit A"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "65639",
+            "Longitude": 103.905306,
+            "Latitude": 1.41755,
+            "RoadName": "Punggol Way",
+            "Description": "Bef Punggol Pt Stn"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "65121",
+            "Longitude": 103.90948006873528,
+            "Latitude": 1.4167057619144,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp Track 22"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "65139",
+            "Longitude": 103.91053469680278,
+            "Latitude": 1.4206253932076,
+            "RoadName": "Punggol Rd",
+            "Description": "Punggol Rd End"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "65129",
+            "Longitude": 103.90966514650623,
+            "Latitude": 1.41636994946863,
+            "RoadName": "Punggol Rd",
+            "Description": "Aft Track 22"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "65631",
+            "Longitude": 103.90542,
+            "Latitude": 1.41730389,
+            "RoadName": "Punggol Way",
+            "Description": "Aft Punggol Pt Stn"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "65621",
+            "Longitude": 103.902476,
+            "Latitude": 1.41608611,
+            "RoadName": "Punggol Way",
+            "Description": "Samudera Stn Exit B"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "65611",
+            "Longitude": 103.900272,
+            "Latitude": 1.41139389,
+            "RoadName": "Punggol Way",
+            "Description": "Nibong Stn Exit B"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "65461",
+            "Longitude": 103.90129988103229,
+            "Latitude": 1.40985888889928,
+            "RoadName": "Sumang Link",
+            "Description": "Blk 312 CP"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "65481",
+            "Longitude": 103.90603964310132,
+            "Latitude": 1.40886523796853,
+            "RoadName": "Sentul Cres",
+            "Description": "Bef Punggol Dr"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "65099",
+            "Longitude": 103.90711426733175,
+            "Latitude": 1.40446781720997,
+            "RoadName": "Punggol Rd",
+            "Description": "BLK 604A"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "65229",
+            "Longitude": 103.90556931496221,
+            "Latitude": 1.40320219454105,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Blk 298"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (Last Stop)"
+        }
+    ]
+}

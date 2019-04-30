@@ -1,0 +1,500 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "02099",
+            "Longitude": 103.86255772172497,
+            "Latitude": 1.29101661693418,
+            "RoadName": "Raffles Blvd",
+            "Description": "Marina Ctr Ter"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "02101",
+            "Longitude": 103.8618029276249,
+            "Latitude": 1.28939197625331,
+            "RoadName": "Raffles Ave",
+            "Description": "AFT S'PORE FLYER"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "02051",
+            "Longitude": 103.85903388899317,
+            "Latitude": 1.2895030556082,
+            "RoadName": "Raffles Ave",
+            "Description": "Seating Gallery"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "02061",
+            "Longitude": 103.85640388886262,
+            "Latitude": 1.2899638888957,
+            "RoadName": "Raffles Ave",
+            "Description": "The Esplanade"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "04167",
+            "Longitude": 103.85145315468638,
+            "Latitude": 1.29250006522444,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "City Hall Stn Exit B"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "04249",
+            "Longitude": 103.85026216508201,
+            "Latitude": 1.29043039362749,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "Opp The Treasury"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "05029",
+            "Longitude": 103.84833343750249,
+            "Latitude": 1.28724656561704,
+            "RoadName": "Sth Bridge Rd",
+            "Description": "Boat Quay"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "04222",
+            "Longitude": 103.84708976365569,
+            "Latitude": 1.28898962180798,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Clarke Quay Stn Exit E"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "04211",
+            "Longitude": 103.84712444398055,
+            "Latitude": 1.29043611099357,
+            "RoadName": "River Valley Rd",
+            "Description": "Clarke Quay"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "04331",
+            "Longitude": 103.84504089382705,
+            "Latitude": 1.29183939431601,
+            "RoadName": "River Valley Rd",
+            "Description": "BEF FORT CANNING STN"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "13109",
+            "Longitude": 103.84272416702719,
+            "Latitude": 1.29350944398488,
+            "RoadName": "River Valley Rd",
+            "Description": "UE Sq"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "13211",
+            "Longitude": 103.841095990069,
+            "Latitude": 1.29241699362559,
+            "RoadName": "Mohd Sultan Rd",
+            "Description": "Aft Unity St"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "06151",
+            "Longitude": 103.83737276969174,
+            "Latitude": 1.28870976841461,
+            "RoadName": "Havelock Rd",
+            "Description": "Hotel Miramar"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "06141",
+            "Longitude": 103.83381241921823,
+            "Latitude": 1.28963300933974,
+            "RoadName": "Havelock Rd",
+            "Description": "Holiday Inn Atrium"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "06131",
+            "Longitude": 103.83222750001508,
+            "Latitude": 1.29152472200833,
+            "RoadName": "Zion Rd",
+            "Description": "The Boys' Brigade HQ"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "13121",
+            "Longitude": 103.8308377640795,
+            "Latitude": 1.29409221679274,
+            "RoadName": "Zion Rd",
+            "Description": "Opp Great World City"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "13141",
+            "Longitude": 103.82996320724997,
+            "Latitude": 1.29745598928819,
+            "RoadName": "Hoot Kiam Rd",
+            "Description": "Aft Zion Full Gospel Ch"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "13191",
+            "Longitude": 103.82987799248593,
+            "Latitude": 1.30266053145965,
+            "RoadName": "Paterson Rd",
+            "Description": "Bef Orchard Blvd"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "09048",
+            "Longitude": 103.83413070051408,
+            "Latitude": 1.30386684425114,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Stn/Lucky Plaza"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "09038",
+            "Longitude": 103.83852481842337,
+            "Latitude": 1.30154262450563,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Somerset Stn"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "08138",
+            "Longitude": 103.84184700607595,
+            "Latitude": 1.3004785730821,
+            "RoadName": "Orchard Rd",
+            "Description": "Concorde Hotel S'pore"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "08079",
+            "Longitude": 103.84910329217985,
+            "Latitude": 1.29921444445586,
+            "RoadName": "Prinsep St",
+            "Description": "Sch of the Arts"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "07011",
+            "Longitude": 103.8498101874305,
+            "Latitude": 1.30099699058522,
+            "RoadName": "Selegie Rd",
+            "Description": "Peace Ctr"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "07021",
+            "Longitude": 103.84995776766847,
+            "Latitude": 1.30324521574524,
+            "RoadName": "Selegie Rd",
+            "Description": "Selegie Ctr"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "40011",
+            "Longitude": 103.84908751469008,
+            "Latitude": 1.30606411522588,
+            "RoadName": "Bt Timah Rd",
+            "Description": "LITTLE INDIA STN EXIT A"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "54371",
+            "Longitude": 103.85568284134345,
+            "Latitude": 1.36238306289968,
+            "RoadName": "Ang Mo Kio Ave 10",
+            "Description": "Blk 409A"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "54381",
+            "Longitude": 103.85608617430734,
+            "Latitude": 1.3657416739059,
+            "RoadName": "Ang Mo Kio Ave 10",
+            "Description": "Blk 443"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "54289",
+            "Longitude": 103.8561504529793,
+            "Latitude": 1.36910303231028,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 452"
+        },
+        {
+            "Distance": 19.3,
+            "BusStopCode": "54279",
+            "Longitude": 103.85404760550173,
+            "Latitude": 1.36968919033429,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 427"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "54269",
+            "Longitude": 103.85111893571647,
+            "Latitude": 1.36921006543476,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Ang Mo Kio Stn"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "54248",
+            "Longitude": 103.84661006967286,
+            "Latitude": 1.36875490594243,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 324"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "54239",
+            "Longitude": 103.84332015576305,
+            "Latitude": 1.369186093503,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 20.8,
+            "BusStopCode": "54229",
+            "Longitude": 103.83993274827546,
+            "Latitude": 1.36960577947339,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Ang Mo Kio Pr Sch"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "54181",
+            "Longitude": 103.83653495602837,
+            "Latitude": 1.37053305192374,
+            "RoadName": "Ang Mo Kio Ave 4",
+            "Description": "BLK 258"
+        },
+        {
+            "Distance": 21.7,
+            "BusStopCode": "54191",
+            "Longitude": 103.83756404776227,
+            "Latitude": 1.37447193336668,
+            "RoadName": "Ang Mo Kio Ave 4",
+            "Description": "BLK 170"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "54201",
+            "Longitude": 103.83927614239282,
+            "Latitude": 1.37608498575075,
+            "RoadName": "Ang Mo Kio Ave 4",
+            "Description": "OPP BLK 155"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "55131",
+            "Longitude": 103.8396597025406,
+            "Latitude": 1.37986282047018,
+            "RoadName": "Ang Mo Kio Ave 4",
+            "Description": "BLK 612"
+        },
+        {
+            "Distance": 22.6,
+            "BusStopCode": "55141",
+            "Longitude": 103.83902055596755,
+            "Latitude": 1.38151305598601,
+            "RoadName": "Ang Mo Kio Ave 4",
+            "Description": "OPP BLK 622"
+        },
+        {
+            "Distance": 23.2,
+            "BusStopCode": "55021",
+            "Longitude": 103.83872706499656,
+            "Latitude": 1.3857011784032,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "OPP SEASONS PK"
+        },
+        {
+            "Distance": 27.2,
+            "BusStopCode": "59031",
+            "Longitude": 103.83083958669692,
+            "Latitude": 1.41277747172151,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Sports Hall"
+        },
+        {
+            "Distance": 27.6,
+            "BusStopCode": "59041",
+            "Longitude": 103.832591612732,
+            "Latitude": 1.41625420109094,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Bef Khatib Stn"
+        },
+        {
+            "Distance": 28,
+            "BusStopCode": "59421",
+            "Longitude": 103.8351341252188,
+            "Latitude": 1.41762836917061,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 624"
+        },
+        {
+            "Distance": 28.3,
+            "BusStopCode": "59431",
+            "Longitude": 103.8377761,
+            "Latitude": 1.417801111,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 630"
+        },
+        {
+            "Distance": 28.6,
+            "BusStopCode": "59371",
+            "Longitude": 103.83787034099134,
+            "Latitude": 1.4200541415854,
+            "RoadName": "Yishun St 61",
+            "Description": "Chung Cheng High Sch"
+        },
+        {
+            "Distance": 29,
+            "BusStopCode": "59361",
+            "Longitude": 103.83670552011698,
+            "Latitude": 1.42249529494999,
+            "RoadName": "Yishun St 61",
+            "Description": "Blk 602"
+        },
+        {
+            "Distance": 29.4,
+            "BusStopCode": "59341",
+            "Longitude": 103.83864456915899,
+            "Latitude": 1.42367163179884,
+            "RoadName": "Yishun Ctrl",
+            "Description": "Khoo Teck Puat Hosp"
+        },
+        {
+            "Distance": 30.2,
+            "BusStopCode": "59451",
+            "Longitude": 103.84360741617542,
+            "Latitude": 1.42569613726662,
+            "RoadName": "Yishun Ave 11",
+            "Description": "Bet Blks 349/350"
+        },
+        {
+            "Distance": 30.6,
+            "BusStopCode": "59411",
+            "Longitude": 103.8457261,
+            "Latitude": 1.425213889,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 356"
+        },
+        {
+            "Distance": 30.9,
+            "BusStopCode": "59401",
+            "Longitude": 103.84615134332738,
+            "Latitude": 1.42705456686774,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 358"
+        },
+        {
+            "Distance": 31.3,
+            "BusStopCode": "59391",
+            "Longitude": 103.84523111093658,
+            "Latitude": 1.43021107363512,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 342B"
+        },
+        {
+            "Distance": 31.7,
+            "BusStopCode": "59381",
+            "Longitude": 103.84196021620254,
+            "Latitude": 1.43181131616813,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 314"
+        },
+        {
+            "Distance": 32.2,
+            "BusStopCode": "59241",
+            "Longitude": 103.83922930159359,
+            "Latitude": 1.43427221606754,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 236"
+        },
+        {
+            "Distance": 32.5,
+            "BusStopCode": "59231",
+            "Longitude": 103.83680745007868,
+            "Latitude": 1.43537970016985,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 227"
+        },
+        {
+            "Distance": 32.9,
+            "BusStopCode": "59101",
+            "Longitude": 103.83302746443204,
+            "Latitude": 1.43420210733558,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Yishun Pr Sch"
+        },
+        {
+            "Distance": 33.3,
+            "BusStopCode": "59121",
+            "Longitude": 103.82999668990018,
+            "Latitude": 1.43453851053761,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 121"
+        },
+        {
+            "Distance": 33.6,
+            "BusStopCode": "59131",
+            "Longitude": 103.82969184791156,
+            "Latitude": 1.43192545956112,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 137"
+        },
+        {
+            "Distance": 34,
+            "BusStopCode": "59301",
+            "Longitude": 103.8305483297094,
+            "Latitude": 1.42857438462559,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 731"
+        },
+        {
+            "Distance": 34.3,
+            "BusStopCode": "59311",
+            "Longitude": 103.83218609995292,
+            "Latitude": 1.4260484365847,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 760"
+        },
+        {
+            "Distance": 34.6,
+            "BusStopCode": "59081",
+            "Longitude": 103.83164666791833,
+            "Latitude": 1.42371474872973,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 774"
+        },
+        {
+            "Distance": 35,
+            "BusStopCode": "59321",
+            "Longitude": 103.831802328761,
+            "Latitude": 1.42004673882783,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 794"
+        },
+        {
+            "Distance": 35.2,
+            "BusStopCode": "59561",
+            "Longitude": 103.83293375107691,
+            "Latitude": 1.41870141531997,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 798"
+        }
+    ]
+}

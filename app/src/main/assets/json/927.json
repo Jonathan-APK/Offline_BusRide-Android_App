@@ -1,0 +1,308 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "44539",
+            "Longitude": 103.74502387945829,
+            "Latitude": 1.38463078337388,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Lot 1 Shoppers' Mall"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "44541",
+            "Longitude": 103.74593527798108,
+            "Latitude": 1.38764444400097,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Northvale Condo"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "44061",
+            "Longitude": 103.7553863903753,
+            "Latitude": 1.38792499938306,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Yew Tee Flyover"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "45011",
+            "Longitude": 103.75462358144522,
+            "Latitude": 1.38969249598709,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Yew Tee Flyover"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "45021",
+            "Longitude": 103.75383583300305,
+            "Latitude": 1.39385694401888,
+            "RoadName": "Woodlands Rd",
+            "Description": "Heavy Veh Pk"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "45031",
+            "Longitude": 103.75421868895825,
+            "Latitude": 1.39623361717149,
+            "RoadName": "Woodlands Rd",
+            "Description": "Yew Tee Ind Est"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "45041",
+            "Longitude": 103.75556160767161,
+            "Latitude": 1.40062703005588,
+            "RoadName": "Woodlands Rd",
+            "Description": "Thong Huat Bros Pte Ltd"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "45051",
+            "Longitude": 103.7560103,
+            "Latitude": 1.403385556,
+            "RoadName": "Woodlands Rd",
+            "Description": "Da Di Glass"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "45061",
+            "Longitude": 103.75606300126093,
+            "Latitude": 1.40718111138275,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Mandai Est"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "45071",
+            "Longitude": 103.75568311864467,
+            "Latitude": 1.40955433592964,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Mandai Rd"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "45221",
+            "Longitude": 103.75786055597196,
+            "Latitude": 1.41185472198007,
+            "RoadName": "Mandai Rd",
+            "Description": "Aft W'Lands Rd"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "45181",
+            "Longitude": 103.76126994848113,
+            "Latitude": 1.41163371804971,
+            "RoadName": "Mandai Rd",
+            "Description": "Opp Mandai CD Trg Village"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "45191",
+            "Longitude": 103.7634845917912,
+            "Latitude": 1.41064903489935,
+            "RoadName": "Mandai Rd",
+            "Description": "Opp Mandai Police Trg Camp"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "45201",
+            "Longitude": 103.76582403754685,
+            "Latitude": 1.41047253271791,
+            "RoadName": "Mandai Rd",
+            "Description": "Opp Police Tactical Trg Camp"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "45211",
+            "Longitude": 103.76978816795226,
+            "Latitude": 1.41031981199246,
+            "RoadName": "Mandai Rd",
+            "Description": "Bef BKE"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "48011",
+            "Longitude": 103.77449402303927,
+            "Latitude": 1.41053605692452,
+            "RoadName": "Mandai Rd",
+            "Description": "Opp Mandai Camp 2"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "48111",
+            "Longitude": 103.7796356,
+            "Latitude": 1.409414444,
+            "RoadName": "Mandai Lake Rd",
+            "Description": "Aft Mandai Rd"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "48121",
+            "Longitude": 103.7830958,
+            "Latitude": 1.407433889,
+            "RoadName": "Mandai Lake Rd",
+            "Description": "Bef S'pore Zoo"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "48131",
+            "Longitude": 103.78935694475769,
+            "Latitude": 1.40462388269986,
+            "RoadName": "Mandai Lake Rd",
+            "Description": "S'Pore Zoo"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "48129",
+            "Longitude": 103.7830597,
+            "Latitude": 1.407335,
+            "RoadName": "Mandai Lake Rd",
+            "Description": "Aft S'pore Zoo"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "48119",
+            "Longitude": 103.77929091400647,
+            "Latitude": 1.40961851672775,
+            "RoadName": "Mandai Lake Rd",
+            "Description": "Bef Mandai Rd"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "48019",
+            "Longitude": 103.77547240613428,
+            "Latitude": 1.41047890324886,
+            "RoadName": "Mandai Rd",
+            "Description": "Mandai Camp 2"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "45209",
+            "Longitude": 103.76653377102565,
+            "Latitude": 1.4099988110322,
+            "RoadName": "Mandai Rd",
+            "Description": "Police Tactical Trg Camp"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "45199",
+            "Longitude": 103.76322407621203,
+            "Latitude": 1.41035479540467,
+            "RoadName": "Mandai Rd",
+            "Description": "Mandai Police Trg Camp"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "45189",
+            "Longitude": 103.76099444217142,
+            "Latitude": 1.41134149901997,
+            "RoadName": "Mandai Rd",
+            "Description": "Mandai CD Trg Village"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "45229",
+            "Longitude": 103.75794694401966,
+            "Latitude": 1.41157694400245,
+            "RoadName": "Mandai Rd",
+            "Description": "Bef W'Lands Rd"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "45079",
+            "Longitude": 103.75588199006808,
+            "Latitude": 1.40959346067748,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Mandai Rd"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "45069",
+            "Longitude": 103.75626773948963,
+            "Latitude": 1.4069390779681,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Mandai Est"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "45059",
+            "Longitude": 103.75620896675814,
+            "Latitude": 1.40340952558706,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Da Di Glass"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "45049",
+            "Longitude": 103.75499277801016,
+            "Latitude": 1.39773638898124,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Yew Tee Ind Est Blk 1"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "45039",
+            "Longitude": 103.75427816224409,
+            "Latitude": 1.39585817355572,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Yew Tee Ind Est"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "45029",
+            "Longitude": 103.75414864750223,
+            "Latitude": 1.39303959514259,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Heavy Veh Pk"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "44999",
+            "Longitude": 103.7545111,
+            "Latitude": 1.391239722,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef Yew Tee Flyover"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "45019",
+            "Longitude": 103.75559178864424,
+            "Latitude": 1.38821119718313,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft Yew Tee Flyover"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "44549",
+            "Longitude": 103.746189135824,
+            "Latitude": 1.38748720575146,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Opp Northvale Condo"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "44531",
+            "Longitude": 103.74453624872069,
+            "Latitude": 1.38425405298158,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Opp Choa Chu Kang Stn"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int (Last Stop)"
+        }
+    ]
+}

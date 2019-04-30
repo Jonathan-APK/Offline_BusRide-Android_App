@@ -1,0 +1,68 @@
+{
+    "direction 1": [
+        {
+            "Distance": 2.6,
+            "BusStopCode": "45321",
+            "Longitude": 103.74755489070483,
+            "Latitude": 1.39740269682477,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Yew Tee Stn"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "45389",
+            "Longitude": 103.7473817647614,
+            "Latitude": 1.40063804359533,
+            "RoadName": "Choa Chu Kang Nth 7",
+            "Description": "Blk 619"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "45401",
+            "Longitude": 103.74594266826703,
+            "Latitude": 1.40279972616248,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Blk 681"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "45411",
+            "Longitude": 103.74767347957746,
+            "Latitude": 1.4035145178289,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Opp Blk 670"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "45421",
+            "Longitude": 103.75050925171398,
+            "Latitude": 1.40274884902867,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Opp Blk 666"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "45439",
+            "Longitude": 103.75115527801049,
+            "Latitude": 1.40127194398549,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Opp Blk 661"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "45399",
+            "Longitude": 103.74991277803167,
+            "Latitude": 1.39984083299841,
+            "RoadName": "Choa Chu Kang Nth 7",
+            "Description": "Regent Gr Condo"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "45329",
+            "Longitude": 103.7478650735721,
+            "Latitude": 1.39743803967229,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Opp Yew Tee Stn"
+        }
+    ]
+}

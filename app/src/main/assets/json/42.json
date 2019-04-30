@@ -1,0 +1,180 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "83321",
+            "Longitude": 103.9136543376456,
+            "Latitude": 1.32168778524368,
+            "RoadName": "Jln Kembangan",
+            "Description": "Kembangan Stn (First Stop)"
+        },
+        {
+            "Distance": 0.2,
+            "BusStopCode": "83331",
+            "Longitude": 103.91271655859842,
+            "Latitude": 1.32349513640884,
+            "RoadName": "Lengkong Tiga",
+            "Description": "Kg Kembangan CC"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "83341",
+            "Longitude": 103.91109803643086,
+            "Latitude": 1.32539968158209,
+            "RoadName": "Lengkong Tiga",
+            "Description": "Blk 102"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "83351",
+            "Longitude": 103.91213111102074,
+            "Latitude": 1.32765583299859,
+            "RoadName": "Lengkong Empat",
+            "Description": "Grosvenor View"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "83361",
+            "Longitude": 103.914495706562,
+            "Latitude": 1.32850781433023,
+            "RoadName": "Lengkong Empat",
+            "Description": "Hua Yu Mans"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "83371",
+            "Longitude": 103.91537946119738,
+            "Latitude": 1.32624566683557,
+            "RoadName": "Jln Selamat",
+            "Description": "Aft Jln Paras"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "83381",
+            "Longitude": 103.91452207182714,
+            "Latitude": 1.32466780744529,
+            "RoadName": "Taman Kembangan",
+            "Description": "Bef Jln Kembangan"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "83329",
+            "Longitude": 103.91379833222052,
+            "Latitude": 1.32198642679896,
+            "RoadName": "Jln Kembangan",
+            "Description": "Opp Kembangan Stn"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "83081",
+            "Longitude": 103.91736615804473,
+            "Latitude": 1.32138694232025,
+            "RoadName": "Sims Ave East",
+            "Description": "Opp Perpetual Succour Ch"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "83251",
+            "Longitude": 103.92199914721091,
+            "Latitude": 1.31923829366992,
+            "RoadName": "Fidelio St",
+            "Description": "Bef Jln Khairuddin"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "83261",
+            "Longitude": 103.9242469847813,
+            "Latitude": 1.3190690667828,
+            "RoadName": "Fidelio St",
+            "Description": "Opera Est Pr Sch"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "83271",
+            "Longitude": 103.92588543589487,
+            "Latitude": 1.31928964158986,
+            "RoadName": "Fidelio St",
+            "Description": "Aft Swan Lake Ave"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "83281",
+            "Longitude": 103.9270176945798,
+            "Latitude": 1.31965172299504,
+            "RoadName": "Fidelio St",
+            "Description": "Bef Tosca St"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "83279",
+            "Longitude": 103.92510530820441,
+            "Latitude": 1.3188308339316,
+            "RoadName": "Fidelio St",
+            "Description": "Aft Carmen St"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "83269",
+            "Longitude": 103.92346501346623,
+            "Latitude": 1.31895097253228,
+            "RoadName": "Fidelio St",
+            "Description": "Opp Opera Est Pr Sch"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "83249",
+            "Longitude": 103.92174594601859,
+            "Latitude": 1.31786650545216,
+            "RoadName": "Siglap Rd",
+            "Description": "Flamingo Valley"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "83229",
+            "Longitude": 103.92083645128875,
+            "Latitude": 1.31661259109687,
+            "RoadName": "Siglap Dr",
+            "Description": "Bef Carlton Ave"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "83219",
+            "Longitude": 103.9191305648774,
+            "Latitude": 1.31587375170111,
+            "RoadName": "Siglap Dr",
+            "Description": "Bef Frankel Ave"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "83181",
+            "Longitude": 103.91755342481619,
+            "Latitude": 1.31662343088137,
+            "RoadName": "Frankel Ave",
+            "Description": "Aft Bethesda Frankel Ch"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "83191",
+            "Longitude": 103.91597628595028,
+            "Latitude": 1.31729916899357,
+            "RoadName": "Frankel Ave",
+            "Description": "Bef Frankel Dr"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "83201",
+            "Longitude": 103.91440987586641,
+            "Latitude": 1.31860774070821,
+            "RoadName": "Frankel Ave",
+            "Description": "Bef Frankel Terr"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "83321",
+            "Longitude": 103.9136543376456,
+            "Latitude": 1.32168778524368,
+            "RoadName": "Jln Kembangan",
+            "Description": "Kembangan Stn (Last Stop)"
+        }
+    ]
+}

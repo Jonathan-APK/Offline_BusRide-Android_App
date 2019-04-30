@@ -1,0 +1,412 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "25009",
+            "Longitude": 103.63920357507963,
+            "Latitude": 1.34499542766088,
+            "RoadName": "Tuas West Dr",
+            "Description": "Tuas Ter (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "25421",
+            "Longitude": 103.63745040018382,
+            "Latitude": 1.3414665264837,
+            "RoadName": "Tuas West Dr",
+            "Description": "OPP TUAS LINK STN"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "25491",
+            "Longitude": 103.63816647849173,
+            "Latitude": 1.33901033639652,
+            "RoadName": "Tuas Link 4",
+            "Description": "Opp Super Continental"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "25471",
+            "Longitude": 103.64184123007807,
+            "Latitude": 1.33552353410516,
+            "RoadName": "Tuas Link 4",
+            "Description": "Opp S'pore Epson Ind"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "25501",
+            "Longitude": 103.6436358584241,
+            "Latitude": 1.33379055380717,
+            "RoadName": "Tuas Ave 7",
+            "Description": "Kee Wee Hup Kee"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "25531",
+            "Longitude": 103.645156,
+            "Latitude": 1.332349,
+            "RoadName": "Tuas Ave 7",
+            "Description": "ST KINETICS"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "25541",
+            "Longitude": 103.647851,
+            "Latitude": 1.329782,
+            "RoadName": "Tuas Ave 7",
+            "Description": "PEC"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "25551",
+            "Longitude": 103.645927,
+            "Latitude": 1.325522,
+            "RoadName": "Tuas Ave 8",
+            "Description": "GARMCO"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "24701",
+            "Longitude": 103.649116,
+            "Latitude": 1.321386,
+            "RoadName": "Pioneer Rd",
+            "Description": "TUAS CRES STN EXIT B"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "26011",
+            "Longitude": 103.64876709883725,
+            "Latitude": 1.31922965607898,
+            "RoadName": "Tuas Cres",
+            "Description": "Bef Tuas Ave 11"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "26021",
+            "Longitude": 103.64693086349153,
+            "Latitude": 1.3172613938167,
+            "RoadName": "Tuas Cres",
+            "Description": "Bef Tuas Ave 13"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "26031",
+            "Longitude": 103.64524684749753,
+            "Latitude": 1.31548257210498,
+            "RoadName": "Tuas Cres",
+            "Description": "Hiap Seng Engrg Ltd"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "26049",
+            "Longitude": 103.64275148813714,
+            "Latitude": 1.31486576449382,
+            "RoadName": "Tuas Cres",
+            "Description": "Damen Shipyard"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "26059",
+            "Longitude": 103.64083888900358,
+            "Latitude": 1.31672777803073,
+            "RoadName": "Tuas Cres",
+            "Description": "PAXOCEAN"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "26069",
+            "Longitude": 103.63897555599392,
+            "Latitude": 1.31850277800807,
+            "RoadName": "Tuas Cres",
+            "Description": "Aft Tuas Ave 16"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "25561",
+            "Longitude": 103.637711,
+            "Latitude": 1.31836,
+            "RoadName": "Tuas Sth Ave 5",
+            "Description": "INVISTA"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "25571",
+            "Longitude": 103.635242,
+            "Latitude": 1.315444,
+            "RoadName": "Tuas Sth Ave 5",
+            "Description": "OPP WEST STAR"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "25591",
+            "Longitude": 103.63509,
+            "Latitude": 1.310246,
+            "RoadName": "Tuas Sth Ave 4",
+            "Description": "OPP WYETH PHARMACEUTICALS"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "25601",
+            "Longitude": 103.634717,
+            "Latitude": 1.301632,
+            "RoadName": "Tuas Sth Ave 7",
+            "Description": "PFIZER GLOBAL"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "25611",
+            "Longitude": 103.633033,
+            "Latitude": 1.297703,
+            "RoadName": "Tuas Sth Ave 7",
+            "Description": "OPP WESTLINK TWO"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "25621",
+            "Longitude": 103.631889,
+            "Latitude": 1.294382,
+            "RoadName": "Tuas Sth Ave 7",
+            "Description": "STARBURST ENGRG"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "25631",
+            "Longitude": 103.631397,
+            "Latitude": 1.290329,
+            "RoadName": "Tuas Sth Ave 7",
+            "Description": "CONTAINER CONNECTIONS"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "26419",
+            "Longitude": 103.63301962123198,
+            "Latitude": 1.28891937327423,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Aft Tuas View Circuit"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "26429",
+            "Longitude": 103.63586909363458,
+            "Latitude": 1.28869749978137,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Bef Tuas Sth Ave 9"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "26211",
+            "Longitude": 103.6368386816709,
+            "Latitude": 1.2909661076742,
+            "RoadName": "Tuas Sth Ave 9",
+            "Description": "Framo S'pore Pte Ltd"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "26221",
+            "Longitude": 103.63700231055886,
+            "Latitude": 1.29324977797865,
+            "RoadName": "Tuas Sth Ave 9",
+            "Description": "Opp YLS Steel"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "25661",
+            "Longitude": 103.639925,
+            "Latitude": 1.293361,
+            "RoadName": "Tuas Sth Ave 8",
+            "Description": "BEF TUAS BAY LINK"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "25671",
+            "Longitude": 103.641614,
+            "Latitude": 1.294546,
+            "RoadName": "Tuas Bay Link",
+            "Description": "BEF OFFSHORE MARINE CTR"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "25669",
+            "Longitude": 103.639523,
+            "Latitude": 1.293396,
+            "RoadName": "Tuas Sth Ave 8",
+            "Description": "AFT TUAS BAY LINK"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "25641",
+            "Longitude": 103.638434,
+            "Latitude": 1.296157,
+            "RoadName": "Tuas Sth Ave 9",
+            "Description": "OPP ROCHE S'PORE TECH"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "25651",
+            "Longitude": 103.63553,
+            "Latitude": 1.299345,
+            "RoadName": "Tuas Sth Ave 6",
+            "Description": "NOVARTIS"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "25609",
+            "Longitude": 103.634519,
+            "Latitude": 1.301942,
+            "RoadName": "Tuas Sth Ave 7",
+            "Description": "MERCK SHARP & DOHME"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "25599",
+            "Longitude": 103.635806,
+            "Latitude": 1.30943,
+            "RoadName": "Tuas Sth Ave 4",
+            "Description": "WYETH PHARMACEUTICALS"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "25579",
+            "Longitude": 103.634947,
+            "Latitude": 1.315542,
+            "RoadName": "Tuas Sth Ave 5",
+            "Description": "WEST STAR"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "25569",
+            "Longitude": 103.637247,
+            "Latitude": 1.318191,
+            "RoadName": "Tuas Sth Ave 5",
+            "Description": "OPP INVISTA"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "26061",
+            "Longitude": 103.639406,
+            "Latitude": 1.318186,
+            "RoadName": "Tuas Cres",
+            "Description": "B S DEVELOPMENT"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "26051",
+            "Longitude": 103.641295,
+            "Latitude": 1.316385,
+            "RoadName": "Tuas Cres",
+            "Description": "BLASTING ABRASIVES"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "26041",
+            "Longitude": 103.643052,
+            "Latitude": 1.314711,
+            "RoadName": "Tuas Cres",
+            "Description": "HIAP SENG ENGRG LTD"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "26039",
+            "Longitude": 103.645623,
+            "Latitude": 1.316062,
+            "RoadName": "Tuas Cres",
+            "Description": "ASIA POLYURETHANE"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "26029",
+            "Longitude": 103.647257,
+            "Latitude": 1.317805,
+            "RoadName": "Tuas Cres",
+            "Description": "CHIA HOCK TRADING CO"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "26019",
+            "Longitude": 103.648062,
+            "Latitude": 1.318612,
+            "RoadName": "Tuas Cres",
+            "Description": "PROGRESS GALVANIZING"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "24709",
+            "Longitude": 103.649026,
+            "Latitude": 1.32089,
+            "RoadName": "Pioneer Rd",
+            "Description": "TUAS CRES STN EXIT A"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "25559",
+            "Longitude": 103.645879,
+            "Latitude": 1.325651,
+            "RoadName": "Tuas Ave 8",
+            "Description": "LEE WELDED MESH"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "25589",
+            "Longitude": 103.648426,
+            "Latitude": 1.328334,
+            "RoadName": "Tuas Ave 8",
+            "Description": "CROWN EQUIPMENT"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "25549",
+            "Longitude": 103.647687,
+            "Latitude": 1.329815,
+            "RoadName": "Tuas Ave 7",
+            "Description": "CAST LABORATORIES"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "25539",
+            "Longitude": 103.64507,
+            "Latitude": 1.332311,
+            "RoadName": "Tuas Ave 7",
+            "Description": "FUJIFILM"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "25509",
+            "Longitude": 103.64364939022576,
+            "Latitude": 1.33355930464673,
+            "RoadName": "Tuas Ave 7",
+            "Description": "Opp Kee Wee Hup Kee"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "25479",
+            "Longitude": 103.64162972197275,
+            "Latitude": 1.33552805597987,
+            "RoadName": "Tuas Link 4",
+            "Description": "S'pore Epson Ind"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "25499",
+            "Longitude": 103.63823777800012,
+            "Latitude": 1.33874972198024,
+            "RoadName": "Tuas Link 4",
+            "Description": "Super Continental"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "25429",
+            "Longitude": 103.63696536000046,
+            "Latitude": 1.34055807307548,
+            "RoadName": "Tuas West Dr",
+            "Description": "TUAS LINK STN"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "25009",
+            "Longitude": 103.63920357507963,
+            "Latitude": 1.34499542766088,
+            "RoadName": "Tuas West Dr",
+            "Description": "Tuas Ter (Last Stop)"
+        }
+    ]
+}

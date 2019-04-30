@@ -1,0 +1,100 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "67009",
+            "Longitude": 103.89588499436073,
+            "Latitude": 1.39178060381601,
+            "RoadName": "Sengkang Sq",
+            "Description": "Sengkang Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "67189",
+            "Longitude": 103.89742612835978,
+            "Latitude": 1.39059955869523,
+            "RoadName": "Compassvale Rd",
+            "Description": "Opp Blk 241"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "67249",
+            "Longitude": 103.89850423466406,
+            "Latitude": 1.39376571527248,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 259C"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "67259",
+            "Longitude": 103.90046238900585,
+            "Latitude": 1.39465386086721,
+            "RoadName": "Compassvale St",
+            "Description": "Compassvale Stn Exit B"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "67231",
+            "Longitude": 103.90395664347085,
+            "Latitude": 1.39322205615326,
+            "RoadName": "Rivervale Dr",
+            "Description": "Rivervale Pr Sch"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "67221",
+            "Longitude": 103.90639445299767,
+            "Latitude": 1.39116246855705,
+            "RoadName": "Rivervale Dr",
+            "Description": "Rumbia Stn Exit B/Blk 153"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "67661",
+            "Longitude": 103.90878400579224,
+            "Latitude": 1.38889400053531,
+            "RoadName": "Rivervale Cres",
+            "Description": "Opp Blk 178A"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "67671",
+            "Longitude": 103.90712750531712,
+            "Latitude": 1.39200512922492,
+            "RoadName": "Rivervale Cres",
+            "Description": "Blk 156A CP"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "67239",
+            "Longitude": 103.90373341553943,
+            "Latitude": 1.3930503019817,
+            "RoadName": "Rivervale Dr",
+            "Description": "Opp Rivervale Pr Sch"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "67251",
+            "Longitude": 103.9003121852631,
+            "Latitude": 1.39442862205324,
+            "RoadName": "Compassvale St",
+            "Description": "Compassvale Stn Exit A"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "67241",
+            "Longitude": 103.89846873686203,
+            "Latitude": 1.39296197800695,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 248A"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "67009",
+            "Longitude": 103.89588499436073,
+            "Latitude": 1.39178060381601,
+            "RoadName": "Sengkang Sq",
+            "Description": "Sengkang Int (Last Stop)"
+        }
+    ]
+}

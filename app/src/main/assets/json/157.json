@@ -1,0 +1,918 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "52509",
+            "Longitude": 103.85017633434691,
+            "Latitude": 1.33115712303762,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "52261",
+            "Longitude": 103.85128140448401,
+            "Latitude": 1.33403167346972,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Opp Blk 73"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "52271",
+            "Longitude": 103.84974718092391,
+            "Latitude": 1.33683113907107,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Jackson Sq"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "52369",
+            "Longitude": 103.85273333299853,
+            "Latitude": 1.34001833298065,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 237"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "52039",
+            "Longitude": 103.85130310024304,
+            "Latitude": 1.34333817728421,
+            "RoadName": "Braddell Rd",
+            "Description": "Aft Muhajirin Mque"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "52029",
+            "Longitude": 103.84736537931644,
+            "Latitude": 1.34359918269745,
+            "RoadName": "Braddell Rd",
+            "Description": "Blk 1004"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "52019",
+            "Longitude": 103.84368166701324,
+            "Latitude": 1.34403333300249,
+            "RoadName": "Braddell Rd",
+            "Description": "Aft Bishan Rd"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "51139",
+            "Longitude": 103.84032264966956,
+            "Latitude": 1.34436688449065,
+            "RoadName": "Braddell Rd",
+            "Description": "Braddell View"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "51079",
+            "Longitude": 103.83615392311769,
+            "Latitude": 1.34178289872759,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp Macritchie Reservoir"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "51119",
+            "Longitude": 103.83257583298696,
+            "Latitude": 1.34014305601694,
+            "RoadName": "Lornie Rd",
+            "Description": "Bef Andrew Rd"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "40269",
+            "Longitude": 103.82660805601813,
+            "Latitude": 1.34105638903249,
+            "RoadName": "Lornie Rd",
+            "Description": "LP 57"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "40259",
+            "Longitude": 103.82256277806692,
+            "Latitude": 1.34031250739109,
+            "RoadName": "Lornie Rd",
+            "Description": "Bef Wallace Way"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "41159",
+            "Longitude": 103.81989450001056,
+            "Latitude": 1.33870170002583,
+            "RoadName": "Lornie Rd",
+            "Description": "Aft Lornie Wk"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "41149",
+            "Longitude": 103.81839656048176,
+            "Latitude": 1.3349264205847,
+            "RoadName": "Adam Rd",
+            "Description": "Opp SICC"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "41139",
+            "Longitude": 103.81485527800427,
+            "Latitude": 1.32962999996746,
+            "RoadName": "Adam Rd",
+            "Description": "Aft The Japanese Assn"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "41129",
+            "Longitude": 103.81399869920736,
+            "Latitude": 1.32542946413096,
+            "RoadName": "Adam Rd",
+            "Description": "Opp S'Pore Bible Coll"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "41031",
+            "Longitude": 103.811977237669,
+            "Latitude": 1.3230683576264,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Bef Crown Ctr"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "41041",
+            "Longitude": 103.8102991670086,
+            "Latitude": 1.32398472197176,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Coronation Plaza"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "41051",
+            "Longitude": 103.80715333299845,
+            "Latitude": 1.32612500001248,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Tan Kah Kee Stn"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "41061",
+            "Longitude": 103.80572472199289,
+            "Latitude": 1.32705333303352,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Chinese High Sch"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "41071",
+            "Longitude": 103.80266277802423,
+            "Latitude": 1.328988333013,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Opp Natl JC"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "41081",
+            "Longitude": 103.79727250094409,
+            "Latitude": 1.33082323351422,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Sixth Ave Stn"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "42011",
+            "Longitude": 103.79503057628676,
+            "Latitude": 1.33161452117352,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Sixth Ave Ctr"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "42021",
+            "Longitude": 103.79237058676013,
+            "Latitude": 1.33254537683925,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Aft Maple Ave"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "42031",
+            "Longitude": 103.78997500000864,
+            "Latitude": 1.33332611108217,
+            "RoadName": "Bt Timah Rd",
+            "Description": "The Tessarina"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "42041",
+            "Longitude": 103.78689111113574,
+            "Latitude": 1.33442500001261,
+            "RoadName": "Bt Timah Rd",
+            "Description": "The Nexus"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "42051",
+            "Longitude": 103.78263611110306,
+            "Latitude": 1.33598305556873,
+            "RoadName": "Bt Timah Rd",
+            "Description": "King Albert Pk Stn"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "42061",
+            "Longitude": 103.78039600003811,
+            "Latitude": 1.3368710000163,
+            "RoadName": "Bt Timah Rd",
+            "Description": "King Albert Pk"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "42071",
+            "Longitude": 103.77694915592028,
+            "Latitude": 1.33876225175982,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Pei Hwa Presby Pr Sch"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "42151",
+            "Longitude": 103.77531978477353,
+            "Latitude": 1.34009254981171,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Beauty World Stn Exit C"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "42161",
+            "Longitude": 103.77264625507586,
+            "Latitude": 1.34027669212035,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Blk 18"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "42171",
+            "Longitude": 103.77026361103131,
+            "Latitude": 1.34261833302181,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Signature Pk Condo"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "42181",
+            "Longitude": 103.76943333300858,
+            "Latitude": 1.3436280559857,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Opp The Hillford"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "42191",
+            "Longitude": 103.76696388898718,
+            "Latitude": 1.34642944402637,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Bef Bt Batok East Ave 6"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "43201",
+            "Longitude": 103.76464638897035,
+            "Latitude": 1.34694499998204,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Opp Autobacs"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "43191",
+            "Longitude": 103.75931336284916,
+            "Latitude": 1.34638492790435,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Blk 288C"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "43181",
+            "Longitude": 103.75681722199707,
+            "Latitude": 1.34648944401178,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Keming Pr Sch"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "43171",
+            "Longitude": 103.75460496382075,
+            "Latitude": 1.34859644473183,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 229"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "43419",
+            "Longitude": 103.74998784769572,
+            "Latitude": 1.35155523613685,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Blk 628"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "43401",
+            "Longitude": 103.74681637316733,
+            "Latitude": 1.35226498779767,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Bt Batok Polyclinic"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "43531",
+            "Longitude": 103.7437763360561,
+            "Latitude": 1.35154868659228,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Blk 140"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "43341",
+            "Longitude": 103.74139303669513,
+            "Latitude": 1.34972199038423,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Princess E Pr Sch"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "43453",
+            "Longitude": 103.7385,
+            "Latitude": 1.3479,
+            "RoadName": "Greenbank Pk",
+            "Description": "BEF PIE"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "28299",
+            "Longitude": 103.73667027224192,
+            "Latitude": 1.34438323067917,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 253"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "28451",
+            "Longitude": 103.73465998158574,
+            "Latitude": 1.34394189080479,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Parc Oasis"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "28461",
+            "Longitude": 103.73205383657178,
+            "Latitude": 1.345332402809,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Blk 347"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "28491",
+            "Longitude": 103.7307863306416,
+            "Latitude": 1.34905596073619,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Opp Jurong Polyclinic"
+        },
+        {
+            "Distance": 20.8,
+            "BusStopCode": "28501",
+            "Longitude": 103.72737769835274,
+            "Latitude": 1.34980328426271,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 490"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "28511",
+            "Longitude": 103.7237236090261,
+            "Latitude": 1.35063596491215,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 463"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "28521",
+            "Longitude": 103.72120042369096,
+            "Latitude": 1.35097548065061,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 457"
+        },
+        {
+            "Distance": 21.8,
+            "BusStopCode": "28401",
+            "Longitude": 103.71861401513462,
+            "Latitude": 1.3506545513673,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 502"
+        },
+        {
+            "Distance": 22.1,
+            "BusStopCode": "28531",
+            "Longitude": 103.71652940446651,
+            "Latitude": 1.35006115514965,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 536"
+        },
+        {
+            "Distance": 22.6,
+            "BusStopCode": "21161",
+            "Longitude": 103.7127413228723,
+            "Latitude": 1.35043949411648,
+            "RoadName": "Corporation Rd",
+            "Description": "Opp Jurong JC"
+        },
+        {
+            "Distance": 23.1,
+            "BusStopCode": "21389",
+            "Longitude": 103.70901404485805,
+            "Latitude": 1.34948394210161,
+            "RoadName": "Jurong West Ave 2",
+            "Description": "OPP ST. JOSEPH'S HME"
+        },
+        {
+            "Distance": 23.8,
+            "BusStopCode": "21379",
+            "Longitude": 103.70648912988919,
+            "Latitude": 1.34534855216089,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 263"
+        },
+        {
+            "Distance": 24.1,
+            "BusStopCode": "21369",
+            "Longitude": 103.70800310705765,
+            "Latitude": 1.34309123717886,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Opp Blk 695"
+        },
+        {
+            "Distance": 25,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "21361",
+            "Longitude": 103.70767181671128,
+            "Latitude": 1.34302323304896,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 695"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "21371",
+            "Longitude": 103.70617873626036,
+            "Latitude": 1.34522722613512,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 680C"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "21381",
+            "Longitude": 103.7085556805549,
+            "Latitude": 1.34961226988408,
+            "RoadName": "Jurong West Ave 2",
+            "Description": "ST. JOSEPH'S HME"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "21169",
+            "Longitude": 103.71275812568066,
+            "Latitude": 1.35074356093462,
+            "RoadName": "Corporation Rd",
+            "Description": "Jurong JC"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "28539",
+            "Longitude": 103.71542393424821,
+            "Latitude": 1.34975477386966,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 538"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "28409",
+            "Longitude": 103.71793769087185,
+            "Latitude": 1.35081149361542,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 454"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "28529",
+            "Longitude": 103.7206511492765,
+            "Latitude": 1.35117921308914,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 441"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "28519",
+            "Longitude": 103.72452492776075,
+            "Latitude": 1.35058416759245,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 425"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "28509",
+            "Longitude": 103.72654009750788,
+            "Latitude": 1.35003470887569,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 422"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "28499",
+            "Longitude": 103.73046199733298,
+            "Latitude": 1.34963044051902,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Jurong Polyclinic"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "28469",
+            "Longitude": 103.73193313637753,
+            "Latitude": 1.34612717332075,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Blk 316"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "28459",
+            "Longitude": 103.7343152870331,
+            "Latitude": 1.34440772894012,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Opp Parc Oasis"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "28291",
+            "Longitude": 103.73638303040048,
+            "Latitude": 1.34446090409168,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 303"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "43459",
+            "Longitude": 103.73807456781998,
+            "Latitude": 1.34808666498981,
+            "RoadName": "Bt Batok Rd",
+            "Description": "Aft PIE"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "43349",
+            "Longitude": 103.74073750002215,
+            "Latitude": 1.34989138902216,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Opp Princess E Pr Sch"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "43539",
+            "Longitude": 103.7433686110311,
+            "Latitude": 1.35142277800259,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Opp Blk 140"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "43409",
+            "Longitude": 103.74623591627208,
+            "Latitude": 1.35235542005389,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Opp Blk 127"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "43411",
+            "Longitude": 103.75019891787089,
+            "Latitude": 1.35176519952681,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Opp Blk 628"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "43179",
+            "Longitude": 103.75430345301592,
+            "Latitude": 1.3489707828044,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 231"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "43189",
+            "Longitude": 103.75681389918313,
+            "Latitude": 1.34694984968785,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 283"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "43199",
+            "Longitude": 103.75920055445125,
+            "Latitude": 1.34663409083885,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Ch Of St. Mary"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "43209",
+            "Longitude": 103.76384248905434,
+            "Latitude": 1.34697997431974,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Autobacs"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "42199",
+            "Longitude": 103.76760722200575,
+            "Latitude": 1.34607666698124,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Aft Bt Batok East Ave 6"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "42189",
+            "Longitude": 103.76960174742553,
+            "Latitude": 1.34378853697493,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "The Hillford"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "42179",
+            "Longitude": 103.77100805601951,
+            "Latitude": 1.34197833300345,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Aft Chun Tin Rd"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "42169",
+            "Longitude": 103.77366130505683,
+            "Latitude": 1.34038575681297,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Opp Blk 19"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "42159",
+            "Longitude": 103.77530898996658,
+            "Latitude": 1.34036805329812,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Opp Beauty World Stn"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "42259",
+            "Longitude": 103.7770788000345,
+            "Latitude": 1.34106160633217,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Goh & Goh Bldg"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "42089",
+            "Longitude": 103.77941451542826,
+            "Latitude": 1.34007090936874,
+            "RoadName": "Jln Anak Bt",
+            "Description": "Opp Bt Timah Plaza"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "42059",
+            "Longitude": 103.78180146215335,
+            "Latitude": 1.33679896138996,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp King Albert Pk Stn"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "42049",
+            "Longitude": 103.7846322701164,
+            "Latitude": 1.33580349277905,
+            "RoadName": "Dunearn Rd",
+            "Description": "Hua Guan Gdns"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "42039",
+            "Longitude": 103.7877986922408,
+            "Latitude": 1.33474752657285,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp The Nexus"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "42029",
+            "Longitude": 103.79206171859214,
+            "Latitude": 1.33325151466609,
+            "RoadName": "Dunearn Rd",
+            "Description": "Aft Swiss Club Rd"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "42019",
+            "Longitude": 103.79657033601987,
+            "Latitude": 1.33170368135595,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp Sixth Ave Stn"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "41089",
+            "Longitude": 103.79993319513187,
+            "Latitude": 1.33044921085796,
+            "RoadName": "Dunearn Rd",
+            "Description": "Aft Jln Naga Sari"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "41079",
+            "Longitude": 103.80304777797754,
+            "Latitude": 1.32940305598521,
+            "RoadName": "Dunearn Rd",
+            "Description": "Natl JC"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "41069",
+            "Longitude": 103.80758583296918,
+            "Latitude": 1.32652777798065,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp Tan Kah Kee Stn"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "41049",
+            "Longitude": 103.81026249997407,
+            "Latitude": 1.32469500003392,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp Coronation Plaza"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "41121",
+            "Longitude": 103.81350777801268,
+            "Latitude": 1.32554444399609,
+            "RoadName": "Adam Rd",
+            "Description": "S'Pore Bible Coll"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "41131",
+            "Longitude": 103.8145129140827,
+            "Latitude": 1.32973612368298,
+            "RoadName": "Adam Rd",
+            "Description": "Opp The Japanese Assn"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "41141",
+            "Longitude": 103.81796101152241,
+            "Latitude": 1.33489306619804,
+            "RoadName": "Adam Rd",
+            "Description": "Bef SICC"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "41151",
+            "Longitude": 103.81931795640678,
+            "Latitude": 1.33799972901638,
+            "RoadName": "Lornie Rd",
+            "Description": "Aft SICC"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "40251",
+            "Longitude": 103.82231128179984,
+            "Latitude": 1.34054275997605,
+            "RoadName": "Lornie Rd",
+            "Description": "Aft Wallace Way"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "40261",
+            "Longitude": 103.82706642150467,
+            "Latitude": 1.34130384192273,
+            "RoadName": "Lornie Rd",
+            "Description": "LP 52"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "51111",
+            "Longitude": 103.83271333302345,
+            "Latitude": 1.34064833298154,
+            "RoadName": "Lornie Rd",
+            "Description": "Opp Andrew Rd"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "51071",
+            "Longitude": 103.83596576505084,
+            "Latitude": 1.34219256998908,
+            "RoadName": "Thomson Rd",
+            "Description": "Macritchie Reservoir"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "51131",
+            "Longitude": 103.83934772641125,
+            "Latitude": 1.34409261817375,
+            "RoadName": "Braddell Rd",
+            "Description": "Opp Braddell View"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "52011",
+            "Longitude": 103.84263401771713,
+            "Latitude": 1.34504127313408,
+            "RoadName": "Braddell Rd",
+            "Description": "Bef Bishan Rd"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "52021",
+            "Longitude": 103.84766088139544,
+            "Latitude": 1.34431313758435,
+            "RoadName": "Braddell Rd",
+            "Description": "OPP BLK 1004"
+        },
+        {
+            "Distance": 21.9,
+            "BusStopCode": "52031",
+            "Longitude": 103.85026155631283,
+            "Latitude": 1.34404852974216,
+            "RoadName": "Braddell Rd",
+            "Description": "OPP BLK 998"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "52361",
+            "Longitude": 103.8529812160764,
+            "Latitude": 1.33974408909931,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 23.4,
+            "BusStopCode": "52279",
+            "Longitude": 103.84992957112877,
+            "Latitude": 1.33702420555118,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Blk 56"
+        },
+        {
+            "Distance": 23.8,
+            "BusStopCode": "52269",
+            "Longitude": 103.85147452356613,
+            "Latitude": 1.33404239936331,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Blk 73"
+        },
+        {
+            "Distance": 24.3,
+            "BusStopCode": "52501",
+            "Longitude": 103.85011762889827,
+            "Latitude": 1.33090220918791,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 24.7,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int"
+        }
+    ]
+}

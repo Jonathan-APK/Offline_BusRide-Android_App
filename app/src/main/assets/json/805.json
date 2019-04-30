@@ -1,0 +1,156 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "59073",
+            "Longitude": 103.8354631,
+            "Latitude": 1.428686944,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Stn"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "59069",
+            "Longitude": 103.83536957259517,
+            "Latitude": 1.42657294826877,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Blk 757"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "59341",
+            "Longitude": 103.83864456915899,
+            "Latitude": 1.42367163179884,
+            "RoadName": "Yishun Ctrl",
+            "Description": "Khoo Teck Puat Hosp"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "59289",
+            "Longitude": 103.84138894371273,
+            "Latitude": 1.42166630737691,
+            "RoadName": "Yishun Ave 4",
+            "Description": "Blk 676 CP"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "59299",
+            "Longitude": 103.8410189,
+            "Latitude": 1.4190975,
+            "RoadName": "Yishun Ave 4",
+            "Description": "Blk 671 CP"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "59449",
+            "Longitude": 103.83953916700452,
+            "Latitude": 1.41552972203074,
+            "RoadName": "Yishun Ave 4",
+            "Description": "Opp Naval Base Pr Sch"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "59731",
+            "Longitude": 103.841495,
+            "Latitude": 1.41413,
+            "RoadName": "Yishun Ave 1",
+            "Description": "Blk 512A"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "59741",
+            "Longitude": 103.8446386,
+            "Latitude": 1.415548611,
+            "RoadName": "Yishun Ave 1",
+            "Description": "Opp Orchid Country Club"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "59751",
+            "Longitude": 103.84590800002533,
+            "Latitude": 1.41725535689777,
+            "RoadName": "Yishun Ave 1",
+            "Description": "Opp The Shaughnessy"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "59589",
+            "Longitude": 103.8447725,
+            "Latitude": 1.41966,
+            "RoadName": "Yishun St 41",
+            "Description": "Blk 505C"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "59761",
+            "Longitude": 103.8432675,
+            "Latitude": 1.418496389,
+            "RoadName": "Yishun Ave 1",
+            "Description": "Blk 504C"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "59719",
+            "Longitude": 103.8420025,
+            "Latitude": 1.417565,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 672C"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "59291",
+            "Longitude": 103.8407236,
+            "Latitude": 1.418929444,
+            "RoadName": "Yishun Ave 4",
+            "Description": "Blk 666"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "59281",
+            "Longitude": 103.84070404095088,
+            "Latitude": 1.4228063053424,
+            "RoadName": "Yishun Ave 4",
+            "Description": "Blk 654"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "59349",
+            "Longitude": 103.83882425770956,
+            "Latitude": 1.42345056032348,
+            "RoadName": "Yishun Ctrl",
+            "Description": "Opp Khoo Teck Puat Hosp"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "59061",
+            "Longitude": 103.83495820649408,
+            "Latitude": 1.42556399229911,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 763"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "59671",
+            "Longitude": 103.83518718969762,
+            "Latitude": 1.42777620949098,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Bef Yishun Stn"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int (Last Stop)"
+        }
+    ]
+}

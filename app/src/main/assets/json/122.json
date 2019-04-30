@@ -1,0 +1,324 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "10499",
+            "Longitude": 103.83401000002084,
+            "Latitude": 1.27585400417691,
+            "RoadName": "Spooner Rd",
+            "Description": "KAMPONG BAHRU TER (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "10049",
+            "Longitude": 103.83483786772155,
+            "Latitude": 1.27623302424393,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "OPP KAMPONG BAHRU TER"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "10017",
+            "Longitude": 103.83762574759974,
+            "Latitude": 1.27832046633393,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Aft Hosp Dr"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "06011",
+            "Longitude": 103.83801388886192,
+            "Latitude": 1.28165999996967,
+            "RoadName": "Outram Rd",
+            "Description": "Opp Outram Pk Stn"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "06051",
+            "Longitude": 103.83405671725487,
+            "Latitude": 1.28475980959972,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Blk 55"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "10141",
+            "Longitude": 103.83238179897589,
+            "Latitude": 1.28583847140468,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Blk 18"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "10151",
+            "Longitude": 103.8285292287095,
+            "Latitude": 1.28572048365401,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Ctrl Green Condo"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "10161",
+            "Longitude": 103.82668969231534,
+            "Latitude": 1.28593135445772,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Opp Tiong Bahru Plaza"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "10381",
+            "Longitude": 103.82559411728036,
+            "Latitude": 1.28906972186602,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Opp Blk 48"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "10241",
+            "Longitude": 103.82362326803131,
+            "Latitude": 1.2906166672167,
+            "RoadName": "Alexandra Rd",
+            "Description": "Gan Eng Seng Sec Sch"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "10261",
+            "Longitude": 103.82047232884216,
+            "Latitude": 1.29090335842692,
+            "RoadName": "Alexandra Rd",
+            "Description": "Delta Sports Hall"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "10271",
+            "Longitude": 103.81757666701353,
+            "Latitude": 1.29115999997607,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Tanglin View"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "10321",
+            "Longitude": 103.81587839882768,
+            "Latitude": 1.29428332949691,
+            "RoadName": "Tanglin Rd",
+            "Description": "Aft Margaret Dr"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "10479",
+            "Longitude": 103.81547381025995,
+            "Latitude": 1.29668100002552,
+            "RoadName": "Kay Siang Rd",
+            "Description": "Aft Tanglin Rd"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "10469",
+            "Longitude": 103.81216918970023,
+            "Latitude": 1.29668400003303,
+            "RoadName": "Kay Siang Rd",
+            "Description": "Bef Margaret Dr"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "11499",
+            "Longitude": 103.80788663334461,
+            "Latitude": 1.29685053610951,
+            "RoadName": "Margaret Dr",
+            "Description": "Queenstown Pr Sch"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "11489",
+            "Longitude": 103.80499720571189,
+            "Latitude": 1.29845351507922,
+            "RoadName": "Margaret Dr",
+            "Description": "Opp Queenstown Lib"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "11479",
+            "Longitude": 103.80371985837914,
+            "Latitude": 1.29938075130292,
+            "RoadName": "Margaret Dr",
+            "Description": "The Fisherman Ch"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "11469",
+            "Longitude": 103.80188584326886,
+            "Latitude": 1.30113503392421,
+            "RoadName": "Margaret Dr",
+            "Description": "Queensway Sec Sch"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "11061",
+            "Longitude": 103.80118694402536,
+            "Latitude": 1.30265777802206,
+            "RoadName": "Queensway",
+            "Description": "Opp Queensway Sec Sch"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "11439",
+            "Longitude": 103.80029777801455,
+            "Latitude": 1.30606472198412,
+            "RoadName": "C'wealth Dr",
+            "Description": "Blk 92"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "11429",
+            "Longitude": 103.7983633329984,
+            "Latitude": 1.30454000002017,
+            "RoadName": "C'wealth Dr",
+            "Description": "Opp Blk 115B"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "11169",
+            "Longitude": 103.79838166697326,
+            "Latitude": 1.30270500001823,
+            "RoadName": "C'wealth Ave",
+            "Description": "C'Wealth Stn Exit B/C"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "11471",
+            "Longitude": 103.80315156606572,
+            "Latitude": 1.29951892595663,
+            "RoadName": "Margaret Dr",
+            "Description": "Opp The Fisherman Ch"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "11481",
+            "Longitude": 103.8060054035445,
+            "Latitude": 1.29811518922625,
+            "RoadName": "Margaret Dr",
+            "Description": "Queenstown Lib"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "11491",
+            "Longitude": 103.8076364994003,
+            "Latitude": 1.29710202847016,
+            "RoadName": "Margaret Dr",
+            "Description": "Opp Queenstown Pr Sch"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "10461",
+            "Longitude": 103.81169140516062,
+            "Latitude": 1.29680597432594,
+            "RoadName": "Kay Siang Rd",
+            "Description": "Aft Margaret Dr"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "10471",
+            "Longitude": 103.81468220659576,
+            "Latitude": 1.29679993078344,
+            "RoadName": "Kay Siang Rd",
+            "Description": "Bef Tanglin Rd"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "10329",
+            "Longitude": 103.81597460107542,
+            "Latitude": 1.29364671283262,
+            "RoadName": "Tanglin Rd",
+            "Description": "Crescent Girls' Sch"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "10279",
+            "Longitude": 103.81757660887743,
+            "Latitude": 1.29151373164978,
+            "RoadName": "Alexandra Rd",
+            "Description": "Tanglin View"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "10269",
+            "Longitude": 103.82057583280772,
+            "Latitude": 1.29125331927458,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Delta Sports Hall"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "10249",
+            "Longitude": 103.82407777797806,
+            "Latitude": 1.29088138899671,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Gan Eng Seng Sec Sch"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "10389",
+            "Longitude": 103.82573455047122,
+            "Latitude": 1.28875832991208,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Blk 48"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "10169",
+            "Longitude": 103.82748123930962,
+            "Latitude": 1.28599961406266,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Tiong Bahru Plaza"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "10149",
+            "Longitude": 103.83283384311112,
+            "Latitude": 1.28606797463712,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "06049",
+            "Longitude": 103.83517705055233,
+            "Latitude": 1.28474856880259,
+            "RoadName": "Outram Rd",
+            "Description": "BEF OUTRAM FLYOVER"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "06029",
+            "Longitude": 103.8383828488293,
+            "Latitude": 1.28177041153491,
+            "RoadName": "Outram Rd",
+            "Description": "Outram Pk Stn"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "10011",
+            "Longitude": 103.83749709165197,
+            "Latitude": 1.2777380589964,
+            "RoadName": "New Bridge Rd",
+            "Description": "BEF NEIL RD"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "10041",
+            "Longitude": 103.83519065305671,
+            "Latitude": 1.27605834770353,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "BEF KAMPONG BAHRU TER"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "10499",
+            "Longitude": 103.83401000002084,
+            "Latitude": 1.27585400417691,
+            "RoadName": "Spooner Rd",
+            "Description": "KAMPONG BAHRU TER (Last Stop)"
+        }
+    ]
+}

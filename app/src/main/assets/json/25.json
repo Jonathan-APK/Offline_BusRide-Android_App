@@ -1,0 +1,710 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "54009",
+            "Longitude": 103.84856716193268,
+            "Latitude": 1.36968769913339,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Ang Mo Kio Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "54261",
+            "Longitude": 103.85075454495572,
+            "Latitude": 1.36946941916508,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Ang Mo Kio Stn"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "54271",
+            "Longitude": 103.85356664655984,
+            "Latitude": 1.36996326781056,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 586"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "54281",
+            "Longitude": 103.85601277845504,
+            "Latitude": 1.3694902568174,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 570"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "54291",
+            "Longitude": 103.85886147831553,
+            "Latitude": 1.36918861426324,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 564"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "54301",
+            "Longitude": 103.86284675062745,
+            "Latitude": 1.37019500530585,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 5022"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "66341",
+            "Longitude": 103.86525341485559,
+            "Latitude": 1.37114196132937,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Daikin S'pore"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "66331",
+            "Longitude": 103.8701543470715,
+            "Latitude": 1.37173176460482,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 554"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "66101",
+            "Longitude": 103.87325896613375,
+            "Latitude": 1.37094045484466,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 516"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "63311",
+            "Longitude": 103.87780647158901,
+            "Latitude": 1.36990463865149,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 634"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "63321",
+            "Longitude": 103.88132215113495,
+            "Latitude": 1.36913602302795,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 627"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "63331",
+            "Longitude": 103.88492703491212,
+            "Latitude": 1.36836866548657,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 615"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "63341",
+            "Longitude": 103.88882988119938,
+            "Latitude": 1.36751402871615,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 709"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "63249",
+            "Longitude": 103.89261277802149,
+            "Latitude": 1.36395805601148,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "63071",
+            "Longitude": 103.89332464938751,
+            "Latitude": 1.3597807263938,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Opp Blk 248"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "63081",
+            "Longitude": 103.89260949897677,
+            "Latitude": 1.3568307844677,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Opp Blk 241"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "63091",
+            "Longitude": 103.89147049226345,
+            "Latitude": 1.35385498086943,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Opp Blk 106"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "63101",
+            "Longitude": 103.8903098431232,
+            "Latitude": 1.35110728949265,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Opp Blk 169"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "62231",
+            "Longitude": 103.89030740867446,
+            "Latitude": 1.34780294127385,
+            "RoadName": "Hougang Ave 3",
+            "Description": "BEF S'PORE GIRLS' HME"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "62241",
+            "Longitude": 103.89113604973045,
+            "Latitude": 1.34503285502097,
+            "RoadName": "Hougang Ave 3",
+            "Description": "SBST Hougang Depot"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "71051",
+            "Longitude": 103.89189250385124,
+            "Latitude": 1.34151105876514,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Aft Kim Chuan Rd"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "71061",
+            "Longitude": 103.89506854137488,
+            "Latitude": 1.33901443022109,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Bef Airport Rd"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "71071",
+            "Longitude": 103.89785574766542,
+            "Latitude": 1.33638181561906,
+            "RoadName": "Eunos Link",
+            "Description": "Opp Comfort Driving Ctr"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "71081",
+            "Longitude": 103.9005998503616,
+            "Latitude": 1.33375855817569,
+            "RoadName": "Eunos Link",
+            "Description": "Eunos Technolink"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "71091",
+            "Longitude": 103.90373154551283,
+            "Latitude": 1.33073374785934,
+            "RoadName": "Eunos Link",
+            "Description": "Blk 637"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "72019",
+            "Longitude": 103.90546507501655,
+            "Latitude": 1.32884628389091,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Mans"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "83119",
+            "Longitude": 103.90560762847845,
+            "Latitude": 1.32306974700238,
+            "RoadName": "Jln Eunos",
+            "Description": "Opp Blk 16"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "83109",
+            "Longitude": 103.90537221650075,
+            "Latitude": 1.32135678897249,
+            "RoadName": "Jln Eunos",
+            "Description": "Opp Eunos Stn"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "83011",
+            "Longitude": 103.90725404505461,
+            "Latitude": 1.31971491091921,
+            "RoadName": "Sims Ave East",
+            "Description": "Casa Sarina"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "83031",
+            "Longitude": 103.91000032422843,
+            "Latitude": 1.32027026937212,
+            "RoadName": "Sims Ave East",
+            "Description": "Opp Hong San Si Tp"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "83062",
+            "Longitude": 103.9133277893385,
+            "Latitude": 1.32096859171096,
+            "RoadName": "Sims Ave East",
+            "Description": "Kembangan Stn"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "83081",
+            "Longitude": 103.91736615804473,
+            "Latitude": 1.32138694232025,
+            "RoadName": "Sims Ave East",
+            "Description": "Opp Perpetual Succour Ch"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "84011",
+            "Longitude": 103.92233358172962,
+            "Latitude": 1.32257749632692,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Chai Chee Ind Pk"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "84021",
+            "Longitude": 103.92508721683168,
+            "Latitude": 1.32338320435233,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 32"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "84031",
+            "Longitude": 103.93003627080394,
+            "Latitude": 1.32428292329305,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Stn Exit B"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "84041",
+            "Longitude": 103.93468799273933,
+            "Latitude": 1.3246905167586,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 221A"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "84051",
+            "Longitude": 103.93957942418302,
+            "Latitude": 1.32531855805156,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Sports Cplx"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "84061",
+            "Longitude": 103.94223128727671,
+            "Latitude": 1.32584790501258,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "The Tanamera Condo"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "84101",
+            "Longitude": 103.94421518494586,
+            "Latitude": 1.32298200464523,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Opp Blk 49"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "84661",
+            "Longitude": 103.94438908816849,
+            "Latitude": 1.31992811557233,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Blk 172"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "84671",
+            "Longitude": 103.94509555597209,
+            "Latitude": 1.31759333301805,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Aft Blk 156"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "94051",
+            "Longitude": 103.94737959133388,
+            "Latitude": 1.31710244970995,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Opp Temasek Sec Sch"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "94061",
+            "Longitude": 103.95138333302127,
+            "Latitude": 1.31843666702467,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Kew Green Condo"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "94009",
+            "Longitude": 103.95256713632443,
+            "Latitude": 1.31795981372922,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Upp East Coast Ter"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "94009",
+            "Longitude": 103.95256713632443,
+            "Latitude": 1.31795981372922,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Upp East Coast Ter"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "94069",
+            "Longitude": 103.95085659912792,
+            "Latitude": 1.31809668590525,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Opp Kew Green Condo"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "94059",
+            "Longitude": 103.94798092494041,
+            "Latitude": 1.31707137658578,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Temasek Sec Sch"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "84679",
+            "Longitude": 103.94476555602924,
+            "Latitude": 1.31804305599346,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Opp Blk 156"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "84669",
+            "Longitude": 103.94418156021838,
+            "Latitude": 1.31994111212465,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Blk 73"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "84109",
+            "Longitude": 103.9441209521673,
+            "Latitude": 1.32350836424044,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Blk 50"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "84069",
+            "Longitude": 103.94219019887281,
+            "Latitude": 1.32548742810424,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 55"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "84059",
+            "Longitude": 103.93953481204565,
+            "Latitude": 1.32493504095045,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 65"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "84049",
+            "Longitude": 103.93471220144858,
+            "Latitude": 1.32432719820227,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 27"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "84039",
+            "Longitude": 103.92886300203479,
+            "Latitude": 1.32353645344906,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Stn Exit A"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "84029",
+            "Longitude": 103.92517704260585,
+            "Latitude": 1.32295305994698,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Blk 32"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "84019",
+            "Longitude": 103.92262015530929,
+            "Latitude": 1.32221972730517,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Chai Chee Ind Pk"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "83099",
+            "Longitude": 103.91810427638708,
+            "Latitude": 1.32076378388187,
+            "RoadName": "Changi Rd",
+            "Description": "Aft Perpetual Succour Ch"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "83079",
+            "Longitude": 103.91505416701378,
+            "Latitude": 1.31976833302337,
+            "RoadName": "Changi Rd",
+            "Description": "Bef Siglap Plain"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "83059",
+            "Longitude": 103.91222670426201,
+            "Latitude": 1.31888900641724,
+            "RoadName": "Changi Rd",
+            "Description": "Mjd Kassim"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "83049",
+            "Longitude": 103.91002178191968,
+            "Latitude": 1.318489754773,
+            "RoadName": "Changi Rd",
+            "Description": "Bef Lor 110 Changi"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "83101",
+            "Longitude": 103.90489836683336,
+            "Latitude": 1.32066709057479,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Stn"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "83111",
+            "Longitude": 103.90527311322877,
+            "Latitude": 1.32346854012914,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 17"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "72011",
+            "Longitude": 103.90548361097667,
+            "Latitude": 1.32816499999482,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 322"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "71099",
+            "Longitude": 103.9038336109893,
+            "Latitude": 1.33022638900189,
+            "RoadName": "Eunos Link",
+            "Description": "Blk 311"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "71089",
+            "Longitude": 103.90097214917817,
+            "Latitude": 1.33291479894363,
+            "RoadName": "Eunos Link",
+            "Description": "Opp Eunos Technolink"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "71079",
+            "Longitude": 103.89825312082961,
+            "Latitude": 1.33554558497215,
+            "RoadName": "Eunos Link",
+            "Description": "Comfort Driving Ctr"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "71069",
+            "Longitude": 103.89512258677937,
+            "Latitude": 1.3385251356058,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Aft Airport Rd"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "71059",
+            "Longitude": 103.89195372882892,
+            "Latitude": 1.34065465828861,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Bef Kim Chuan Rd"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "62249",
+            "Longitude": 103.89102556910234,
+            "Latitude": 1.34421563693504,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Opp SBST Hougang Depot"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "62239",
+            "Longitude": 103.88998897946436,
+            "Latitude": 1.34763066655635,
+            "RoadName": "Hougang Ave 3",
+            "Description": "OPP S'PORE GIRLS' HME"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "63109",
+            "Longitude": 103.88984416702769,
+            "Latitude": 1.35081444397072,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Blk 172"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "63099",
+            "Longitude": 103.89097410968795,
+            "Latitude": 1.35357948490597,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Blk 106"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "63089",
+            "Longitude": 103.89213497244268,
+            "Latitude": 1.35653228525134,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Blk 241"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "63079",
+            "Longitude": 103.89296017669749,
+            "Latitude": 1.35978917315442,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Blk 248"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "63241",
+            "Longitude": 103.89213557756084,
+            "Latitude": 1.36409785233957,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Blk 21"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "63349",
+            "Longitude": 103.88923358520269,
+            "Latitude": 1.36687207146588,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 708"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "63339",
+            "Longitude": 103.88451259380585,
+            "Latitude": 1.36811854812783,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 615"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "63329",
+            "Longitude": 103.882008479663,
+            "Latitude": 1.36862870083779,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 627"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "63319",
+            "Longitude": 103.87814733411857,
+            "Latitude": 1.36921737828483,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 634"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "66109",
+            "Longitude": 103.8746132395795,
+            "Latitude": 1.3699792245468,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "66339",
+            "Longitude": 103.87055805068519,
+            "Latitude": 1.37125183222903,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "66349",
+            "Longitude": 103.86541771672718,
+            "Latitude": 1.37082760014108,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Daikin S'pore"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "54309",
+            "Longitude": 103.86306604022437,
+            "Latitude": 1.36988835306854,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Blk 5022"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "54299",
+            "Longitude": 103.85832656880861,
+            "Latitude": 1.36890152697813,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Blk 565"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "54289",
+            "Longitude": 103.8561504529793,
+            "Latitude": 1.36910303231028,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 452"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "54279",
+            "Longitude": 103.85404760550173,
+            "Latitude": 1.36968919033429,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 427"
+        },
+        {
+            "Distance": 18,
+            "BusStopCode": "54269",
+            "Longitude": 103.85111893571647,
+            "Latitude": 1.36921006543476,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Ang Mo Kio Stn"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "54009",
+            "Longitude": 103.84856716193268,
+            "Latitude": 1.36968769913339,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Ang Mo Kio Int"
+        }
+    ]
+}

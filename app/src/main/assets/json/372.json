@@ -1,0 +1,180 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "67009",
+            "Longitude": 103.89588499436073,
+            "Latitude": 1.39178060381601,
+            "RoadName": "Sengkang Sq",
+            "Description": "Sengkang Int (First Stop)"
+        },
+        {
+            "Distance": 0.2,
+            "BusStopCode": "67409",
+            "Longitude": 103.89606816606354,
+            "Latitude": 1.3923391568303,
+            "RoadName": "Sengkang East Way",
+            "Description": "Sengkang Stn"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "67399",
+            "Longitude": 103.89167010585574,
+            "Latitude": 1.39385005995777,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 325 CP"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "67389",
+            "Longitude": 103.88869095686496,
+            "Latitude": 1.39424377787036,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 317B"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "67371",
+            "Longitude": 103.88713972197542,
+            "Latitude": 1.39259972198676,
+            "RoadName": "Anchorvale Rd",
+            "Description": "Blk 313 CP"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "67361",
+            "Longitude": 103.88834913656447,
+            "Latitude": 1.39099505909557,
+            "RoadName": "Anchorvale Dr",
+            "Description": "Blk 313B"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "67351",
+            "Longitude": 103.8913545454022,
+            "Latitude": 1.38994475443116,
+            "RoadName": "Anchorvale Dr",
+            "Description": "Blk 321 CP"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "67341",
+            "Longitude": 103.89505169031366,
+            "Latitude": 1.38864779457077,
+            "RoadName": "Compassvale Dr",
+            "Description": "Opp Blk 204 CP"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "67171",
+            "Longitude": 103.89897692182004,
+            "Latitude": 1.38731209583307,
+            "RoadName": "Compassvale Dr",
+            "Description": "Blk 225A"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "65031",
+            "Longitude": 103.90162639249785,
+            "Latitude": 1.38711827264676,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 227D"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "65041",
+            "Longitude": 103.90162265734195,
+            "Latitude": 1.38984412426173,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 231"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "67109",
+            "Longitude": 103.89998669813552,
+            "Latitude": 1.39102885574104,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 235"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "67181",
+            "Longitude": 103.89778017996501,
+            "Latitude": 1.39101786005668,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 240"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "67191",
+            "Longitude": 103.89710881285436,
+            "Latitude": 1.38908889970693,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 223D"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "67349",
+            "Longitude": 103.8953369095349,
+            "Latitude": 1.38837810902521,
+            "RoadName": "Compassvale Dr",
+            "Description": "Blk 204 CP"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "67359",
+            "Longitude": 103.890440628588,
+            "Latitude": 1.39002594193182,
+            "RoadName": "Anchorvale Dr",
+            "Description": "Nan Chiau High Sch"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "67369",
+            "Longitude": 103.88853458899818,
+            "Latitude": 1.39071731059511,
+            "RoadName": "Anchorvale Dr",
+            "Description": "Blk 306 CP"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "67379",
+            "Longitude": 103.88700896307408,
+            "Latitude": 1.3927256179225,
+            "RoadName": "Anchorvale Rd",
+            "Description": "Opp Blk 313 CP"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "67381",
+            "Longitude": 103.88844266691056,
+            "Latitude": 1.39459040201234,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 326 CP"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "67391",
+            "Longitude": 103.89144488028346,
+            "Latitude": 1.39425676218487,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 333B"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "67441",
+            "Longitude": 103.8934666647416,
+            "Latitude": 1.3923095386042,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Sengkang Community Hub"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "67009",
+            "Longitude": 103.89588499436073,
+            "Latitude": 1.39178060381601,
+            "RoadName": "Sengkang Sq",
+            "Description": "Sengkang Int (Last Stop)"
+        }
+    ]
+}

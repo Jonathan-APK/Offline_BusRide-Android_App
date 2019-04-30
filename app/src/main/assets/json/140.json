@@ -1,0 +1,188 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "80009",
+            "Longitude": 103.87216341433337,
+            "Latitude": 1.3111642220841,
+            "RoadName": "Lor 1 Geylang",
+            "Description": "Lor 1 Geylang Ter (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "80101",
+            "Longitude": 103.87153830811837,
+            "Latitude": 1.31251933500742,
+            "RoadName": "Lor 1 Geylang",
+            "Description": "Kallang Stn/Opp Blk 2C"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "80319",
+            "Longitude": 103.87262229395158,
+            "Latitude": 1.31484297001272,
+            "RoadName": "Upp Boon Keng Rd",
+            "Description": "Geylang West CC"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "80309",
+            "Longitude": 103.87298911852837,
+            "Latitude": 1.31723134728621,
+            "RoadName": "Upp Boon Keng Rd",
+            "Description": "Aft Geylang West CC"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "80299",
+            "Longitude": 103.87197222899434,
+            "Latitude": 1.31954835158003,
+            "RoadName": "Geylang Bahru",
+            "Description": "Opp Blk 82"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "60229",
+            "Longitude": 103.87024013608315,
+            "Latitude": 1.32258108743147,
+            "RoadName": "Geylang Bahru",
+            "Description": "Blk 68"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "60159",
+            "Longitude": 103.86764196002876,
+            "Latitude": 1.32409476572475,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Blk 54"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "60139",
+            "Longitude": 103.86628982237994,
+            "Latitude": 1.32204861560134,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Blk 44"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "60119",
+            "Longitude": 103.8642148620878,
+            "Latitude": 1.31889711409084,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Opp Boon Keng Stn"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "60191",
+            "Longitude": 103.86195722198198,
+            "Latitude": 1.31718305596849,
+            "RoadName": "Boon Keng Rd",
+            "Description": "Blk 7"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "60121",
+            "Longitude": 103.86179781146463,
+            "Latitude": 1.32008815616383,
+            "RoadName": "S'goon Rd",
+            "Description": "Boon Keng Stn/Blk 102"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "60241",
+            "Longitude": 103.8615915962133,
+            "Latitude": 1.32355461431031,
+            "RoadName": "St. George'S Rd",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "60251",
+            "Longitude": 103.86155521539519,
+            "Latitude": 1.32450918973195,
+            "RoadName": "St. Wilfred Rd",
+            "Description": "Blk 15"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "60249",
+            "Longitude": 103.86194240512685,
+            "Latitude": 1.32346800000844,
+            "RoadName": "St. George'S Rd",
+            "Description": "Blk 14"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "60141",
+            "Longitude": 103.86385682733587,
+            "Latitude": 1.32258753768004,
+            "RoadName": "S'goon Rd",
+            "Description": "Opp Bendemeer Pr Sch"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "60161",
+            "Longitude": 103.8655673081052,
+            "Latitude": 1.32477289725503,
+            "RoadName": "S'goon Rd",
+            "Description": "St. Michael's Pl"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "60179",
+            "Longitude": 103.86834025123765,
+            "Latitude": 1.32634025655419,
+            "RoadName": "Bendemeer Rd",
+            "Description": "MOM Svcs Ctr"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "60221",
+            "Longitude": 103.87081431318353,
+            "Latitude": 1.32212380559601,
+            "RoadName": "Geylang Bahru",
+            "Description": "BLK 73/GEYLANG BAHRU STN"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "80291",
+            "Longitude": 103.87229334189442,
+            "Latitude": 1.3195596877041,
+            "RoadName": "Geylang Bahru",
+            "Description": "Blk 82"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "80301",
+            "Longitude": 103.87348616263843,
+            "Latitude": 1.31643329020681,
+            "RoadName": "Upp Boon Keng Rd",
+            "Description": "Bef Blk 19"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "80311",
+            "Longitude": 103.87260027800174,
+            "Latitude": 1.31443333298525,
+            "RoadName": "Upp Boon Keng Rd",
+            "Description": "Blk 3B"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "80109",
+            "Longitude": 103.871430158598,
+            "Latitude": 1.31324473748019,
+            "RoadName": "Lor 1 Geylang",
+            "Description": "Opp Kallang Stn/Blk 2C"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "80009",
+            "Longitude": 103.87216341433337,
+            "Latitude": 1.3111642220841,
+            "RoadName": "Lor 1 Geylang",
+            "Description": "Lor 1 Geylang Ter (Last Stop)"
+        }
+    ]
+}

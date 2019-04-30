@@ -1,0 +1,108 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52371",
+            "Longitude": 103.85651585657361,
+            "Latitude": 1.33992964917756,
+            "RoadName": "Lor 8 Toa Payoh",
+            "Description": "First Toa Payoh Pr Sch"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "52381",
+            "Longitude": 103.8583063045366,
+            "Latitude": 1.33988664001033,
+            "RoadName": "Lor 8 Toa Payoh",
+            "Description": "Braddell Tech Bldg"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "52391",
+            "Longitude": 103.8598834966415,
+            "Latitude": 1.3376513888146,
+            "RoadName": "Lor 8 Toa Payoh",
+            "Description": "Opp Blk 231"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "52481",
+            "Longitude": 103.85859277800392,
+            "Latitude": 1.33524833301564,
+            "RoadName": "Lor 8 Toa Payoh",
+            "Description": "Toa Payoh Polyclinic"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "52319",
+            "Longitude": 103.85712611102798,
+            "Latitude": 1.33412138901702,
+            "RoadName": "Toa Payoh East",
+            "Description": "Blk 25"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "52331",
+            "Longitude": 103.85581029367948,
+            "Latitude": 1.33246306626276,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 27"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "52261",
+            "Longitude": 103.85128140448401,
+            "Latitude": 1.33403167346972,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Opp Blk 73"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "52271",
+            "Longitude": 103.84974718092391,
+            "Latitude": 1.33683113907107,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Jackson Sq"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "52369",
+            "Longitude": 103.85273333299853,
+            "Latitude": 1.34001833298065,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 237"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "03223",
+            "Longitude": 103.84632468221952,
+            "Latitude": 1.2757033952327,
+            "RoadName": "Anson Rd",
+            "Description": "Intl Plaza"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "03151",
+            "Longitude": 103.84776234627124,
+            "Latitude": 1.27892124625262,
+            "RoadName": "Cecil St",
+            "Description": "Opp GB Bldg"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "03021",
+            "Longitude": 103.84998903789258,
+            "Latitude": 1.28255524603003,
+            "RoadName": "Cecil St",
+            "Description": "Prudential Twr"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        }
+    ]
+}

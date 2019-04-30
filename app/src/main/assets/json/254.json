@@ -1,0 +1,260 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "24009",
+            "Longitude": 103.67839791240787,
+            "Latitude": 1.32697254709069,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Int (First Stop)"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "23519",
+            "Longitude": 103.6793660000188,
+            "Latitude": 1.32479352408668,
+            "RoadName": "Benoi Rd",
+            "Description": "Opp FairPrice Hub"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "23239",
+            "Longitude": 103.67513000000729,
+            "Latitude": 1.30916000001419,
+            "RoadName": "Pioneer Rd",
+            "Description": "Opp Keppel Logistics"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "23229",
+            "Longitude": 103.67180644651505,
+            "Latitude": 1.30868757581216,
+            "RoadName": "Pioneer Rd",
+            "Description": "Opp Gul Way"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "24339",
+            "Longitude": 103.66899333300486,
+            "Latitude": 1.30840666698801,
+            "RoadName": "Pioneer Rd",
+            "Description": "Hong Hang Bldg"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "24679",
+            "Longitude": 103.6612549652211,
+            "Latitude": 1.30929393064989,
+            "RoadName": "Pioneer Rd",
+            "Description": "Opp Hiap Teck Metal Co"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "24689",
+            "Longitude": 103.65889588893424,
+            "Latitude": 1.31152436181276,
+            "RoadName": "Pioneer Rd",
+            "Description": "Jurong Insp Ctr"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "24699",
+            "Longitude": 103.65690250002406,
+            "Latitude": 1.31345305601187,
+            "RoadName": "Pioneer Rd",
+            "Description": "Bef Tuas Rd"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "24601",
+            "Longitude": 103.65486500001047,
+            "Latitude": 1.31333999996651,
+            "RoadName": "Tuas Rd",
+            "Description": "Progress Galvanizing"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "24611",
+            "Longitude": 103.65254056553094,
+            "Latitude": 1.31085562935941,
+            "RoadName": "Tuas Rd",
+            "Description": "Bef Marinteknik"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "24621",
+            "Longitude": 103.64977944402521,
+            "Latitude": 1.30797138899535,
+            "RoadName": "Tuas Rd",
+            "Description": "Aft Ocean Tanker"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "24629",
+            "Longitude": 103.65015527797974,
+            "Latitude": 1.3085113890287,
+            "RoadName": "Tuas Rd",
+            "Description": "Opp Ocean Tanker"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "24619",
+            "Longitude": 103.65260471956782,
+            "Latitude": 1.31113971951498,
+            "RoadName": "Tuas Rd",
+            "Description": "Opp Marinteknik"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "24609",
+            "Longitude": 103.65475166394909,
+            "Latitude": 1.3134310373537,
+            "RoadName": "Tuas Rd",
+            "Description": "Opp Progress Galvanizing"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "25821",
+            "Longitude": 103.652589,
+            "Latitude": 1.317492,
+            "RoadName": "Pioneer Rd",
+            "Description": "TUAS AMENITY CTR"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "24709",
+            "Longitude": 103.649026,
+            "Latitude": 1.32089,
+            "RoadName": "Pioneer Rd",
+            "Description": "TUAS CRES STN EXIT A"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "25691",
+            "Longitude": 103.639669,
+            "Latitude": 1.328519,
+            "RoadName": "Tuas Ave 20",
+            "Description": "AFT TUAS WEST RD STN"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "26141",
+            "Longitude": 103.6402558570377,
+            "Latitude": 1.32668624650782,
+            "RoadName": "Tuas Ave 11",
+            "Description": "Smarty"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "26151",
+            "Longitude": 103.64252271521323,
+            "Latitude": 1.32452998769194,
+            "RoadName": "Tuas Ave 11",
+            "Description": "Opp Hempel"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "26161",
+            "Longitude": 103.6448005401494,
+            "Latitude": 1.32238325656852,
+            "RoadName": "Tuas Ave 11",
+            "Description": "3NC S'pore"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "26171",
+            "Longitude": 103.64712138903367,
+            "Latitude": 1.32013250000852,
+            "RoadName": "Tuas Ave 11",
+            "Description": "Richee Engrg"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "26131",
+            "Longitude": 103.64969999999403,
+            "Latitude": 1.31902277799591,
+            "RoadName": "Tuas Basin Link",
+            "Description": "Aft Tuas Cres"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "26121",
+            "Longitude": 103.65136419209274,
+            "Latitude": 1.31736840181558,
+            "RoadName": "Tuas Basin Link",
+            "Description": "Bef Tuas Amenity Ctr"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "26111",
+            "Longitude": 103.6542583329887,
+            "Latitude": 1.31464305600075,
+            "RoadName": "Tuas Basin Link",
+            "Description": "Tru-Marine"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "24691",
+            "Longitude": 103.65712805602769,
+            "Latitude": 1.31344500002083,
+            "RoadName": "Pioneer Rd",
+            "Description": "Aft Tuas Rd"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "24681",
+            "Longitude": 103.65863348470843,
+            "Latitude": 1.31200874931979,
+            "RoadName": "Pioneer Rd",
+            "Description": "Opp Jurong Insp Ctr"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "24671",
+            "Longitude": 103.66123000003104,
+            "Latitude": 1.30957805602715,
+            "RoadName": "Pioneer Rd",
+            "Description": "Hiap Teck Metal Co"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "24331",
+            "Longitude": 103.66868333299611,
+            "Latitude": 1.30854833300657,
+            "RoadName": "Pioneer Rd",
+            "Description": "Opp Hong Hang Bldg"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "23221",
+            "Longitude": 103.67178095052478,
+            "Latitude": 1.30896659624814,
+            "RoadName": "Pioneer Rd",
+            "Description": "Aft Gul Way"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "23231",
+            "Longitude": 103.67491833296833,
+            "Latitude": 1.30926499998419,
+            "RoadName": "Pioneer Rd",
+            "Description": "Keppel Logistics"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "23371",
+            "Longitude": 103.6790814673288,
+            "Latitude": 1.32595445317751,
+            "RoadName": "Benoi Rd",
+            "Description": "Bef Joo Koon Int"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "24009",
+            "Longitude": 103.67839791240787,
+            "Latitude": 1.32697254709069,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Int (Last Stop)"
+        }
+    ]
+}

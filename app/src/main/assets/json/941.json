@@ -1,0 +1,156 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "43419",
+            "Longitude": 103.74998784769572,
+            "Latitude": 1.35155523613685,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Blk 628"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "43399",
+            "Longitude": 103.74808875836682,
+            "Latitude": 1.35066714575721,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Opp Blk 120"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "43389",
+            "Longitude": 103.74834299093746,
+            "Latitude": 1.34760499094973,
+            "RoadName": "Bt Batok Ave 1",
+            "Description": "Opp Blk 102"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "43379",
+            "Longitude": 103.74518662694207,
+            "Latitude": 1.34716553724092,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Blk 185"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "43369",
+            "Longitude": 103.7435831,
+            "Latitude": 1.34688,
+            "RoadName": "Bt Batok West Ave 8",
+            "Description": "Blk 183"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "43359",
+            "Longitude": 103.7410811,
+            "Latitude": 1.346931944,
+            "RoadName": "Bt Batok West Ave 8",
+            "Description": "Blk 169"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "40321",
+            "Longitude": 103.7394739,
+            "Latitude": 1.3517425,
+            "RoadName": "Bt Batok West Ave 8",
+            "Description": "Dulwich College"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "40341",
+            "Longitude": 103.7389014,
+            "Latitude": 1.354623611,
+            "RoadName": "Bt Batok West Ave 8",
+            "Description": "Bef Blk 440A"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "40359",
+            "Longitude": 103.74090581028908,
+            "Latitude": 1.35540218970451,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Opp Blk 461C"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "40339",
+            "Longitude": 103.7408789,
+            "Latitude": 1.353471944,
+            "RoadName": "Bukit Batok West Avenue 9",
+            "Description": "Blk 448B"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "40329",
+            "Longitude": 103.73962,
+            "Latitude": 1.3509675,
+            "RoadName": "Bt Batok West Ave 8",
+            "Description": "Millennia Institute"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "43351",
+            "Longitude": 103.7411014207074,
+            "Latitude": 1.34701122644751,
+            "RoadName": "Bt Batok West Ave 8",
+            "Description": "Blk 168"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "43361",
+            "Longitude": 103.74343203545553,
+            "Latitude": 1.3469143511774,
+            "RoadName": "Bt Batok West Ave 8",
+            "Description": "Blk 154A"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "43371",
+            "Longitude": 103.74590277613717,
+            "Latitude": 1.34682313984594,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "43381",
+            "Longitude": 103.74766049075139,
+            "Latitude": 1.34696555762849,
+            "RoadName": "Bt Batok Ave 1",
+            "Description": "Blk 102"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "43391",
+            "Longitude": 103.7477975366473,
+            "Latitude": 1.34989395166691,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok CC"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "43411",
+            "Longitude": 103.75019891787089,
+            "Latitude": 1.35176519952681,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Opp Blk 628"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int (Last Stop)"
+        }
+    ]
+}

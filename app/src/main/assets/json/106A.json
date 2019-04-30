@@ -1,0 +1,100 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "43179",
+            "Longitude": 103.75430345301592,
+            "Latitude": 1.3489707828044,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 231"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "43189",
+            "Longitude": 103.75681389918313,
+            "Latitude": 1.34694984968785,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 283"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "43619",
+            "Longitude": 103.75861329619691,
+            "Latitude": 1.34406411828167,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 289E"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "43629",
+            "Longitude": 103.75915813592935,
+            "Latitude": 1.34240810773422,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Yusof Ishak Sec Sch"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "42319",
+            "Longitude": 103.76043841269879,
+            "Latitude": 1.33915373900693,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Burgundy Hill"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "28109",
+            "Longitude": 103.7593317971408,
+            "Latitude": 1.33327344230787,
+            "RoadName": "Toh Tuck Ave",
+            "Description": "SMRT Ulu Pandan Depot"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "28189",
+            "Longitude": 103.75850603827898,
+            "Latitude": 1.32992124735954,
+            "RoadName": "Toh Tuck Ave",
+            "Description": "Aft Toh Tuck Link"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "28019",
+            "Longitude": 103.75894333173954,
+            "Latitude": 1.32492720506757,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Aft Toh Tuck Ave"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "20109",
+            "Longitude": 103.76206999856427,
+            "Latitude": 1.32085220079341,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 203"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "17189",
+            "Longitude": 103.76406408827933,
+            "Latitude": 1.31790502165515,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 317"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "17179",
+            "Longitude": 103.76536000516927,
+            "Latitude": 1.31528191560846,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Clementi Stn"
+        }
+    ]
+}

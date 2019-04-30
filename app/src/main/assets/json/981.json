@@ -1,0 +1,342 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "58009",
+            "Longitude": 103.81941391689068,
+            "Latitude": 1.44748179252514,
+            "RoadName": "Sembawang Vista",
+            "Description": "Sembawang Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "58259",
+            "Longitude": 103.81895151565973,
+            "Latitude": 1.44777267175187,
+            "RoadName": "Sembawang Dr",
+            "Description": "Opp Sun Plaza"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "58219",
+            "Longitude": 103.8199297231716,
+            "Latitude": 1.44953463697186,
+            "RoadName": "Sembawang Way",
+            "Description": "Opp Sembawang Stn"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "58111",
+            "Longitude": 103.82075231895968,
+            "Latitude": 1.45096272310028,
+            "RoadName": "Canberra Rd",
+            "Description": "Blk 351 CP"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "58121",
+            "Longitude": 103.81929476185202,
+            "Latitude": 1.45329115486737,
+            "RoadName": "Canberra Rd",
+            "Description": "Blk 424A CP"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "58131",
+            "Longitude": 103.82045999997707,
+            "Latitude": 1.4562533329966,
+            "RoadName": "Canberra Rd",
+            "Description": "Aft Assyafaah Mque"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "58169",
+            "Longitude": 103.82092447388442,
+            "Latitude": 1.45978696349073,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Aft HomeTeamNS Sembawang Resort"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "58149",
+            "Longitude": 103.81788921693168,
+            "Latitude": 1.46190359169667,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Opp Sembawang Shipyard G 8"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "47809",
+            "Longitude": 103.813587498325,
+            "Latitude": 1.46379183832972,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Opp Sunshine Bakery"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "47119",
+            "Longitude": 103.81068004378777,
+            "Latitude": 1.46646104980927,
+            "RoadName": "Senoko Ave",
+            "Description": "Aft Senoko Way"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "47109",
+            "Longitude": 103.80861861101391,
+            "Latitude": 1.46608416701086,
+            "RoadName": "Senoko Dr",
+            "Description": "MAXSTEEL ENTERPRISE"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "47099",
+            "Longitude": 103.80510799306495,
+            "Latitude": 1.463811865797,
+            "RoadName": "Senoko Dr",
+            "Description": "MASTERDON"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "47121",
+            "Longitude": 103.80278498662895,
+            "Latitude": 1.46371324914732,
+            "RoadName": "Senoko Rd",
+            "Description": "Opp Lian Aik Siong Machinery"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "47131",
+            "Longitude": 103.80222436305644,
+            "Latitude": 1.46664224303828,
+            "RoadName": "Senoko Rd",
+            "Description": "Fuji Oil S'Pore"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "47141",
+            "Longitude": 103.80367776966509,
+            "Latitude": 1.46756958848835,
+            "RoadName": "Senoko Rd",
+            "Description": "Bef Sc Auto"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "47151",
+            "Longitude": 103.80397260190183,
+            "Latitude": 1.46627333237122,
+            "RoadName": "Senoko Rd",
+            "Description": "Aft Scania S'Pore"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "47129",
+            "Longitude": 103.8029823843495,
+            "Latitude": 1.46369329324947,
+            "RoadName": "Senoko Rd",
+            "Description": "Lian Aik Siong Machinery"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "47169",
+            "Longitude": 103.80059733131966,
+            "Latitude": 1.46092504799029,
+            "RoadName": "Senoko Dr",
+            "Description": "CHUAN LIM CONSTRN"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "47179",
+            "Longitude": 103.79880737870576,
+            "Latitude": 1.45828424831176,
+            "RoadName": "Senoko Loop",
+            "Description": "Comfortdelgro Engrg"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "47189",
+            "Longitude": 103.80129287195832,
+            "Latitude": 1.45900316740952,
+            "RoadName": "Senoko Loop",
+            "Description": "K.U.S. Holdings"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "47199",
+            "Longitude": 103.80266128022876,
+            "Latitude": 1.46123583610566,
+            "RoadName": "Senoko Loop",
+            "Description": "Bef Senoko Dr"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "47121",
+            "Longitude": 103.80278498662895,
+            "Latitude": 1.46371324914732,
+            "RoadName": "Senoko Rd",
+            "Description": "Opp Lian Aik Siong Machinery"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "47131",
+            "Longitude": 103.80222436305644,
+            "Latitude": 1.46664224303828,
+            "RoadName": "Senoko Rd",
+            "Description": "Fuji Oil S'Pore"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "47141",
+            "Longitude": 103.80367776966509,
+            "Latitude": 1.46756958848835,
+            "RoadName": "Senoko Rd",
+            "Description": "Bef Sc Auto"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "47151",
+            "Longitude": 103.80397260190183,
+            "Latitude": 1.46627333237122,
+            "RoadName": "Senoko Rd",
+            "Description": "Aft Scania S'Pore"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "47129",
+            "Longitude": 103.8029823843495,
+            "Latitude": 1.46369329324947,
+            "RoadName": "Senoko Rd",
+            "Description": "Lian Aik Siong Machinery"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "47169",
+            "Longitude": 103.80059733131966,
+            "Latitude": 1.46092504799029,
+            "RoadName": "Senoko Dr",
+            "Description": "CHUAN LIM CONSTRN"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "47179",
+            "Longitude": 103.79880737870576,
+            "Latitude": 1.45828424831176,
+            "RoadName": "Senoko Loop",
+            "Description": "Comfortdelgro Engrg"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "47189",
+            "Longitude": 103.80129287195832,
+            "Latitude": 1.45900316740952,
+            "RoadName": "Senoko Loop",
+            "Description": "K.U.S. Holdings"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "47199",
+            "Longitude": 103.80266128022876,
+            "Latitude": 1.46123583610566,
+            "RoadName": "Senoko Loop",
+            "Description": "Bef Senoko Dr"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "47091",
+            "Longitude": 103.80602561139148,
+            "Latitude": 1.4645966256977,
+            "RoadName": "Senoko Dr",
+            "Description": "Bef Senoko Cres"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "47101",
+            "Longitude": 103.8090658329841,
+            "Latitude": 1.46653722200693,
+            "RoadName": "Senoko Dr",
+            "Description": "Aft Senoko Ave"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "47111",
+            "Longitude": 103.81100178837575,
+            "Latitude": 1.46619184828781,
+            "RoadName": "Senoko Ave",
+            "Description": "Bef Senoko Way"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "47801",
+            "Longitude": 103.8129834777538,
+            "Latitude": 1.46417400978934,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Sunshine Bakery"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "58141",
+            "Longitude": 103.81653183057891,
+            "Latitude": 1.463365158306,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Sembawang Camp"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "58161",
+            "Longitude": 103.82037350350512,
+            "Latitude": 1.46052755709037,
+            "RoadName": "Admiralty Rd West",
+            "Description": "Bef Sembawang Shipyard G 3"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "58139",
+            "Longitude": 103.82074569870127,
+            "Latitude": 1.45637564424183,
+            "RoadName": "Canberra Rd",
+            "Description": "Bef Assyafaah Mque"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "58129",
+            "Longitude": 103.8198821920911,
+            "Latitude": 1.45284216119403,
+            "RoadName": "Canberra Rd",
+            "Description": "Blk 508 CP"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "58119",
+            "Longitude": 103.82102323159111,
+            "Latitude": 1.45099925490468,
+            "RoadName": "Canberra Rd",
+            "Description": "Blk 502A"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "58211",
+            "Longitude": 103.81979401898032,
+            "Latitude": 1.44926202582359,
+            "RoadName": "Sembawang Way",
+            "Description": "Sembawang Stn"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "58251",
+            "Longitude": 103.81895207486829,
+            "Latitude": 1.44803148822713,
+            "RoadName": "Sembawang Dr",
+            "Description": "Sun Plaza"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "58009",
+            "Longitude": 103.81941391689068,
+            "Latitude": 1.44748179252514,
+            "RoadName": "Sembawang Vista",
+            "Description": "Sembawang Int"
+        }
+    ]
+}

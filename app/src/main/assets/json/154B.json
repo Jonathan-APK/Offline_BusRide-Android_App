@@ -1,0 +1,84 @@
+{
+    "direction 1": [
+        {
+            "Distance": 11,
+            "BusStopCode": "17179",
+            "Longitude": 103.76536000516927,
+            "Latitude": 1.31528191560846,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Clementi Stn"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "17169",
+            "Longitude": 103.76679666702314,
+            "Latitude": 1.31284527799656,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 329"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "17159",
+            "Longitude": 103.7698144,
+            "Latitude": 1.311975556,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 365"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "17101",
+            "Longitude": 103.77179195235537,
+            "Latitude": 1.31487473157856,
+            "RoadName": "Clementi Rd",
+            "Description": "Blk 352"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "17111",
+            "Longitude": 103.77124639148465,
+            "Latitude": 1.31779809827118,
+            "RoadName": "Clementi Rd",
+            "Description": "Blk 343"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "12061",
+            "Longitude": 103.77087339859139,
+            "Latitude": 1.32178500189496,
+            "RoadName": "Clementi Rd",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "12071",
+            "Longitude": 103.77219388896603,
+            "Latitude": 1.32402249998323,
+            "RoadName": "Clementi Rd",
+            "Description": "Blk 116"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "12081",
+            "Longitude": 103.77543,
+            "Latitude": 1.326468056,
+            "RoadName": "Clementi Rd",
+            "Description": "Maju Camp"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "12091",
+            "Longitude": 103.7771471166854,
+            "Latitude": 1.32918315486756,
+            "RoadName": "Clementi Rd",
+            "Description": "SIM HQ"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "12101",
+            "Longitude": 103.77768506316727,
+            "Latitude": 1.33243896358504,
+            "RoadName": "Clementi Rd",
+            "Description": "Ngee Ann Poly"
+        }
+    ]
+}

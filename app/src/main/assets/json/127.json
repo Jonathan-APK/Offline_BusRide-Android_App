@@ -1,0 +1,172 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "76529",
+            "Longitude": 103.9405089,
+            "Latitude": 1.357528889,
+            "RoadName": "Tampines Concourse",
+            "Description": "BLK 519A"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "76519",
+            "Longitude": 103.93921870101352,
+            "Latitude": 1.35920624506603,
+            "RoadName": "Tampines Concourse",
+            "Description": "BET BLKS 524B/523D"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "75271",
+            "Longitude": 103.93601495043112,
+            "Latitude": 1.36024833439953,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 721"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "75281",
+            "Longitude": 103.93363809095122,
+            "Latitude": 1.36022789260467,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 742A"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "75291",
+            "Longitude": 103.93076720725303,
+            "Latitude": 1.36149182194897,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft Tampines Ave 9"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "75311",
+            "Longitude": 103.93078207971784,
+            "Latitude": 1.36707803417357,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Tampines Dormitory"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "75361",
+            "Longitude": 103.93030234430374,
+            "Latitude": 1.3706441545828,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ind Ave 5"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "75381",
+            "Longitude": 103.9266,
+            "Latitude": 1.373188889,
+            "RoadName": "Tampines Ind Ave 5",
+            "Description": "T5@TAMPINES"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "75391",
+            "Longitude": 103.9213,
+            "Latitude": 1.37507,
+            "RoadName": "Tampines Ind Ave 5",
+            "Description": "OPP SILTRONIC"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "74011",
+            "Longitude": 103.92045032835671,
+            "Latitude": 1.37329165833159,
+            "RoadName": "Tampines Rd",
+            "Description": "Aft Tampines Ind Ave 5"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "74021",
+            "Longitude": 103.92278161130189,
+            "Latitude": 1.37042803443167,
+            "RoadName": "Tampines Rd",
+            "Description": "Bef Tampines Ind Ave 4"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "74031",
+            "Longitude": 103.92648611289407,
+            "Latitude": 1.36753470077913,
+            "RoadName": "Tampines Rd",
+            "Description": "Aft Jln Sam Kong Si"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "74041",
+            "Longitude": 103.92978611099927,
+            "Latitude": 1.36850444400102,
+            "RoadName": "Tampines Link",
+            "Description": "Opp Golden Pagoda Tp"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "75319",
+            "Longitude": 103.93106194445039,
+            "Latitude": 1.36720805556001,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp Tampines Dormitory"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "75299",
+            "Longitude": 103.93106617032824,
+            "Latitude": 1.36239101738996,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ave 9"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "75289",
+            "Longitude": 103.93331674675824,
+            "Latitude": 1.36045667202312,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Opp Blks 741/742"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "75279",
+            "Longitude": 103.93620400344062,
+            "Latitude": 1.3604749400553,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Opp Blk 721"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "76511",
+            "Longitude": 103.93942626783013,
+            "Latitude": 1.35940728864246,
+            "RoadName": "Tampines Concourse",
+            "Description": "THE TAMPINES TRILLIANT"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "76521",
+            "Longitude": 103.940775,
+            "Latitude": 1.357468889,
+            "RoadName": "Tampines Concourse",
+            "Description": "OPP BLK 519A"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (Last Stop)"
+        }
+    ]
+}

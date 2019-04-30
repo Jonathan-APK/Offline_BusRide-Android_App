@@ -1,0 +1,124 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "64449",
+            "Longitude": 103.88860666697411,
+            "Latitude": 1.37973333296925,
+            "RoadName": "Hougang St 51",
+            "Description": "Opp Hougang G. Shop Mall"
+        },
+        {
+            "Distance": 0.2,
+            "BusStopCode": "64439",
+            "Longitude": 103.88952155230182,
+            "Latitude": 1.3779797322129,
+            "RoadName": "Hougang St 51",
+            "Description": "Blk 537"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "64609",
+            "Longitude": 103.884701388976,
+            "Latitude": 1.37595638900393,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 687"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "64479",
+            "Longitude": 103.88353995121632,
+            "Latitude": 1.374401340713,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Blk 665"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "64489",
+            "Longitude": 103.88067688397112,
+            "Latitude": 1.37488764981722,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Blk 946A"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "64499",
+            "Longitude": 103.87828864496953,
+            "Latitude": 1.3748828566071,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Regentville"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "66439",
+            "Longitude": 103.87551294197841,
+            "Latitude": 1.37393762072692,
+            "RoadName": "S'goon Nth Ave 4",
+            "Description": "Blk 504A CP"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "66429",
+            "Longitude": 103.87243744452265,
+            "Latitude": 1.37352182697727,
+            "RoadName": "S'goon Nth Ave 4",
+            "Description": "Blk 530"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "66349",
+            "Longitude": 103.86541771672718,
+            "Latitude": 1.37082760014108,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Daikin S'pore"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "54309",
+            "Longitude": 103.86306604022437,
+            "Latitude": 1.36988835306854,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Blk 5022"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "05129",
+            "Longitude": 103.84634666701143,
+            "Latitude": 1.28601166699569,
+            "RoadName": "Upp Pickering St",
+            "Description": "Hong Lim Pk"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "05319",
+            "Longitude": 103.84908685850282,
+            "Latitude": 1.28449667301849,
+            "RoadName": "Church St",
+            "Description": "OCBC Ctr"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "03217",
+            "Longitude": 103.8479443674916,
+            "Latitude": 1.27552218897645,
+            "RoadName": "Shenton Way",
+            "Description": "Opp AXA Twr"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        }
+    ]
+}

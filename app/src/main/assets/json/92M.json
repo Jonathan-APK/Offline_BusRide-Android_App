@@ -1,0 +1,172 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "11009",
+            "Longitude": 103.78932237623975,
+            "Latitude": 1.3110673548964,
+            "RoadName": "Ghim Moh Rd",
+            "Description": "Ghim Moh Ter (First Stop)"
+        },
+        {
+            "Distance": 0.2,
+            "BusStopCode": "11359",
+            "Longitude": 103.78968608347117,
+            "Latitude": 1.30931022636473,
+            "RoadName": "Ghim Moh Rd",
+            "Description": "Opp Blk 13"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "11369",
+            "Longitude": 103.79084827741467,
+            "Latitude": 1.3063259638605,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Stn Exit D"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "18149",
+            "Longitude": 103.78724143833315,
+            "Latitude": 1.30253001117245,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Opp Anglo-Chinese JC"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "18141",
+            "Longitude": 103.78788091438994,
+            "Latitude": 1.30418279677397,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Aft Anglo-Chinese JC"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "11361",
+            "Longitude": 103.79058123542397,
+            "Latitude": 1.30649698638726,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Stn Exit C"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "11351",
+            "Longitude": 103.78945112775229,
+            "Latitude": 1.30934571218561,
+            "RoadName": "Ghim Moh Rd",
+            "Description": "Blk 13"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "12121",
+            "Longitude": 103.7871516670319,
+            "Latitude": 1.31164833301814,
+            "RoadName": "Ghim Moh Rd",
+            "Description": "Blk 7"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "12131",
+            "Longitude": 103.785061666981,
+            "Latitude": 1.3141594439742,
+            "RoadName": "Mt Sinai Rd",
+            "Description": "Aft Grove Ave"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "12141",
+            "Longitude": 103.78239154819083,
+            "Latitude": 1.31574389841394,
+            "RoadName": "Mt Sinai Rd",
+            "Description": "Opp Henry Pk"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "12211",
+            "Longitude": 103.78070712088581,
+            "Latitude": 1.31721336095462,
+            "RoadName": "Mt Sinai Dr",
+            "Description": "Bef Mt Sinai Wk"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "12151",
+            "Longitude": 103.78127574919664,
+            "Latitude": 1.31865064467378,
+            "RoadName": "Moonbeam Walk",
+            "Description": "Bef Moonbeam Terr"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "12031",
+            "Longitude": 103.7796285552172,
+            "Latitude": 1.3208008510991,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Pandan Valley Condo"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "12169",
+            "Longitude": 103.77724170687915,
+            "Latitude": 1.31916549240365,
+            "RoadName": "Pandan Valley",
+            "Description": "Pandan Valley"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "12179",
+            "Longitude": 103.7769949436126,
+            "Latitude": 1.31679504687757,
+            "RoadName": "Mt Sinai Rise",
+            "Description": "Montview"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "12199",
+            "Longitude": 103.77820622498255,
+            "Latitude": 1.31547998901343,
+            "RoadName": "Mt Sinai Rise",
+            "Description": "Opp Village Twr"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "12189",
+            "Longitude": 103.78022402243116,
+            "Latitude": 1.31642693680141,
+            "RoadName": "Mt Sinai Rise",
+            "Description": "Bef Mt Sinai Dr"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "12149",
+            "Longitude": 103.78266099158458,
+            "Latitude": 1.31576900455367,
+            "RoadName": "Mt Sinai Rd",
+            "Description": "Henry Pk"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "12139",
+            "Longitude": 103.78504157068625,
+            "Latitude": 1.31453185933289,
+            "RoadName": "Mt Sinai Rd",
+            "Description": "Aft Mt Sinai Lane"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "12129",
+            "Longitude": 103.78732611099163,
+            "Latitude": 1.31182111096862,
+            "RoadName": "Ghim Moh Rd",
+            "Description": "Blk 3"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "11009",
+            "Longitude": 103.78932237623975,
+            "Latitude": 1.3110673548964,
+            "RoadName": "Ghim Moh Rd",
+            "Description": "Ghim Moh Ter (Last Stop)"
+        }
+    ]
+}

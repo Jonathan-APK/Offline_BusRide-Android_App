@@ -1,0 +1,68 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "43701",
+            "Longitude": 103.75201666213025,
+            "Latitude": 1.34847060052694,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Blk 225"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "43389",
+            "Longitude": 103.74834299093746,
+            "Latitude": 1.34760499094973,
+            "RoadName": "Bt Batok Ave 1",
+            "Description": "Opp Blk 102"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "43519",
+            "Longitude": 103.74835776931137,
+            "Latitude": 1.34527424103226,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Opp Bt Batok Swim Cplx"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "43599",
+            "Longitude": 103.75190146961904,
+            "Latitude": 1.34513161798285,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Bt View Sec Sch"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "43509",
+            "Longitude": 103.75436398130816,
+            "Latitude": 1.34359093090915,
+            "RoadName": "Bt Batok St 23",
+            "Description": "Blk 291E"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "43219",
+            "Longitude": 103.75446757134857,
+            "Latitude": 1.3413740257309,
+            "RoadName": "Bt Batok St 23",
+            "Description": "Opp Sbst Bt Batok Depot"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "43319",
+            "Longitude": 103.7574111060431,
+            "Latitude": 1.33972179277053,
+            "RoadName": "Bt Batok St 23",
+            "Description": "Opp Midview Bldg"
+        }
+    ]
+}

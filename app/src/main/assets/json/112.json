@@ -1,0 +1,380 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "64041",
+            "Longitude": 103.89535999996711,
+            "Latitude": 1.37016500002901,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "The Midtown"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "64051",
+            "Longitude": 103.89777362456783,
+            "Latitude": 1.37239666924933,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 465A"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "64329",
+            "Longitude": 103.90067635112096,
+            "Latitude": 1.37240520198465,
+            "RoadName": "Hougang Ave 7",
+            "Description": "Rio Vista"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "64319",
+            "Longitude": 103.90037616571983,
+            "Latitude": 1.36984558380582,
+            "RoadName": "Hougang Ave 7",
+            "Description": "Opp Blk 344"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "64309",
+            "Longitude": 103.89926444088415,
+            "Latitude": 1.3670813438207,
+            "RoadName": "Hougang Ave 7",
+            "Description": "Opp Blk 321"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "64239",
+            "Longitude": 103.89682349089492,
+            "Latitude": 1.36439805444874,
+            "RoadName": "Hougang Ave 7",
+            "Description": "Opp Blk 316"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "64209",
+            "Longitude": 103.89452504836862,
+            "Latitude": 1.36146974234447,
+            "RoadName": "Tampines Rd",
+            "Description": "Aft Defu Ave 1"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "63139",
+            "Longitude": 103.8914116670026,
+            "Latitude": 1.36120166702627,
+            "RoadName": "Tampines Rd",
+            "Description": "Aft En-Naeem Mque"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "63239",
+            "Longitude": 103.8878789953328,
+            "Latitude": 1.35891911967242,
+            "RoadName": "Hougang St 21",
+            "Description": "OPP BLK 211"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "63229",
+            "Longitude": 103.88511923530164,
+            "Latitude": 1.35757166659958,
+            "RoadName": "Hougang St 21",
+            "Description": "Kovan Sports Ctr"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "63031",
+            "Longitude": 103.88535194446017,
+            "Latitude": 1.36050444441455,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit B"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "63041",
+            "Longitude": 103.88754805602413,
+            "Latitude": 1.36259166703136,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Glad Tidings Ch"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "63051",
+            "Longitude": 103.8891427848695,
+            "Latitude": 1.36415166798646,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Serangoon JC"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "63349",
+            "Longitude": 103.88923358520269,
+            "Latitude": 1.36687207146588,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 708"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "63339",
+            "Longitude": 103.88451259380585,
+            "Latitude": 1.36811854812783,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 615"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "63329",
+            "Longitude": 103.882008479663,
+            "Latitude": 1.36862870083779,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 627"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "63391",
+            "Longitude": 103.88018734514235,
+            "Latitude": 1.3708774514093,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 639"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "63381",
+            "Longitude": 103.88239574095121,
+            "Latitude": 1.37095163322641,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Xinmin Pr Sch"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "63371",
+            "Longitude": 103.88514405987183,
+            "Latitude": 1.37115666339413,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 679"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "64411",
+            "Longitude": 103.88503406200056,
+            "Latitude": 1.37353273194871,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 670"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "64479",
+            "Longitude": 103.88353995121632,
+            "Latitude": 1.374401340713,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Blk 665"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "64489",
+            "Longitude": 103.88067688397112,
+            "Latitude": 1.37488764981722,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Blk 946A"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "64509",
+            "Longitude": 103.87882971768626,
+            "Latitude": 1.37423994629457,
+            "RoadName": "Hougang St 92",
+            "Description": "Blk 941A"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "64519",
+            "Longitude": 103.88110955631065,
+            "Latitude": 1.37380837246167,
+            "RoadName": "Hougang St 92",
+            "Description": "Blk 943"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "64471",
+            "Longitude": 103.8839677779891,
+            "Latitude": 1.37454805598778,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Blk 917"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "64419",
+            "Longitude": 103.88521854859373,
+            "Latitude": 1.37339164793235,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 681"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "63379",
+            "Longitude": 103.88521000000019,
+            "Latitude": 1.37079666702428,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 608"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "63389",
+            "Longitude": 103.882445169636,
+            "Latitude": 1.37063835467565,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Opp Xinmin Pr Sch"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "63399",
+            "Longitude": 103.8802849999831,
+            "Latitude": 1.37022333300436,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 632"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "63321",
+            "Longitude": 103.88132215113495,
+            "Latitude": 1.36913602302795,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 627"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "63331",
+            "Longitude": 103.88492703491212,
+            "Latitude": 1.36836866548657,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 615"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "63341",
+            "Longitude": 103.88882988119938,
+            "Latitude": 1.36751402871615,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 709"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "63059",
+            "Longitude": 103.88984149586426,
+            "Latitude": 1.36437667280221,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Serangoon JC"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "63049",
+            "Longitude": 103.88752277779692,
+            "Latitude": 1.36219166668854,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Glad Tidings Ch"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "63039",
+            "Longitude": 103.88538416663954,
+            "Latitude": 1.36026000003341,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit C"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "63221",
+            "Longitude": 103.8855063915276,
+            "Latitude": 1.35799327947024,
+            "RoadName": "Hougang St 21",
+            "Description": "KOVAN HUB"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "63231",
+            "Longitude": 103.88763070107527,
+            "Latitude": 1.35901223241231,
+            "RoadName": "Hougang St 21",
+            "Description": "Bet Blks 210/211"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "63131",
+            "Longitude": 103.89033109494885,
+            "Latitude": 1.36120884403234,
+            "RoadName": "Tampines Rd",
+            "Description": "THE TEMBUSU"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "64201",
+            "Longitude": 103.89420777799334,
+            "Latitude": 1.36172833297814,
+            "RoadName": "Tampines Rd",
+            "Description": "Aft Hougang Ave 3"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "64231",
+            "Longitude": 103.8968501202605,
+            "Latitude": 1.36479332441286,
+            "RoadName": "Hougang Ave 7",
+            "Description": "Blk 316"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "64301",
+            "Longitude": 103.89904601013104,
+            "Latitude": 1.36722334223088,
+            "RoadName": "Hougang Ave 7",
+            "Description": "Blk 325"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "64311",
+            "Longitude": 103.90023200745897,
+            "Latitude": 1.37014334916955,
+            "RoadName": "Hougang Ave 7",
+            "Description": "Blk 344"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "64321",
+            "Longitude": 103.90046238900685,
+            "Latitude": 1.37229075864076,
+            "RoadName": "Hougang Ave 7",
+            "Description": "Blk 350"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "64059",
+            "Longitude": 103.89837470452339,
+            "Latitude": 1.37249135705281,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 355"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "64049",
+            "Longitude": 103.89603248614272,
+            "Latitude": 1.3703713899857,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp The Midtown"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (Last Stop)"
+        }
+    ]
+}

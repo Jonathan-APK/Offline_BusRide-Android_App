@@ -1,0 +1,196 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "46281",
+            "Longitude": 103.79002589502426,
+            "Latitude": 1.43878695707764,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 825"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "46391",
+            "Longitude": 103.79299454006805,
+            "Latitude": 1.43921765358175,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 853"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "46401",
+            "Longitude": 103.79545806673289,
+            "Latitude": 1.44088595099083,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 864"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "46411",
+            "Longitude": 103.79441916127091,
+            "Latitude": 1.44270591766599,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 869"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "46461",
+            "Longitude": 103.79359661898341,
+            "Latitude": 1.44659598354815,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Opp Blk 757A CP"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "46471",
+            "Longitude": 103.79758820990358,
+            "Latitude": 1.44796931841747,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Opp Blk 773"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "46481",
+            "Longitude": 103.8011125258027,
+            "Latitude": 1.44964404178885,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Aft Woodlands Ind Pk E6"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "46731",
+            "Longitude": 103.8043021981092,
+            "Latitude": 1.44852127932275,
+            "RoadName": "Gambas Ave",
+            "Description": "Yew Huat Scaffolding Work"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "46741",
+            "Longitude": 103.80719269495765,
+            "Latitude": 1.44632701434368,
+            "RoadName": "Gambas Ave",
+            "Description": "Seagate"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "47621",
+            "Longitude": 103.80982770058664,
+            "Latitude": 1.44689218119453,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Aft Gambas Ave"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "58381",
+            "Longitude": 103.81337787352544,
+            "Latitude": 1.44797049342873,
+            "RoadName": "Sembawang Way",
+            "Description": "Blk 469B"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "58229",
+            "Longitude": 103.8168059210019,
+            "Latitude": 1.44875084068886,
+            "RoadName": "Sembawang Way",
+            "Description": "Blk 358A CP"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "58219",
+            "Longitude": 103.8199297231716,
+            "Latitude": 1.44953463697186,
+            "RoadName": "Sembawang Way",
+            "Description": "Opp Sembawang Stn"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "58159",
+            "Longitude": 103.82235611868522,
+            "Latitude": 1.44821708737482,
+            "RoadName": "Canberra Rd",
+            "Description": "Aft Admiral Hill"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "58109",
+            "Longitude": 103.82309298513003,
+            "Latitude": 1.44667607916689,
+            "RoadName": "Canberra Rd",
+            "Description": "Opp Blk 311"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "58029",
+            "Longitude": 103.82398509211036,
+            "Latitude": 1.44315919415772,
+            "RoadName": "Sembawang Rd",
+            "Description": "Aft Canberra Rd"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "58019",
+            "Longitude": 103.82473001883042,
+            "Latitude": 1.44085108816637,
+            "RoadName": "Sembawang Rd",
+            "Description": "Aft Sembawang Shop Ctr"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "57139",
+            "Longitude": 103.8255962797174,
+            "Latitude": 1.43795662145081,
+            "RoadName": "Sembawang Rd",
+            "Description": "Aft Jln Kemuning"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "57129",
+            "Longitude": 103.82641445936885,
+            "Latitude": 1.43418656873084,
+            "RoadName": "Sembawang Rd",
+            "Description": "Blk 114"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "57119",
+            "Longitude": 103.82688773076856,
+            "Latitude": 1.43130257113028,
+            "RoadName": "Sembawang Rd",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "59119",
+            "Longitude": 103.82794865433573,
+            "Latitude": 1.43037444021889,
+            "RoadName": "Yishun Ave 5",
+            "Description": "Opp Blk 701A"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "59149",
+            "Longitude": 103.83218000002928,
+            "Latitude": 1.43061861098729,
+            "RoadName": "Yishun Ave 5",
+            "Description": "Blk 145"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "59073",
+            "Longitude": 103.8354631,
+            "Latitude": 1.428686944,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Stn"
+        }
+    ]
+}

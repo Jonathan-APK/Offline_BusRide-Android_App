@@ -1,0 +1,726 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "10659",
+            "Longitude": 103.81472833301791,
+            "Latitude": 1.28362333298689,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Blk 1003"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "10101",
+            "Longitude": 103.81374366011399,
+            "Latitude": 1.28502568134889,
+            "RoadName": "Jln Bt Merah",
+            "Description": "OPP BT MERAH SEC SCH"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "10111",
+            "Longitude": 103.80935410958449,
+            "Latitude": 1.28592835098556,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Opp Blk 28"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "10131",
+            "Longitude": 103.80686549059318,
+            "Latitude": 1.28619141382394,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Opp Blk 2"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "11021",
+            "Longitude": 103.80228694398484,
+            "Latitude": 1.28941805603102,
+            "RoadName": "Queensway",
+            "Description": "Aft Queenstown NPC HQ"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "11031",
+            "Longitude": 103.80045500000118,
+            "Latitude": 1.29119666696879,
+            "RoadName": "Queensway",
+            "Description": "Opp Queen's Cl"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "11041",
+            "Longitude": 103.79952333299494,
+            "Latitude": 1.29624499998226,
+            "RoadName": "Queensway",
+            "Description": "Aft C'wealth Dr"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "11051",
+            "Longitude": 103.8002979755481,
+            "Latitude": 1.29872166703909,
+            "RoadName": "Queensway",
+            "Description": "Opp Queenstown Polyclinic"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "11061",
+            "Longitude": 103.80118694402536,
+            "Latitude": 1.30265777802206,
+            "RoadName": "Queensway",
+            "Description": "Opp Queensway Sec Sch"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "11071",
+            "Longitude": 103.80170944396954,
+            "Latitude": 1.30621305601609,
+            "RoadName": "Queensway",
+            "Description": "Blk 97"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "11081",
+            "Longitude": 103.80258027799627,
+            "Latitude": 1.30851972202313,
+            "RoadName": "Queensway",
+            "Description": "Viz Holland"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "11091",
+            "Longitude": 103.80367378215983,
+            "Latitude": 1.31219444050072,
+            "RoadName": "Farrer Rd",
+            "Description": "Tulip Gdn"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "11101",
+            "Longitude": 103.80596012189226,
+            "Latitude": 1.31614971080385,
+            "RoadName": "Farrer Rd",
+            "Description": "Farrer Rd Mkt"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "11111",
+            "Longitude": 103.80771866952543,
+            "Latitude": 1.31780157259006,
+            "RoadName": "Farrer Rd",
+            "Description": "Farrer Rd Stn Exit B"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "41101",
+            "Longitude": 103.80921733406133,
+            "Latitude": 1.31908138967253,
+            "RoadName": "Farrer Rd",
+            "Description": "St. Margaret's Sec Sch"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "41111",
+            "Longitude": 103.81185140010722,
+            "Latitude": 1.32081170217365,
+            "RoadName": "Farrer Rd",
+            "Description": "Lutheran Twrs"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "41029",
+            "Longitude": 103.81630566925632,
+            "Latitude": 1.32333331915013,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp Botanic Gdns Stn"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "41019",
+            "Longitude": 103.82025232877241,
+            "Latitude": 1.32267444098276,
+            "RoadName": "Dunearn Rd",
+            "Description": "Aft Kheam Hock Rd"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "40099",
+            "Longitude": 103.82344007494515,
+            "Latitude": 1.32185235205471,
+            "RoadName": "Dunearn Rd",
+            "Description": "Aft Dunkirk Ave"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "40231",
+            "Longitude": 103.82568817714628,
+            "Latitude": 1.32214806956461,
+            "RoadName": "Whitley Rd",
+            "Description": "Raffles Town Club"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "51091",
+            "Longitude": 103.83401870730577,
+            "Latitude": 1.32648060854916,
+            "RoadName": "PIE",
+            "Description": "Opp Catholic JC"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "51101",
+            "Longitude": 103.83724817699014,
+            "Latitude": 1.32753637537789,
+            "RoadName": "PIE",
+            "Description": "Old Police Academy"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "52071",
+            "Longitude": 103.84381843224321,
+            "Latitude": 1.32991416932901,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Trellis Twrs"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "52181",
+            "Longitude": 103.84656071660625,
+            "Latitude": 1.33306633976898,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Opp Toa Payoh Stn"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "52231",
+            "Longitude": 103.8487842386021,
+            "Latitude": 1.3343049899737,
+            "RoadName": "Toa Payoh Ctrl",
+            "Description": "Opp Blk 177"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "52271",
+            "Longitude": 103.84974718092391,
+            "Latitude": 1.33683113907107,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Jackson Sq"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "52369",
+            "Longitude": 103.85273333299853,
+            "Latitude": 1.34001833298065,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 237"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "52051",
+            "Longitude": 103.85469257245785,
+            "Latitude": 1.34338820709349,
+            "RoadName": "Braddell Rd",
+            "Description": "BLK 147"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "52061",
+            "Longitude": 103.85873879159365,
+            "Latitude": 1.34352174018964,
+            "RoadName": "Braddell Rd",
+            "Description": "BCA Academy"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "66061",
+            "Longitude": 103.86346055601665,
+            "Latitude": 1.34405111099275,
+            "RoadName": "Braddell Rd",
+            "Description": "Aft Lynwood Gr"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "66071",
+            "Longitude": 103.86737312632222,
+            "Latitude": 1.34375516528836,
+            "RoadName": "Braddell Rd",
+            "Description": "Opp PUB Recreation Club"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "66081",
+            "Longitude": 103.86962821126625,
+            "Latitude": 1.34302188357133,
+            "RoadName": "Braddell Rd",
+            "Description": "Opp S'pore Power Trg Inst"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "62111",
+            "Longitude": 103.87077171254077,
+            "Latitude": 1.34509852230089,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Sommerville Rd"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "62121",
+            "Longitude": 103.87156809881778,
+            "Latitude": 1.34682778451192,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Wolskel Rd"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "62131",
+            "Longitude": 103.87277432797597,
+            "Latitude": 1.3489790064228,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit H"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "62141",
+            "Longitude": 103.87515194713767,
+            "Latitude": 1.35149112412235,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 1"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "63011",
+            "Longitude": 103.87823575937183,
+            "Latitude": 1.35432115760902,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Upp S'Goon Shop Ctr"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "63021",
+            "Longitude": 103.88161613087621,
+            "Latitude": 1.3570580828827,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "The Helping Hand"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "63031",
+            "Longitude": 103.88535194446017,
+            "Latitude": 1.36050444441455,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit B"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "63041",
+            "Longitude": 103.88754805602413,
+            "Latitude": 1.36259166703136,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Glad Tidings Ch"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "63051",
+            "Longitude": 103.8891427848695,
+            "Latitude": 1.36415166798646,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Serangoon JC"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "63061",
+            "Longitude": 103.89129134480065,
+            "Latitude": 1.36623834226067,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 25"
+        },
+        {
+            "Distance": 19.3,
+            "BusStopCode": "64011",
+            "Longitude": 103.8927594439902,
+            "Latitude": 1.36756333302324,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Naung Ct"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "64019",
+            "Longitude": 103.89393838248249,
+            "Latitude": 1.368308353364,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "63069",
+            "Longitude": 103.89194715850095,
+            "Latitude": 1.36637999879956,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 25"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "63059",
+            "Longitude": 103.88984149586426,
+            "Latitude": 1.36437667280221,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Serangoon JC"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "63049",
+            "Longitude": 103.88752277779692,
+            "Latitude": 1.36219166668854,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Glad Tidings Ch"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "63039",
+            "Longitude": 103.88538416663954,
+            "Latitude": 1.36026000003341,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit C"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "63029",
+            "Longitude": 103.88218027802674,
+            "Latitude": 1.35727472200293,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp The Helping Hand"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "63019",
+            "Longitude": 103.87800141702434,
+            "Latitude": 1.35347964311763,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Upp S'Goon Shop Ctr"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "62149",
+            "Longitude": 103.87595332312252,
+            "Latitude": 1.35169173270668,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Paya Lebar Camp"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "62139",
+            "Longitude": 103.87341165935781,
+            "Latitude": 1.3490461240579,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit A/Blk 413"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "62129",
+            "Longitude": 103.87205488524701,
+            "Latitude": 1.34698958928417,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 403"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "62119",
+            "Longitude": 103.8710922003054,
+            "Latitude": 1.34483265931476,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Sunshine Lodge"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "66089",
+            "Longitude": 103.86947751046722,
+            "Latitude": 1.34238715725246,
+            "RoadName": "Braddell Rd",
+            "Description": "S'pore Power Trg Inst"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "66079",
+            "Longitude": 103.86743994816177,
+            "Latitude": 1.34326097186022,
+            "RoadName": "Braddell Rd",
+            "Description": "PUB Recreation Club"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "66069",
+            "Longitude": 103.86263251306754,
+            "Latitude": 1.34350264971893,
+            "RoadName": "Braddell Rd",
+            "Description": "Bef Braddell Flyover"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "52069",
+            "Longitude": 103.85856611406128,
+            "Latitude": 1.34314389988912,
+            "RoadName": "Braddell Rd",
+            "Description": "Comfortdelgro Corp Ltd"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "52059",
+            "Longitude": 103.85622585798508,
+            "Latitude": 1.34309745890513,
+            "RoadName": "Braddell Rd",
+            "Description": "Blk 219"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "52361",
+            "Longitude": 103.8529812160764,
+            "Latitude": 1.33974408909931,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "52279",
+            "Longitude": 103.84992957112877,
+            "Latitude": 1.33702420555118,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Blk 56"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "52239",
+            "Longitude": 103.84894805557066,
+            "Latitude": 1.33412194449168,
+            "RoadName": "Toa Payoh Ctrl",
+            "Description": "Blk 177"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "52189",
+            "Longitude": 103.84678305554863,
+            "Latitude": 1.33318499999452,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Toa Payoh Stn"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "52079",
+            "Longitude": 103.84382885735747,
+            "Latitude": 1.32931477158443,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Opp Trellis Twrs"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "51099",
+            "Longitude": 103.8345342161876,
+            "Latitude": 1.325881667006,
+            "RoadName": "Whitley Rd",
+            "Description": "Catholic JC"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "40249",
+            "Longitude": 103.82735055603025,
+            "Latitude": 1.3249247219882,
+            "RoadName": "Whitley Rd",
+            "Description": "St. Joseph'S Instn"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "40239",
+            "Longitude": 103.82620193736967,
+            "Latitude": 1.32255443038995,
+            "RoadName": "Whitley Rd",
+            "Description": "Aft Tanglin CC"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "40091",
+            "Longitude": 103.82350944419166,
+            "Latitude": 1.32101807290903,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Bef Lewis Rd"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "41011",
+            "Longitude": 103.81891666700089,
+            "Latitude": 1.32235611101422,
+            "RoadName": "Bt Timah Rd",
+            "Description": "NUS Bt Timah Campus"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "41021",
+            "Longitude": 103.81554000003177,
+            "Latitude": 1.32264999998361,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Botanic Gdns Stn"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "41119",
+            "Longitude": 103.81245374678939,
+            "Latitude": 1.32074221277671,
+            "RoadName": "Farrer Rd",
+            "Description": "Opp Lutheran Twrs"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "41109",
+            "Longitude": 103.81052861101583,
+            "Latitude": 1.31944666701923,
+            "RoadName": "Farrer Rd",
+            "Description": "Opp St. Margaret's Sec Sch"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "11119",
+            "Longitude": 103.80785606728587,
+            "Latitude": 1.31747833490912,
+            "RoadName": "Farrer Rd",
+            "Description": "Farrer Rd Stn Exit A"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "11109",
+            "Longitude": 103.80574305602846,
+            "Latitude": 1.31552472199926,
+            "RoadName": "Farrer Rd",
+            "Description": "Spanish Village"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "11099",
+            "Longitude": 103.80437666697586,
+            "Latitude": 1.31305333300118,
+            "RoadName": "Farrer Rd",
+            "Description": "Opp Tulip Gdn"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "11089",
+            "Longitude": 103.80334087354639,
+            "Latitude": 1.30946135492693,
+            "RoadName": "Queensway",
+            "Description": "Opp Holland Hill Lodge"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "11079",
+            "Longitude": 103.80185250000659,
+            "Latitude": 1.305441389003,
+            "RoadName": "Queensway",
+            "Description": "Opp Blk 95"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "11069",
+            "Longitude": 103.80161762237655,
+            "Latitude": 1.30236853162324,
+            "RoadName": "Queensway",
+            "Description": "Queensway Sec Sch"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "11059",
+            "Longitude": 103.80097389222824,
+            "Latitude": 1.29882892782979,
+            "RoadName": "Queensway",
+            "Description": "Queenstown Polyclinic"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "11049",
+            "Longitude": 103.79952549937242,
+            "Latitude": 1.2954609366563,
+            "RoadName": "Queensway",
+            "Description": "Opp Blessed Sacrament Ch"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "11039",
+            "Longitude": 103.79998683928974,
+            "Latitude": 1.29245762862665,
+            "RoadName": "Queensway",
+            "Description": "Blk 19"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "11029",
+            "Longitude": 103.80202111098815,
+            "Latitude": 1.29013472201419,
+            "RoadName": "Queensway",
+            "Description": "Blk 166"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "11019",
+            "Longitude": 103.80565677295323,
+            "Latitude": 1.28679632523156,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Pk Hotel Alexandra"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "10139",
+            "Longitude": 103.8081000223439,
+            "Latitude": 1.28635135443034,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "10119",
+            "Longitude": 103.81122515087834,
+            "Latitude": 1.28598009010704,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Opp Pacific Tech Ctr"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "10651",
+            "Longitude": 103.81547665017668,
+            "Latitude": 1.28329993019059,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Blk 161"
+        },
+        {
+            "Distance": 20.5,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int"
+        }
+    ]
+}

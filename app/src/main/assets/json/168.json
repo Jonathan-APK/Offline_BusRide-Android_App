@@ -1,0 +1,406 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "84359",
+            "Longitude": 103.934076210002,
+            "Latitude": 1.32787704925987,
+            "RoadName": "Bedok Nth St 1",
+            "Description": "Opp Bedok Ctrl PO"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "84211",
+            "Longitude": 103.93443969781201,
+            "Latitude": 1.33004744658174,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 403"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "84521",
+            "Longitude": 103.93393805556471,
+            "Latitude": 1.33230500002897,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 506"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "84201",
+            "Longitude": 103.93309401156243,
+            "Latitude": 1.33660054449421,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "BEDOK RESVR STN EXIT A"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "75341",
+            "Longitude": 103.933861255669,
+            "Latitude": 1.33832204097015,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp The Clearwater Condo"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "75061",
+            "Longitude": 103.93646836281481,
+            "Latitude": 1.34071391760745,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Bedok Reform Trg Ctr"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "75051",
+            "Longitude": 103.94008153173421,
+            "Latitude": 1.34503394154132,
+            "RoadName": "Tampines Ave 1",
+            "Description": "TAMPINES WEST STN EXIT B"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "76061",
+            "Longitude": 103.94189805552267,
+            "Latitude": 1.3482019444416,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 938"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "76131",
+            "Longitude": 103.94254133694142,
+            "Latitude": 1.35184112001279,
+            "RoadName": "Tampines Ave 4",
+            "Description": "UOB Tampines Ctr"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "76141",
+            "Longitude": 103.94609060451609,
+            "Latitude": 1.35366689109025,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Tampines Stn/Int"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "76199",
+            "Longitude": 103.94535428432116,
+            "Latitude": 1.35660016333768,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 503"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "76541",
+            "Longitude": 103.94053134805151,
+            "Latitude": 1.36023180021367,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Citylife@ Tampines"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "75271",
+            "Longitude": 103.93601495043112,
+            "Latitude": 1.36024833439953,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 721"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "75281",
+            "Longitude": 103.93363809095122,
+            "Latitude": 1.36022789260467,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 742A"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "75291",
+            "Longitude": 103.93076720725303,
+            "Latitude": 1.36149182194897,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft Tampines Ave 9"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "75311",
+            "Longitude": 103.93078207971784,
+            "Latitude": 1.36707803417357,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Tampines Dormitory"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "75361",
+            "Longitude": 103.93030234430374,
+            "Latitude": 1.3706441545828,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ind Ave 5"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "75351",
+            "Longitude": 103.93077504301999,
+            "Latitude": 1.37364163782281,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef TPE"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "65191",
+            "Longitude": 103.90539999997036,
+            "Latitude": 1.39527356921611,
+            "RoadName": "TPE",
+            "Description": "Bef Punggol Rd"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "68119",
+            "Longitude": 103.87194871751426,
+            "Latitude": 1.40231306085319,
+            "RoadName": "Jln Kayu",
+            "Description": "Aft Seletar Camp G"
+        },
+        {
+            "Distance": 29.6,
+            "BusStopCode": "46229",
+            "Longitude": 103.78706868583511,
+            "Latitude": 1.43013056874728,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Opp Innova JC"
+        },
+        {
+            "Distance": 30,
+            "BusStopCode": "46339",
+            "Longitude": 103.78798319246935,
+            "Latitude": 1.43352632033198,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 370"
+        },
+        {
+            "Distance": 30.4,
+            "BusStopCode": "46639",
+            "Longitude": 103.78884919678751,
+            "Latitude": 1.43702205360453,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Opp Blk 892C CP"
+        },
+        {
+            "Distance": 30.8,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "46631",
+            "Longitude": 103.78915264291737,
+            "Latitude": 1.43689297551872,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 892C CP"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "46331",
+            "Longitude": 103.78816378743082,
+            "Latitude": 1.43314769562187,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 511"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "46221",
+            "Longitude": 103.78759769642132,
+            "Latitude": 1.4309096816047,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Innova JC"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "68111",
+            "Longitude": 103.87138805557646,
+            "Latitude": 1.40222194447692,
+            "RoadName": "Jln Kayu",
+            "Description": "Bef Seletar Camp G"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "65199",
+            "Longitude": 103.90542736761212,
+            "Latitude": 1.39591721161169,
+            "RoadName": "TPE",
+            "Description": "Aft Punggol Rd"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "75359",
+            "Longitude": 103.93147946559002,
+            "Latitude": 1.37438650022455,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 21.8,
+            "BusStopCode": "75369",
+            "Longitude": 103.93056528604264,
+            "Latitude": 1.37079630405212,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp HNS Micro Siltronic"
+        },
+        {
+            "Distance": 22.2,
+            "BusStopCode": "75319",
+            "Longitude": 103.93106194445039,
+            "Latitude": 1.36720805556001,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp Tampines Dormitory"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "75299",
+            "Longitude": 103.93106617032824,
+            "Latitude": 1.36239101738996,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ave 9"
+        },
+        {
+            "Distance": 23.1,
+            "BusStopCode": "75289",
+            "Longitude": 103.93331674675824,
+            "Latitude": 1.36045667202312,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Opp Blks 741/742"
+        },
+        {
+            "Distance": 23.4,
+            "BusStopCode": "75279",
+            "Longitude": 103.93620400344062,
+            "Latitude": 1.3604749400553,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Opp Blk 721"
+        },
+        {
+            "Distance": 23.9,
+            "BusStopCode": "76549",
+            "Longitude": 103.94061354425413,
+            "Latitude": 1.3604278704904,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Opp Citylife@ Tampines"
+        },
+        {
+            "Distance": 24.7,
+            "BusStopCode": "76191",
+            "Longitude": 103.94477445426702,
+            "Latitude": 1.3569438864901,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 401"
+        },
+        {
+            "Distance": 25.2,
+            "BusStopCode": "76149",
+            "Longitude": 103.94636710560508,
+            "Latitude": 1.35370728527221,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Tampines Stn/Int"
+        },
+        {
+            "Distance": 25.6,
+            "BusStopCode": "76139",
+            "Longitude": 103.94385009279503,
+            "Latitude": 1.35162691843499,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Century Sq"
+        },
+        {
+            "Distance": 26.2,
+            "BusStopCode": "76069",
+            "Longitude": 103.94208629087403,
+            "Latitude": 1.34875342114003,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 147"
+        },
+        {
+            "Distance": 26.9,
+            "BusStopCode": "75059",
+            "Longitude": 103.9402168928283,
+            "Latitude": 1.34471168546511,
+            "RoadName": "Tampines Ave 1",
+            "Description": "BEF TAMPINES WEST STN"
+        },
+        {
+            "Distance": 27.6,
+            "BusStopCode": "75069",
+            "Longitude": 103.93669999999881,
+            "Latitude": 1.34066333296943,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Bedok Reform Trg Ctr"
+        },
+        {
+            "Distance": 28,
+            "BusStopCode": "75349",
+            "Longitude": 103.9339578151498,
+            "Latitude": 1.33811824869625,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "The Clearwater Condo"
+        },
+        {
+            "Distance": 28.2,
+            "BusStopCode": "84209",
+            "Longitude": 103.93333589306084,
+            "Latitude": 1.33702513693776,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "BEDOK RESVR STN EXIT B"
+        },
+        {
+            "Distance": 28.7,
+            "BusStopCode": "84529",
+            "Longitude": 103.93431305555218,
+            "Latitude": 1.33213305553955,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 29,
+            "BusStopCode": "84219",
+            "Longitude": 103.9348130555732,
+            "Latitude": 1.32940888887166,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Bet Blks 139/140"
+        },
+        {
+            "Distance": 29.3,
+            "BusStopCode": "84351",
+            "Longitude": 103.93409675152876,
+            "Latitude": 1.32766562447954,
+            "RoadName": "Bedok Nth St 1",
+            "Description": "Bedok Ctrl PO"
+        },
+        {
+            "Distance": 30,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        }
+    ]
+}

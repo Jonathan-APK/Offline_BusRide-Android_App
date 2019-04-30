@@ -1,0 +1,356 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "62131",
+            "Longitude": 103.87277432797597,
+            "Latitude": 1.3489790064228,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit H"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "62141",
+            "Longitude": 103.87515194713767,
+            "Latitude": 1.35149112412235,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 1"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "63011",
+            "Longitude": 103.87823575937183,
+            "Latitude": 1.35432115760902,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Upp S'Goon Shop Ctr"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "63021",
+            "Longitude": 103.88161613087621,
+            "Latitude": 1.3570580828827,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "The Helping Hand"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "63031",
+            "Longitude": 103.88535194446017,
+            "Latitude": 1.36050444441455,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit B"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "63041",
+            "Longitude": 103.88754805602413,
+            "Latitude": 1.36259166703136,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Glad Tidings Ch"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "63051",
+            "Longitude": 103.8891427848695,
+            "Latitude": 1.36415166798646,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Serangoon JC"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "63061",
+            "Longitude": 103.89129134480065,
+            "Latitude": 1.36623834226067,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 25"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "64011",
+            "Longitude": 103.8927594439902,
+            "Latitude": 1.36756333302324,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Naung Ct"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "64541",
+            "Longitude": 103.89261000001046,
+            "Latitude": 1.37122666703205,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "64551",
+            "Longitude": 103.89033436772391,
+            "Latitude": 1.36988818748014,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Blk 836"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "64529",
+            "Longitude": 103.88933520735068,
+            "Latitude": 1.3699286957754,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Hougang Polyclinic"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "64339",
+            "Longitude": 103.88702988625133,
+            "Latitude": 1.37136834322266,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 602"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "64341",
+            "Longitude": 103.88633750747994,
+            "Latitude": 1.3729130421635,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Bef Blk 683"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "64351",
+            "Longitude": 103.88808212175417,
+            "Latitude": 1.37481110511316,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Opp Montfort Sch"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "64431",
+            "Longitude": 103.88930278976599,
+            "Latitude": 1.37809447450304,
+            "RoadName": "Hougang St 51",
+            "Description": "Blk 568"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "64441",
+            "Longitude": 103.88818499902484,
+            "Latitude": 1.37980640697067,
+            "RoadName": "Hougang St 51",
+            "Description": "Hougang G. Shop Mall"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "64461",
+            "Longitude": 103.88640309201648,
+            "Latitude": 1.37938472998807,
+            "RoadName": "Buangkok Green",
+            "Description": "Blk 579"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "66499",
+            "Longitude": 103.88326933020046,
+            "Latitude": 1.37912306945844,
+            "RoadName": "Buangkok Green",
+            "Description": "Blk 911"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "66541",
+            "Longitude": 103.88135493816362,
+            "Latitude": 1.37977511312504,
+            "RoadName": "Buangkok Link",
+            "Description": "Blk 980C"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "66551",
+            "Longitude": 103.88144339399805,
+            "Latitude": 1.38172660405235,
+            "RoadName": "Buangkok Link",
+            "Description": "Blk 984"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "66561",
+            "Longitude": 103.8824365,
+            "Latitude": 1.3832985,
+            "RoadName": "Buangkok Link",
+            "Description": "Outside Blk 991B"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "66569",
+            "Longitude": 103.882572,
+            "Latitude": 1.383159,
+            "RoadName": "Buangkok Link",
+            "Description": "OPP BLK 991B"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "66549",
+            "Longitude": 103.88167284722846,
+            "Latitude": 1.38029830580566,
+            "RoadName": "Buangkok Link",
+            "Description": "Opp Blk 980C"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "66491",
+            "Longitude": 103.88260194401967,
+            "Latitude": 1.37936944398935,
+            "RoadName": "Buangkok Green",
+            "Description": "Opp Blk 910"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "64619",
+            "Longitude": 103.88468027114665,
+            "Latitude": 1.37809338718149,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Opp Blk 913"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "64561",
+            "Longitude": 103.88690877548076,
+            "Latitude": 1.37715998902026,
+            "RoadName": "Hougang St 51",
+            "Description": "Blk 574"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "64359",
+            "Longitude": 103.88918760776436,
+            "Latitude": 1.37528677811119,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Montfort Sch"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "64349",
+            "Longitude": 103.88673982857989,
+            "Latitude": 1.37291834719604,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 502"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "64331",
+            "Longitude": 103.88805955105329,
+            "Latitude": 1.37143555507852,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 508"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "64521",
+            "Longitude": 103.88956725593734,
+            "Latitude": 1.36983992146019,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 834"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "64559",
+            "Longitude": 103.8908113889665,
+            "Latitude": 1.37060388901687,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Blk 830A"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "64549",
+            "Longitude": 103.89170972978319,
+            "Latitude": 1.37139998302648,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Opp Hougang Ctrl Int"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "64019",
+            "Longitude": 103.89393838248249,
+            "Latitude": 1.368308353364,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "63069",
+            "Longitude": 103.89194715850095,
+            "Latitude": 1.36637999879956,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 25"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "63059",
+            "Longitude": 103.88984149586426,
+            "Latitude": 1.36437667280221,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Serangoon JC"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "63049",
+            "Longitude": 103.88752277779692,
+            "Latitude": 1.36219166668854,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Glad Tidings Ch"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "63039",
+            "Longitude": 103.88538416663954,
+            "Latitude": 1.36026000003341,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit C"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "63029",
+            "Longitude": 103.88218027802674,
+            "Latitude": 1.35727472200293,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp The Helping Hand"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "63019",
+            "Longitude": 103.87800141702434,
+            "Latitude": 1.35347964311763,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Upp S'Goon Shop Ctr"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "62149",
+            "Longitude": 103.87595332312252,
+            "Latitude": 1.35169173270668,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Paya Lebar Camp"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "62189",
+            "Longitude": 103.87470953705504,
+            "Latitude": 1.35056391832311,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit D/Blk 416"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int (Last Stop)"
+        }
+    ]
+}

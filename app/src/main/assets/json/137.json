@@ -1,0 +1,758 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "80289",
+            "Longitude": 103.8793280559861,
+            "Latitude": 1.31607500002964,
+            "RoadName": "Sims Pl",
+            "Description": "Sims Pl Ter"
+        },
+        {
+            "Distance": 0.2,
+            "BusStopCode": "80249",
+            "Longitude": 103.87985994146072,
+            "Latitude": 1.31693643112186,
+            "RoadName": "Sims Pl",
+            "Description": "Blk 49 Mkt/FC"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "80231",
+            "Longitude": 103.88010860959606,
+            "Latitude": 1.31856503177728,
+            "RoadName": "Sims Dr",
+            "Description": "Opp Blk 53"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "81089",
+            "Longitude": 103.88202243551633,
+            "Latitude": 1.31628194302502,
+            "RoadName": "Aljunied Rd",
+            "Description": "Aljunied Stn"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "81011",
+            "Longitude": 103.88335173265862,
+            "Latitude": 1.31532318660502,
+            "RoadName": "Sims Ave",
+            "Description": "Aft Aljunied Stn"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "81031",
+            "Longitude": 103.88604854571838,
+            "Latitude": 1.31580283030533,
+            "RoadName": "Sims Ave",
+            "Description": "Blk 134"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "81051",
+            "Longitude": 103.89033436777706,
+            "Latitude": 1.31662343087312,
+            "RoadName": "Sims Ave",
+            "Description": "Sims Ville"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "81119",
+            "Longitude": 103.89169495502705,
+            "Latitude": 1.31856724602339,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Paya Lebar Stn Exit C"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "81109",
+            "Longitude": 103.89117183414866,
+            "Latitude": 1.3209137166719,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Opp CISCO Ctr"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "71161",
+            "Longitude": 103.89209147524538,
+            "Latitude": 1.32732994325917,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Blk 3019"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "71229",
+            "Longitude": 103.8933485973626,
+            "Latitude": 1.32623562632795,
+            "RoadName": "Ubi Rd 1",
+            "Description": "Opp Meiban Ind Bldg"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "71219",
+            "Longitude": 103.89505220634288,
+            "Latitude": 1.32554207103,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Ubi Techpark"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "71209",
+            "Longitude": 103.89720788120638,
+            "Latitude": 1.32608112825105,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Opp Paya Ubi Ind Pk"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "71119",
+            "Longitude": 103.90021869264116,
+            "Latitude": 1.32680124825187,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Opp Blk 343"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "71109",
+            "Longitude": 103.90256616022272,
+            "Latitude": 1.32831828375817,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Maha Bodhi Sch"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "71129",
+            "Longitude": 103.8991489,
+            "Latitude": 1.329761944,
+            "RoadName": "Ubi Ave 2",
+            "Description": "UBI STN EXIT A"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "70409",
+            "Longitude": 103.89789906902672,
+            "Latitude": 1.33094654621155,
+            "RoadName": "Ubi Rd 3",
+            "Description": "BLK 3032A"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "70071",
+            "Longitude": 103.89841293744438,
+            "Latitude": 1.33377161253401,
+            "RoadName": "Ubi Ave 3",
+            "Description": "Cycle & Carriage"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "71331",
+            "Longitude": 103.90096749998749,
+            "Latitude": 1.33683480070641,
+            "RoadName": "Kaki Bt Ave 2",
+            "Description": "KAKI BT AUTOHUB"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "71291",
+            "Longitude": 103.90374749997088,
+            "Latitude": 1.33709007875103,
+            "RoadName": "Kaki Bt Rd 3",
+            "Description": "THE LEO"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "72131",
+            "Longitude": 103.90994099232343,
+            "Latitude": 1.33791126455323,
+            "RoadName": "Kaki Bt Ave 3",
+            "Description": "OPP TECH VIEW"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "72141",
+            "Longitude": 103.91150189998882,
+            "Latitude": 1.33860729777301,
+            "RoadName": "Kaki Bt Ave 3",
+            "Description": "BARTLEY BIZ CTR"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "72151",
+            "Longitude": 103.91301810001244,
+            "Latitude": 1.34084789558521,
+            "RoadName": "Kaki Bt Ave 6",
+            "Description": "AUTOBAY @ KAKI BT"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "72161",
+            "Longitude": 103.916355499978,
+            "Latitude": 1.34114935376337,
+            "RoadName": "Kaki Bt Rd 5",
+            "Description": "AFT BARTLEY VIADUCT"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "84459",
+            "Longitude": 103.91845121607756,
+            "Latitude": 1.33522831708133,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Bet Blks 705/706"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "84539",
+            "Longitude": 103.91851751540032,
+            "Latitude": 1.3350342184363,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "BEDOK NTH STN EXIT B"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "84361",
+            "Longitude": 103.92462499999526,
+            "Latitude": 1.32936638901809,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Blk 547"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "84371",
+            "Longitude": 103.9262383330096,
+            "Latitude": 1.33055000001009,
+            "RoadName": "Bedok Nth Ave 1",
+            "Description": "Blk 546"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "84401",
+            "Longitude": 103.9269811109948,
+            "Latitude": 1.33316500001136,
+            "RoadName": "Bedok Nth St 3",
+            "Description": "Opp Blk 550"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "84411",
+            "Longitude": 103.92928425024714,
+            "Latitude": 1.33383806396564,
+            "RoadName": "Bedok Nth St 3",
+            "Description": "Blk 526"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "84421",
+            "Longitude": 103.93032045625178,
+            "Latitude": 1.33232270053889,
+            "RoadName": "Bedok Nth Ave 2",
+            "Description": "Blk 510"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "84331",
+            "Longitude": 103.93099993868753,
+            "Latitude": 1.32898829919632,
+            "RoadName": "Bedok Nth Ave 2",
+            "Description": "Opp Blk 416"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "84359",
+            "Longitude": 103.934076210002,
+            "Latitude": 1.32787704925987,
+            "RoadName": "Bedok Nth St 1",
+            "Description": "Opp Bedok Ctrl PO"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "84199",
+            "Longitude": 103.9355563841307,
+            "Latitude": 1.32553283664673,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Opp Blk 220 CP"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "84049",
+            "Longitude": 103.93471220144858,
+            "Latitude": 1.32432719820227,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 27"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "84039",
+            "Longitude": 103.92886300203479,
+            "Latitude": 1.32353645344906,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Stn Exit A"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "84139",
+            "Longitude": 103.92782177344944,
+            "Latitude": 1.32132832560695,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Panasonic"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "84129",
+            "Longitude": 103.93158674239623,
+            "Latitude": 1.31875790465263,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Fujitec S'pore Ltd"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "84151",
+            "Longitude": 103.93334015990408,
+            "Latitude": 1.31656999665769,
+            "RoadName": "Bedok Sth Ave 1",
+            "Description": "Casafina"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "94011",
+            "Longitude": 103.9351058006447,
+            "Latitude": 1.31438169513219,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Evergreen Gdn"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "94021",
+            "Longitude": 103.93834590911955,
+            "Latitude": 1.31475174256228,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Bef Sennett Rd"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "94031",
+            "Longitude": 103.94089937209914,
+            "Latitude": 1.31504670788151,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "The Summit"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "94041",
+            "Longitude": 103.94430577752213,
+            "Latitude": 1.31619439069366,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Aft Parbury Ave"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "94051",
+            "Longitude": 103.94737959133388,
+            "Latitude": 1.31710244970995,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Opp Temasek Sec Sch"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "94061",
+            "Longitude": 103.95138333302127,
+            "Latitude": 1.31843666702467,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Kew Green Condo"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "94009",
+            "Longitude": 103.95256713632443,
+            "Latitude": 1.31795981372922,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Upp East Coast Ter"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "94009",
+            "Longitude": 103.95256713632443,
+            "Latitude": 1.31795981372922,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Upp East Coast Ter"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "94069",
+            "Longitude": 103.95085659912792,
+            "Latitude": 1.31809668590525,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Opp Kew Green Condo"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "94059",
+            "Longitude": 103.94798092494041,
+            "Latitude": 1.31707137658578,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Temasek Sec Sch"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "94049",
+            "Longitude": 103.94482108127718,
+            "Latitude": 1.31616443335073,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Aft Bedok Sth Ave 3"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "94089",
+            "Longitude": 103.94294138900047,
+            "Latitude": 1.31536333302999,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Calvary Ably Of God Ch"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "94039",
+            "Longitude": 103.94066333773824,
+            "Latitude": 1.31485363967239,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Opp The Summit"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "94029",
+            "Longitude": 103.93750499997167,
+            "Latitude": 1.31453305602342,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Aft Sennet Rd"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "94019",
+            "Longitude": 103.93574953076752,
+            "Latitude": 1.3142851610342,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Opp Evergreen Ave"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "84159",
+            "Longitude": 103.93304055596909,
+            "Latitude": 1.31664972197451,
+            "RoadName": "Bedok Sth Ave 1",
+            "Description": "Opp Casafina/Temasek JC"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "84121",
+            "Longitude": 103.93156320282378,
+            "Latitude": 1.31848306586196,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Aft Bedok Sth Ave 1"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "84131",
+            "Longitude": 103.92757312069912,
+            "Latitude": 1.3214133317439,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Opp Panasonic"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "84031",
+            "Longitude": 103.93003627080394,
+            "Latitude": 1.32428292329305,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Stn Exit B"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "84041",
+            "Longitude": 103.93468799273933,
+            "Latitude": 1.3246905167586,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 221A"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "84191",
+            "Longitude": 103.93533757051014,
+            "Latitude": 1.32566318975139,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 220 CP"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "84351",
+            "Longitude": 103.93409675152876,
+            "Latitude": 1.32766562447954,
+            "RoadName": "Bedok Nth St 1",
+            "Description": "Bedok Ctrl PO"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "84339",
+            "Longitude": 103.93079062255664,
+            "Latitude": 1.32874469952532,
+            "RoadName": "Bedok Nth Ave 2",
+            "Description": "Blk 416"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "84429",
+            "Longitude": 103.93014326693238,
+            "Latitude": 1.33222526253562,
+            "RoadName": "Bedok Nth Ave 2",
+            "Description": "Blk 515"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "84419",
+            "Longitude": 103.9292288767243,
+            "Latitude": 1.33361648978155,
+            "RoadName": "Bedok Nth St 3",
+            "Description": "Blk 512"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "84409",
+            "Longitude": 103.92669166477268,
+            "Latitude": 1.33291002440884,
+            "RoadName": "Bedok Nth St 3",
+            "Description": "Blk 550"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "84379",
+            "Longitude": 103.92645503858006,
+            "Latitude": 1.33041495636834,
+            "RoadName": "Bedok Nth Ave 1",
+            "Description": "Opp Blk 546"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "84369",
+            "Longitude": 103.92472367542577,
+            "Latitude": 1.32914899596576,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Blk 45"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "84451",
+            "Longitude": 103.91798074534464,
+            "Latitude": 1.33643884822286,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "BEDOK NTH STN EXIT A"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "72169",
+            "Longitude": 103.9162627010335,
+            "Latitude": 1.34108153912707,
+            "RoadName": "Kaki Bt Rd 5",
+            "Description": "BEF BARTLEY VIADUCT"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "72159",
+            "Longitude": 103.91270758032465,
+            "Latitude": 1.34043386938271,
+            "RoadName": "Kaki Bt Ave 6",
+            "Description": "OPP AUTOBAY @ KAKI BT"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "72149",
+            "Longitude": 103.91170534393189,
+            "Latitude": 1.33834674682355,
+            "RoadName": "Kaki Bt Ave 3",
+            "Description": "SHUN LI IND PK"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "72139",
+            "Longitude": 103.90924143080564,
+            "Latitude": 1.33734376313375,
+            "RoadName": "Kaki Bt Ave 3",
+            "Description": "TECH VIEW"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "71299",
+            "Longitude": 103.9040176205713,
+            "Latitude": 1.33675693078428,
+            "RoadName": "Kaki Bt Rd 3",
+            "Description": "EMPIRE TECHNOCENTRE"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "71339",
+            "Longitude": 103.90112122053516,
+            "Latitude": 1.33681468016557,
+            "RoadName": "Kaki Bt Ave 2",
+            "Description": "OPP KAKI BT AUTOHUB"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "70079",
+            "Longitude": 103.89851833301576,
+            "Latitude": 1.33372166698373,
+            "RoadName": "Ubi Ave 3",
+            "Description": "Aft Regent Motors"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "70401",
+            "Longitude": 103.89811560002391,
+            "Latitude": 1.33088230075978,
+            "RoadName": "Ubi Rd 3",
+            "Description": "BEF UBI RD 4"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "71121",
+            "Longitude": 103.8994169,
+            "Latitude": 1.330081111,
+            "RoadName": "Ubi Ave 2",
+            "Description": "UBI STN EXIT B"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "71101",
+            "Longitude": 103.90283722202501,
+            "Latitude": 1.3283069439771,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Blk 318"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "71111",
+            "Longitude": 103.90058695177659,
+            "Latitude": 1.3267052749653,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Blk 343"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "71201",
+            "Longitude": 103.89795152582765,
+            "Latitude": 1.32612447781531,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Paya Ubi Ind Pk"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "71211",
+            "Longitude": 103.89525403753592,
+            "Latitude": 1.32546235545492,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Ubi 55"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "71221",
+            "Longitude": 103.89318347862555,
+            "Latitude": 1.32632177179998,
+            "RoadName": "Ubi Rd 1",
+            "Description": "Meiban Ind Bldg"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "71169",
+            "Longitude": 103.89217317535862,
+            "Latitude": 1.32706502989935,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Aztech Bldg"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "70259",
+            "Longitude": 103.89080428753108,
+            "Latitude": 1.32498730068675,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Macpherson Stn Exit B"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "81101",
+            "Longitude": 103.89152220076973,
+            "Latitude": 1.32111522416649,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "CISCO Ctr"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "81111",
+            "Longitude": 103.89211689790608,
+            "Latitude": 1.31860238558389,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Paya Lebar Stn Exit B"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "81069",
+            "Longitude": 103.89084333204679,
+            "Latitude": 1.314713072947,
+            "RoadName": "Geylang Rd",
+            "Description": "Opp Lor 39 Geylang"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "81049",
+            "Longitude": 103.88729074830816,
+            "Latitude": 1.31402602433639,
+            "RoadName": "Geylang Rd",
+            "Description": "Aft Lor 34 Geylang"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "81029",
+            "Longitude": 103.88497531416832,
+            "Latitude": 1.31359869606059,
+            "RoadName": "Geylang Rd",
+            "Description": "Aft Lor 28 Geylang"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "81231",
+            "Longitude": 103.88189611100506,
+            "Latitude": 1.31389305598354,
+            "RoadName": "Aljunied Rd",
+            "Description": "Opp Kh Plaza"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "81081",
+            "Longitude": 103.88168156879213,
+            "Latitude": 1.31621665907428,
+            "RoadName": "Aljunied Rd",
+            "Description": "Opp Aljunied Stn"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "80239",
+            "Longitude": 103.88051104388848,
+            "Latitude": 1.31846350927886,
+            "RoadName": "Sims Dr",
+            "Description": "Bef Blk 53"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "80229",
+            "Longitude": 103.87810554835914,
+            "Latitude": 1.3172897212662,
+            "RoadName": "Sims Dr",
+            "Description": "Blk 45"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "80289",
+            "Longitude": 103.8793280559861,
+            "Latitude": 1.31607500002964,
+            "RoadName": "Sims Pl",
+            "Description": "Sims Pl Ter"
+        }
+    ]
+}

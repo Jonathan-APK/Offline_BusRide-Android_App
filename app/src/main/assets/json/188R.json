@@ -1,0 +1,358 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "44461",
+            "Longitude": 103.7430047219692,
+            "Latitude": 1.3825705560115,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 352"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "44451",
+            "Longitude": 103.74424353296656,
+            "Latitude": 1.38077375279629,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 224"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "44441",
+            "Longitude": 103.74754322627454,
+            "Latitude": 1.37924285981093,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 239"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "44121",
+            "Longitude": 103.75093552549583,
+            "Latitude": 1.37769846227758,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 113"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "43641",
+            "Longitude": 103.75026447996078,
+            "Latitude": 1.36530401539571,
+            "RoadName": "Bt Batok West Ave 7",
+            "Description": "Opp HomeTeamNS"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "43831",
+            "Longitude": 103.74788610102789,
+            "Latitude": 1.36512501870188,
+            "RoadName": "Bt Batok West Ave 7",
+            "Description": "Blk 334"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "43491",
+            "Longitude": 103.74714799810218,
+            "Latitude": 1.36395398644152,
+            "RoadName": "Bt Batok West Ave 4",
+            "Description": "Blk 331"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "43481",
+            "Longitude": 103.74637905142735,
+            "Latitude": 1.35992912103835,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Blk 315"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "43471",
+            "Longitude": 103.74730694399486,
+            "Latitude": 1.35796999999619,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Blk 306"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "43461",
+            "Longitude": 103.74749372345552,
+            "Latitude": 1.35504665794029,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Aft Bt Batok West Ave 5"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "43401",
+            "Longitude": 103.74681637316733,
+            "Latitude": 1.35226498779767,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Bt Batok Polyclinic"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "43321",
+            "Longitude": 103.74510884287126,
+            "Latitude": 1.34990599565613,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Opp Blk 144"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "43371",
+            "Longitude": 103.74590277613717,
+            "Latitude": 1.34682313984594,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "43699",
+            "Longitude": 103.74628307427523,
+            "Latitude": 1.34475341160997,
+            "RoadName": "Bt Batok Ave 1",
+            "Description": "Blk 298"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "28629",
+            "Longitude": 103.74424995812674,
+            "Latitude": 1.34195331167525,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 266"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "28631",
+            "Longitude": 103.74418616293988,
+            "Latitude": 1.34053157728505,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Opp Blk 288D"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "28641",
+            "Longitude": 103.74610320575732,
+            "Latitude": 1.33917889755759,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 284"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "28651",
+            "Longitude": 103.74794188238828,
+            "Latitude": 1.33515192012369,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Opp IMM Bldg"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "14169",
+            "Longitude": 103.80941810434497,
+            "Latitude": 1.27118550385957,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp Telok Blangah Stn"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "14129",
+            "Longitude": 103.81977877391114,
+            "Latitude": 1.26607869101924,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Harbourfront Stn Exit A"
+        },
+        {
+            "Distance": 23.4,
+            "BusStopCode": "14519",
+            "Longitude": 103.82570322127442,
+            "Latitude": 1.25352193438281,
+            "RoadName": "Sentosa Gateway",
+            "Description": "Resorts World Sentosa"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "14519",
+            "Longitude": 103.82570322127442,
+            "Latitude": 1.25352193438281,
+            "RoadName": "Sentosa Gateway",
+            "Description": "Resorts World Sentosa"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "14121",
+            "Longitude": 103.81925660621779,
+            "Latitude": 1.26591350024271,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Harbourfront Stn Exit B"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "14161",
+            "Longitude": 103.81009913005327,
+            "Latitude": 1.27075866533548,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Telok Blangah Stn"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "28659",
+            "Longitude": 103.74767782537164,
+            "Latitude": 1.33446189256828,
+            "RoadName": "Toh Guan Rd",
+            "Description": "IMM Bldg"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "28649",
+            "Longitude": 103.74603439301079,
+            "Latitude": 1.33901303401774,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 286A"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "28639",
+            "Longitude": 103.74395996871245,
+            "Latitude": 1.34045649755771,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 288E"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "28621",
+            "Longitude": 103.74358012428006,
+            "Latitude": 1.34154348249683,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 241"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "43691",
+            "Longitude": 103.74605567060456,
+            "Latitude": 1.34490189049397,
+            "RoadName": "Bt Batok Ave 1",
+            "Description": "Blk 190"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "43379",
+            "Longitude": 103.74518662694207,
+            "Latitude": 1.34716553724092,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Blk 185"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "43329",
+            "Longitude": 103.74483998148368,
+            "Latitude": 1.34976204246765,
+            "RoadName": "Bt Batok West Ave 6",
+            "Description": "Blk 146"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "43409",
+            "Longitude": 103.74623591627208,
+            "Latitude": 1.35235542005389,
+            "RoadName": "Bt Batok West Ave 3",
+            "Description": "Opp Blk 127"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "43469",
+            "Longitude": 103.74730862146369,
+            "Latitude": 1.35546802880026,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Bef Bt Batok West Ave 5"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "43479",
+            "Longitude": 103.74723575988492,
+            "Latitude": 1.35765247384472,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Opp Blk 305"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "43489",
+            "Longitude": 103.74635170320164,
+            "Latitude": 1.35978620558748,
+            "RoadName": "Bt Batok West Ave 2",
+            "Description": "Opp Blk 315"
+        },
+        {
+            "Distance": 19.3,
+            "BusStopCode": "43499",
+            "Longitude": 103.74686723054008,
+            "Latitude": 1.36259558126251,
+            "RoadName": "Bt Batok West Ave 4",
+            "Description": "Blk 419"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "43839",
+            "Longitude": 103.74824970624866,
+            "Latitude": 1.36527346533705,
+            "RoadName": "Bt Batok West Ave 7",
+            "Description": "Opp Blk 336"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "43649",
+            "Longitude": 103.7506020069351,
+            "Latitude": 1.36545844046425,
+            "RoadName": "Bt Batok West Ave 7",
+            "Description": "HomeTeamNS"
+        },
+        {
+            "Distance": 21.9,
+            "BusStopCode": "44129",
+            "Longitude": 103.75092697249079,
+            "Latitude": 1.37741713631203,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Opp Blk 113"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "44449",
+            "Longitude": 103.74762704486072,
+            "Latitude": 1.37889232196067,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Opp Blks 237/239"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "44459",
+            "Longitude": 103.74454562435122,
+            "Latitude": 1.38028731431529,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 277"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "44469",
+            "Longitude": 103.74275222200647,
+            "Latitude": 1.38243888902379,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 414"
+        },
+        {
+            "Distance": 23.5,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int"
+        }
+    ]
+}

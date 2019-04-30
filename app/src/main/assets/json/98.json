@@ -1,0 +1,548 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "28061",
+            "Longitude": 103.74254813709638,
+            "Latitude": 1.33596390763107,
+            "RoadName": "Boon Lay Way",
+            "Description": "Jurong East Stn/Int"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "28311",
+            "Longitude": 103.74108351905207,
+            "Latitude": 1.33825277511898,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "28321",
+            "Longitude": 103.74090313908255,
+            "Latitude": 1.34127166427214,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Blk 239"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "28331",
+            "Longitude": 103.73804926872124,
+            "Latitude": 1.34204392869092,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Blk 229"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "28451",
+            "Longitude": 103.73465998158574,
+            "Latitude": 1.34394189080479,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Parc Oasis"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "28461",
+            "Longitude": 103.73205383657178,
+            "Latitude": 1.345332402809,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Blk 347"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "28491",
+            "Longitude": 103.7307863306416,
+            "Latitude": 1.34905596073619,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Opp Jurong Polyclinic"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "28501",
+            "Longitude": 103.72737769835274,
+            "Latitude": 1.34980328426271,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 490"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "28511",
+            "Longitude": 103.7237236090261,
+            "Latitude": 1.35063596491215,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 463"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "28521",
+            "Longitude": 103.72120042369096,
+            "Latitude": 1.35097548065061,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 457"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "28399",
+            "Longitude": 103.71964821094637,
+            "Latitude": 1.34974947213063,
+            "RoadName": "Jurong West St 51",
+            "Description": "Blk 458"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "28389",
+            "Longitude": 103.72147231551902,
+            "Latitude": 1.34646209983221,
+            "RoadName": "Jurong West St 51",
+            "Description": "Opp Blk 515"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "28091",
+            "Longitude": 103.72012487725401,
+            "Latitude": 1.34425795644531,
+            "RoadName": "Boon Lay Way",
+            "Description": "Lakeside Stn"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "21229",
+            "Longitude": 103.71602021559848,
+            "Latitude": 1.34200346086893,
+            "RoadName": "Corporation Rd",
+            "Description": "Opp S'Pore A'Space Mfg"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "21219",
+            "Longitude": 103.71625930906035,
+            "Latitude": 1.34010356133429,
+            "RoadName": "Corporation Rd",
+            "Description": "Lakepoint Condo"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "21619",
+            "Longitude": 103.71816213921478,
+            "Latitude": 1.33793509893342,
+            "RoadName": "Corporation Dr",
+            "Description": "AFT CORP RD"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "21609",
+            "Longitude": 103.72102625466782,
+            "Latitude": 1.33775166774993,
+            "RoadName": "Corporation Dr",
+            "Description": "Opp Blk 364"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "21599",
+            "Longitude": 103.72268493639599,
+            "Latitude": 1.33468356164521,
+            "RoadName": "Corporation Dr",
+            "Description": "Blk 117"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "21589",
+            "Longitude": 103.72345805167676,
+            "Latitude": 1.33246568746472,
+            "RoadName": "Corporation Dr",
+            "Description": "Opp Blk 65"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "21579",
+            "Longitude": 103.72318086110512,
+            "Latitude": 1.33013472279057,
+            "RoadName": "Corporation Dr",
+            "Description": "Jurong Sec Sch"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "21569",
+            "Longitude": 103.72289813113439,
+            "Latitude": 1.32857203912272,
+            "RoadName": "Corporation Dr",
+            "Description": "Opp Blk 158"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "21559",
+            "Longitude": 103.72063909698713,
+            "Latitude": 1.326626598883,
+            "RoadName": "Yung Ho Rd",
+            "Description": "CISCO Recall"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "21179",
+            "Longitude": 103.71929527796603,
+            "Latitude": 1.32586166697514,
+            "RoadName": "Corporation Rd",
+            "Description": "CORP PL"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "21049",
+            "Longitude": 103.72024520956326,
+            "Latitude": 1.32107250538852,
+            "RoadName": "Jurong Port Rd",
+            "Description": "Bef Jln Terusan"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "21159",
+            "Longitude": 103.72042922086165,
+            "Latitude": 1.31868562417111,
+            "RoadName": "Jurong Port Rd",
+            "Description": "Sin Soon Huat"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "21149",
+            "Longitude": 103.71987462044102,
+            "Latitude": 1.31564736437783,
+            "RoadName": "Jurong Port Rd",
+            "Description": "Jurong Port Workshops"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "21069",
+            "Longitude": 103.7191852779968,
+            "Latitude": 1.31237305598007,
+            "RoadName": "Jurong Port Rd",
+            "Description": "Bef Jln Tepong"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "21109",
+            "Longitude": 103.72109770773132,
+            "Latitude": 1.31100299869144,
+            "RoadName": "Jln Tepong",
+            "Description": "Ctrl Fish Proc Fty"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "21089",
+            "Longitude": 103.72296452520035,
+            "Latitude": 1.31206487520147,
+            "RoadName": "Fishery Port Rd",
+            "Description": "Bef Jln Buroh"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "21079",
+            "Longitude": 103.72279763377816,
+            "Latitude": 1.31342751032359,
+            "RoadName": "Jln Buroh",
+            "Description": "Opp Jurong Abattoir"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "21139",
+            "Longitude": 103.71846563037732,
+            "Latitude": 1.31433044660166,
+            "RoadName": "Jln Buroh",
+            "Description": "Aft Jurong Port Rd"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "21129",
+            "Longitude": 103.71482897871087,
+            "Latitude": 1.31421980722852,
+            "RoadName": "Jln Buroh",
+            "Description": "Opp SPC Svc Stn"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "21119",
+            "Longitude": 103.71201936489673,
+            "Latitude": 1.31397291780129,
+            "RoadName": "Jln Buroh",
+            "Description": "Bef Jurong Pier Rd"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "21099",
+            "Longitude": 103.71110346092364,
+            "Latitude": 1.31014377264327,
+            "RoadName": "Jurong Pier Way",
+            "Description": "Jurong Island Checkpt"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "21111",
+            "Longitude": 103.71238327744312,
+            "Latitude": 1.31442640542243,
+            "RoadName": "Jln Buroh",
+            "Description": "Aft Jurong Pier Rd"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "21121",
+            "Longitude": 103.71483206750459,
+            "Latitude": 1.3145962153906,
+            "RoadName": "Jln Buroh",
+            "Description": "SPC Svc Stn"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "21131",
+            "Longitude": 103.71799361097378,
+            "Latitude": 1.31470833302608,
+            "RoadName": "Jln Buroh",
+            "Description": "Bef Jurong Port Rd"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "21069",
+            "Longitude": 103.7191852779968,
+            "Latitude": 1.31237305598007,
+            "RoadName": "Jurong Port Rd",
+            "Description": "Bef Jln Tepong"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "21109",
+            "Longitude": 103.72109770773132,
+            "Latitude": 1.31100299869144,
+            "RoadName": "Jln Tepong",
+            "Description": "Ctrl Fish Proc Fty"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "21089",
+            "Longitude": 103.72296452520035,
+            "Latitude": 1.31206487520147,
+            "RoadName": "Fishery Port Rd",
+            "Description": "Bef Jln Buroh"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "21079",
+            "Longitude": 103.72279763377816,
+            "Latitude": 1.31342751032359,
+            "RoadName": "Jln Buroh",
+            "Description": "Opp Jurong Abattoir"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "21141",
+            "Longitude": 103.71957368500223,
+            "Latitude": 1.31517431113868,
+            "RoadName": "Jurong Port Rd",
+            "Description": "Aft Jln Buroh"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "21151",
+            "Longitude": 103.71988944330612,
+            "Latitude": 1.3169920318205,
+            "RoadName": "Jurong Port Rd",
+            "Description": "CWT Distripark"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "21041",
+            "Longitude": 103.72012027797446,
+            "Latitude": 1.3209197220107,
+            "RoadName": "Jurong Port Rd",
+            "Description": "Aft Jln Terusan"
+        },
+        {
+            "Distance": 18,
+            "BusStopCode": "21171",
+            "Longitude": 103.71906611098208,
+            "Latitude": 1.3258163890121,
+            "RoadName": "Corporation Rd",
+            "Description": "OPP CORP PL"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "21551",
+            "Longitude": 103.7209862100987,
+            "Latitude": 1.3266610431866,
+            "RoadName": "Yung Ho Rd",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "21561",
+            "Longitude": 103.72274321247575,
+            "Latitude": 1.32889315236799,
+            "RoadName": "Corporation Dr",
+            "Description": "Blk 158"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "21571",
+            "Longitude": 103.72307005592994,
+            "Latitude": 1.33056719470166,
+            "RoadName": "Corporation Dr",
+            "Description": "Opp Jurong Sec Sch"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "21581",
+            "Longitude": 103.72328639029729,
+            "Latitude": 1.33243350969467,
+            "RoadName": "Corporation Dr",
+            "Description": "Blk 65"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "21591",
+            "Longitude": 103.72242808341083,
+            "Latitude": 1.33476103645994,
+            "RoadName": "Corporation Dr",
+            "Description": "Opp Blk 117"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "21601",
+            "Longitude": 103.72109770581518,
+            "Latitude": 1.33727029608815,
+            "RoadName": "Corporation Dr",
+            "Description": "Blk 357"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "21611",
+            "Longitude": 103.71931958855112,
+            "Latitude": 1.3383643422738,
+            "RoadName": "Corporation Dr",
+            "Description": "Blk 367"
+        },
+        {
+            "Distance": 20.5,
+            "BusStopCode": "21211",
+            "Longitude": 103.71606833298439,
+            "Latitude": 1.34004972199531,
+            "RoadName": "Corporation Rd",
+            "Description": "Opp Lakepoint Condo"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "28099",
+            "Longitude": 103.71929832147642,
+            "Latitude": 1.34432009933148,
+            "RoadName": "Boon Lay Way",
+            "Description": "Opp Lakeside Stn"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "28381",
+            "Longitude": 103.72129604136144,
+            "Latitude": 1.34626967118054,
+            "RoadName": "Jurong West St 51",
+            "Description": "Blk 515"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "28391",
+            "Longitude": 103.71937165971983,
+            "Latitude": 1.34978093237085,
+            "RoadName": "Jurong West St 51",
+            "Description": "Blk 501"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "28529",
+            "Longitude": 103.7206511492765,
+            "Latitude": 1.35117921308914,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 441"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "28519",
+            "Longitude": 103.72452492776075,
+            "Latitude": 1.35058416759245,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 425"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "28509",
+            "Longitude": 103.72654009750788,
+            "Latitude": 1.35003470887569,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 422"
+        },
+        {
+            "Distance": 23.5,
+            "BusStopCode": "28499",
+            "Longitude": 103.73046199733298,
+            "Latitude": 1.34963044051902,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Jurong Polyclinic"
+        },
+        {
+            "Distance": 23.9,
+            "BusStopCode": "28469",
+            "Longitude": 103.73193313637753,
+            "Latitude": 1.34612717332075,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Blk 316"
+        },
+        {
+            "Distance": 24.3,
+            "BusStopCode": "28459",
+            "Longitude": 103.7343152870331,
+            "Latitude": 1.34440772894012,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Opp Parc Oasis"
+        },
+        {
+            "Distance": 24.7,
+            "BusStopCode": "28339",
+            "Longitude": 103.73737517747826,
+            "Latitude": 1.34270510558579,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Blk 252"
+        },
+        {
+            "Distance": 25.1,
+            "BusStopCode": "28329",
+            "Longitude": 103.74043571670437,
+            "Latitude": 1.3414709231345,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Blk 246"
+        },
+        {
+            "Distance": 25.7,
+            "BusStopCode": "28319",
+            "Longitude": 103.74173313734524,
+            "Latitude": 1.33862623918679,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 207"
+        },
+        {
+            "Distance": 26,
+            "BusStopCode": "28449",
+            "Longitude": 103.73944500002973,
+            "Latitude": 1.33618166701348,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Bef Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 26.5,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int (Last Stop)"
+        }
+    ]
+}

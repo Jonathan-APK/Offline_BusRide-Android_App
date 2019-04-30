@@ -1,0 +1,100 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "76369",
+            "Longitude": 103.95022273065783,
+            "Latitude": 1.36025642698418,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 496F"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "76359",
+            "Longitude": 103.95217875196944,
+            "Latitude": 1.36209168075863,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 493B"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "76229",
+            "Longitude": 103.95353851635838,
+            "Latitude": 1.35614001051089,
+            "RoadName": "Tampines Ave 7",
+            "Description": "OPP TAMPINES EAST STN"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "76219",
+            "Longitude": 103.95114418566536,
+            "Latitude": 1.35644168689504,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 230E"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "76209",
+            "Longitude": 103.94766913185744,
+            "Latitude": 1.35660332787929,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 233"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "76149",
+            "Longitude": 103.94636710560508,
+            "Latitude": 1.35370728527221,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Tampines Stn/Int"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "76139",
+            "Longitude": 103.94385009279503,
+            "Latitude": 1.35162691843499,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Century Sq"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "76069",
+            "Longitude": 103.94208629087403,
+            "Latitude": 1.34875342114003,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 147"
+        },
+        {
+            "Distance": 25.8,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 26.1,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 26.4,
+            "BusStopCode": "03031",
+            "Longitude": 103.85086074925066,
+            "Latitude": 1.28207492207952,
+            "RoadName": "Robinson Rd",
+            "Description": "Raffles Pl Stn Exit F"
+        },
+        {
+            "Distance": 27,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        }
+    ]
+}

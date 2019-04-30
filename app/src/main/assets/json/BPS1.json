@@ -1,0 +1,86 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44699",
+            "Longitude": 103.77154344868076,
+            "Latitude": 1.38805300466507,
+            "RoadName": "Segar Rd",
+            "Description": "BLK 457"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "44721",
+            "Longitude": 103.76491900002709,
+            "Latitude": 1.38679108297845,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Opp Jelapang Stn"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "44659",
+            "Longitude": 103.76292100976569,
+            "Latitude": 1.38496763142496,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Blk 537A CP"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "44791",
+            "Longitude": 103.76068878232401,
+            "Latitude": 1.38372439268243,
+            "RoadName": "Senja Rd",
+            "Description": "West View Pr Sch"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "44531",
+            "Longitude": 103.74453624872069,
+            "Latitude": 1.38425405298158,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Opp Choa Chu Kang Stn"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44539",
+            "Longitude": 103.74502387945829,
+            "Latitude": 1.38463078337388,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Lot 1 Shoppers' Mall"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "44799",
+            "Longitude": 103.7609562427946,
+            "Latitude": 1.38338692962433,
+            "RoadName": "Senja Rd",
+            "Description": "Blk 610"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "44651",
+            "Longitude": 103.76289650600476,
+            "Latitude": 1.38533394998016,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Blk 617"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "44691",
+            "Longitude": 103.7714646491703,
+            "Latitude": 1.38826258050731,
+            "RoadName": "Segar Rd",
+            "Description": "BLK 485"
+        }
+    ]
+}

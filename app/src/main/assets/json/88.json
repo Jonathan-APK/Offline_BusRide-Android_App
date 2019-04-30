@@ -1,0 +1,814 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "77191",
+            "Longitude": 103.94602815996554,
+            "Latitude": 1.37654807606486,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 500A"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "77201",
+            "Longitude": 103.94276350247947,
+            "Latitude": 1.37864001176536,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Aft Blk 601"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "77211",
+            "Longitude": 103.94094544562029,
+            "Latitude": 1.37999169580419,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 626"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "77251",
+            "Longitude": 103.93864433688064,
+            "Latitude": 1.38223834152443,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 713"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "77261",
+            "Longitude": 103.93615875590504,
+            "Latitude": 1.38285811735056,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Blk 717"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "77271",
+            "Longitude": 103.9349613837619,
+            "Latitude": 1.38058998439068,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Aft Pasir Ris St 72"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "77331",
+            "Longitude": 103.93338764757789,
+            "Latitude": 1.3782973982979,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Blk 747A"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "65191",
+            "Longitude": 103.90539999997036,
+            "Latitude": 1.39527356921611,
+            "RoadName": "TPE",
+            "Description": "Bef Punggol Rd"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "65069",
+            "Longitude": 103.90236824858533,
+            "Latitude": 1.39504382175966,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 190C"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "65059",
+            "Longitude": 103.90129355204087,
+            "Latitude": 1.39308440832899,
+            "RoadName": "Punggol Rd",
+            "Description": "St. Anne's Ch"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "65049",
+            "Longitude": 103.90187166698628,
+            "Latitude": 1.38993499998792,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 126A"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "65039",
+            "Longitude": 103.9019239673808,
+            "Latitude": 1.38732741861632,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 124"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "65029",
+            "Longitude": 103.90061583298267,
+            "Latitude": 1.38461500003195,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 111"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "65019",
+            "Longitude": 103.89749237919405,
+            "Latitude": 1.38151407829697,
+            "RoadName": "Punggol Rd",
+            "Description": "The Rivervale"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "64029",
+            "Longitude": 103.89688283812272,
+            "Latitude": 1.37781617357511,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Blk 458"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "64039",
+            "Longitude": 103.89393761218089,
+            "Latitude": 1.37668753222312,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 434"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "64369",
+            "Longitude": 103.89149353867691,
+            "Latitude": 1.37634448413795,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 532"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "64359",
+            "Longitude": 103.88918760776436,
+            "Latitude": 1.37528677811119,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Montfort Sch"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "64349",
+            "Longitude": 103.88673982857989,
+            "Latitude": 1.37291834719604,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 502"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "64411",
+            "Longitude": 103.88503406200056,
+            "Latitude": 1.37353273194871,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 670"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "64601",
+            "Longitude": 103.8845866729986,
+            "Latitude": 1.37548640364406,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 919"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "64611",
+            "Longitude": 103.88445923003084,
+            "Latitude": 1.37837333826782,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 913"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "66499",
+            "Longitude": 103.88326933020046,
+            "Latitude": 1.37912306945844,
+            "RoadName": "Buangkok Green",
+            "Description": "Blk 911"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "66489",
+            "Longitude": 103.8789799431682,
+            "Latitude": 1.37889334025536,
+            "RoadName": "Buangkok Green",
+            "Description": "Blk 969"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "66479",
+            "Longitude": 103.87430288480033,
+            "Latitude": 1.37863834733323,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Aft Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "66459",
+            "Longitude": 103.87075091953804,
+            "Latitude": 1.37848946701219,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Aft Seagate"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "54659",
+            "Longitude": 103.86686274044777,
+            "Latitude": 1.37834008020794,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Techplace 2"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "54509",
+            "Longitude": 103.86257049780349,
+            "Latitude": 1.37758835823729,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Aft Blk 5000"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "54499",
+            "Longitude": 103.86055355422364,
+            "Latitude": 1.37700806651463,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Bef CTE"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "54489",
+            "Longitude": 103.855796667004,
+            "Latitude": 1.37566138900563,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp Ite Coll Ctrl"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "54579",
+            "Longitude": 103.85483080978989,
+            "Latitude": 1.37487817367914,
+            "RoadName": "Ang Mo Kio Ave 10",
+            "Description": "Blk 540"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "54589",
+            "Longitude": 103.85671893941708,
+            "Latitude": 1.37173441613541,
+            "RoadName": "Ang Mo Kio Ave 10",
+            "Description": "Blk 555"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "54289",
+            "Longitude": 103.8561504529793,
+            "Latitude": 1.36910303231028,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 452"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "54279",
+            "Longitude": 103.85404760550173,
+            "Latitude": 1.36968919033429,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 427"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "54269",
+            "Longitude": 103.85111893571647,
+            "Latitude": 1.36921006543476,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Ang Mo Kio Stn"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "54248",
+            "Longitude": 103.84661006967286,
+            "Latitude": 1.36875490594243,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 324"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "54019",
+            "Longitude": 103.84418333302729,
+            "Latitude": 1.36618666697727,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Aft Blk 304"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "53169",
+            "Longitude": 103.84248787868405,
+            "Latitude": 1.36213468684692,
+            "RoadName": "Marymount Rd",
+            "Description": "Blk 254"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "53379",
+            "Longitude": 103.84386020713477,
+            "Latitude": 1.36018670154842,
+            "RoadName": "Bishan St 22",
+            "Description": "Blk 245"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "53389",
+            "Longitude": 103.84516933880761,
+            "Latitude": 1.35804473736933,
+            "RoadName": "Bishan St 22",
+            "Description": "Opp Bishan Nth Shop Mall"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "53399",
+            "Longitude": 103.8470163249439,
+            "Latitude": 1.35464002820911,
+            "RoadName": "Bishan St 22",
+            "Description": "Blk 202"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "53231",
+            "Longitude": 103.84797987894204,
+            "Latitude": 1.35089997844732,
+            "RoadName": "Bishan Rd",
+            "Description": "BISHAN STN"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "53211",
+            "Longitude": 103.84712672325323,
+            "Latitude": 1.34707169454274,
+            "RoadName": "Bishan Rd",
+            "Description": "Opp Raffles Instn"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "52021",
+            "Longitude": 103.84766088139544,
+            "Latitude": 1.34431313758435,
+            "RoadName": "Braddell Rd",
+            "Description": "OPP BLK 1004"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "52031",
+            "Longitude": 103.85026155631283,
+            "Latitude": 1.34404852974216,
+            "RoadName": "Braddell Rd",
+            "Description": "OPP BLK 998"
+        },
+        {
+            "Distance": 22.2,
+            "BusStopCode": "52361",
+            "Longitude": 103.8529812160764,
+            "Latitude": 1.33974408909931,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "52279",
+            "Longitude": 103.84992957112877,
+            "Latitude": 1.33702420555118,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Blk 56"
+        },
+        {
+            "Distance": 23.2,
+            "BusStopCode": "52269",
+            "Longitude": 103.85147452356613,
+            "Latitude": 1.33404239936331,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Blk 73"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "52501",
+            "Longitude": 103.85011762889827,
+            "Latitude": 1.33090220918791,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 24.1,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "52509",
+            "Longitude": 103.85017633434691,
+            "Latitude": 1.33115712303762,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "52261",
+            "Longitude": 103.85128140448401,
+            "Latitude": 1.33403167346972,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Opp Blk 73"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "52271",
+            "Longitude": 103.84974718092391,
+            "Latitude": 1.33683113907107,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Jackson Sq"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "52369",
+            "Longitude": 103.85273333299853,
+            "Latitude": 1.34001833298065,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 237"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "52039",
+            "Longitude": 103.85130310024304,
+            "Latitude": 1.34333817728421,
+            "RoadName": "Braddell Rd",
+            "Description": "Aft Muhajirin Mque"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "53219",
+            "Longitude": 103.8465836110301,
+            "Latitude": 1.34606111102286,
+            "RoadName": "Bishan Rd",
+            "Description": "Raffles Instn"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "53239",
+            "Longitude": 103.8476587818646,
+            "Latitude": 1.35100305612802,
+            "RoadName": "Bishan Rd",
+            "Description": "OPP BISHAN STN"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "53391",
+            "Longitude": 103.84696320325273,
+            "Latitude": 1.35444291744538,
+            "RoadName": "Bishan St 22",
+            "Description": "Opp Blk 203"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "53381",
+            "Longitude": 103.84496212009292,
+            "Latitude": 1.35830432828214,
+            "RoadName": "Bishan St 22",
+            "Description": "Bishan Nth Shop Mall"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "53371",
+            "Longitude": 103.84379568310376,
+            "Latitude": 1.35994333341045,
+            "RoadName": "Bishan St 22",
+            "Description": "Blk 257"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "53161",
+            "Longitude": 103.84214462138529,
+            "Latitude": 1.36221142414319,
+            "RoadName": "Marymount Rd",
+            "Description": "Opp Blk 254"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "54011",
+            "Longitude": 103.84341042482097,
+            "Latitude": 1.36567044820875,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Blk 207"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "54241",
+            "Longitude": 103.84618005827467,
+            "Latitude": 1.36913518643274,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 700B"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "54261",
+            "Longitude": 103.85075454495572,
+            "Latitude": 1.36946941916508,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Ang Mo Kio Stn"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "54271",
+            "Longitude": 103.85356664655984,
+            "Latitude": 1.36996326781056,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 586"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "54281",
+            "Longitude": 103.85601277845504,
+            "Latitude": 1.3694902568174,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 570"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "54581",
+            "Longitude": 103.85665833302312,
+            "Latitude": 1.37105833303092,
+            "RoadName": "Ang Mo Kio Ave 10",
+            "Description": "Blk 574"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "54571",
+            "Longitude": 103.85491933752174,
+            "Latitude": 1.37425472964633,
+            "RoadName": "Ang Mo Kio Ave 10",
+            "Description": "Blk 532"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "54481",
+            "Longitude": 103.855765341723,
+            "Latitude": 1.37599497932237,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Ite Coll Ctrl"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "54491",
+            "Longitude": 103.86010323265269,
+            "Latitude": 1.37717165299187,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Aft CTE"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "54501",
+            "Longitude": 103.86266305598139,
+            "Latitude": 1.37787138898682,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp AMK Ind Pk 2"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "54651",
+            "Longitude": 103.86551861831312,
+            "Latitude": 1.37854275740549,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp Techplace 2"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "66451",
+            "Longitude": 103.86854361874474,
+            "Latitude": 1.37872496881803,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Aft AMK Ind Pk 2"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "66461",
+            "Longitude": 103.87128027800178,
+            "Latitude": 1.37889000002038,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Bef Seagate"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "66471",
+            "Longitude": 103.8743605559661,
+            "Latitude": 1.37895833299995,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Bef Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "66481",
+            "Longitude": 103.8783096213561,
+            "Latitude": 1.3791866640778,
+            "RoadName": "Buangkok Green",
+            "Description": "Opp Blk 968"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "66491",
+            "Longitude": 103.88260194401967,
+            "Latitude": 1.37936944398935,
+            "RoadName": "Buangkok Green",
+            "Description": "Opp Blk 910"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "64619",
+            "Longitude": 103.88468027114665,
+            "Latitude": 1.37809338718149,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Opp Blk 913"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "64609",
+            "Longitude": 103.884701388976,
+            "Latitude": 1.37595638900393,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 687"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "64419",
+            "Longitude": 103.88521854859373,
+            "Latitude": 1.37339164793235,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 681"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "64341",
+            "Longitude": 103.88633750747994,
+            "Latitude": 1.3729130421635,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Bef Blk 683"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "64351",
+            "Longitude": 103.88808212175417,
+            "Latitude": 1.37481110511316,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Opp Montfort Sch"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "64361",
+            "Longitude": 103.89054894445846,
+            "Latitude": 1.37634509209583,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 535"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "64031",
+            "Longitude": 103.893660799245,
+            "Latitude": 1.37699995735935,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 436"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "64021",
+            "Longitude": 103.89663845377325,
+            "Latitude": 1.37788950153352,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 458"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "65011",
+            "Longitude": 103.89720951783346,
+            "Latitude": 1.38159696830765,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp The Rivervale"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "65021",
+            "Longitude": 103.89961345545082,
+            "Latitude": 1.38403136207098,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp Blk 110"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "65031",
+            "Longitude": 103.90162639249785,
+            "Latitude": 1.38711827264676,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 227D"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "65041",
+            "Longitude": 103.90162265734195,
+            "Latitude": 1.38984412426173,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 231"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "65061",
+            "Longitude": 103.9018594759131,
+            "Latitude": 1.39490129020977,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 298A"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "65199",
+            "Longitude": 103.90542736761212,
+            "Latitude": 1.39591721161169,
+            "RoadName": "TPE",
+            "Description": "Aft Punggol Rd"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "77339",
+            "Longitude": 103.93278653475954,
+            "Latitude": 1.3780301775267,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "77279",
+            "Longitude": 103.9346621770568,
+            "Latitude": 1.38079641020594,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Aft Pasir Ris Ind Dr 1"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "77269",
+            "Longitude": 103.9357870042478,
+            "Latitude": 1.38289337444624,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Opp Blk 717"
+        },
+        {
+            "Distance": 21.9,
+            "BusStopCode": "77259",
+            "Longitude": 103.93855855739126,
+            "Latitude": 1.3827163599648,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Blk 713"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "77219",
+            "Longitude": 103.94064766803564,
+            "Latitude": 1.3805766269449,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Blk 626"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "77209",
+            "Longitude": 103.94271591238348,
+            "Latitude": 1.37902915784394,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Blk 601"
+        },
+        {
+            "Distance": 23.1,
+            "BusStopCode": "77199",
+            "Longitude": 103.94566567184114,
+            "Latitude": 1.37707803132455,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Blk 500A"
+        },
+        {
+            "Distance": 23.8,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int"
+        }
+    ]
+}

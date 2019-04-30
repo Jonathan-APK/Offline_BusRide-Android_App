@@ -1,0 +1,380 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "64041",
+            "Longitude": 103.89535999996711,
+            "Latitude": 1.37016500002901,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "The Midtown"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "64051",
+            "Longitude": 103.89777362456783,
+            "Latitude": 1.37239666924933,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 465A"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "64071",
+            "Longitude": 103.89724811886428,
+            "Latitude": 1.37514056376267,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Opp Punggol Pk"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "64039",
+            "Longitude": 103.89393761218089,
+            "Latitude": 1.37668753222312,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 434"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "64369",
+            "Longitude": 103.89149353867691,
+            "Latitude": 1.37634448413795,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 532"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "64359",
+            "Longitude": 103.88918760776436,
+            "Latitude": 1.37528677811119,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Montfort Sch"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "64349",
+            "Longitude": 103.88673982857989,
+            "Latitude": 1.37291834719604,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 502"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "63379",
+            "Longitude": 103.88521000000019,
+            "Latitude": 1.37079666702428,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 608"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "63389",
+            "Longitude": 103.882445169636,
+            "Latitude": 1.37063835467565,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Opp Xinmin Pr Sch"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "63399",
+            "Longitude": 103.8802849999831,
+            "Latitude": 1.37022333300436,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 632"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "63319",
+            "Longitude": 103.87814733411857,
+            "Latitude": 1.36921737828483,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 634"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "63219",
+            "Longitude": 103.8762710483349,
+            "Latitude": 1.36856637012739,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Blk 139"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "63209",
+            "Longitude": 103.87522122785421,
+            "Latitude": 1.36605804817414,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Toho Green"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "63199",
+            "Longitude": 103.87383805598819,
+            "Latitude": 1.36327972197547,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Nth Ave 1"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "63189",
+            "Longitude": 103.87363460960414,
+            "Latitude": 1.36133997852966,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Gdn Way"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "63179",
+            "Longitude": 103.87393532776181,
+            "Latitude": 1.35999305129204,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Tai Seng Chr Ch"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "63369",
+            "Longitude": 103.87410388898788,
+            "Latitude": 1.35663166702793,
+            "RoadName": "Yio Chu Kang Link",
+            "Description": "Serangoon Sports Cplx"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "66379",
+            "Longitude": 103.87285801649963,
+            "Latitude": 1.35339155862192,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "62139",
+            "Longitude": 103.87341165935781,
+            "Latitude": 1.3490461240579,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit A/Blk 413"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "62129",
+            "Longitude": 103.87205488524701,
+            "Latitude": 1.34698958928417,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 403"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "62119",
+            "Longitude": 103.8710922003054,
+            "Latitude": 1.34483265931476,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Sunshine Lodge"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "61049",
+            "Longitude": 103.8709686110327,
+            "Latitude": 1.34196277802503,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Bartley Rd"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "61039",
+            "Longitude": 103.87084881783568,
+            "Latitude": 1.33845332842129,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Woodleigh Stn Exit A"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "61029",
+            "Longitude": 103.87051588342655,
+            "Latitude": 1.33596832935372,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Woodleigh Pk"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "61019",
+            "Longitude": 103.86976166703383,
+            "Latitude": 1.33320166700854,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 101"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "60269",
+            "Longitude": 103.86922890950602,
+            "Latitude": 1.33099030126892,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Potong Pasir Stn Exit B"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "60209",
+            "Longitude": 103.86896099565628,
+            "Latitude": 1.32986133945973,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Sant Ritz"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "60179",
+            "Longitude": 103.86834025123765,
+            "Latitude": 1.32634025655419,
+            "RoadName": "Bendemeer Rd",
+            "Description": "MOM Svcs Ctr"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "60159",
+            "Longitude": 103.86764196002876,
+            "Latitude": 1.32409476572475,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Blk 54"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "60139",
+            "Longitude": 103.86628982237994,
+            "Latitude": 1.32204861560134,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Blk 44"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "60119",
+            "Longitude": 103.8642148620878,
+            "Latitude": 1.31889711409084,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Opp Boon Keng Stn"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "60099",
+            "Longitude": 103.86086821464755,
+            "Latitude": 1.31456420794151,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Bef Lavender St"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "07329",
+            "Longitude": 103.85989088288474,
+            "Latitude": 1.31284472583438,
+            "RoadName": "Jln Besar",
+            "Description": "Hoa Nam Bldg"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "07319",
+            "Longitude": 103.85870666696984,
+            "Latitude": 1.31038833299803,
+            "RoadName": "Jln Besar",
+            "Description": "Aft Allenby Rd"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "07419",
+            "Longitude": 103.8561630249311,
+            "Latitude": 1.30653024120879,
+            "RoadName": "Jln Besar",
+            "Description": "Opp Veerasamy Rd"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "07529",
+            "Longitude": 103.85501564257024,
+            "Latitude": 1.30431906266143,
+            "RoadName": "Jln Besar",
+            "Description": "JLN BESAR STN EXIT A"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "07518",
+            "Longitude": 103.8521798624137,
+            "Latitude": 1.30097493989394,
+            "RoadName": "Bencoolen St",
+            "Description": "OPP NAFA CAMPUS 3"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "04019",
+            "Longitude": 103.84975607305783,
+            "Latitude": 1.29807216909408,
+            "RoadName": "Bencoolen St",
+            "Description": "OPP BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "04159",
+            "Longitude": 103.85108138663934,
+            "Latitude": 1.29489484954945,
+            "RoadName": "Victoria St",
+            "Description": "Aft Chijmes"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "04149",
+            "Longitude": 103.84983741344308,
+            "Latitude": 1.29276132399953,
+            "RoadName": "Hill St",
+            "Description": "Grand Pk City Hall"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "04229",
+            "Longitude": 103.84875123545265,
+            "Latitude": 1.29044830830726,
+            "RoadName": "Hill St",
+            "Description": "High St Ctr"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "04239",
+            "Longitude": 103.8474938118651,
+            "Latitude": 1.28882717929599,
+            "RoadName": "New Bridge Rd",
+            "Description": "Clarke Quay Stn"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "05059",
+            "Longitude": 103.84575036447065,
+            "Latitude": 1.28676420118491,
+            "RoadName": "New Bridge Rd",
+            "Description": "Hong Lim Pk"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "05049",
+            "Longitude": 103.84455070696784,
+            "Latitude": 1.28531114761754,
+            "RoadName": "New Bridge Rd",
+            "Description": "Chinatown Pt"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "05039",
+            "Longitude": 103.84254276754574,
+            "Latitude": 1.28293819129834,
+            "RoadName": "New Bridge Rd",
+            "Description": "New Bridge Ctr"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "05019",
+            "Longitude": 103.84105000000471,
+            "Latitude": 1.28118388885484,
+            "RoadName": "New Bridge Rd",
+            "Description": "Opp Pearl's Ctr"
+        }
+    ]
+}

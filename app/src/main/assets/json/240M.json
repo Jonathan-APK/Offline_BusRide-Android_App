@@ -1,0 +1,124 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "28091",
+            "Longitude": 103.72012487725401,
+            "Latitude": 1.34425795644531,
+            "RoadName": "Boon Lay Way",
+            "Description": "Lakeside Stn"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "21231",
+            "Longitude": 103.71599040338819,
+            "Latitude": 1.34359535075913,
+            "RoadName": "Corporation Rd",
+            "Description": "Blk 203"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "21451",
+            "Longitude": 103.71473000001441,
+            "Latitude": 1.34524833302487,
+            "RoadName": "Boon Lay Dr",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "21449",
+            "Longitude": 103.71306138901696,
+            "Latitude": 1.34639805597018,
+            "RoadName": "Boon Lay Pl",
+            "Description": "Boon Lay Shop Ctr"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "21439",
+            "Longitude": 103.71165888901649,
+            "Latitude": 1.34842277796612,
+            "RoadName": "Boon Lay Pl",
+            "Description": "Boon Lay CC"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "21429",
+            "Longitude": 103.71059149459593,
+            "Latitude": 1.34740203306581,
+            "RoadName": "Boon Lay Ave",
+            "Description": "Blk 185"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "21419",
+            "Longitude": 103.71057645840757,
+            "Latitude": 1.34388060681347,
+            "RoadName": "Boon Lay Dr",
+            "Description": "Blk 188"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "22499",
+            "Longitude": 103.70488157561539,
+            "Latitude": 1.33752755300605,
+            "RoadName": "Jurong West St 64",
+            "Description": "Opp Blk 662C"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "21411",
+            "Longitude": 103.71033048575686,
+            "Latitude": 1.34393270141852,
+            "RoadName": "Boon Lay Dr",
+            "Description": "Opp Blk 188"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "21421",
+            "Longitude": 103.71032595632526,
+            "Latitude": 1.34720307776277,
+            "RoadName": "Boon Lay Ave",
+            "Description": "Blk 176"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "21431",
+            "Longitude": 103.71241055602675,
+            "Latitude": 1.34765638897246,
+            "RoadName": "Boon Lay Pl",
+            "Description": "Blk 210"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "21441",
+            "Longitude": 103.71326229185901,
+            "Latitude": 1.34638242521451,
+            "RoadName": "Boon Lay Pl",
+            "Description": "Blk 207"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "21459",
+            "Longitude": 103.71491332975407,
+            "Latitude": 1.3455804550235,
+            "RoadName": "Boon Lay Dr",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "21239",
+            "Longitude": 103.71633035405124,
+            "Latitude": 1.34450482589547,
+            "RoadName": "Corporation Rd",
+            "Description": "Opp Blk 203"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "28099",
+            "Longitude": 103.71929832147642,
+            "Latitude": 1.34432009933148,
+            "RoadName": "Boon Lay Way",
+            "Description": "Opp Lakeside Stn"
+        }
+    ]
+}

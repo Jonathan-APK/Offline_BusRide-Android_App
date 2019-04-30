@@ -1,0 +1,84 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "10089",
+            "Longitude": 103.82165660905856,
+            "Latitude": 1.28292332245689,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Blk 119"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "10369",
+            "Longitude": 103.82387343933006,
+            "Latitude": 1.28037471151153,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Opp Cendex Ctr"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "14039",
+            "Longitude": 103.82345826768822,
+            "Latitude": 1.27663637861466,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Opp St. Theresa's Convent"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "14389",
+            "Longitude": 103.82500895193466,
+            "Latitude": 1.27428160509375,
+            "RoadName": "Bt Purmei Ave",
+            "Description": "Opp Blk 109"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "14381",
+            "Longitude": 103.82554290547176,
+            "Latitude": 1.27413014152159,
+            "RoadName": "Bt Purmei Ave",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "14031",
+            "Longitude": 103.82306027800865,
+            "Latitude": 1.27624277802151,
+            "RoadName": "Lower Delta Rd",
+            "Description": "St. Theresa's Convent"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "10361",
+            "Longitude": 103.82353025808791,
+            "Latitude": 1.28038092060065,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Cendex Ctr"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "10081",
+            "Longitude": 103.82241744338572,
+            "Latitude": 1.2822783541702,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Opp Blk 120"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int (Last Stop)"
+        }
+    ]
+}

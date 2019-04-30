@@ -1,0 +1,204 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "28441",
+            "Longitude": 103.73884916698127,
+            "Latitude": 1.33576638902918,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "28071",
+            "Longitude": 103.73904242961275,
+            "Latitude": 1.33765035288669,
+            "RoadName": "Boon Lay Way",
+            "Description": "Blk 105"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "28081",
+            "Longitude": 103.73664764665054,
+            "Latitude": 1.33950830792818,
+            "RoadName": "Boon Lay Way",
+            "Description": "Blk 112"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "28281",
+            "Longitude": 103.73537548132207,
+            "Latitude": 1.3420603281321,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Parc Oasis"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "28451",
+            "Longitude": 103.73465998158574,
+            "Latitude": 1.34394189080479,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Parc Oasis"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "28461",
+            "Longitude": 103.73205383657178,
+            "Latitude": 1.345332402809,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Blk 347"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "28491",
+            "Longitude": 103.7307863306416,
+            "Latitude": 1.34905596073619,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Opp Jurong Polyclinic"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "28501",
+            "Longitude": 103.72737769835274,
+            "Latitude": 1.34980328426271,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 490"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "28511",
+            "Longitude": 103.7237236090261,
+            "Latitude": 1.35063596491215,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 463"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "28521",
+            "Longitude": 103.72120042369096,
+            "Latitude": 1.35097548065061,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 457"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "28401",
+            "Longitude": 103.71861401513462,
+            "Latitude": 1.3506545513673,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 502"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "28541",
+            "Longitude": 103.7172600000334,
+            "Latitude": 1.35235805602121,
+            "RoadName": "Jurong West St 42",
+            "Description": "Blk 551"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "28551",
+            "Longitude": 103.71993998752167,
+            "Latitude": 1.35309201855261,
+            "RoadName": "Jurong West St 42",
+            "Description": "Blk 560A"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "28561",
+            "Longitude": 103.72232429359829,
+            "Latitude": 1.35318546958489,
+            "RoadName": "Jurong West St 42",
+            "Description": "Blk 402"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "28571",
+            "Longitude": 103.72542293305399,
+            "Latitude": 1.35242067621829,
+            "RoadName": "Jurong West St 42",
+            "Description": "Blk 416"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "28509",
+            "Longitude": 103.72654009750788,
+            "Latitude": 1.35003470887569,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 422"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "28499",
+            "Longitude": 103.73046199733298,
+            "Latitude": 1.34963044051902,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Jurong Polyclinic"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "28469",
+            "Longitude": 103.73193313637753,
+            "Latitude": 1.34612717332075,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Blk 316"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "28459",
+            "Longitude": 103.7343152870331,
+            "Latitude": 1.34440772894012,
+            "RoadName": "Jurong East Ave 1",
+            "Description": "Opp Parc Oasis"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "28289",
+            "Longitude": 103.73598888901057,
+            "Latitude": 1.34238972202327,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 228"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "28089",
+            "Longitude": 103.73634638831608,
+            "Latitude": 1.34016358625469,
+            "RoadName": "Boon Lay Way",
+            "Description": "Bef Yuhua CC"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "28079",
+            "Longitude": 103.7386009027093,
+            "Latitude": 1.33839906637569,
+            "RoadName": "Boon Lay Way",
+            "Description": "Blk 210"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "28449",
+            "Longitude": 103.73944500002973,
+            "Latitude": 1.33618166701348,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Bef Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int (Last Stop)"
+        }
+    ]
+}

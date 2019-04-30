@@ -1,0 +1,108 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "65341",
+            "Longitude": 103.9009230492748,
+            "Latitude": 1.40194694990354,
+            "RoadName": "Punggol Field",
+            "Description": "Opp Blk 272C"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "65331",
+            "Longitude": 103.89851804993967,
+            "Latitude": 1.4028650002354,
+            "RoadName": "Punggol Field",
+            "Description": "Opp Blk 268D"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "65551",
+            "Longitude": 103.8934,
+            "Latitude": 1.403856,
+            "RoadName": "Punggol Field",
+            "Description": "Blk 227A"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "65541",
+            "Longitude": 103.8912,
+            "Latitude": 1.403562,
+            "RoadName": "Sumang Crescent",
+            "Description": "Before Sumang Lane"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "65531",
+            "Longitude": 103.8936,
+            "Latitude": 1.4024,
+            "RoadName": "Sumang Lane",
+            "Description": "Blk 226A"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "65491",
+            "Longitude": 103.89496045471951,
+            "Latitude": 1.40456320178872,
+            "RoadName": "Sumang Walk",
+            "Description": "Opp Blk 259 CP"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "65441",
+            "Longitude": 103.89584023789142,
+            "Latitude": 1.40880111109758,
+            "RoadName": "Sumang Walk",
+            "Description": "Opp Blk 315B"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "65451",
+            "Longitude": 103.89759188105812,
+            "Latitude": 1.41068999997892,
+            "RoadName": "Sumang Walk",
+            "Description": "Blk 322 CP"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "65461",
+            "Longitude": 103.90129988103229,
+            "Latitude": 1.40985888889928,
+            "RoadName": "Sumang Link",
+            "Description": "Blk 312 CP"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "65481",
+            "Longitude": 103.90603964310132,
+            "Latitude": 1.40886523796853,
+            "RoadName": "Sentul Cres",
+            "Description": "Bef Punggol Dr"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "65351",
+            "Longitude": 103.90472620505594,
+            "Latitude": 1.40589404110743,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol View Pr Sch"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (Last Stop)"
+        }
+    ]
+}

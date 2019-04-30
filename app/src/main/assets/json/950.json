@@ -1,0 +1,188 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "46549",
+            "Longitude": 103.7812567265195,
+            "Latitude": 1.43319818915334,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 347"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "46539",
+            "Longitude": 103.77822365534921,
+            "Latitude": 1.43209962904173,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 320"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "46529",
+            "Longitude": 103.77459689006626,
+            "Latitude": 1.43208152770031,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Opp Marsiling Stn"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "46519",
+            "Longitude": 103.77213801008084,
+            "Latitude": 1.43554811627266,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp Blk 144"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "46509",
+            "Longitude": 103.7709643228368,
+            "Latitude": 1.43804390195153,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Town Gdn"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "46101",
+            "Longitude": 103.76774882217022,
+            "Latitude": 1.44460832436456,
+            "RoadName": "Woodlands Crossing",
+            "Description": "W'Lands Checkpt"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "46101",
+            "Longitude": 103.76774882217022,
+            "Latitude": 1.44460832436456,
+            "RoadName": "Woodlands Crossing",
+            "Description": "W'Lands Checkpt"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "46211",
+            "Longitude": 103.76547712149443,
+            "Latitude": 1.46491732433248,
+            "RoadName": "Johor Bahru",
+            "Description": "Johor Bahru Checkpt"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "46211",
+            "Longitude": 103.76547712149443,
+            "Latitude": 1.46491732433248,
+            "RoadName": "Johor Bahru",
+            "Description": "Johor Bahru Checkpt"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "47711",
+            "Longitude": 103.76442341207213,
+            "Latitude": 1.46345834112565,
+            "RoadName": "Jln Jim Quee",
+            "Description": "JB Sentral Bus Ter"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "46219",
+            "Longitude": 103.76826657164715,
+            "Latitude": 1.4654268105665,
+            "RoadName": "Johor Bahru",
+            "Description": "Johor Bahru Checkpt"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "46219",
+            "Longitude": 103.76826657164715,
+            "Latitude": 1.4654268105665,
+            "RoadName": "Johor Bahru",
+            "Description": "Johor Bahru Checkpt"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "46109",
+            "Longitude": 103.76925342517902,
+            "Latitude": 1.44694093553778,
+            "RoadName": "Woodlands Crossing",
+            "Description": "W'Lands Checkpt"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "46109",
+            "Longitude": 103.76925342517902,
+            "Latitude": 1.44694093553778,
+            "RoadName": "Woodlands Crossing",
+            "Description": "W'Lands Checkpt"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "46069",
+            "Longitude": 103.76933833799299,
+            "Latitude": 1.44288948418349,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Train Checkpt"
+        },
+        {
+            "Distance": 21.7,
+            "BusStopCode": "46088",
+            "Longitude": 103.77108660594439,
+            "Latitude": 1.44180914262822,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp Blk 1A"
+        },
+        {
+            "Distance": 22.1,
+            "BusStopCode": "46501",
+            "Longitude": 103.77118912980488,
+            "Latitude": 1.43796940271606,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp W'Lands Town Gdn"
+        },
+        {
+            "Distance": 22.5,
+            "BusStopCode": "46511",
+            "Longitude": 103.77255675974702,
+            "Latitude": 1.43438229479103,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Marsiling Pr Sch"
+        },
+        {
+            "Distance": 22.9,
+            "BusStopCode": "46521",
+            "Longitude": 103.77429333367095,
+            "Latitude": 1.43237833345523,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Marsiling Stn"
+        },
+        {
+            "Distance": 23.3,
+            "BusStopCode": "46531",
+            "Longitude": 103.77751138903017,
+            "Latitude": 1.43240249999047,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 173"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "46541",
+            "Longitude": 103.78083569681783,
+            "Latitude": 1.43328331503309,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Opp Blk 347"
+        },
+        {
+            "Distance": 24.4,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (Last Stop)"
+        }
+    ]
+}

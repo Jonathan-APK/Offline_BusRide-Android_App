@@ -1,0 +1,388 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52499",
+            "Longitude": 103.85537211273478,
+            "Latitude": 1.32603759751245,
+            "RoadName": "Whampoa Rd",
+            "Description": "St. Michael's Ter (First Stop)"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "52451",
+            "Longitude": 103.85731928602708,
+            "Latitude": 1.3253199216809,
+            "RoadName": "Whampoa Rd",
+            "Description": "Blk 114"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "52129",
+            "Longitude": 103.85938111100755,
+            "Latitude": 1.32544666698102,
+            "RoadName": "Jln Bahagia",
+            "Description": "Blk 29"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "52109",
+            "Longitude": 103.8581711110213,
+            "Latitude": 1.32697666701265,
+            "RoadName": "Jln Bahagia",
+            "Description": "Bet Blks 33/34"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "52099",
+            "Longitude": 103.85488905075222,
+            "Latitude": 1.32652328466497,
+            "RoadName": "Kim Keat Rd",
+            "Description": "Opp NKF"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "50159",
+            "Longitude": 103.85326623915941,
+            "Latitude": 1.32456066077113,
+            "RoadName": "Kim Keat Rd",
+            "Description": "Bef Kim Keat Lane"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "50211",
+            "Longitude": 103.8525670514891,
+            "Latitude": 1.32306968689436,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Balestier Pt"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "50221",
+            "Longitude": 103.8530377626759,
+            "Latitude": 1.32143805851672,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Balestier Twrs"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "50231",
+            "Longitude": 103.85492583301323,
+            "Latitude": 1.31872472201456,
+            "RoadName": "Balestier Rd",
+            "Description": "Northlight Sch"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "50241",
+            "Longitude": 103.8572754498738,
+            "Latitude": 1.31724802771626,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp S'pore Khalsa Assn"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "60101",
+            "Longitude": 103.86004042483177,
+            "Latitude": 1.31783421341306,
+            "RoadName": "S'goon Rd",
+            "Description": "Kwong Wai Shiu Hosp"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "60121",
+            "Longitude": 103.86179781146463,
+            "Latitude": 1.32008815616383,
+            "RoadName": "S'goon Rd",
+            "Description": "Boon Keng Stn/Blk 102"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "60141",
+            "Longitude": 103.86385682733587,
+            "Latitude": 1.32258753768004,
+            "RoadName": "S'goon Rd",
+            "Description": "Opp Bendemeer Pr Sch"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "60161",
+            "Longitude": 103.8655673081052,
+            "Latitude": 1.32477289725503,
+            "RoadName": "S'goon Rd",
+            "Description": "St. Michael's Pl"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "60211",
+            "Longitude": 103.87049674985374,
+            "Latitude": 1.32855071811735,
+            "RoadName": "MacPherson Rd",
+            "Description": "Aft Tai Thong Cres"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "70361",
+            "Longitude": 103.87346222198977,
+            "Latitude": 1.32859972197494,
+            "RoadName": "Genting Lane",
+            "Description": "BEF GENTING LK"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "70341",
+            "Longitude": 103.87490379761162,
+            "Latitude": 1.32626471325242,
+            "RoadName": "Tannery Rd",
+            "Description": "Tannery Blk"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "70321",
+            "Longitude": 103.87674093245458,
+            "Latitude": 1.32247982189668,
+            "RoadName": "Kallang Way",
+            "Description": "Aft Kallang Way 1"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "70311",
+            "Longitude": 103.87901421599854,
+            "Latitude": 1.32335569812186,
+            "RoadName": "Kallang Way",
+            "Description": "Aft Genting Lane"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "70019",
+            "Longitude": 103.88145725676175,
+            "Latitude": 1.32322990499562,
+            "RoadName": "Aljunied Rd",
+            "Description": "Blk 125"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "80239",
+            "Longitude": 103.88051104388848,
+            "Latitude": 1.31846350927886,
+            "RoadName": "Sims Dr",
+            "Description": "Bef Blk 53"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "80229",
+            "Longitude": 103.87810554835914,
+            "Latitude": 1.3172897212662,
+            "RoadName": "Sims Dr",
+            "Description": "Blk 45"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "80269",
+            "Longitude": 103.8783609867014,
+            "Latitude": 1.31501452983156,
+            "RoadName": "Lor 17 Geylang",
+            "Description": "Bef Sims Ave"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "80091",
+            "Longitude": 103.88095141640784,
+            "Latitude": 1.31489775184137,
+            "RoadName": "Sims Ave",
+            "Description": "Bef Lor 23 Geylang"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "81081",
+            "Longitude": 103.88168156879213,
+            "Latitude": 1.31621665907428,
+            "RoadName": "Aljunied Rd",
+            "Description": "Opp Aljunied Stn"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "81091",
+            "Longitude": 103.88173111103306,
+            "Latitude": 1.31935333297674,
+            "RoadName": "Aljunied Rd",
+            "Description": "Opp Blk 105"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "70011",
+            "Longitude": 103.88116008329277,
+            "Latitude": 1.32317687661433,
+            "RoadName": "Aljunied Rd",
+            "Description": "Opp Blk 125"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "70319",
+            "Longitude": 103.87904763225207,
+            "Latitude": 1.32319846234081,
+            "RoadName": "Kallang Way",
+            "Description": "Aft Kallang Way 4"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "70329",
+            "Longitude": 103.87682676312598,
+            "Latitude": 1.32229748021835,
+            "RoadName": "Kallang Way",
+            "Description": "Aft Kallang Way 2"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "70349",
+            "Longitude": 103.87447469442839,
+            "Latitude": 1.32598493140196,
+            "RoadName": "Tannery Rd",
+            "Description": "Bef Lor Bakar Batu"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "70359",
+            "Longitude": 103.87256886396422,
+            "Latitude": 1.32768812063773,
+            "RoadName": "Lor Bakar Batu",
+            "Description": "Aft Kallang Sector"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "60219",
+            "Longitude": 103.8704918465033,
+            "Latitude": 1.32829192682419,
+            "RoadName": "MacPherson Rd",
+            "Description": "Bef Siemens Ctr"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "60179",
+            "Longitude": 103.86834025123765,
+            "Latitude": 1.32634025655419,
+            "RoadName": "Bendemeer Rd",
+            "Description": "MOM Svcs Ctr"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "60159",
+            "Longitude": 103.86764196002876,
+            "Latitude": 1.32409476572475,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Blk 54"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "60139",
+            "Longitude": 103.86628982237994,
+            "Latitude": 1.32204861560134,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Blk 44"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "60119",
+            "Longitude": 103.8642148620878,
+            "Latitude": 1.31889711409084,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Opp Boon Keng Stn"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "60099",
+            "Longitude": 103.86086821464755,
+            "Latitude": 1.31456420794151,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Bef Lavender St"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "07329",
+            "Longitude": 103.85989088288474,
+            "Latitude": 1.31284472583438,
+            "RoadName": "Jln Besar",
+            "Description": "Hoa Nam Bldg"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "07231",
+            "Longitude": 103.85735391381444,
+            "Latitude": 1.30964820661492,
+            "RoadName": "Kitchener Rd",
+            "Description": "Bef Tai Hoe Hotel"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "07211",
+            "Longitude": 103.8563561439714,
+            "Latitude": 1.31313747728456,
+            "RoadName": "S'goon Rd",
+            "Description": "Sri Srinivasa Perumal Tp"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "07221",
+            "Longitude": 103.85788270432104,
+            "Latitude": 1.31503278656775,
+            "RoadName": "S'goon Rd",
+            "Description": "Sri Vadapathira K Tp"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "50249",
+            "Longitude": 103.85671387960308,
+            "Latitude": 1.31728239717191,
+            "RoadName": "Balestier Rd",
+            "Description": "S'pore Khalsa Assn"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "50239",
+            "Longitude": 103.85509172316276,
+            "Latitude": 1.31831836156155,
+            "RoadName": "Balestier Rd",
+            "Description": "S'pore Indian Assn"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "50229",
+            "Longitude": 103.85283489560972,
+            "Latitude": 1.32095764720403,
+            "RoadName": "Balestier Rd",
+            "Description": "Balestier Twrs"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "50991",
+            "Longitude": 103.85626145335385,
+            "Latitude": 1.32337986005569,
+            "RoadName": "Whampoa Dr",
+            "Description": "Blk 82"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "52129",
+            "Longitude": 103.85938111100755,
+            "Latitude": 1.32544666698102,
+            "RoadName": "Jln Bahagia",
+            "Description": "Blk 29"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "52109",
+            "Longitude": 103.8581711110213,
+            "Latitude": 1.32697666701265,
+            "RoadName": "Jln Bahagia",
+            "Description": "Bet Blks 33/34"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "52499",
+            "Longitude": 103.85537211273478,
+            "Latitude": 1.32603759751245,
+            "RoadName": "Whampoa Rd",
+            "Description": "St. Michael's Ter (Last Stop)"
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "16009",
+            "Longitude": 103.76988323197696,
+            "Latitude": 1.29425341056334,
+            "RoadName": "Clementi Rd",
+            "Description": "Kent Ridge Ter (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "16199",
+            "Longitude": 103.77072917887465,
+            "Latitude": 1.29639303583424,
+            "RoadName": "Kent Ridge Cres",
+            "Description": "NUS Fac Of Design & Env"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "16189",
+            "Longitude": 103.77284799997702,
+            "Latitude": 1.29736100001827,
+            "RoadName": "Kent Ridge Cres",
+            "Description": "Information Technology"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "16179",
+            "Longitude": 103.7741773272528,
+            "Latitude": 1.29898164227099,
+            "RoadName": "Kent Ridge Cres",
+            "Description": "Opp Yusof Ishak Hse"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "18329",
+            "Longitude": 103.77611416701255,
+            "Latitude": 1.2989244439988,
+            "RoadName": "Lower Kent Ridge Rd",
+            "Description": "University Health Ctr"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "18319",
+            "Longitude": 103.77813111102236,
+            "Latitude": 1.29752638901257,
+            "RoadName": "Lower Kent Ridge Rd",
+            "Description": "Opp University Hall"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "18309",
+            "Longitude": 103.78134198615086,
+            "Latitude": 1.29752011664987,
+            "RoadName": "Lower Kent Ridge Rd",
+            "Description": "Blk S17"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "18239",
+            "Longitude": 103.78318782626637,
+            "Latitude": 1.29678943404486,
+            "RoadName": "Lower Kent Ridge Rd",
+            "Description": "Opp NUH"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "18339",
+            "Longitude": 103.78507910002646,
+            "Latitude": 1.29379302903228,
+            "RoadName": "Lower Kent Ridge Rd",
+            "Description": "Opp Kent Ridge Stn Exit A"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "18121",
+            "Longitude": 103.7854209482613,
+            "Latitude": 1.29751168042934,
+            "RoadName": "Buona Vista Flyover",
+            "Description": "Opp Ayer Rajah Ind Est"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "18141",
+            "Longitude": 103.78788091438994,
+            "Latitude": 1.30418279677397,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Aft Anglo-Chinese JC"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "11361",
+            "Longitude": 103.79058123542397,
+            "Latitude": 1.30649698638726,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Stn Exit C"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "11189",
+            "Longitude": 103.79254222202354,
+            "Latitude": 1.30740138898924,
+            "RoadName": "C'wealth Ave",
+            "Description": "Blk 43"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "11401",
+            "Longitude": 103.79507444402137,
+            "Latitude": 1.30906722197973,
+            "RoadName": "Holland Ave",
+            "Description": "Holland V Stn Exit C"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "11261",
+            "Longitude": 103.79444621838488,
+            "Latitude": 1.31223168432152,
+            "RoadName": "Holland Rd",
+            "Description": "Holland Village"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "11259",
+            "Longitude": 103.79274002213417,
+            "Latitude": 1.31119887945564,
+            "RoadName": "Holland Dr",
+            "Description": "Opp Blk 21"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "11381",
+            "Longitude": 103.79328294102335,
+            "Latitude": 1.30841137865065,
+            "RoadName": "Holland Dr",
+            "Description": "Blk 10A"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "11181",
+            "Longitude": 103.79227638896938,
+            "Latitude": 1.30722333300814,
+            "RoadName": "C'wealth Ave",
+            "Description": "Opp Blk 43"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "11369",
+            "Longitude": 103.79084827741467,
+            "Latitude": 1.3063259638605,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Stn Exit D"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "18149",
+            "Longitude": 103.78724143833315,
+            "Latitude": 1.30253001117245,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Opp Anglo-Chinese JC"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "18129",
+            "Longitude": 103.78570767644749,
+            "Latitude": 1.29776225378985,
+            "RoadName": "Buona Vista Flyover",
+            "Description": "Ayer Rajah Ind Est"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "18331",
+            "Longitude": 103.78489139998855,
+            "Latitude": 1.2937072200211,
+            "RoadName": "Lower Kent Ridge Rd",
+            "Description": "Kent Ridge Stn Exit A/NUH"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "18221",
+            "Longitude": 103.78341318580553,
+            "Latitude": 1.29630305719228,
+            "RoadName": "Lower Kent Ridge Rd",
+            "Description": "NUH"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "18301",
+            "Longitude": 103.78111972198647,
+            "Latitude": 1.29741138896949,
+            "RoadName": "Lower Kent Ridge Rd",
+            "Description": "Lim Seng Tjoe Bldg (LT 27)"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "18311",
+            "Longitude": 103.77792133383952,
+            "Latitude": 1.29743814797617,
+            "RoadName": "Lower Kent Ridge Rd",
+            "Description": "Blk S12"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "18321",
+            "Longitude": 103.77561916702605,
+            "Latitude": 1.29879333297449,
+            "RoadName": "Lower Kent Ridge Rd",
+            "Description": "Opp University Health Ctr"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "16171",
+            "Longitude": 103.77438231319462,
+            "Latitude": 1.29890150201437,
+            "RoadName": "Kent Ridge Cres",
+            "Description": "Yusof Ishak Hse"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "16181",
+            "Longitude": 103.77254247664239,
+            "Latitude": 1.29656572408064,
+            "RoadName": "Kent Ridge Cres",
+            "Description": "Ctrl Lib"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "16191",
+            "Longitude": 103.7703702141818,
+            "Latitude": 1.29614307417349,
+            "RoadName": "Kent Ridge Cres",
+            "Description": "Opp NUS Fac Of Architect"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "16009",
+            "Longitude": 103.76988323197696,
+            "Latitude": 1.29425341056334,
+            "RoadName": "Clementi Rd",
+            "Description": "Kent Ridge Ter (Last Stop)"
+        }
+    ]
+}

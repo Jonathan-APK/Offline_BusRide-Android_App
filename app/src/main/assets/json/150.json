@@ -1,0 +1,172 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "82009",
+            "Longitude": 103.90180834139497,
+            "Latitude": 1.31933717157385,
+            "RoadName": "Eunos Rd 2",
+            "Description": "Eunos Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "82061",
+            "Longitude": 103.9022689641617,
+            "Latitude": 1.31876162629115,
+            "RoadName": "Sims Ave",
+            "Description": "Eunos Stn/ Int"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "83299",
+            "Longitude": 103.90586328314893,
+            "Latitude": 1.31574389673514,
+            "RoadName": "Still Rd",
+            "Description": "Aft Lor G Telok Kurau"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "83151",
+            "Longitude": 103.90911503893872,
+            "Latitude": 1.31488002411227,
+            "RoadName": "Joo Chiat Pl",
+            "Description": "Parkway East Hosp"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "83139",
+            "Longitude": 103.90997555601626,
+            "Latitude": 1.31451138900044,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "Aft Joo Chiat Pl"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "83129",
+            "Longitude": 103.91061094817724,
+            "Latitude": 1.31306365118709,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "Aft Ji Xiang Ct"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "92209",
+            "Longitude": 103.91147888898843,
+            "Latitude": 1.31101000002422,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "Aft Jln Baiduri"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "92309",
+            "Longitude": 103.91268253327297,
+            "Latitude": 1.30827858622776,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "East Coast Apts"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "92239",
+            "Longitude": 103.91266110940761,
+            "Latitude": 1.30438002120698,
+            "RoadName": "Marine Cres",
+            "Description": "Blk 45"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "92229",
+            "Longitude": 103.9162015914584,
+            "Latitude": 1.30515730682962,
+            "RoadName": "Marine Terr",
+            "Description": "Blk 53"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "92219",
+            "Longitude": 103.91665220259567,
+            "Latitude": 1.30633717232202,
+            "RoadName": "Marine Terr",
+            "Description": "Opp CHIJ Katong Convent"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "92079",
+            "Longitude": 103.91487671479106,
+            "Latitude": 1.3065780686947,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Blk 57"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "92301",
+            "Longitude": 103.9126288890594,
+            "Latitude": 1.30793535291547,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "Bef St. Patrick's Rd"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "92201",
+            "Longitude": 103.9112378097299,
+            "Latitude": 1.31117244269722,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "Aft Lor M Telok Kurau"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "83121",
+            "Longitude": 103.91063424326731,
+            "Latitude": 1.31260836391216,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "Bef Lor K Telok Kurau"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "83159",
+            "Longitude": 103.90947767042405,
+            "Latitude": 1.31480354064185,
+            "RoadName": "Joo Chiat Pl",
+            "Description": "Opp Parkway East Hosp"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "83169",
+            "Longitude": 103.90687033808844,
+            "Latitude": 1.31428121358171,
+            "RoadName": "Joo Chiat Pl",
+            "Description": "Bef Still Rd"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "83291",
+            "Longitude": 103.90589521764187,
+            "Latitude": 1.31473309387158,
+            "RoadName": "Still Rd",
+            "Description": "Aft Joo Chiat Pl"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "82069",
+            "Longitude": 103.90295147896967,
+            "Latitude": 1.31709537499354,
+            "RoadName": "Changi Rd",
+            "Description": "Aft Lor 106 Changi"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "82221",
+            "Longitude": 103.89900705591394,
+            "Latitude": 1.31760511655727,
+            "RoadName": "Jln Turi",
+            "Description": "Blk 3A"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "82009",
+            "Longitude": 103.90180834139497,
+            "Latitude": 1.31933717157385,
+            "RoadName": "Eunos Rd 2",
+            "Description": "Eunos Int (Last Stop)"
+        }
+    ]
+}

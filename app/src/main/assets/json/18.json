@@ -1,0 +1,372 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75019",
+            "Longitude": 103.9416488042812,
+            "Latitude": 1.35737133106172,
+            "RoadName": "Tampines Concourse",
+            "Description": "Tampines Concourse Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "76559",
+            "Longitude": 103.9434688889217,
+            "Latitude": 1.35556499992374,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "AFT TAMPINES STN EXIT E"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "76191",
+            "Longitude": 103.94477445426702,
+            "Latitude": 1.3569438864901,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 401"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "76201",
+            "Longitude": 103.9479674220669,
+            "Latitude": 1.35687499368341,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 423"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "76211",
+            "Longitude": 103.95100259167165,
+            "Latitude": 1.35674667237884,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 449"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "76221",
+            "Longitude": 103.95390226733993,
+            "Latitude": 1.3563896244901,
+            "RoadName": "Tampines Ave 7",
+            "Description": "TAMPINES EAST STN EXIT A"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "76231",
+            "Longitude": 103.95736200626966,
+            "Latitude": 1.35666908955685,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Tampines JC/Opp Blk 390"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "76469",
+            "Longitude": 103.95985048163843,
+            "Latitude": 1.35630339357193,
+            "RoadName": "Tampines St 34",
+            "Description": "East Spring Sec Sch"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "76439",
+            "Longitude": 103.96260527798987,
+            "Latitude": 1.35288166702581,
+            "RoadName": "Tampines St 33",
+            "Description": "Blk 351"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "76449",
+            "Longitude": 103.96113006140774,
+            "Latitude": 1.35207508249597,
+            "RoadName": "Tampines St 33",
+            "Description": "Blk 343"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "76459",
+            "Longitude": 103.95873194771903,
+            "Latitude": 1.35208003080961,
+            "RoadName": "Tampines St 33",
+            "Description": "Blk 323"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "76419",
+            "Longitude": 103.95648530342,
+            "Latitude": 1.35366243500181,
+            "RoadName": "Tampines St 32",
+            "Description": "Blk 307A"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "76109",
+            "Longitude": 103.9551184525466,
+            "Latitude": 1.35296639979416,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "76099",
+            "Longitude": 103.95249172187374,
+            "Latitude": 1.35026359502623,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 285"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "76089",
+            "Longitude": 103.94923388889873,
+            "Latitude": 1.34916805553714,
+            "RoadName": "Tampines Ave 2",
+            "Description": "The Holy Trinity Ch"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "76079",
+            "Longitude": 103.94563500000055,
+            "Latitude": 1.34794388891649,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "75059",
+            "Longitude": 103.9402168928283,
+            "Latitude": 1.34471168546511,
+            "RoadName": "Tampines Ave 1",
+            "Description": "BEF TAMPINES WEST STN"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "75069",
+            "Longitude": 103.93669999999881,
+            "Latitude": 1.34066333296943,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Bedok Reform Trg Ctr"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "75349",
+            "Longitude": 103.9339578151498,
+            "Latitude": 1.33811824869625,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "The Clearwater Condo"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "84209",
+            "Longitude": 103.93333589306084,
+            "Latitude": 1.33702513693776,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "BEDOK RESVR STN EXIT B"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "84349",
+            "Longitude": 103.93233223449336,
+            "Latitude": 1.33091748609947,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Fengshan Pr Sch"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "84331",
+            "Longitude": 103.93099993868753,
+            "Latitude": 1.32898829919632,
+            "RoadName": "Bedok Nth Ave 2",
+            "Description": "Opp Blk 416"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "84339",
+            "Longitude": 103.93079062255664,
+            "Latitude": 1.32874469952532,
+            "RoadName": "Bedok Nth Ave 2",
+            "Description": "Blk 416"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "84341",
+            "Longitude": 103.93198370934411,
+            "Latitude": 1.33110349338955,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Opp Fengshan Pr Sch"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "84521",
+            "Longitude": 103.93393805556471,
+            "Latitude": 1.33230500002897,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 506"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "84201",
+            "Longitude": 103.93309401156243,
+            "Latitude": 1.33660054449421,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "BEDOK RESVR STN EXIT A"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "75341",
+            "Longitude": 103.933861255669,
+            "Latitude": 1.33832204097015,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp The Clearwater Condo"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "75061",
+            "Longitude": 103.93646836281481,
+            "Latitude": 1.34071391760745,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Bedok Reform Trg Ctr"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "75051",
+            "Longitude": 103.94008153173421,
+            "Latitude": 1.34503394154132,
+            "RoadName": "Tampines Ave 1",
+            "Description": "TAMPINES WEST STN EXIT B"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "76071",
+            "Longitude": 103.94517805600674,
+            "Latitude": 1.34802638899143,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 141"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "76081",
+            "Longitude": 103.94932305553937,
+            "Latitude": 1.34950194446778,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Opp The Holy Trinity Ch"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "76091",
+            "Longitude": 103.95275166965992,
+            "Latitude": 1.35071636446812,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "76101",
+            "Longitude": 103.95480210652737,
+            "Latitude": 1.35303315550855,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Tampines East CC"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "76411",
+            "Longitude": 103.95742752062093,
+            "Latitude": 1.35385001382018,
+            "RoadName": "Tampines St 32",
+            "Description": "Ngee Ann Sec Sch"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "76451",
+            "Longitude": 103.95928609997816,
+            "Latitude": 1.35220340979899,
+            "RoadName": "Tampines St 33",
+            "Description": "BLK 324"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "76441",
+            "Longitude": 103.96105194447786,
+            "Latitude": 1.35219503409437,
+            "RoadName": "Tampines St 33",
+            "Description": "OPP BLK 345"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "76431",
+            "Longitude": 103.96245119245184,
+            "Latitude": 1.3527912713989,
+            "RoadName": "Tampines St 33",
+            "Description": "BLK 333"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "76461",
+            "Longitude": 103.95981833302024,
+            "Latitude": 1.35610972200156,
+            "RoadName": "Tampines St 34",
+            "Description": "Eden Condo"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "76239",
+            "Longitude": 103.95752447018292,
+            "Latitude": 1.35646655532488,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 390/Opp Tampines JC"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "76229",
+            "Longitude": 103.95353851635838,
+            "Latitude": 1.35614001051089,
+            "RoadName": "Tampines Ave 7",
+            "Description": "OPP TAMPINES EAST STN"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "76219",
+            "Longitude": 103.95114418566536,
+            "Latitude": 1.35644168689504,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 230E"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "76209",
+            "Longitude": 103.94766913185744,
+            "Latitude": 1.35660332787929,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 233"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "76199",
+            "Longitude": 103.94535428432116,
+            "Latitude": 1.35660016333768,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 503"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "76551",
+            "Longitude": 103.943599,
+            "Latitude": 1.355401,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "TAMPINES STN EXIT D"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "75019",
+            "Longitude": 103.9416488042812,
+            "Latitude": 1.35737133106172,
+            "RoadName": "Tampines Concourse",
+            "Description": "Tampines Concourse Int (Last Stop)"
+        }
+    ]
+}

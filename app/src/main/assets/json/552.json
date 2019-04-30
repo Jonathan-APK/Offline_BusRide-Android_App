@@ -1,0 +1,116 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "76279",
+            "Longitude": 103.95504580030337,
+            "Latitude": 1.3618856073242,
+            "RoadName": "Tampines St 45",
+            "Description": "Blk 491C"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "76269",
+            "Longitude": 103.95739818627865,
+            "Latitude": 1.36187820405808,
+            "RoadName": "Tampines St 45",
+            "Description": "Opp Blk 489A"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "76259",
+            "Longitude": 103.95842446373796,
+            "Latitude": 1.35967015846114,
+            "RoadName": "Tampines St 45",
+            "Description": "Opp Blk 487B"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "76469",
+            "Longitude": 103.95985048163843,
+            "Latitude": 1.35630339357193,
+            "RoadName": "Tampines St 34",
+            "Description": "East Spring Sec Sch"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "76429",
+            "Longitude": 103.9595890045465,
+            "Latitude": 1.35369222069272,
+            "RoadName": "Tampines St 32",
+            "Description": "Blk 331"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "76419",
+            "Longitude": 103.95648530342,
+            "Latitude": 1.35366243500181,
+            "RoadName": "Tampines St 32",
+            "Description": "Blk 307A"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "76109",
+            "Longitude": 103.9551184525466,
+            "Latitude": 1.35296639979416,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "76099",
+            "Longitude": 103.95249172187374,
+            "Latitude": 1.35026359502623,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 285"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "76089",
+            "Longitude": 103.94923388889873,
+            "Latitude": 1.34916805553714,
+            "RoadName": "Tampines Ave 2",
+            "Description": "The Holy Trinity Ch"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "76079",
+            "Longitude": 103.94563500000055,
+            "Latitude": 1.34794388891649,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 25.7,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 26,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 26.3,
+            "BusStopCode": "03031",
+            "Longitude": 103.85086074925066,
+            "Latitude": 1.28207492207952,
+            "RoadName": "Robinson Rd",
+            "Description": "Raffles Pl Stn Exit F"
+        },
+        {
+            "Distance": 26.9,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        }
+    ]
+}

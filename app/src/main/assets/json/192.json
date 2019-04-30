@@ -1,0 +1,534 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "22251",
+            "Longitude": 103.70265666700926,
+            "Latitude": 1.34073333303053,
+            "RoadName": "Jurong West St 62",
+            "Description": "Blk 665A"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "22241",
+            "Longitude": 103.69938392223636,
+            "Latitude": 1.34012270744787,
+            "RoadName": "Jurong West St 62",
+            "Description": "Opp Blk 622"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "22539",
+            "Longitude": 103.69838678279567,
+            "Latitude": 1.33919523713654,
+            "RoadName": "Jurong West St 61",
+            "Description": "Jurong West Pr Sch"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "22521",
+            "Longitude": 103.69776790191162,
+            "Latitude": 1.33741647896432,
+            "RoadName": "Jurong West St 63",
+            "Description": "Pioneer Stn Exit A"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "22469",
+            "Longitude": 103.69631873743737,
+            "Latitude": 1.33649062479414,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "Blk 653B"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "22479",
+            "Longitude": 103.693102645977,
+            "Latitude": 1.33474242487786,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Aft Jurong West St 93"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "23041",
+            "Longitude": 103.69055967203332,
+            "Latitude": 1.33334088691759,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Opp Jurong Camp"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "23051",
+            "Longitude": 103.68928138898715,
+            "Latitude": 1.33168972198862,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Bef Kian Teck Rd"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "23061",
+            "Longitude": 103.68652222202904,
+            "Latitude": 1.329527778021,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Aft Kian Teck Rd"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "23071",
+            "Longitude": 103.68257796013837,
+            "Latitude": 1.32977056006705,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Opp SAFTI Military Inst"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "23379",
+            "Longitude": 103.67939439835483,
+            "Latitude": 1.3265431228454,
+            "RoadName": "Benoi Rd",
+            "Description": "Opp Joo Koon Int"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "23519",
+            "Longitude": 103.6793660000188,
+            "Latitude": 1.32479352408668,
+            "RoadName": "Benoi Rd",
+            "Description": "Opp FairPrice Hub"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "24011",
+            "Longitude": 103.6776263194759,
+            "Latitude": 1.32230923979842,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "M.C. Packaging Pte Ltd"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "24021",
+            "Longitude": 103.67087977752024,
+            "Latitude": 1.32185257239826,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Meritor Heavy Veh Systems"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "24511",
+            "Longitude": 103.6608911,
+            "Latitude": 1.319446944,
+            "RoadName": "Tuas Rd",
+            "Description": "GUL CIRCLE STN EXIT A"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "25201",
+            "Longitude": 103.65870833303143,
+            "Latitude": 1.31926000001423,
+            "RoadName": "Tuas Ave 3",
+            "Description": "Aft Tuas Rd"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "25199",
+            "Longitude": 103.65933166702904,
+            "Latitude": 1.32109472197296,
+            "RoadName": "Tuas Ave 1",
+            "Description": "Bestofire and Thermal"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "25189",
+            "Longitude": 103.65861666698133,
+            "Latitude": 1.32383972198116,
+            "RoadName": "Tuas Ave 1",
+            "Description": "Soon Heng Glass"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "25179",
+            "Longitude": 103.65711333297114,
+            "Latitude": 1.32529138897633,
+            "RoadName": "Tuas Ave 1",
+            "Description": "Sew-Eurodrive"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "25169",
+            "Longitude": 103.65450055600219,
+            "Latitude": 1.32774944401039,
+            "RoadName": "Tuas Ave 1",
+            "Description": "Opp Galmon S'pore"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "25129",
+            "Longitude": 103.65226388900422,
+            "Latitude": 1.32994444402601,
+            "RoadName": "Tuas Ave 1",
+            "Description": "Aft Tuas Ave 6"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "25119",
+            "Longitude": 103.64991694402983,
+            "Latitude": 1.33212638903277,
+            "RoadName": "Tuas Ave 1",
+            "Description": "Bef Tuas Ave 10"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "25109",
+            "Longitude": 103.64732250002415,
+            "Latitude": 1.33462333299665,
+            "RoadName": "Tuas Ave 1",
+            "Description": "SMC Mfg"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "25099",
+            "Longitude": 103.6449493341418,
+            "Latitude": 1.33392910725335,
+            "RoadName": "Tuas Ave 12",
+            "Description": "Opto-Pharm"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "25819",
+            "Longitude": 103.64353,
+            "Latitude": 1.332495,
+            "RoadName": "Tuas Ave 12",
+            "Description": "OPP BEYONICS TECHNOLOGY"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "25519",
+            "Longitude": 103.6409965426425,
+            "Latitude": 1.32981451584967,
+            "RoadName": "Tuas Ave 12",
+            "Description": "OPP MICHELMAN"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "24719",
+            "Longitude": 103.639332,
+            "Latitude": 1.330051,
+            "RoadName": "Pioneer Rd",
+            "Description": "TUAS WEST RD STN EXIT A"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "25689",
+            "Longitude": 103.637126,
+            "Latitude": 1.332109,
+            "RoadName": "Pioneer Rd",
+            "Description": "AFT TUAS WEST AVE"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "25449",
+            "Longitude": 103.63488564434365,
+            "Latitude": 1.33559254994067,
+            "RoadName": "Tuas West Dr",
+            "Description": "Aft Pioneer Rd"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "25439",
+            "Longitude": 103.63642647473378,
+            "Latitude": 1.33912525432561,
+            "RoadName": "Tuas West Dr",
+            "Description": "Opp Super Continental"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "25429",
+            "Longitude": 103.63696536000046,
+            "Latitude": 1.34055807307548,
+            "RoadName": "Tuas West Dr",
+            "Description": "TUAS LINK STN"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "25009",
+            "Longitude": 103.63920357507963,
+            "Latitude": 1.34499542766088,
+            "RoadName": "Tuas West Dr",
+            "Description": "Tuas Ter"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "25009",
+            "Longitude": 103.63920357507963,
+            "Latitude": 1.34499542766088,
+            "RoadName": "Tuas West Dr",
+            "Description": "Tuas Ter"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "25421",
+            "Longitude": 103.63745040018382,
+            "Latitude": 1.3414665264837,
+            "RoadName": "Tuas West Dr",
+            "Description": "OPP TUAS LINK STN"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "25431",
+            "Longitude": 103.63658739973077,
+            "Latitude": 1.33897644927954,
+            "RoadName": "Tuas West Dr",
+            "Description": "Super Continental"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "25441",
+            "Longitude": 103.6351235369854,
+            "Latitude": 1.33483211759061,
+            "RoadName": "Tuas West Dr",
+            "Description": "Bef Pioneer Rd"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "25681",
+            "Longitude": 103.637033,
+            "Latitude": 1.332541,
+            "RoadName": "Pioneer Rd",
+            "Description": "BEF TUAS WEST AVE"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "24711",
+            "Longitude": 103.639994,
+            "Latitude": 1.329871,
+            "RoadName": "Pioneer Rd",
+            "Description": "TUAS WEST RD STN EXIT B"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "25511",
+            "Longitude": 103.64080472198735,
+            "Latitude": 1.32981500001918,
+            "RoadName": "Tuas Ave 12",
+            "Description": "MICHELMAN"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "25811",
+            "Longitude": 103.643199,
+            "Latitude": 1.332261,
+            "RoadName": "Tuas Ave 12",
+            "Description": "SIEM SENG HING"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "25091",
+            "Longitude": 103.64520499998908,
+            "Latitude": 1.33443305603142,
+            "RoadName": "Tuas Ave 12",
+            "Description": "Aft Tuas Ave 7"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "25101",
+            "Longitude": 103.64783751324052,
+            "Latitude": 1.33428472907824,
+            "RoadName": "Tuas Ave 1",
+            "Description": "Opp SMC Mfg"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "25111",
+            "Longitude": 103.64981610844488,
+            "Latitude": 1.33239888543698,
+            "RoadName": "Tuas Ave 1",
+            "Description": "Aft Tuas Ave 10"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "25121",
+            "Longitude": 103.65169663523501,
+            "Latitude": 1.33060763294167,
+            "RoadName": "Tuas Ave 1",
+            "Description": "Aft Tuas Ave 8"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "25151",
+            "Longitude": 103.65325524319752,
+            "Latitude": 1.32913728132074,
+            "RoadName": "Tuas Ave 1",
+            "Description": "Mercedes-Benz Logistics"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "25161",
+            "Longitude": 103.65510623174903,
+            "Latitude": 1.32735422944929,
+            "RoadName": "Tuas Ave 1",
+            "Description": "Toyochem Ink"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "25171",
+            "Longitude": 103.65711196773577,
+            "Latitude": 1.32546645428693,
+            "RoadName": "Tuas Ave 1",
+            "Description": "Becton Dickinson Med"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "25181",
+            "Longitude": 103.65881324089645,
+            "Latitude": 1.32385296919519,
+            "RoadName": "Tuas Ave 1",
+            "Description": "MAN Diesel"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "25191",
+            "Longitude": 103.6596844024505,
+            "Latitude": 1.32129979633271,
+            "RoadName": "Tuas Ave 1",
+            "Description": "Asiatic Engrg"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "25209",
+            "Longitude": 103.65880916700371,
+            "Latitude": 1.31930805600666,
+            "RoadName": "Tuas Ave 3",
+            "Description": "Bef Tuas Rd"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "24519",
+            "Longitude": 103.6598081,
+            "Latitude": 1.319071944,
+            "RoadName": "Tuas Rd",
+            "Description": "GUL CIRCLE STN EXIT B"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "24029",
+            "Longitude": 103.67132658072524,
+            "Latitude": 1.3224709639188,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Mazak S'pore"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "24019",
+            "Longitude": 103.67728206793541,
+            "Latitude": 1.32288721900936,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Liang Huat Ind Cplx"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "23371",
+            "Longitude": 103.6790814673288,
+            "Latitude": 1.32595445317751,
+            "RoadName": "Benoi Rd",
+            "Description": "Bef Joo Koon Int"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "23079",
+            "Longitude": 103.68181544225693,
+            "Latitude": 1.33017908917854,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "SAFTI Military Inst"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "23069",
+            "Longitude": 103.68582019131013,
+            "Latitude": 1.32989950511553,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Bef Kian Teck Rd"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "23059",
+            "Longitude": 103.68813759846915,
+            "Latitude": 1.33071284667323,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Aft Kian Teck Rd"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "23049",
+            "Longitude": 103.69061140570352,
+            "Latitude": 1.33410764081742,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Jurong Camp"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "22471",
+            "Longitude": 103.6931453983202,
+            "Latitude": 1.33509047686273,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Bef Jurong West St 93"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "22461",
+            "Longitude": 103.6962049999685,
+            "Latitude": 1.33596194443399,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "Opp Blk 653B"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "22529",
+            "Longitude": 103.69728617102128,
+            "Latitude": 1.33777262767008,
+            "RoadName": "Jurong West St 63",
+            "Description": "Pioneer Stn Exit B"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "22531",
+            "Longitude": 103.6981437537688,
+            "Latitude": 1.33922673310366,
+            "RoadName": "Jurong West St 61",
+            "Description": "Opp Jurong West Pr Sch"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "22249",
+            "Longitude": 103.69865436006683,
+            "Latitude": 1.34016007378301,
+            "RoadName": "Jurong West St 62",
+            "Description": "Blk 622"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "22259",
+            "Longitude": 103.7025463831608,
+            "Latitude": 1.34089136412278,
+            "RoadName": "Jurong West St 62",
+            "Description": "Blk 668D"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int"
+        }
+    ]
+}

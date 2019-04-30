@@ -1,0 +1,172 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "52509",
+            "Longitude": 103.85017633434691,
+            "Latitude": 1.33115712303762,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "52329",
+            "Longitude": 103.85268688199498,
+            "Latitude": 1.33146817532374,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Stadium"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "52081",
+            "Longitude": 103.8608407974236,
+            "Latitude": 1.33081389290944,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Aft Blk 195"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "60081",
+            "Longitude": 103.8662910461625,
+            "Latitude": 1.32931226062177,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "St. Andrew'S Village"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "60201",
+            "Longitude": 103.8683861111429,
+            "Latitude": 1.32933888886,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "18 Woodsville"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "60261",
+            "Longitude": 103.86891794930561,
+            "Latitude": 1.33132471594343,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Potong Pasir Stn Exit C"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "61061",
+            "Longitude": 103.8682283329788,
+            "Latitude": 1.33268166698419,
+            "RoadName": "Potong Pasir Ave 1",
+            "Description": "Blk 148"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "61009",
+            "Longitude": 103.86663249997784,
+            "Latitude": 1.33521166697553,
+            "RoadName": "Potong Pasir Ave 1",
+            "Description": "Blk 122"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "61079",
+            "Longitude": 103.86525430193133,
+            "Latitude": 1.33598640879377,
+            "RoadName": "Potong Pasir Ave 1",
+            "Description": "Blk 121"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "61101",
+            "Longitude": 103.86370334032118,
+            "Latitude": 1.33560138948489,
+            "RoadName": "Potong Pasir Ave 1",
+            "Description": "Blk 120"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "61089",
+            "Longitude": 103.86530804883829,
+            "Latitude": 1.3330716590648,
+            "RoadName": "Potong Pasir Ave 3",
+            "Description": "Bet Blks 138/144"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "61099",
+            "Longitude": 103.86709999996721,
+            "Latitude": 1.33236805597247,
+            "RoadName": "Potong Pasir Ave 2",
+            "Description": "Potong Pasir CC"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "61069",
+            "Longitude": 103.86838092392759,
+            "Latitude": 1.33275975641149,
+            "RoadName": "Potong Pasir Ave 1",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "60269",
+            "Longitude": 103.86922890950602,
+            "Latitude": 1.33099030126892,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Potong Pasir Stn Exit B"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "60209",
+            "Longitude": 103.86896099565628,
+            "Latitude": 1.32986133945973,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Sant Ritz"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "60089",
+            "Longitude": 103.86615967295366,
+            "Latitude": 1.32865054961465,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Opp St. Andrew'S Village"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "52089",
+            "Longitude": 103.86027368842302,
+            "Latitude": 1.32991690265608,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Opp Blk 195"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "52321",
+            "Longitude": 103.8527071071997,
+            "Latitude": 1.3312589884768,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Stadium"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "52501",
+            "Longitude": 103.85011762889827,
+            "Latitude": 1.33090220918791,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int (Last Stop)"
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "46281",
+            "Longitude": 103.79002589502426,
+            "Latitude": 1.43878695707764,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 825"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "46391",
+            "Longitude": 103.79299454006805,
+            "Latitude": 1.43921765358175,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 853"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "46761",
+            "Longitude": 103.79740027801978,
+            "Latitude": 1.43964444400977,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 706"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "46771",
+            "Longitude": 103.80018670656507,
+            "Latitude": 1.44088808355944,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Opp Admiralty Stn"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "46781",
+            "Longitude": 103.80124424937155,
+            "Latitude": 1.44267569107428,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Bef Admiralty Pr Sch"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "46791",
+            "Longitude": 103.79963351229267,
+            "Latitude": 1.44569499940057,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 722"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "46811",
+            "Longitude": 103.79931523209541,
+            "Latitude": 1.44379237320988,
+            "RoadName": "Woodlands Circle",
+            "Description": "Blk 726"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "46821",
+            "Longitude": 103.79755539404626,
+            "Latitude": 1.44215561041047,
+            "RoadName": "Woodlands Circle",
+            "Description": "Blk 713"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "46831",
+            "Longitude": 103.7956269439894,
+            "Latitude": 1.44364527797106,
+            "RoadName": "Woodlands Circle",
+            "Description": "Blk 747A CP"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "46841",
+            "Longitude": 103.79690162812369,
+            "Latitude": 1.44498571659794,
+            "RoadName": "Woodlands Circle",
+            "Description": "Opp Blk 739A CP"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "46799",
+            "Longitude": 103.79970850070715,
+            "Latitude": 1.44586617373151,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 786A CP"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "46789",
+            "Longitude": 103.80106305603081,
+            "Latitude": 1.44351138898079,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Opp Admiralty Pr Sch"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "46779",
+            "Longitude": 103.80070754495145,
+            "Latitude": 1.44071357576488,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Admiralty Stn"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "46769",
+            "Longitude": 103.79735798460473,
+            "Latitude": 1.43935103379454,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 666"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "46399",
+            "Longitude": 103.79423705109248,
+            "Latitude": 1.43896035246776,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Aft 888 Plaza"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "46289",
+            "Longitude": 103.79091198323174,
+            "Latitude": 1.43872239825648,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 891C CP"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "46008",
+            "Longitude": 103.78575976841014,
+            "Latitude": 1.43736180998154,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "46291",
+            "Longitude": 103.78248384607947,
+            "Latitude": 1.4364014799639,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 106"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "46199",
+            "Longitude": 103.78065534399263,
+            "Latitude": 1.43955043252866,
+            "RoadName": "Marsiling Rise",
+            "Description": "Blk 120"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "46181",
+            "Longitude": 103.778867882596,
+            "Latitude": 1.44015882292646,
+            "RoadName": "Marsiling Rd",
+            "Description": "Opp Blk 12"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "46071",
+            "Longitude": 103.77679962439775,
+            "Latitude": 1.43864652268091,
+            "RoadName": "Marsiling Rd",
+            "Description": "Blk 137"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "46011",
+            "Longitude": 103.7742921156719,
+            "Latitude": 1.4385198561158,
+            "RoadName": "Marsiling Rd",
+            "Description": "Bef W'Lands Ctr Rd"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "46509",
+            "Longitude": 103.7709643228368,
+            "Latitude": 1.43804390195153,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Town Gdn"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "46069",
+            "Longitude": 103.76933833799299,
+            "Latitude": 1.44288948418349,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Train Checkpt"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "46088",
+            "Longitude": 103.77108660594439,
+            "Latitude": 1.44180914262822,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp Blk 1A"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "46501",
+            "Longitude": 103.77118912980488,
+            "Latitude": 1.43796940271606,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp W'Lands Town Gdn"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "46019",
+            "Longitude": 103.7741286109918,
+            "Latitude": 1.4386733329964,
+            "RoadName": "Marsiling Rd",
+            "Description": "Aft W'Lands Ctr Rd"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "46079",
+            "Longitude": 103.77691747568024,
+            "Latitude": 1.43886731397133,
+            "RoadName": "Marsiling Rd",
+            "Description": "Opp Blk 137"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "46189",
+            "Longitude": 103.77854042726402,
+            "Latitude": 1.44008271628617,
+            "RoadName": "Marsiling Rd",
+            "Description": "Blk 12"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "46191",
+            "Longitude": 103.78053807087814,
+            "Latitude": 1.43978268235949,
+            "RoadName": "Marsiling Rise",
+            "Description": "Opp Blk 120"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "46299",
+            "Longitude": 103.78274585693057,
+            "Latitude": 1.43692705673107,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Opp Blk 106"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (Last Stop)"
+        }
+    ]
+}

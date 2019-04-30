@@ -1,0 +1,372 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "64041",
+            "Longitude": 103.89535999996711,
+            "Latitude": 1.37016500002901,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "The Midtown"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "64051",
+            "Longitude": 103.89777362456783,
+            "Latitude": 1.37239666924933,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 465A"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "64061",
+            "Longitude": 103.90111900001394,
+            "Latitude": 1.37557886299976,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Serangoon Sec Sch"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "64401",
+            "Longitude": 103.9032366204475,
+            "Latitude": 1.37839309319848,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 477A"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "67739",
+            "Longitude": 103.90195091871207,
+            "Latitude": 1.37998423176832,
+            "RoadName": "Buangkok Dr",
+            "Description": "Aft Sengkang East Dr"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "67729",
+            "Longitude": 103.89872566951759,
+            "Latitude": 1.37948933048443,
+            "RoadName": "Buangkok Dr",
+            "Description": "Bef Punggol Rd"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "67719",
+            "Longitude": 103.89527238603087,
+            "Latitude": 1.37972132476485,
+            "RoadName": "Buangkok Dr",
+            "Description": "Opp Sengkang Fire Stn"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "67609",
+            "Longitude": 103.89303978530081,
+            "Latitude": 1.38393305306468,
+            "RoadName": "Sengkang Ctrl",
+            "Description": "Buangkok Stn Exit A"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "67619",
+            "Longitude": 103.89401435851151,
+            "Latitude": 1.38776797851536,
+            "RoadName": "Sengkang Ctrl",
+            "Description": "Blk 201C"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "67341",
+            "Longitude": 103.89505169031366,
+            "Latitude": 1.38864779457077,
+            "RoadName": "Compassvale Dr",
+            "Description": "Opp Blk 204 CP"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "67199",
+            "Longitude": 103.89689165133598,
+            "Latitude": 1.3889487081629,
+            "RoadName": "Compassvale Rd",
+            "Description": "Opp Blk 223D"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "67189",
+            "Longitude": 103.89742612835978,
+            "Latitude": 1.39059955869523,
+            "RoadName": "Compassvale Rd",
+            "Description": "Opp Blk 241"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "67409",
+            "Longitude": 103.89606816606354,
+            "Latitude": 1.3923391568303,
+            "RoadName": "Sengkang East Way",
+            "Description": "Sengkang Stn"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "67399",
+            "Longitude": 103.89167010585574,
+            "Latitude": 1.39385005995777,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 325 CP"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "67389",
+            "Longitude": 103.88869095686496,
+            "Latitude": 1.39424377787036,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 317B"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "67549",
+            "Longitude": 103.88618230819876,
+            "Latitude": 1.39454660425441,
+            "RoadName": "Sengkang East Way",
+            "Description": "Opp Hockey Stadium"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "67559",
+            "Longitude": 103.88094503218825,
+            "Latitude": 1.3954939065925,
+            "RoadName": "Sengkang West Way",
+            "Description": "Opp Blk 471A"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "67569",
+            "Longitude": 103.87700000087196,
+            "Latitude": 1.39504999232889,
+            "RoadName": "Sengkang West Way",
+            "Description": "Blk 432A"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "67579",
+            "Longitude": 103.8734686374815,
+            "Latitude": 1.39483619700068,
+            "RoadName": "Sengkang West Way",
+            "Description": "Bef Jln Kayu"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "68031",
+            "Longitude": 103.87307298530668,
+            "Latitude": 1.39705024252478,
+            "RoadName": "Jln Kayu",
+            "Description": "Jln Kayu Shophouse"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "68051",
+            "Longitude": 103.87232065200857,
+            "Latitude": 1.39955011852479,
+            "RoadName": "Jln Kayu",
+            "Description": "Bef TPE"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "68119",
+            "Longitude": 103.87194871751426,
+            "Latitude": 1.40231306085319,
+            "RoadName": "Jln Kayu",
+            "Description": "Aft Seletar Camp G"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "68059",
+            "Longitude": 103.87243527803194,
+            "Latitude": 1.39978638898633,
+            "RoadName": "Jln Kayu",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "68049",
+            "Longitude": 103.8729604565282,
+            "Latitude": 1.39851660309414,
+            "RoadName": "Jln Kayu",
+            "Description": "Opp Jln Tari Lilin"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "68039",
+            "Longitude": 103.87311388899468,
+            "Latitude": 1.39652972197871,
+            "RoadName": "Jln Kayu",
+            "Description": "Aft Abundant Grace Ch"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "67571",
+            "Longitude": 103.87391924861367,
+            "Latitude": 1.39515796674426,
+            "RoadName": "Sengkang West Way",
+            "Description": "Aft Lor Tanggam"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "67561",
+            "Longitude": 103.87697696683591,
+            "Latitude": 1.39545828505824,
+            "RoadName": "Sengkang West Way",
+            "Description": "Opp Blk 432A"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "67551",
+            "Longitude": 103.87927293767908,
+            "Latitude": 1.39600529337669,
+            "RoadName": "Sengkang West Way",
+            "Description": "Blk 471A"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "67541",
+            "Longitude": 103.88633251190507,
+            "Latitude": 1.39478256874239,
+            "RoadName": "Sengkang East Way",
+            "Description": "Hockey Stadium"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "67381",
+            "Longitude": 103.88844266691056,
+            "Latitude": 1.39459040201234,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 326 CP"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "67391",
+            "Longitude": 103.89144488028346,
+            "Latitude": 1.39425676218487,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 333B"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "67401",
+            "Longitude": 103.89531738456282,
+            "Latitude": 1.39290842289238,
+            "RoadName": "Sengkang East Way",
+            "Description": "Opp Sengkang Stn/Blk 260A"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "67181",
+            "Longitude": 103.89778017996501,
+            "Latitude": 1.39101786005668,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 240"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "67191",
+            "Longitude": 103.89710881285436,
+            "Latitude": 1.38908889970693,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 223D"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "67349",
+            "Longitude": 103.8953369095349,
+            "Latitude": 1.38837810902521,
+            "RoadName": "Compassvale Dr",
+            "Description": "Blk 204 CP"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "67611",
+            "Longitude": 103.89426271274473,
+            "Latitude": 1.38776293807936,
+            "RoadName": "Sengkang Ctrl",
+            "Description": "Blk 204C"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "67601",
+            "Longitude": 103.8932683273077,
+            "Latitude": 1.38334470717282,
+            "RoadName": "Sengkang Ctrl",
+            "Description": "Buangkok Stn Exit B"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "67711",
+            "Longitude": 103.8947798896038,
+            "Latitude": 1.38013294516415,
+            "RoadName": "Buangkok Dr",
+            "Description": "Bef Sengkang Fire Stn"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "67721",
+            "Longitude": 103.89819238601865,
+            "Latitude": 1.37971349716278,
+            "RoadName": "Buangkok Dr",
+            "Description": "Aft Punggol Rd"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "67731",
+            "Longitude": 103.90138066955191,
+            "Latitude": 1.38018738604916,
+            "RoadName": "Buangkok Dr",
+            "Description": "Bef Sengkang East Dr"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "64409",
+            "Longitude": 103.90352727356866,
+            "Latitude": 1.37820165544364,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 477A"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "64069",
+            "Longitude": 103.90134716214978,
+            "Latitude": 1.37526504951859,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Serangoon Sec Sch"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "64059",
+            "Longitude": 103.89837470452339,
+            "Latitude": 1.37249135705281,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 355"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "64049",
+            "Longitude": 103.89603248614272,
+            "Latitude": 1.3703713899857,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp The Midtown"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (Last Stop)"
+        }
+    ]
+}

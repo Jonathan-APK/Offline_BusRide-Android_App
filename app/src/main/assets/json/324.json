@@ -1,0 +1,76 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "64041",
+            "Longitude": 103.89535999996711,
+            "Latitude": 1.37016500002901,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "The Midtown"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "64051",
+            "Longitude": 103.89777362456783,
+            "Latitude": 1.37239666924933,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 465A"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "62271",
+            "Longitude": 103.8996359517733,
+            "Latitude": 1.37591304823679,
+            "RoadName": "Upp S'goon Cres",
+            "Description": "Opp Blk 475B"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "62251",
+            "Longitude": 103.9001277845729,
+            "Latitude": 1.37715900002191,
+            "RoadName": "Upp S'goon Cres",
+            "Description": "Bef Blk 471B"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "62261",
+            "Longitude": 103.90282372904291,
+            "Latitude": 1.37453805554564,
+            "RoadName": "Upp Serangoon View",
+            "Description": "Opp S'goon Sec Sch"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "64059",
+            "Longitude": 103.89837470452339,
+            "Latitude": 1.37249135705281,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 355"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "64049",
+            "Longitude": 103.89603248614272,
+            "Latitude": 1.3703713899857,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp The Midtown"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (Last Stop)"
+        }
+    ]
+}

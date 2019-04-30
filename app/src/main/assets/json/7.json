@@ -1,0 +1,862 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "84029",
+            "Longitude": 103.92517704260585,
+            "Latitude": 1.32295305994698,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Blk 32"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "84019",
+            "Longitude": 103.92262015530929,
+            "Latitude": 1.32221972730517,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Chai Chee Ind Pk"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "83099",
+            "Longitude": 103.91810427638708,
+            "Latitude": 1.32076378388187,
+            "RoadName": "Changi Rd",
+            "Description": "Aft Perpetual Succour Ch"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "83079",
+            "Longitude": 103.91505416701378,
+            "Latitude": 1.31976833302337,
+            "RoadName": "Changi Rd",
+            "Description": "Bef Siglap Plain"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "83059",
+            "Longitude": 103.91222670426201,
+            "Latitude": 1.31888900641724,
+            "RoadName": "Changi Rd",
+            "Description": "Mjd Kassim"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "83049",
+            "Longitude": 103.91002178191968,
+            "Latitude": 1.318489754773,
+            "RoadName": "Changi Rd",
+            "Description": "Bef Lor 110 Changi"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "83029",
+            "Longitude": 103.90635251996308,
+            "Latitude": 1.31774429797349,
+            "RoadName": "Changi Rd",
+            "Description": "Aft Kg Eunos"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "82069",
+            "Longitude": 103.90295147896967,
+            "Latitude": 1.31709537499354,
+            "RoadName": "Changi Rd",
+            "Description": "Aft Lor 106 Changi"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "82049",
+            "Longitude": 103.89891621295058,
+            "Latitude": 1.31634170548514,
+            "RoadName": "Changi Rd",
+            "Description": "Joo Chiat Cplx"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "82029",
+            "Longitude": 103.89559528546464,
+            "Latitude": 1.31569833821527,
+            "RoadName": "Geylang Rd",
+            "Description": "Blk 14 Mkt/FC"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "82109",
+            "Longitude": 103.89331774481381,
+            "Latitude": 1.3151892235607,
+            "RoadName": "Geylang Rd",
+            "Description": "City Plaza"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "81131",
+            "Longitude": 103.89221613925537,
+            "Latitude": 1.31431505362846,
+            "RoadName": "Guillemard Rd",
+            "Description": "Opp Grandlink Sq"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "81141",
+            "Longitude": 103.89035749999957,
+            "Latitude": 1.31200805596649,
+            "RoadName": "Guillemard Rd",
+            "Description": "Versailles Condo"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "81151",
+            "Longitude": 103.88784583298123,
+            "Latitude": 1.31153305600814,
+            "RoadName": "Guillemard Rd",
+            "Description": "Kong Hwa Sch"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "81161",
+            "Longitude": 103.88318148792811,
+            "Latitude": 1.31054638768125,
+            "RoadName": "Guillemard Rd",
+            "Description": "blk 56"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "80259",
+            "Longitude": 103.87988833298908,
+            "Latitude": 1.30989499998519,
+            "RoadName": "Guillemard Rd",
+            "Description": "Aft Chen Li Presby Ch"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "80111",
+            "Longitude": 103.87551499911487,
+            "Latitude": 1.30987138105238,
+            "RoadName": "Sims Way",
+            "Description": "Bef Geylang Rd"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "80049",
+            "Longitude": 103.87363663982293,
+            "Latitude": 1.31077707819718,
+            "RoadName": "Geylang Rd",
+            "Description": "Aft Sims Way"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "80039",
+            "Longitude": 103.87144344651483,
+            "Latitude": 1.30992336177794,
+            "RoadName": "Geylang Rd",
+            "Description": "Opp Lor 1 Geylang Ter"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "80029",
+            "Longitude": 103.86753497349068,
+            "Latitude": 1.3094187398083,
+            "RoadName": "Kallang Rd",
+            "Description": "Bef Kg Bugis"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "01339",
+            "Longitude": 103.8642627465441,
+            "Latitude": 1.30774601733202,
+            "RoadName": "Crawford St",
+            "Description": "Bef Crawford Bridge"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "01329",
+            "Longitude": 103.86363028484124,
+            "Latitude": 1.30495670239172,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "Blk 8"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "01229",
+            "Longitude": 103.85963089198265,
+            "Latitude": 1.30337552638813,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "Bef Sultan Mque"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "01139",
+            "Longitude": 103.85716080665901,
+            "Latitude": 1.30033057855542,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "Parkview Sq"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "01039",
+            "Longitude": 103.85549139837407,
+            "Latitude": 1.29820784139683,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "Nth Bridge Commercial Cplx"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "01029",
+            "Longitude": 103.85441422464267,
+            "Latitude": 1.2966729849642,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "Cosmic Insurance Bldg"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "04111",
+            "Longitude": 103.85128983925452,
+            "Latitude": 1.2940020309036,
+            "RoadName": "Stamford Rd",
+            "Description": "Capitol Bldg"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "04121",
+            "Longitude": 103.84958029974611,
+            "Latitude": 1.29618544092334,
+            "RoadName": "Stamford Rd",
+            "Description": "SMU"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "08041",
+            "Longitude": 103.84780636909545,
+            "Latitude": 1.29811014243867,
+            "RoadName": "Orchard Rd",
+            "Description": "YMCA"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "08031",
+            "Longitude": 103.8452569595532,
+            "Latitude": 1.29831153783592,
+            "RoadName": "Penang Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "08111",
+            "Longitude": 103.84093746088925,
+            "Latitude": 1.29986928715834,
+            "RoadName": "Penang Rd",
+            "Description": "Winsland Hse"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "08121",
+            "Longitude": 103.83877618459663,
+            "Latitude": 1.30027569326586,
+            "RoadName": "Somerset Rd",
+            "Description": "Somerset Stn"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "09059",
+            "Longitude": 103.83623804216019,
+            "Latitude": 1.30044251755834,
+            "RoadName": "Grange Rd",
+            "Description": "Natl Youth Council"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "09022",
+            "Longitude": 103.83239784275958,
+            "Latitude": 1.30252834773643,
+            "RoadName": "Orchard Blvd",
+            "Description": "Bef Orchard Stn Exit B"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "09111",
+            "Longitude": 103.82914529614989,
+            "Latitude": 1.30453752623147,
+            "RoadName": "Orchard Blvd",
+            "Description": "Opp Four Seasons Hotel"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "09121",
+            "Longitude": 103.82699645124522,
+            "Latitude": 1.30397379238249,
+            "RoadName": "Orchard Blvd",
+            "Description": "Bef Tomlinson Rd"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "09131",
+            "Longitude": 103.82333805603095,
+            "Latitude": 1.30391999998489,
+            "RoadName": "Grange Rd",
+            "Description": "Grange Residences"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "09141",
+            "Longitude": 103.82177666702269,
+            "Latitude": 1.30543500002797,
+            "RoadName": "Napier Rd",
+            "Description": "British Council"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "13011",
+            "Longitude": 103.81983822614549,
+            "Latitude": 1.30634849184404,
+            "RoadName": "Napier Rd",
+            "Description": "Opp S'pore Botanic Gdns"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "13021",
+            "Longitude": 103.81430670816292,
+            "Latitude": 1.30633972996805,
+            "RoadName": "Holland Rd",
+            "Description": "Aft Min Of Foreign Affairs"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "11201",
+            "Longitude": 103.81186453577433,
+            "Latitude": 1.30692642897557,
+            "RoadName": "Holland Rd",
+            "Description": "CSC Dempsey Clubhse"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "11211",
+            "Longitude": 103.80939522851014,
+            "Latitude": 1.30838779885113,
+            "RoadName": "Holland Rd",
+            "Description": "Aft Peirce Rd"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "11221",
+            "Longitude": 103.80544413357042,
+            "Latitude": 1.31002225322358,
+            "RoadName": "Holland Rd",
+            "Description": "Lien Twrs"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "11231",
+            "Longitude": 103.80119919777994,
+            "Latitude": 1.31115316310297,
+            "RoadName": "Holland Rd",
+            "Description": "Aft Estoril Mans"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "11261",
+            "Longitude": 103.79444621838488,
+            "Latitude": 1.31223168432152,
+            "RoadName": "Holland Rd",
+            "Description": "Holland Village"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "11271",
+            "Longitude": 103.79008416699845,
+            "Latitude": 1.31473444398294,
+            "RoadName": "Holland Rd",
+            "Description": "Aft East Sussex Lane"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "11281",
+            "Longitude": 103.78852194399074,
+            "Latitude": 1.31622694399746,
+            "RoadName": "Holland Rd",
+            "Description": "Aft Tan Boon Chong Ave"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "11291",
+            "Longitude": 103.78592333300938,
+            "Latitude": 1.31792777802094,
+            "RoadName": "Holland Rd",
+            "Description": "Cold Storage Jelita"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "12021",
+            "Longitude": 103.78243055601493,
+            "Latitude": 1.31907638897016,
+            "RoadName": "Holland Rd",
+            "Description": "Bef Moonbeam Wk"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "12031",
+            "Longitude": 103.7796285552172,
+            "Latitude": 1.3208008510991,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Pandan Valley Condo"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "12041",
+            "Longitude": 103.77653442120544,
+            "Latitude": 1.32049172685895,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Aft Pandan Valley"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "12051",
+            "Longitude": 103.7750613105408,
+            "Latitude": 1.3204289505949,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Pine Gr Condo"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "12111",
+            "Longitude": 103.77222980786665,
+            "Latitude": 1.3191179107649,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Bef Clementi Rd"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "17229",
+            "Longitude": 103.76824211745355,
+            "Latitude": 1.31728402491862,
+            "RoadName": "Clementi Ave 5",
+            "Description": "Blk 335"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "17221",
+            "Longitude": 103.76790022594946,
+            "Latitude": 1.31735631283972,
+            "RoadName": "Clementi Ave 5",
+            "Description": "Blk 377"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "12119",
+            "Longitude": 103.77279266281438,
+            "Latitude": 1.31964598192789,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Police KINS Trg Camp"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "12059",
+            "Longitude": 103.77515897833835,
+            "Latitude": 1.32072731097778,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Opp Pine Gr Condo"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "12049",
+            "Longitude": 103.77655888991401,
+            "Latitude": 1.32091131971837,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Opp Pandan Valley"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "12039",
+            "Longitude": 103.78018998386835,
+            "Latitude": 1.32104526183447,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Opp Pandan Valley Condo"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "12029",
+            "Longitude": 103.7824392109149,
+            "Latitude": 1.31958369390988,
+            "RoadName": "Holland Rd",
+            "Description": "Opp Moonbeam Wk"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "11299",
+            "Longitude": 103.78558843680226,
+            "Latitude": 1.31826975603165,
+            "RoadName": "Holland Rd",
+            "Description": "Opp Cold Storage Jelita"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "11289",
+            "Longitude": 103.78904342517946,
+            "Latitude": 1.31618891387774,
+            "RoadName": "Holland Rd",
+            "Description": "Opp Tan Boon Chong Ave"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "11279",
+            "Longitude": 103.79069259768109,
+            "Latitude": 1.31466878886978,
+            "RoadName": "Holland Rd",
+            "Description": "Aft Coronation Rd West"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "11269",
+            "Longitude": 103.79453796697418,
+            "Latitude": 1.31256112590195,
+            "RoadName": "Holland Rd",
+            "Description": "Opp Holland Village"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "11239",
+            "Longitude": 103.80165517330278,
+            "Latitude": 1.31152857401616,
+            "RoadName": "Holland Rd",
+            "Description": "Fairlodge"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "11229",
+            "Longitude": 103.80522542227166,
+            "Latitude": 1.31060065879064,
+            "RoadName": "Holland Rd",
+            "Description": "Les Jardins De Holland"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "11219",
+            "Longitude": 103.80716407830104,
+            "Latitude": 1.30988506093033,
+            "RoadName": "Holland Rd",
+            "Description": "Great Eastern Mans"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "11209",
+            "Longitude": 103.81038349817638,
+            "Latitude": 1.30817280849852,
+            "RoadName": "Holland Rd",
+            "Description": "Opp Peirce Rd"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "13029",
+            "Longitude": 103.8145185880206,
+            "Latitude": 1.30671783282361,
+            "RoadName": "Holland Rd",
+            "Description": "Bef Tyersall Ave"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "13019",
+            "Longitude": 103.82013079894885,
+            "Latitude": 1.3067380217198,
+            "RoadName": "Napier Rd",
+            "Description": "S'pore Botanic Gdns"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "09149",
+            "Longitude": 103.8212215023314,
+            "Latitude": 1.30608981381948,
+            "RoadName": "Napier Rd",
+            "Description": "Opp British Council"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "09159",
+            "Longitude": 103.82568042620605,
+            "Latitude": 1.30602637557418,
+            "RoadName": "Tanglin Rd",
+            "Description": "Aft Tomlinson Rd"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "09169",
+            "Longitude": 103.82835507326037,
+            "Latitude": 1.3070135326348,
+            "RoadName": "Orchard Rd",
+            "Description": "Delfi Orchard"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "09179",
+            "Longitude": 103.83049004618626,
+            "Latitude": 1.30587966240898,
+            "RoadName": "Orchard Rd",
+            "Description": "Royal Thai Embassy"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "09048",
+            "Longitude": 103.83413070051408,
+            "Latitude": 1.30386684425114,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Stn/Lucky Plaza"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "09038",
+            "Longitude": 103.83852481842337,
+            "Latitude": 1.30154262450563,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Somerset Stn"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "08138",
+            "Longitude": 103.84184700607595,
+            "Latitude": 1.3004785730821,
+            "RoadName": "Orchard Rd",
+            "Description": "Concorde Hotel S'pore"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "08069",
+            "Longitude": 103.84936128375956,
+            "Latitude": 1.29821382250893,
+            "RoadName": "Bras Basah Rd",
+            "Description": "BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "04179",
+            "Longitude": 103.85147164487202,
+            "Latitude": 1.29647916306741,
+            "RoadName": "Bras Basah Rd",
+            "Description": "AFT BRAS BASAH STN EXIT A"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "01012",
+            "Longitude": 103.85253591654006,
+            "Latitude": 1.29684825487647,
+            "RoadName": "Victoria St",
+            "Description": "Hotel Grand Pacific"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "01112",
+            "Longitude": 103.8552332285516,
+            "Latitude": 1.30015494414022,
+            "RoadName": "Victoria St",
+            "Description": "Opp Bugis Junction"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "01121",
+            "Longitude": 103.85867999243207,
+            "Latitude": 1.30393809691048,
+            "RoadName": "Victoria St",
+            "Description": "Stamford Pr Sch"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "01211",
+            "Longitude": 103.8605449516032,
+            "Latitude": 1.30551803523268,
+            "RoadName": "Victoria St",
+            "Description": "Opp Blk 461"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "01311",
+            "Longitude": 103.86219695240973,
+            "Latitude": 1.3070916463394,
+            "RoadName": "Kallang Rd",
+            "Description": "Lavender Stn Exit B"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "80011",
+            "Longitude": 103.86737828692955,
+            "Latitude": 1.30972720802554,
+            "RoadName": "Kallang Rd",
+            "Description": "AFT PADANG JERINGAU"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "80031",
+            "Longitude": 103.8713149052975,
+            "Latitude": 1.31107705658993,
+            "RoadName": "Sims Ave",
+            "Description": "Kallang Stn"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "80051",
+            "Longitude": 103.87326194447365,
+            "Latitude": 1.31251499997324,
+            "RoadName": "Sims Ave",
+            "Description": "Aft Lor 1 Geylang"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "80119",
+            "Longitude": 103.87599804972949,
+            "Latitude": 1.30992065473549,
+            "RoadName": "Sims Way",
+            "Description": "Aft Geylang Rd"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "80251",
+            "Longitude": 103.87992501726275,
+            "Latitude": 1.31009487384598,
+            "RoadName": "Guillemard Rd",
+            "Description": "Aft Lor 14 Geylang"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "81169",
+            "Longitude": 103.88313174959588,
+            "Latitude": 1.31078371924435,
+            "RoadName": "Guillemard Rd",
+            "Description": "Opp Blk 56"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "81159",
+            "Longitude": 103.8874161243355,
+            "Latitude": 1.31167873834387,
+            "RoadName": "Guillemard Rd",
+            "Description": "Opp Kong Hwa Sch"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "81149",
+            "Longitude": 103.88966028743648,
+            "Latitude": 1.31212569246254,
+            "RoadName": "Guillemard Rd",
+            "Description": "The Sunny Spring Condo"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "81139",
+            "Longitude": 103.89191764014708,
+            "Latitude": 1.31435328604306,
+            "RoadName": "Guillemard Rd",
+            "Description": "Grandlink Sq"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "82011",
+            "Longitude": 103.89480000904068,
+            "Latitude": 1.31736957951855,
+            "RoadName": "Sims Ave",
+            "Description": "Aft Tg Katong Cplx"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "82033",
+            "Longitude": 103.898237229405,
+            "Latitude": 1.31798449318919,
+            "RoadName": "Sims Ave",
+            "Description": "Blk 414"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "82061",
+            "Longitude": 103.9022689641617,
+            "Latitude": 1.31876162629115,
+            "RoadName": "Sims Ave",
+            "Description": "Eunos Stn/ Int"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "83011",
+            "Longitude": 103.90725404505461,
+            "Latitude": 1.31971491091921,
+            "RoadName": "Sims Ave East",
+            "Description": "Casa Sarina"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "83031",
+            "Longitude": 103.91000032422843,
+            "Latitude": 1.32027026937212,
+            "RoadName": "Sims Ave East",
+            "Description": "Opp Hong San Si Tp"
+        },
+        {
+            "Distance": 20.5,
+            "BusStopCode": "83062",
+            "Longitude": 103.9133277893385,
+            "Latitude": 1.32096859171096,
+            "RoadName": "Sims Ave East",
+            "Description": "Kembangan Stn"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "83081",
+            "Longitude": 103.91736615804473,
+            "Latitude": 1.32138694232025,
+            "RoadName": "Sims Ave East",
+            "Description": "Opp Perpetual Succour Ch"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "84011",
+            "Longitude": 103.92233358172962,
+            "Latitude": 1.32257749632692,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Chai Chee Ind Pk"
+        },
+        {
+            "Distance": 21.9,
+            "BusStopCode": "84021",
+            "Longitude": 103.92508721683168,
+            "Latitude": 1.32338320435233,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 32"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        }
+    ]
+}

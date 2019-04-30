@@ -1,0 +1,236 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "58009",
+            "Longitude": 103.81941391689068,
+            "Latitude": 1.44748179252514,
+            "RoadName": "Sembawang Vista",
+            "Description": "Sembawang Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "58259",
+            "Longitude": 103.81895151565973,
+            "Latitude": 1.44777267175187,
+            "RoadName": "Sembawang Dr",
+            "Description": "Opp Sun Plaza"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "58219",
+            "Longitude": 103.8199297231716,
+            "Latitude": 1.44953463697186,
+            "RoadName": "Sembawang Way",
+            "Description": "Opp Sembawang Stn"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "58331",
+            "Longitude": 103.82397609690102,
+            "Latitude": 1.44974129560526,
+            "RoadName": "Canberra Link",
+            "Description": "Blk 589D"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "58041",
+            "Longitude": 103.8268558037182,
+            "Latitude": 1.44939346470038,
+            "RoadName": "Sembawang Rd",
+            "Description": "Blk 590C"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "58051",
+            "Longitude": 103.82843083296738,
+            "Latitude": 1.45087972197488,
+            "RoadName": "Sembawang Rd",
+            "Description": "Blk 592C"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "58511",
+            "Longitude": 103.8315,
+            "Latitude": 1.44964,
+            "RoadName": "Canberra st",
+            "Description": "Blk 104C"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "58521",
+            "Longitude": 103.8326,
+            "Latitude": 1.44819389,
+            "RoadName": "Canberra st",
+            "Description": "BLK 106A"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "58531",
+            "Longitude": 103.8323,
+            "Latitude": 1.44543806,
+            "RoadName": "Canberra Way",
+            "Description": "BLK 129A"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "59529",
+            "Longitude": 103.8318142995419,
+            "Latitude": 1.44035052900307,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Sapphire"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "59259",
+            "Longitude": 103.83379791523895,
+            "Latitude": 1.43716783426775,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Darul Makmur Mque"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "59099",
+            "Longitude": 103.83522544787667,
+            "Latitude": 1.43272835490407,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 220"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "59072",
+            "Longitude": 103.8354931,
+            "Latitude": 1.429383056,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Stn Exit E"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "59069",
+            "Longitude": 103.83536957259517,
+            "Latitude": 1.42657294826877,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Blk 757"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "59619",
+            "Longitude": 103.83687299997104,
+            "Latitude": 1.42335199999945,
+            "RoadName": "Yishun Ctrl 2",
+            "Description": "Yishun Community Hosp"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "59061",
+            "Longitude": 103.83495820649408,
+            "Latitude": 1.42556399229911,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 763"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "59079",
+            "Longitude": 103.835245,
+            "Latitude": 1.429293889,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Stn"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "59091",
+            "Longitude": 103.83510814544051,
+            "Latitude": 1.43165245434506,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 154"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "59251",
+            "Longitude": 103.83368337352286,
+            "Latitude": 1.43669132626001,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Darul Makmur Mque"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "59521",
+            "Longitude": 103.83171080846517,
+            "Latitude": 1.44003661278482,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Sapphire"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "58539",
+            "Longitude": 103.832311,
+            "Latitude": 1.44576806,
+            "RoadName": "Canberra Way",
+            "Description": "BLK 120A"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "58529",
+            "Longitude": 103.832461,
+            "Latitude": 1.44801889,
+            "RoadName": "Canberra st",
+            "Description": "BLK 108 CP"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "58519",
+            "Longitude": 103.831062,
+            "Latitude": 1.44973306,
+            "RoadName": "Canberra st",
+            "Description": "OPP BLK 104B"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "58059",
+            "Longitude": 103.82866296034206,
+            "Latitude": 1.45079007708143,
+            "RoadName": "Sembawang Rd",
+            "Description": "Opp Blk 592C"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "58049",
+            "Longitude": 103.82703542333945,
+            "Latitude": 1.44919525191106,
+            "RoadName": "Sembawang Rd",
+            "Description": "Opp Blk 590C"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "58339",
+            "Longitude": 103.82430573345592,
+            "Latitude": 1.44936138505812,
+            "RoadName": "Canberra Link",
+            "Description": "Opp Blk 589D"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "58211",
+            "Longitude": 103.81979401898032,
+            "Latitude": 1.44926202582359,
+            "RoadName": "Sembawang Way",
+            "Description": "Sembawang Stn"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "58251",
+            "Longitude": 103.81895207486829,
+            "Latitude": 1.44803148822713,
+            "RoadName": "Sembawang Dr",
+            "Description": "Sun Plaza"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "58009",
+            "Longitude": 103.81941391689068,
+            "Latitude": 1.44748179252514,
+            "RoadName": "Sembawang Vista",
+            "Description": "Sembawang Int (Last Stop)"
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "77191",
+            "Longitude": 103.94602815996554,
+            "Latitude": 1.37654807606486,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 500A"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "77201",
+            "Longitude": 103.94276350247947,
+            "Latitude": 1.37864001176536,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Aft Blk 601"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "77079",
+            "Longitude": 103.94145255170352,
+            "Latitude": 1.37728664750339,
+            "RoadName": "Elias Rd",
+            "Description": "Elias Mall"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "77189",
+            "Longitude": 103.94124910119332,
+            "Latitude": 1.3755564005294,
+            "RoadName": "Elias Rd",
+            "Description": "Blk 613"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "77069",
+            "Longitude": 103.94081177255107,
+            "Latitude": 1.37414972830656,
+            "RoadName": "Elias Rd",
+            "Description": "Opp Ris Grandeur"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "77301",
+            "Longitude": 103.93864478052231,
+            "Latitude": 1.37419765728407,
+            "RoadName": "Pasir Ris St 71",
+            "Description": "Blk 778"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "77311",
+            "Longitude": 103.936865329717,
+            "Latitude": 1.37581953068998,
+            "RoadName": "Pasir Ris St 71",
+            "Description": "Bet Blks 771/772"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "77161",
+            "Longitude": 103.93657565115056,
+            "Latitude": 1.37752492323898,
+            "RoadName": "Pasir Ris Dr 10",
+            "Description": "Blk 741"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "77281",
+            "Longitude": 103.93618729229594,
+            "Latitude": 1.37837166677052,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 740"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "77331",
+            "Longitude": 103.93338764757789,
+            "Latitude": 1.3782973982979,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Blk 747A"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "75359",
+            "Longitude": 103.93147946559002,
+            "Latitude": 1.37438650022455,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "75369",
+            "Longitude": 103.93056528604264,
+            "Latitude": 1.37079630405212,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp HNS Micro Siltronic"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "75319",
+            "Longitude": 103.93106194445039,
+            "Latitude": 1.36720805556001,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp Tampines Dormitory"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "75469",
+            "Longitude": 103.93315812393162,
+            "Latitude": 1.36626888891089,
+            "RoadName": "Tampines Avenue 11",
+            "Description": "Opp Reebonz Bldg"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "76511",
+            "Longitude": 103.93942626783013,
+            "Latitude": 1.35940728864246,
+            "RoadName": "Tampines Concourse",
+            "Description": "THE TAMPINES TRILLIANT"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "76521",
+            "Longitude": 103.940775,
+            "Latitude": 1.357468889,
+            "RoadName": "Tampines Concourse",
+            "Description": "OPP BLK 519A"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "76529",
+            "Longitude": 103.9405089,
+            "Latitude": 1.357528889,
+            "RoadName": "Tampines Concourse",
+            "Description": "BLK 519A"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "76519",
+            "Longitude": 103.93921870101352,
+            "Latitude": 1.35920624506603,
+            "RoadName": "Tampines Concourse",
+            "Description": "BET BLKS 524B/523D"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "75461",
+            "Longitude": 103.93360116833266,
+            "Latitude": 1.36591354266845,
+            "RoadName": "Tampines Avenue 11",
+            "Description": "Reebonz Bldg"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "75311",
+            "Longitude": 103.93078207971784,
+            "Latitude": 1.36707803417357,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Tampines Dormitory"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "75361",
+            "Longitude": 103.93030234430374,
+            "Latitude": 1.3706441545828,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ind Ave 5"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "75351",
+            "Longitude": 103.93077504301999,
+            "Latitude": 1.37364163782281,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef TPE"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "77339",
+            "Longitude": 103.93278653475954,
+            "Latitude": 1.3780301775267,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "77289",
+            "Longitude": 103.93596534133927,
+            "Latitude": 1.37889759950996,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 738"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "77169",
+            "Longitude": 103.9363320444146,
+            "Latitude": 1.37694324707892,
+            "RoadName": "Pasir Ris Dr 10",
+            "Description": "Meridian JC"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "77319",
+            "Longitude": 103.93754166696733,
+            "Latitude": 1.37554666701554,
+            "RoadName": "Pasir Ris St 71",
+            "Description": "Opp Blks 771/772"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "77309",
+            "Longitude": 103.93874482147835,
+            "Latitude": 1.37437639672106,
+            "RoadName": "Pasir Ris St 71",
+            "Description": "Opp Blk 778"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "77061",
+            "Longitude": 103.94041320097696,
+            "Latitude": 1.37377216806532,
+            "RoadName": "Elias Rd",
+            "Description": "Ris Grandeur"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "77181",
+            "Longitude": 103.94109934608323,
+            "Latitude": 1.37591147273628,
+            "RoadName": "Elias Rd",
+            "Description": "Blk 638"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "77071",
+            "Longitude": 103.94127900809487,
+            "Latitude": 1.37810945408117,
+            "RoadName": "Elias Rd",
+            "Description": "Blk 633"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "77209",
+            "Longitude": 103.94271591238348,
+            "Latitude": 1.37902915784394,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Blk 601"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "77199",
+            "Longitude": 103.94566567184114,
+            "Latitude": 1.37707803132455,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Blk 500A"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int (Last Stop)"
+        }
+    ]
+}

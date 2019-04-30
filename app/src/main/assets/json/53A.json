@@ -1,0 +1,148 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "77289",
+            "Longitude": 103.93596534133927,
+            "Latitude": 1.37889759950996,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 738"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "77239",
+            "Longitude": 103.93793201117523,
+            "Latitude": 1.37741830757924,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 643"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "77249",
+            "Longitude": 103.939861116152,
+            "Latitude": 1.37599439507295,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 640"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "78049",
+            "Longitude": 103.94180578126523,
+            "Latitude": 1.3744627816256,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 612"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "77019",
+            "Longitude": 103.94351079998545,
+            "Latitude": 1.3737108000359,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 515"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "77029",
+            "Longitude": 103.94597779999948,
+            "Latitude": 1.37274960000662,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 571"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "77039",
+            "Longitude": 103.94834855629753,
+            "Latitude": 1.37159118708865,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Bef Pasir Ris Ctrl"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "77049",
+            "Longitude": 103.95158314847573,
+            "Latitude": 1.36963556960047,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Pasir Ris Town Pk"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "77059",
+            "Longitude": 103.95506338293471,
+            "Latitude": 1.36936138996292,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 425"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "78069",
+            "Longitude": 103.95815838787027,
+            "Latitude": 1.36869168470813,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 442"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "78059",
+            "Longitude": 103.96113744871693,
+            "Latitude": 1.36677606799955,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 210"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "98099",
+            "Longitude": 103.96328361098551,
+            "Latitude": 1.36457166700645,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 269A"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "98019",
+            "Longitude": 103.96338699998489,
+            "Latitude": 1.3622609999684,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Blk 149A"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "95151",
+            "Longitude": 103.98181795541137,
+            "Latitude": 1.34209640049942,
+            "RoadName": "Airport Blvd",
+            "Description": "Airport Police Stn"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "95011",
+            "Longitude": 103.98406055558529,
+            "Latitude": 1.34719486317101,
+            "RoadName": "Airport Blvd",
+            "Description": "Bef Changi Airport PTB3"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "95109",
+            "Longitude": 103.98635233782801,
+            "Latitude": 1.35650049529119,
+            "RoadName": "PTB3 Basement",
+            "Description": "Changi Airport PTB3"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "95029",
+            "Longitude": 103.99069984684058,
+            "Latitude": 1.36126748727797,
+            "RoadName": "PTB1 Basement",
+            "Description": "Changi Airport PTB1"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "95129",
+            "Longitude": 103.9892195407387,
+            "Latitude": 1.35509298857124,
+            "RoadName": "PTB2 Basement",
+            "Description": "Changi Airport PTB2"
+        }
+    ]
+}

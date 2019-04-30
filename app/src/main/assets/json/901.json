@@ -1,0 +1,124 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "46631",
+            "Longitude": 103.78915264291737,
+            "Latitude": 1.43689297551872,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 892C CP"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "46331",
+            "Longitude": 103.78816378743082,
+            "Latitude": 1.43314769562187,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 511"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "46971",
+            "Longitude": 103.79034249996818,
+            "Latitude": 1.43187555599274,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Woodgrove Pr Sch"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "46981",
+            "Longitude": 103.792511107377,
+            "Latitude": 1.42810336959513,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Blk 541"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "47501",
+            "Longitude": 103.79470229416464,
+            "Latitude": 1.43046208317462,
+            "RoadName": "Woodlands Dr 16",
+            "Description": "Opp Blk 583"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "47511",
+            "Longitude": 103.79644777764182,
+            "Latitude": 1.43190354583508,
+            "RoadName": "Woodlands Dr 16",
+            "Description": "Blk 554"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "47521",
+            "Longitude": 103.79813585749302,
+            "Latitude": 1.43165346145517,
+            "RoadName": "Woodlands Dr 16",
+            "Description": "Opp Blk 575"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "47539",
+            "Longitude": 103.79766275675345,
+            "Latitude": 1.42870555201688,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Opp Woodgrove Sec Sch"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "46999",
+            "Longitude": 103.79600329149085,
+            "Latitude": 1.42742826147903,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Opp Blk 589"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "46989",
+            "Longitude": 103.79221259917931,
+            "Latitude": 1.42802334589801,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Opp Blk 540"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "46979",
+            "Longitude": 103.79065444401148,
+            "Latitude": 1.43130555598072,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Opp Blk 507"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "46339",
+            "Longitude": 103.78798319246935,
+            "Latitude": 1.43352632033198,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 370"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "46639",
+            "Longitude": 103.78884919678751,
+            "Latitude": 1.43702205360453,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Opp Blk 892C CP"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (Last Stop)"
+        }
+    ]
+}

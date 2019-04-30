@@ -1,0 +1,116 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "63219",
+            "Longitude": 103.8762710483349,
+            "Latitude": 1.36856637012739,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Blk 139"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "63209",
+            "Longitude": 103.87522122785421,
+            "Latitude": 1.36605804817414,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Toho Green"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "63199",
+            "Longitude": 103.87383805598819,
+            "Latitude": 1.36327972197547,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Nth Ave 1"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "63189",
+            "Longitude": 103.87363460960414,
+            "Latitude": 1.36133997852966,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Gdn Way"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "63179",
+            "Longitude": 103.87393532776181,
+            "Latitude": 1.35999305129204,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Tai Seng Chr Ch"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "63369",
+            "Longitude": 103.87410388898788,
+            "Latitude": 1.35663166702793,
+            "RoadName": "Yio Chu Kang Link",
+            "Description": "Serangoon Sports Cplx"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "66059",
+            "Longitude": 103.87212299732872,
+            "Latitude": 1.35553141738293,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 257A"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "66049",
+            "Longitude": 103.86896493522666,
+            "Latitude": 1.35535475300084,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 233"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "66039",
+            "Longitude": 103.86668854745251,
+            "Latitude": 1.35475138514216,
+            "RoadName": "Lor Chuan",
+            "Description": "Blk 307"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "66099",
+            "Longitude": 103.86142199387719,
+            "Latitude": 1.35427474694456,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Opp Golden Hill Est"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "03223",
+            "Longitude": 103.84632468221952,
+            "Latitude": 1.2757033952327,
+            "RoadName": "Anson Rd",
+            "Description": "Intl Plaza"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "03151",
+            "Longitude": 103.84776234627124,
+            "Latitude": 1.27892124625262,
+            "RoadName": "Cecil St",
+            "Description": "Opp GB Bldg"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "03021",
+            "Longitude": 103.84998903789258,
+            "Latitude": 1.28255524603003,
+            "RoadName": "Cecil St",
+            "Description": "Prudential Twr"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        }
+    ]
+}

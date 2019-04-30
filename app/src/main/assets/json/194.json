@@ -1,0 +1,68 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (First Stop)"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "22011",
+            "Longitude": 103.7077550377112,
+            "Latitude": 1.32129797964322,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Jurong Bird Pk"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "22021",
+            "Longitude": 103.70369314086494,
+            "Latitude": 1.32168245080395,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Givaudan"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "22031",
+            "Longitude": 103.69855176773174,
+            "Latitude": 1.32216806047952,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Bef Pioneer Circus"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "22039",
+            "Longitude": 103.69861624674222,
+            "Latitude": 1.32284076507861,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Markono Holdings"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "22029",
+            "Longitude": 103.70268212142697,
+            "Latitude": 1.32244971744256,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Opp Givaudan"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "22019",
+            "Longitude": 103.7071133033833,
+            "Latitude": 1.32202402246272,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Opp Jurong Bird Pk"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (Last Stop)"
+        }
+    ]
+}

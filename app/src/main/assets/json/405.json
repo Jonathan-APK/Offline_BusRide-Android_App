@@ -1,0 +1,284 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (First Stop)"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "22489",
+            "Longitude": 103.70536833792208,
+            "Latitude": 1.34258460261,
+            "RoadName": "Jurong West Ctrl 1",
+            "Description": "Blk 683A"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "21371",
+            "Longitude": 103.70617873626036,
+            "Latitude": 1.34522722613512,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 680C"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "27091",
+            "Longitude": 103.70388500000492,
+            "Latitude": 1.34910999998031,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Blk 271 CP"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "27101",
+            "Longitude": 103.70111638902962,
+            "Latitude": 1.35259472200365,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Westwood Sec Sch"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "27121",
+            "Longitude": 103.69521277798744,
+            "Latitude": 1.35682305601032,
+            "RoadName": "Jln Bahar",
+            "Description": "Bef Nanyang Ave"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "31011",
+            "Longitude": 103.69389522616177,
+            "Latitude": 1.35908460846532,
+            "RoadName": "Jln Bahar",
+            "Description": "Aft Nanyang Ave"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "31021",
+            "Longitude": 103.69287888535482,
+            "Latitude": 1.36247047014576,
+            "RoadName": "Jln Bahar",
+            "Description": "Jln Bahar Power Stn"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "31031",
+            "Longitude": 103.69327324255713,
+            "Latitude": 1.36598890667515,
+            "RoadName": "Jln Bahar",
+            "Description": "Civil Defence Academy"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "31041",
+            "Longitude": 103.6939293999916,
+            "Latitude": 1.36893226400594,
+            "RoadName": "Jln Bahar",
+            "Description": "Bef Muslim Cemy Path 7"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "31051",
+            "Longitude": 103.69445182104045,
+            "Latitude": 1.37226002154624,
+            "RoadName": "Jln Bahar",
+            "Description": "Bef Muslim Cemy Path 1"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "31149",
+            "Longitude": 103.69400832710886,
+            "Latitude": 1.37394854683347,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Opp Bahai Cemy"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "31139",
+            "Longitude": 103.69038412231409,
+            "Latitude": 1.37211281474792,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Bef Track 33"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "31129",
+            "Longitude": 103.68740996007186,
+            "Latitude": 1.36997393445421,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Chinese Cemy"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "31009",
+            "Longitude": 103.6842656135271,
+            "Latitude": 1.37174374490161,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Choa Chu Kang Rd End"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "31121",
+            "Longitude": 103.68800387696562,
+            "Latitude": 1.37035531879968,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Opp Chinese Cemy"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "31131",
+            "Longitude": 103.6901494100538,
+            "Latitude": 1.3721005602879,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Aft Track 33"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "31141",
+            "Longitude": 103.69342185827556,
+            "Latitude": 1.37409630689339,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Bahai Cemy"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "31061",
+            "Longitude": 103.695570278013,
+            "Latitude": 1.37594722202959,
+            "RoadName": "Lim Chu Kang Rd",
+            "Description": "Opp Lim Chu Kang Camp II"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "31071",
+            "Longitude": 103.69626045229732,
+            "Latitude": 1.37853314214565,
+            "RoadName": "Lim Chu Kang Rd",
+            "Description": "Aft Chinese Cemy Path 11"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "31201",
+            "Longitude": 103.69659409681319,
+            "Latitude": 1.38044981963514,
+            "RoadName": "Lim Chu Kang Rd",
+            "Description": "Aft Chinese Cemy Path 13"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "31211",
+            "Longitude": 103.6969997018249,
+            "Latitude": 1.38283900023768,
+            "RoadName": "Lim Chu Kang Rd",
+            "Description": "Aft Muslim Cemy Path 17"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "31079",
+            "Longitude": 103.69632194402648,
+            "Latitude": 1.37768611102662,
+            "RoadName": "Lim Chu Kang Rd",
+            "Description": "Opp Chinese Cemy Path 11"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "31069",
+            "Longitude": 103.69550611102841,
+            "Latitude": 1.37493138896603,
+            "RoadName": "Lim Chu Kang Rd",
+            "Description": "Bef Old Choa Chu Kang Rd"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "31059",
+            "Longitude": 103.69466807265977,
+            "Latitude": 1.37207574401713,
+            "RoadName": "Jln Bahar",
+            "Description": "Aft Chr Cemy Path 3"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "31049",
+            "Longitude": 103.6942436921991,
+            "Latitude": 1.36939554385137,
+            "RoadName": "Jln Bahar",
+            "Description": "Aft Chr Cemy Path 9"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "31039",
+            "Longitude": 103.69330818055283,
+            "Latitude": 1.36563783980926,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Civil Defence Academy"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "31029",
+            "Longitude": 103.69296604646463,
+            "Latitude": 1.36307987152083,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Jln Bahar Power Stn"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "31019",
+            "Longitude": 103.69398905356208,
+            "Latitude": 1.35998260495758,
+            "RoadName": "Jln Bahar",
+            "Description": "Bef Nanyang Ave"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "27129",
+            "Longitude": 103.69516041986128,
+            "Latitude": 1.35733217246828,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Nanyang Ave"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "27109",
+            "Longitude": 103.70082305601869,
+            "Latitude": 1.35309472199852,
+            "RoadName": "Jln Bahar",
+            "Description": "Westwood Sec Sch"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "27099",
+            "Longitude": 103.70360999821403,
+            "Latitude": 1.35023689448473,
+            "RoadName": "Jln Bahar",
+            "Description": "Blk 271 CP"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "21379",
+            "Longitude": 103.70648912988919,
+            "Latitude": 1.34534855216089,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 263"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "22481",
+            "Longitude": 103.70554089546958,
+            "Latitude": 1.3424622384747,
+            "RoadName": "Jurong West Ctrl 1",
+            "Description": "Blk 691A CP"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (Last Stop)"
+        }
+    ]
+}

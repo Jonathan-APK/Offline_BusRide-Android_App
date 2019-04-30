@@ -1,0 +1,100 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int (First Stop)"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "17221",
+            "Longitude": 103.76790022594946,
+            "Latitude": 1.31735631283972,
+            "RoadName": "Clementi Ave 5",
+            "Description": "Blk 377"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "17249",
+            "Longitude": 103.7693364,
+            "Latitude": 1.315171111,
+            "RoadName": "Clementi Ave 2",
+            "Description": "Blk 355"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "17259",
+            "Longitude": 103.76746074010758,
+            "Latitude": 1.31092798217655,
+            "RoadName": "Clementi Ave 2",
+            "Description": "Blk 408"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "17269",
+            "Longitude": 103.76274177899958,
+            "Latitude": 1.30513563161538,
+            "RoadName": "Clementi West St 2",
+            "Description": "Blk 730"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "17279",
+            "Longitude": 103.76319287727786,
+            "Latitude": 1.30292494255611,
+            "RoadName": "Clementi West St 2",
+            "Description": "Blk 723"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "17289",
+            "Longitude": 103.7647147428673,
+            "Latitude": 1.30232494247638,
+            "RoadName": "Clementi West St 2",
+            "Description": "West Coast CC"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "17041",
+            "Longitude": 103.76455953939507,
+            "Latitude": 1.3042101570614,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 726 Clementi West Mkt"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "17251",
+            "Longitude": 103.76744,
+            "Latitude": 1.31148,
+            "RoadName": "Clementi Ave 2",
+            "Description": "Opp Blk 408"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "17241",
+            "Longitude": 103.76905503649127,
+            "Latitude": 1.31519114798349,
+            "RoadName": "Clementi Ave 2",
+            "Description": "Blk 334"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "17229",
+            "Longitude": 103.76824211745355,
+            "Latitude": 1.31728402491862,
+            "RoadName": "Clementi Ave 5",
+            "Description": "Blk 335"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int (Last Stop)"
+        }
+    ]
+}

@@ -1,0 +1,356 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "84029",
+            "Longitude": 103.92517704260585,
+            "Latitude": 1.32295305994698,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Blk 32"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "84019",
+            "Longitude": 103.92262015530929,
+            "Latitude": 1.32221972730517,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Chai Chee Ind Pk"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "83249",
+            "Longitude": 103.92174594601859,
+            "Latitude": 1.31786650545216,
+            "RoadName": "Siglap Rd",
+            "Description": "Flamingo Valley"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "83239",
+            "Longitude": 103.92246139079549,
+            "Latitude": 1.3169597007985,
+            "RoadName": "Siglap Rd",
+            "Description": "Opp Cheviot Hill"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "93119",
+            "Longitude": 103.92298221289045,
+            "Latitude": 1.31431984916508,
+            "RoadName": "Siglap Rd",
+            "Description": "Aft Elite Pk Ave"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "93129",
+            "Longitude": 103.92481225868325,
+            "Latitude": 1.31135799079971,
+            "RoadName": "Siglap Rd",
+            "Description": "Bef Sekolah Indonesia"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "93199",
+            "Longitude": 103.92628500000932,
+            "Latitude": 1.30794833296674,
+            "RoadName": "Siglap Rd",
+            "Description": "Opp Mandarin Gdns"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "93149",
+            "Longitude": 103.9278209209607,
+            "Latitude": 1.30742050291938,
+            "RoadName": "Siglap Link",
+            "Description": "Siglap Link"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "93159",
+            "Longitude": 103.93132371442206,
+            "Latitude": 1.3077547570517,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "Cable Ski Pk"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "93169",
+            "Longitude": 103.92711976208209,
+            "Latitude": 1.30594307438981,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "Bef CP D5"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "93179",
+            "Longitude": 103.92345623316808,
+            "Latitude": 1.30480179616528,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "CP D3"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "93189",
+            "Longitude": 103.91955288064976,
+            "Latitude": 1.30365171489985,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "Opp Victoria JC"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "92199",
+            "Longitude": 103.91650277694103,
+            "Latitude": 1.30282001380608,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "Aft CP C4"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "92289",
+            "Longitude": 103.91282770401249,
+            "Latitude": 1.30179664907354,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "Marine Cove"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "92059",
+            "Longitude": 103.90773354554798,
+            "Latitude": 1.30425139809964,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Bet Blks 72/74"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "92049",
+            "Longitude": 103.9059569060291,
+            "Latitude": 1.30300441466613,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Parkway Parade"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "92241",
+            "Longitude": 103.9009525469614,
+            "Latitude": 1.30178441800843,
+            "RoadName": "Amber Rd",
+            "Description": "Amber Gdns"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "92161",
+            "Longitude": 103.89656923070308,
+            "Latitude": 1.30380001918907,
+            "RoadName": "Tg Katong Rd",
+            "Description": "Aft Katong PO"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "82071",
+            "Longitude": 103.89541128171984,
+            "Latitude": 1.30725334418948,
+            "RoadName": "Tg Katong Rd",
+            "Description": "Opp Tg Katong Girls' Sch"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "81199",
+            "Longitude": 103.8906311270188,
+            "Latitude": 1.30862937328019,
+            "RoadName": "Dunman Rd",
+            "Description": "BEF OLD AIRPORT RD"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "81189",
+            "Longitude": 103.88850877408412,
+            "Latitude": 1.30821308595952,
+            "RoadName": "Old Airport Rd",
+            "Description": "Dakota Stn Exit B/Blk 60"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "81179",
+            "Longitude": 103.88490711001795,
+            "Latitude": 1.30726086825664,
+            "RoadName": "Old Airport Rd",
+            "Description": "Blk 22"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "80279",
+            "Longitude": 103.88342000727887,
+            "Latitude": 1.30514903438296,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Mountbatten Stn Exit B"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "91099",
+            "Longitude": 103.88471920227425,
+            "Latitude": 1.30320972763591,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Bef Wilkinson Rd"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "91089",
+            "Longitude": 103.88553021350832,
+            "Latitude": 1.29913832558004,
+            "RoadName": "Fort Rd",
+            "Description": "Opp Fort Gdns"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "91111",
+            "Longitude": 103.89246238709205,
+            "Latitude": 1.29535544538917,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "CP B1"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "91101",
+            "Longitude": 103.89668750894906,
+            "Latitude": 1.29607137626294,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "Tg Katong Flyover"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "92261",
+            "Longitude": 103.90051820688359,
+            "Latitude": 1.29798119441776,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "Opp P/G @ Big Splash"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "92251",
+            "Longitude": 103.90625361097798,
+            "Latitude": 1.30003666698438,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "Opp Parkland Green"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "92191",
+            "Longitude": 103.91471180502236,
+            "Latitude": 1.30244833118536,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "Opp CP C3"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "93181",
+            "Longitude": 103.91793277803113,
+            "Latitude": 1.30333972198999,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "Opp CP C4"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "93171",
+            "Longitude": 103.9241758329893,
+            "Latitude": 1.30510333301496,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "Opp CP D3"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "93161",
+            "Longitude": 103.92790223080911,
+            "Latitude": 1.30651832392551,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "Bef CP E1"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "93151",
+            "Longitude": 103.9337756712752,
+            "Latitude": 1.30788664966156,
+            "RoadName": "East Coast Pk Svc Rd",
+            "Description": "Opp Cable Ski Pk"
+        },
+        {
+            "Distance": 21.7,
+            "BusStopCode": "93049",
+            "Longitude": 103.9329857782451,
+            "Latitude": 1.31073016722066,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Lagoon View"
+        },
+        {
+            "Distance": 22.1,
+            "BusStopCode": "93039",
+            "Longitude": 103.92954154203639,
+            "Latitude": 1.30958474832555,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Laguna Pk"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "93201",
+            "Longitude": 103.92781269211483,
+            "Latitude": 1.30920003741893,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Victoria Sch"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "93121",
+            "Longitude": 103.92498850824487,
+            "Latitude": 1.31088501240237,
+            "RoadName": "Siglap Rd",
+            "Description": "Opp Sekolah Indonesia"
+        },
+        {
+            "Distance": 23.2,
+            "BusStopCode": "93111",
+            "Longitude": 103.92278173877762,
+            "Latitude": 1.31451280258696,
+            "RoadName": "Siglap Rd",
+            "Description": "Bef Elite Pk Ave"
+        },
+        {
+            "Distance": 23.5,
+            "BusStopCode": "83231",
+            "Longitude": 103.92214229972099,
+            "Latitude": 1.31726812920156,
+            "RoadName": "Siglap Rd",
+            "Description": "Bef Siglap Dr"
+        },
+        {
+            "Distance": 24.4,
+            "BusStopCode": "84011",
+            "Longitude": 103.92233358172962,
+            "Latitude": 1.32257749632692,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Chai Chee Ind Pk"
+        },
+        {
+            "Distance": 24.7,
+            "BusStopCode": "84021",
+            "Longitude": 103.92508721683168,
+            "Latitude": 1.32338320435233,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 32"
+        },
+        {
+            "Distance": 25.3,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (Last Stop)"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "43419",
+            "Longitude": 103.74998784769572,
+            "Latitude": 1.35155523613685,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Blk 628"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "43399",
+            "Longitude": 103.74808875836682,
+            "Latitude": 1.35066714575721,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Opp Blk 120"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "43389",
+            "Longitude": 103.74834299093746,
+            "Latitude": 1.34760499094973,
+            "RoadName": "Bt Batok Ave 1",
+            "Description": "Opp Blk 102"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "43519",
+            "Longitude": 103.74835776931137,
+            "Latitude": 1.34527424103226,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Opp Bt Batok Swim Cplx"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "43749",
+            "Longitude": 103.75163638787585,
+            "Latitude": 1.34661217154358,
+            "RoadName": "Bt Batok St 21",
+            "Description": "Opp Bt View Sec Sch"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "43739",
+            "Longitude": 103.75454805492608,
+            "Latitude": 1.34646078257571,
+            "RoadName": "Bt Batok St 21",
+            "Description": "Blk 217"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "43169",
+            "Longitude": 103.7578877455261,
+            "Latitude": 1.34931074950483,
+            "RoadName": "Bt Batok East Ave 4",
+            "Description": "Blk 254"
+        }
+    ]
+}

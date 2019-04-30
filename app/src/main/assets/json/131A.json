@@ -1,0 +1,252 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52499",
+            "Longitude": 103.85537211273478,
+            "Latitude": 1.32603759751245,
+            "RoadName": "Whampoa Rd",
+            "Description": "St. Michael's Ter"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "52451",
+            "Longitude": 103.85731928602708,
+            "Latitude": 1.3253199216809,
+            "RoadName": "Whampoa Rd",
+            "Description": "Blk 114"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "52129",
+            "Longitude": 103.85938111100755,
+            "Latitude": 1.32544666698102,
+            "RoadName": "Jln Bahagia",
+            "Description": "Blk 29"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "52109",
+            "Longitude": 103.8581711110213,
+            "Latitude": 1.32697666701265,
+            "RoadName": "Jln Bahagia",
+            "Description": "Bet Blks 33/34"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "52099",
+            "Longitude": 103.85488905075222,
+            "Latitude": 1.32652328466497,
+            "RoadName": "Kim Keat Rd",
+            "Description": "Opp NKF"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "50159",
+            "Longitude": 103.85326623915941,
+            "Latitude": 1.32456066077113,
+            "RoadName": "Kim Keat Rd",
+            "Description": "Bef Kim Keat Lane"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "50209",
+            "Longitude": 103.85158181192296,
+            "Latitude": 1.32392782849174,
+            "RoadName": "Balestier Rd",
+            "Description": "Aft Pegu Rd"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "50199",
+            "Longitude": 103.85050892832005,
+            "Latitude": 1.32496824756028,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Shaw Plaza"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "50189",
+            "Longitude": 103.84849190712964,
+            "Latitude": 1.32606229603246,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Public Man"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "50179",
+            "Longitude": 103.8464203281907,
+            "Latitude": 1.32640402126103,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Zhongshan Mall"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "50169",
+            "Longitude": 103.84420812253344,
+            "Latitude": 1.32647401158756,
+            "RoadName": "Balestier Rd",
+            "Description": "Aft Irrawaddy Rd"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "50059",
+            "Longitude": 103.84211744421322,
+            "Latitude": 1.32489453398384,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp Thomson Med Ctr"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "50049",
+            "Longitude": 103.84189326889334,
+            "Latitude": 1.32354108650178,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp Novena Lodge"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "50038",
+            "Longitude": 103.84343862536716,
+            "Latitude": 1.31962671001555,
+            "RoadName": "Thomson Rd",
+            "Description": "Novena Stn"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "50029",
+            "Longitude": 103.84484281963609,
+            "Latitude": 1.31647941614673,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp United Sq"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "50079",
+            "Longitude": 103.84693372586678,
+            "Latitude": 1.31583941661931,
+            "RoadName": "Norfolk Rd",
+            "Description": "Opp Carlisle Rd"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "50089",
+            "Longitude": 103.85044724612104,
+            "Latitude": 1.31665493432357,
+            "RoadName": "Owen Rd",
+            "Description": "Blk 51"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "50321",
+            "Longitude": 103.85083079337346,
+            "Latitude": 1.3136845041501,
+            "RoadName": "Dorset Rd",
+            "Description": "Aft Gloucester Rd"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "50351",
+            "Longitude": 103.84857773804022,
+            "Latitude": 1.31216015438698,
+            "RoadName": "Dorset Rd",
+            "Description": "Farrer Pk Tennis Ctr"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "40109",
+            "Longitude": 103.84770747833439,
+            "Latitude": 1.30949131269895,
+            "RoadName": "Kg Java Rd",
+            "Description": "Opp KK Women & Child Hosp"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "40019",
+            "Longitude": 103.84920416709382,
+            "Latitude": 1.30664404460339,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Little India Stn"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "07539",
+            "Longitude": 103.8520009720951,
+            "Latitude": 1.30461300741211,
+            "RoadName": "Sungei Rd",
+            "Description": "Opp Rochor Stn"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "07518",
+            "Longitude": 103.8521798624137,
+            "Latitude": 1.30097493989394,
+            "RoadName": "Bencoolen St",
+            "Description": "OPP NAFA CAMPUS 3"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "04019",
+            "Longitude": 103.84975607305783,
+            "Latitude": 1.29807216909408,
+            "RoadName": "Bencoolen St",
+            "Description": "OPP BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "04179",
+            "Longitude": 103.85147164487202,
+            "Latitude": 1.29647916306741,
+            "RoadName": "Bras Basah Rd",
+            "Description": "AFT BRAS BASAH STN EXIT A"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "02049",
+            "Longitude": 103.85402155505173,
+            "Latitude": 1.29452091230981,
+            "RoadName": "Bras Basah Rd",
+            "Description": "Raffles Hotel"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "02029",
+            "Longitude": 103.85293318066766,
+            "Latitude": 1.28879015142476,
+            "RoadName": "Connaught Dr",
+            "Description": "Opp S'pore Cricket Club"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "03019",
+            "Longitude": 103.85310805599599,
+            "Latitude": 1.284245000013,
+            "RoadName": "Collyer Quay",
+            "Description": "OUE Bayfront"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "03059",
+            "Longitude": 103.85135652579491,
+            "Latitude": 1.28097649556002,
+            "RoadName": "Raffles Quay",
+            "Description": "One Raffles Quay"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "03217",
+            "Longitude": 103.8479443674916,
+            "Latitude": 1.27552218897645,
+            "RoadName": "Shenton Way",
+            "Description": "Opp AXA Twr"
+        }
+    ]
+}

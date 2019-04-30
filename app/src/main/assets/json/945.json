@@ -1,0 +1,156 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "43421",
+            "Longitude": 103.75362047618977,
+            "Latitude": 1.35109278850869,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Blk 503"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "43541",
+            "Longitude": 103.75505166565658,
+            "Latitude": 1.35283067935634,
+            "RoadName": "Bt Batok East Ave 5",
+            "Description": "Blk 510"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "43801",
+            "Longitude": 103.75173377561002,
+            "Latitude": 1.35520792569828,
+            "RoadName": "Bt Batok St 52",
+            "Description": "Ren Ci @ Bt Batok St 52"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "43561",
+            "Longitude": 103.75287425796093,
+            "Latitude": 1.35745163479028,
+            "RoadName": "Bt Batok East Ave 5",
+            "Description": "Opp Bt Gombak Stadium"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "43571",
+            "Longitude": 103.75150455211015,
+            "Latitude": 1.35920995233758,
+            "RoadName": "Bt Batok West Ave 5",
+            "Description": "Opp Bt Gombak Stn"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "43581",
+            "Longitude": 103.75138384429646,
+            "Latitude": 1.36251939522797,
+            "RoadName": "Bt Batok West Ave 5",
+            "Description": "Blk 347"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "43641",
+            "Longitude": 103.75026447996078,
+            "Latitude": 1.36530401539571,
+            "RoadName": "Bt Batok West Ave 7",
+            "Description": "Opp HomeTeamNS"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "43831",
+            "Longitude": 103.74788610102789,
+            "Latitude": 1.36512501870188,
+            "RoadName": "Bt Batok West Ave 7",
+            "Description": "Blk 334"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "43491",
+            "Longitude": 103.74714799810218,
+            "Latitude": 1.36395398644152,
+            "RoadName": "Bt Batok West Ave 4",
+            "Description": "Blk 331"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "43841",
+            "Longitude": 103.74752277796905,
+            "Latitude": 1.3619538889938,
+            "RoadName": "Bt Batok St 33",
+            "Description": "Blk 324"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "43659",
+            "Longitude": 103.74933550929673,
+            "Latitude": 1.36376864242438,
+            "RoadName": "Bt Batok St 34",
+            "Description": "St. Anthony's Pr Sch"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "43589",
+            "Longitude": 103.75153180716009,
+            "Latitude": 1.36227296946091,
+            "RoadName": "Bt Batok West Ave 5",
+            "Description": "Opp Blk 347"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "43579",
+            "Longitude": 103.75166771394562,
+            "Latitude": 1.35911715344895,
+            "RoadName": "Bt Batok West Ave 5",
+            "Description": "Bt Gombak Stn"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "43569",
+            "Longitude": 103.75311063706323,
+            "Latitude": 1.35741203899294,
+            "RoadName": "Bt Batok East Ave 5",
+            "Description": "Bt Gombak Stadium"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "43809",
+            "Longitude": 103.7518708699386,
+            "Latitude": 1.35437129288657,
+            "RoadName": "Bt Batok St 52",
+            "Description": "Blk 514"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "43549",
+            "Longitude": 103.75549198596346,
+            "Latitude": 1.35254074739712,
+            "RoadName": "Bt Batok East Ave 5",
+            "Description": "Regent Hts"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "43429",
+            "Longitude": 103.75389074656302,
+            "Latitude": 1.35108692530475,
+            "RoadName": "Bt Batok East Ave 2",
+            "Description": "Blk 240"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int (Last Stop)"
+        }
+    ]
+}

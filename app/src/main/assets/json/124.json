@@ -1,0 +1,726 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52499",
+            "Longitude": 103.85537211273478,
+            "Latitude": 1.32603759751245,
+            "RoadName": "Whampoa Rd",
+            "Description": "St. Michael's Ter"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "52451",
+            "Longitude": 103.85731928602708,
+            "Latitude": 1.3253199216809,
+            "RoadName": "Whampoa Rd",
+            "Description": "Blk 114"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "52129",
+            "Longitude": 103.85938111100755,
+            "Latitude": 1.32544666698102,
+            "RoadName": "Jln Bahagia",
+            "Description": "Blk 29"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "52109",
+            "Longitude": 103.8581711110213,
+            "Latitude": 1.32697666701265,
+            "RoadName": "Jln Bahagia",
+            "Description": "Bet Blks 33/34"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "52099",
+            "Longitude": 103.85488905075222,
+            "Latitude": 1.32652328466497,
+            "RoadName": "Kim Keat Rd",
+            "Description": "Opp NKF"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "50159",
+            "Longitude": 103.85326623915941,
+            "Latitude": 1.32456066077113,
+            "RoadName": "Kim Keat Rd",
+            "Description": "Bef Kim Keat Lane"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "50211",
+            "Longitude": 103.8525670514891,
+            "Latitude": 1.32306968689436,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Balestier Pt"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "50221",
+            "Longitude": 103.8530377626759,
+            "Latitude": 1.32143805851672,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Balestier Twrs"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "50129",
+            "Longitude": 103.84929028517206,
+            "Latitude": 1.3189880880064,
+            "RoadName": "Moulmein Rd",
+            "Description": "Opp Tan Tock Seng Hosp"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "50119",
+            "Longitude": 103.8458185038638,
+            "Latitude": 1.31829503182752,
+            "RoadName": "Moulmein Rd",
+            "Description": "St. Joseph Instn Jnr"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "50069",
+            "Longitude": 103.84164776289317,
+            "Latitude": 1.31702163080967,
+            "RoadName": "Newton Rd",
+            "Description": "Hotel Royal"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "40129",
+            "Longitude": 103.84082845008946,
+            "Latitude": 1.31453779264106,
+            "RoadName": "Newton Rd",
+            "Description": "Newton Life Ch"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "40189",
+            "Longitude": 103.83816095637219,
+            "Latitude": 1.31223181292182,
+            "RoadName": "Scotts Rd",
+            "Description": "Newton Stn Exit B"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "40179",
+            "Longitude": 103.83686949960516,
+            "Latitude": 1.31133173990881,
+            "RoadName": "Scotts Rd",
+            "Description": "Env Bldg"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "09219",
+            "Longitude": 103.83316088291699,
+            "Latitude": 1.30731999685228,
+            "RoadName": "Scotts Rd",
+            "Description": "Far East Plaza"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "09047",
+            "Longitude": 103.83294467208566,
+            "Latitude": 1.30446065207443,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Stn/Tang Plaza"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "09037",
+            "Longitude": 103.83701253388183,
+            "Latitude": 1.3023400420296,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Mandarin Orchard"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "08138",
+            "Longitude": 103.84184700607595,
+            "Latitude": 1.3004785730821,
+            "RoadName": "Orchard Rd",
+            "Description": "Concorde Hotel S'pore"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "08069",
+            "Longitude": 103.84936128375956,
+            "Latitude": 1.29821382250893,
+            "RoadName": "Bras Basah Rd",
+            "Description": "BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "04167",
+            "Longitude": 103.85145315468638,
+            "Latitude": 1.29250006522444,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "City Hall Stn Exit B"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "04249",
+            "Longitude": 103.85026216508201,
+            "Latitude": 1.29043039362749,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "Opp The Treasury"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "05029",
+            "Longitude": 103.84833343750249,
+            "Latitude": 1.28724656561704,
+            "RoadName": "Sth Bridge Rd",
+            "Description": "Boat Quay"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "05131",
+            "Longitude": 103.84527387289731,
+            "Latitude": 1.28398513155185,
+            "RoadName": "Upp Cross St",
+            "Description": "Opp Hong Lim Cplx"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "05039",
+            "Longitude": 103.84254276754574,
+            "Latitude": 1.28293819129834,
+            "RoadName": "New Bridge Rd",
+            "Description": "New Bridge Ctr"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "05019",
+            "Longitude": 103.84105000000471,
+            "Latitude": 1.28118388885484,
+            "RoadName": "New Bridge Rd",
+            "Description": "Opp Pearl's Ctr"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "05069",
+            "Longitude": 103.84029791443083,
+            "Latitude": 1.28027629959632,
+            "RoadName": "New Bridge Rd",
+            "Description": "Outram Pk Stn Exit H"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "10011",
+            "Longitude": 103.83749709165197,
+            "Latitude": 1.2777380589964,
+            "RoadName": "New Bridge Rd",
+            "Description": "BEF NEIL RD"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "10041",
+            "Longitude": 103.83519065305671,
+            "Latitude": 1.27605834770353,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "BEF KAMPONG BAHRU TER"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "10399",
+            "Longitude": 103.83019454205221,
+            "Latitude": 1.27588166292683,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "Melati Blk 2"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "14221",
+            "Longitude": 103.82893371728431,
+            "Latitude": 1.27359332247784,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "Opp St. Teresa's Ch"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "14231",
+            "Longitude": 103.82667222202473,
+            "Latitude": 1.27100999999332,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "Keppel DP Blk 519"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "14021",
+            "Longitude": 103.82478361101728,
+            "Latitude": 1.27132972198996,
+            "RoadName": "Lower Delta Rd",
+            "Description": "The Pearl @ Mt Faber"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "14379",
+            "Longitude": 103.82379361102515,
+            "Latitude": 1.27243833303297,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Blk 40"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "14291",
+            "Longitude": 103.82132649422054,
+            "Latitude": 1.27468440821038,
+            "RoadName": "Telok Blangah Way",
+            "Description": "Blk 27"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "14271",
+            "Longitude": 103.81914854048932,
+            "Latitude": 1.27568194286532,
+            "RoadName": "Telok Blangah Way",
+            "Description": "Al-Amin Mque"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "14281",
+            "Longitude": 103.81804377490617,
+            "Latitude": 1.27699671573899,
+            "RoadName": "Telok Blangah Way",
+            "Description": "Safra Mt Faber"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "14059",
+            "Longitude": 103.81514365492288,
+            "Latitude": 1.27537485139506,
+            "RoadName": "Henderson Rd",
+            "Description": "Bef Telok Blangah Hts"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "14349",
+            "Longitude": 103.81339813671549,
+            "Latitude": 1.27579029839825,
+            "RoadName": "Telok Blangah Hts",
+            "Description": "Blk 59"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "14339",
+            "Longitude": 103.81124504785828,
+            "Latitude": 1.276660654539,
+            "RoadName": "Telok Blangah Hts",
+            "Description": "Bef Telok Blangah St 32"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "14399",
+            "Longitude": 103.80858552939208,
+            "Latitude": 1.27763662023223,
+            "RoadName": "Telok Blangah Hts",
+            "Description": "Blk 85"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "14509",
+            "Longitude": 103.8068061,
+            "Latitude": 1.275651111,
+            "RoadName": "Telok Blangah St 31",
+            "Description": "BLK 92B"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "14499",
+            "Longitude": 103.8078211111249,
+            "Latitude": 1.27291305557456,
+            "RoadName": "Telok Blangah Dr",
+            "Description": "Telok Blangah Mkt/FC"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "14359",
+            "Longitude": 103.81035027797056,
+            "Latitude": 1.27289055599998,
+            "RoadName": "Telok Blangah Dr",
+            "Description": "Blk 50"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "14159",
+            "Longitude": 103.81315419081787,
+            "Latitude": 1.26994046445496,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Bef Chr Community Chapel"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "14139",
+            "Longitude": 103.81546952380809,
+            "Latitude": 1.2686352773503,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Bef Seah Im Rd"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "14009",
+            "Longitude": 103.81901469907409,
+            "Latitude": 1.26703502614245,
+            "RoadName": "Seah Im Rd",
+            "Description": "HarbourFront Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "14009",
+            "Longitude": 103.81901469907409,
+            "Latitude": 1.26703502614245,
+            "RoadName": "Seah Im Rd",
+            "Description": "HarbourFront Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "14131",
+            "Longitude": 103.81675441150337,
+            "Latitude": 1.26740130257465,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Caribbean at Keppel Bay"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "14151",
+            "Longitude": 103.8129359412343,
+            "Latitude": 1.26964765905364,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp Chr Community Chapel"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "14351",
+            "Longitude": 103.81036111111034,
+            "Latitude": 1.27275000000424,
+            "RoadName": "Telok Blangah Dr",
+            "Description": "Aft Blk 48"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "14491",
+            "Longitude": 103.8079488888896,
+            "Latitude": 1.27278805556375,
+            "RoadName": "Telok Blangah Dr",
+            "Description": "Opp Telok Blangah Mkt/FC"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "14501",
+            "Longitude": 103.8065181,
+            "Latitude": 1.277055,
+            "RoadName": "Telok Blangah St 31",
+            "Description": "OPP BLK 91A"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "14391",
+            "Longitude": 103.80858611110148,
+            "Latitude": 1.27790999999895,
+            "RoadName": "Telok Blangah Hts",
+            "Description": "Opp Blk 85"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "14331",
+            "Longitude": 103.8110680555484,
+            "Latitude": 1.27694611110347,
+            "RoadName": "Telok Blangah Hts",
+            "Description": "Aft Telok Blangah St 32"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "14341",
+            "Longitude": 103.81347388887318,
+            "Latitude": 1.2759338888633,
+            "RoadName": "Telok Blangah Hts",
+            "Description": "Opp Blk 59"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "14051",
+            "Longitude": 103.81507555599188,
+            "Latitude": 1.27581500000367,
+            "RoadName": "Henderson Rd",
+            "Description": "Aft Telok Blangah Hts"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "14279",
+            "Longitude": 103.81920892602811,
+            "Latitude": 1.27591552267791,
+            "RoadName": "Telok Blangah Way",
+            "Description": "Blk 25"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "14299",
+            "Longitude": 103.82127132943862,
+            "Latitude": 1.27488820445716,
+            "RoadName": "Telok Blangah Way",
+            "Description": "Opp Blk 27"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "14029",
+            "Longitude": 103.82418777803016,
+            "Latitude": 1.27247333301883,
+            "RoadName": "Lower Delta Rd",
+            "Description": "Blk 105"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "14239",
+            "Longitude": 103.8271423936315,
+            "Latitude": 1.27178138152481,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "Opp Keppel DP Blk 519"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "14229",
+            "Longitude": 103.82857888915174,
+            "Latitude": 1.27370670186653,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "St. Teresa's Ch"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "10391",
+            "Longitude": 103.83111005682466,
+            "Latitude": 1.27619610041717,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "Opp Melati Blk 2"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "10049",
+            "Longitude": 103.83483786772155,
+            "Latitude": 1.27623302424393,
+            "RoadName": "Kg Bahru Rd",
+            "Description": "OPP KAMPONG BAHRU TER"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "10017",
+            "Longitude": 103.83762574759974,
+            "Latitude": 1.27832046633393,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Aft Hosp Dr"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "10018",
+            "Longitude": 103.83860360621959,
+            "Latitude": 1.27900819665099,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Outram Pk Stn Exit F/SGH"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "05012",
+            "Longitude": 103.84087722199499,
+            "Latitude": 1.28154583300728,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Pearl's Ctr"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "05022",
+            "Longitude": 103.84437203405348,
+            "Latitude": 1.28571089865595,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "People's Pk Ctr"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "04222",
+            "Longitude": 103.84708976365569,
+            "Latitude": 1.28898962180798,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Clarke Quay Stn Exit E"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "04223",
+            "Longitude": 103.84857901022669,
+            "Latitude": 1.29084476137495,
+            "RoadName": "Hill St",
+            "Description": "Old Hill St Police Stn"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "04143",
+            "Longitude": 103.85020606905503,
+            "Latitude": 1.29411640848293,
+            "RoadName": "Hill St",
+            "Description": "Stamford Ct"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "04121",
+            "Longitude": 103.84958029974611,
+            "Latitude": 1.29618544092334,
+            "RoadName": "Stamford Rd",
+            "Description": "SMU"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "08041",
+            "Longitude": 103.84780636909545,
+            "Latitude": 1.29811014243867,
+            "RoadName": "Orchard Rd",
+            "Description": "YMCA"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "08031",
+            "Longitude": 103.8452569595532,
+            "Latitude": 1.29831153783592,
+            "RoadName": "Penang Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "08111",
+            "Longitude": 103.84093746088925,
+            "Latitude": 1.29986928715834,
+            "RoadName": "Penang Rd",
+            "Description": "Winsland Hse"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "08121",
+            "Longitude": 103.83877618459663,
+            "Latitude": 1.30027569326586,
+            "RoadName": "Somerset Rd",
+            "Description": "Somerset Stn"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "09011",
+            "Longitude": 103.83431672376756,
+            "Latitude": 1.30211335092372,
+            "RoadName": "Orchard Turn",
+            "Description": "Opp Ngee Ann City"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "09023",
+            "Longitude": 103.83254180023424,
+            "Latitude": 1.30323727330942,
+            "RoadName": "Orchard Turn",
+            "Description": "Opp Orchard Stn/ION"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "09212",
+            "Longitude": 103.83265522662566,
+            "Latitude": 1.30702238421536,
+            "RoadName": "Scotts Rd",
+            "Description": "Royal Plaza On Scotts"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "40171",
+            "Longitude": 103.83582101192815,
+            "Latitude": 1.3109517198906,
+            "RoadName": "Scotts Rd",
+            "Description": "Opp Env Bldg"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "40181",
+            "Longitude": 103.83798341278676,
+            "Latitude": 1.31243561231028,
+            "RoadName": "Scotts Rd",
+            "Description": "Newton Stn Exit A"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "40121",
+            "Longitude": 103.84053190286843,
+            "Latitude": 1.31458164930261,
+            "RoadName": "Newton Rd",
+            "Description": "Opp Newton Life Ch"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "50061",
+            "Longitude": 103.84143789916804,
+            "Latitude": 1.31743500021924,
+            "RoadName": "Newton Rd",
+            "Description": "Opp Hotel Royal"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "50111",
+            "Longitude": 103.8465549576423,
+            "Latitude": 1.31875833024702,
+            "RoadName": "Moulmein Rd",
+            "Description": "Revival Ctr Ch"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "50121",
+            "Longitude": 103.84933923160258,
+            "Latitude": 1.31930304159281,
+            "RoadName": "Moulmein Rd",
+            "Description": "Natl Skin Ctr"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "50229",
+            "Longitude": 103.85283489560972,
+            "Latitude": 1.32095764720403,
+            "RoadName": "Balestier Rd",
+            "Description": "Balestier Twrs"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "50991",
+            "Longitude": 103.85626145335385,
+            "Latitude": 1.32337986005569,
+            "RoadName": "Whampoa Dr",
+            "Description": "Blk 82"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "52129",
+            "Longitude": 103.85938111100755,
+            "Latitude": 1.32544666698102,
+            "RoadName": "Jln Bahagia",
+            "Description": "Blk 29"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "52109",
+            "Longitude": 103.8581711110213,
+            "Latitude": 1.32697666701265,
+            "RoadName": "Jln Bahagia",
+            "Description": "Bet Blks 33/34"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "52499",
+            "Longitude": 103.85537211273478,
+            "Latitude": 1.32603759751245,
+            "RoadName": "Whampoa Rd",
+            "Description": "St. Michael's Ter"
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "62131",
+            "Longitude": 103.87277432797597,
+            "Latitude": 1.3489790064228,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit H"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "62141",
+            "Longitude": 103.87515194713767,
+            "Latitude": 1.35149112412235,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 1"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "62059",
+            "Longitude": 103.87859583297927,
+            "Latitude": 1.35170138896709,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Blk 161"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "62049",
+            "Longitude": 103.88022749996824,
+            "Latitude": 1.34904000002665,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Paya Lebar Cres"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "62039",
+            "Longitude": 103.880911959518,
+            "Latitude": 1.3467680506898,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Raya Gdn"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "62029",
+            "Longitude": 103.88273473175272,
+            "Latitude": 1.34411328094155,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Paya Lebar Gdns"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "62019",
+            "Longitude": 103.88405276089232,
+            "Latitude": 1.34215709944082,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Rochdale Rd"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "70309",
+            "Longitude": 103.88639700003634,
+            "Latitude": 1.33965000001824,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Opp Paya Lebar St"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "70299",
+            "Longitude": 103.88758305557131,
+            "Latitude": 1.3374750000156,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Opp Asiawide Ind Bldg"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "70289",
+            "Longitude": 103.8886929999761,
+            "Latitude": 1.3350640000249,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Opp Tai Seng Stn"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "70279",
+            "Longitude": 103.88951499040957,
+            "Latitude": 1.33155751923227,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Opp Trinity @ Paya Lebar"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "70091",
+            "Longitude": 103.89091372491255,
+            "Latitude": 1.33071735944004,
+            "RoadName": "Ubi Ave 3",
+            "Description": "Opp Traffic Police"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "70081",
+            "Longitude": 103.89497442435284,
+            "Latitude": 1.33227580149459,
+            "RoadName": "Ubi Ave 3",
+            "Description": "Opp HDB CP"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "70071",
+            "Longitude": 103.89841293744438,
+            "Latitude": 1.33377161253401,
+            "RoadName": "Ubi Ave 3",
+            "Description": "Cycle & Carriage"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "71081",
+            "Longitude": 103.9005998503616,
+            "Latitude": 1.33375855817569,
+            "RoadName": "Eunos Link",
+            "Description": "Eunos Technolink"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "72059",
+            "Longitude": 103.90428000002385,
+            "Latitude": 1.33375833299433,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Opp Kaki Bt Ind Est"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "72049",
+            "Longitude": 103.90747460787432,
+            "Latitude": 1.33490332816583,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Opp Blk 660A CP"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "72039",
+            "Longitude": 103.90985114690736,
+            "Latitude": 1.33546648279458,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "KAKI BT STN EXIT A"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "84709",
+            "Longitude": 103.91242511468805,
+            "Latitude": 1.33644333039135,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Opp Blk 150"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "84489",
+            "Longitude": 103.91618833296936,
+            "Latitude": 1.33804722197723,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Bedok Ind Pk C"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "75401",
+            "Longitude": 103.92671414169045,
+            "Latitude": 1.3517582770335,
+            "RoadName": "Tampines Ave 10",
+            "Description": "AFT TAMPINES AVE 1"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "75411",
+            "Longitude": 103.92905500001906,
+            "Latitude": 1.35607656836954,
+            "RoadName": "Tampines Ave 10",
+            "Description": "BEF TAMPINES FIRE STN"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "75371",
+            "Longitude": 103.93052373888251,
+            "Latitude": 1.35909826524265,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft Tampines Ave 5"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "75291",
+            "Longitude": 103.93076720725303,
+            "Latitude": 1.36149182194897,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft Tampines Ave 9"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "75311",
+            "Longitude": 103.93078207971784,
+            "Latitude": 1.36707803417357,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Tampines Dormitory"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "75361",
+            "Longitude": 103.93030234430374,
+            "Latitude": 1.3706441545828,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ind Ave 5"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "75351",
+            "Longitude": 103.93077504301999,
+            "Latitude": 1.37364163782281,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef TPE"
+        }
+    ]
+}

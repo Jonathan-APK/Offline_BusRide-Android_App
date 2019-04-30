@@ -1,0 +1,588 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "59179",
+            "Longitude": 103.83988331688866,
+            "Latitude": 1.43221439515231,
+            "RoadName": "Yishun Ave 9",
+            "Description": "Blk 241"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "59389",
+            "Longitude": 103.84208246442347,
+            "Latitude": 1.43202071867504,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 314"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "59399",
+            "Longitude": 103.84552062872451,
+            "Latitude": 1.43026750784845,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 367"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "59409",
+            "Longitude": 103.84640616622914,
+            "Latitude": 1.42663883088373,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Evangel Family Ch"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "59419",
+            "Longitude": 103.84598027430432,
+            "Latitude": 1.42525968028764,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 413"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "59639",
+            "Longitude": 103.84412388893058,
+            "Latitude": 1.42318166665872,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Bet Blks 445/449"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "59579",
+            "Longitude": 103.84389849997935,
+            "Latitude": 1.42026429997499,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 456"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "59761",
+            "Longitude": 103.8432675,
+            "Latitude": 1.418496389,
+            "RoadName": "Yishun Ave 1",
+            "Description": "Blk 504C"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "59719",
+            "Longitude": 103.8420025,
+            "Latitude": 1.417565,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 672C"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "59439",
+            "Longitude": 103.83835440290515,
+            "Latitude": 1.41781023946668,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 858"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "59429",
+            "Longitude": 103.83503056128593,
+            "Latitude": 1.4174261275063,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 846"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "59051",
+            "Longitude": 103.83429674432547,
+            "Latitude": 1.41968270185637,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 790"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "59339",
+            "Longitude": 103.83378411194366,
+            "Latitude": 1.42273567302859,
+            "RoadName": "Yishun Ave 3",
+            "Description": "Blk 776"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "59549",
+            "Longitude": 103.83052605711299,
+            "Latitude": 1.42313912325939,
+            "RoadName": "Yishun Ave 3",
+            "Description": "Khatib Camp"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "59559",
+            "Longitude": 103.82821308909149,
+            "Latitude": 1.42511776424343,
+            "RoadName": "Yishun Ave 3",
+            "Description": "Opp Blk 722"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "57079",
+            "Longitude": 103.82566793061787,
+            "Latitude": 1.42443860227619,
+            "RoadName": "Sembawang Rd",
+            "Description": "Khatib Camp"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "57069",
+            "Longitude": 103.82460551333597,
+            "Latitude": 1.4189659270404,
+            "RoadName": "Sembawang Rd",
+            "Description": "Opp Dieppe Barracks"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "57059",
+            "Longitude": 103.82356549744377,
+            "Latitude": 1.41472777811863,
+            "RoadName": "Sembawang Rd",
+            "Description": "Opp Sembawang Air Base"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "57049",
+            "Longitude": 103.82233527798766,
+            "Latitude": 1.41082027802703,
+            "RoadName": "Sembawang Rd",
+            "Description": "Opp Nee Soon HQ 22 SIB"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "57039",
+            "Longitude": 103.8199872220186,
+            "Latitude": 1.40611750000192,
+            "RoadName": "Sembawang Rd",
+            "Description": "SPIRITUAL GRACE PRESBY CH"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "57029",
+            "Longitude": 103.81862261343507,
+            "Latitude": 1.40396290628178,
+            "RoadName": "Sembawang Rd",
+            "Description": "Aft The Springside"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "57019",
+            "Longitude": 103.8173071004643,
+            "Latitude": 1.40086307559896,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Springleaf Nature Pk"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "56099",
+            "Longitude": 103.8188299218487,
+            "Latitude": 1.39606817759915,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Springleaf Rd"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "56089",
+            "Longitude": 103.81861107436661,
+            "Latitude": 1.39205091187219,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft SLE"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "56079",
+            "Longitude": 103.81959791299872,
+            "Latitude": 1.38756640996273,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Old Upp Thomson Rd"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "56069",
+            "Longitude": 103.82320879865532,
+            "Latitude": 1.38530499508514,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Tagore Dr"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "56059",
+            "Longitude": 103.82604547355085,
+            "Latitude": 1.38268805765919,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Tagore Rd"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "56049",
+            "Longitude": 103.82768833298778,
+            "Latitude": 1.37945638898658,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Meadows @ Peirce"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "56191",
+            "Longitude": 103.82944083302411,
+            "Latitude": 1.37879833302094,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp NPB Serangoon Depot"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "56201",
+            "Longitude": 103.83224759401025,
+            "Latitude": 1.38059381566563,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Munshi Abdullah Ave"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "55129",
+            "Longitude": 103.83549938754196,
+            "Latitude": 1.37955302001994,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Blk 604"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "55119",
+            "Longitude": 103.8378470631113,
+            "Latitude": 1.37728530731209,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Blk 617"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "54451",
+            "Longitude": 103.84059645206445,
+            "Latitude": 1.37723501808517,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Blk 643"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "54461",
+            "Longitude": 103.84339938777067,
+            "Latitude": 1.37747997146347,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Blk 649"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "55201",
+            "Longitude": 103.8443777268119,
+            "Latitude": 1.37859113966821,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Opp Anderson JC"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "55509",
+            "Longitude": 103.8455558816965,
+            "Latitude": 1.38113241525166,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Yio Chu Kang Int"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "55509",
+            "Longitude": 103.8455558816965,
+            "Latitude": 1.38113241525166,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Yio Chu Kang Int"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "55209",
+            "Longitude": 103.84468444401317,
+            "Latitude": 1.37863166702811,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Anderson JC"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "54469",
+            "Longitude": 103.84349683756662,
+            "Latitude": 1.3772016702489,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp Blk 649"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "54459",
+            "Longitude": 103.84120098441312,
+            "Latitude": 1.37693336122245,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "55111",
+            "Longitude": 103.83777368753996,
+            "Latitude": 1.37695556267127,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Blk 180"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "55121",
+            "Longitude": 103.83519777802985,
+            "Latitude": 1.37943138901774,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp Blk 604"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "56209",
+            "Longitude": 103.83240305645302,
+            "Latitude": 1.38031863295854,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Thomson Hills Dr"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "56199",
+            "Longitude": 103.83003638899949,
+            "Latitude": 1.37892333298882,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "NPB Serangoon Depot"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "56041",
+            "Longitude": 103.8275777780206,
+            "Latitude": 1.37916166696569,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Meadows @ Peirce"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "56051",
+            "Longitude": 103.82576395474278,
+            "Latitude": 1.38249472962714,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Tagore Rd"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "56061",
+            "Longitude": 103.82287451682392,
+            "Latitude": 1.38514751918468,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Tagore Dr"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "56071",
+            "Longitude": 103.81964816646843,
+            "Latitude": 1.38717744383548,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Old Upp Thomson Rd"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "56081",
+            "Longitude": 103.81821308362592,
+            "Latitude": 1.39169796746844,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef SLE"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "56091",
+            "Longitude": 103.81841168654944,
+            "Latitude": 1.39634526567884,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Springleaf Rd"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "57011",
+            "Longitude": 103.81717214668784,
+            "Latitude": 1.40015725353057,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Springleaf Nature Pk"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "57021",
+            "Longitude": 103.81834244198308,
+            "Latitude": 1.40414074099185,
+            "RoadName": "Sembawang Rd",
+            "Description": "Forest Hills Condo"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "57031",
+            "Longitude": 103.82012256385369,
+            "Latitude": 1.40705411971506,
+            "RoadName": "Sembawang Rd",
+            "Description": "Nee Soon Driclad Ctr"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "57041",
+            "Longitude": 103.82192312004506,
+            "Latitude": 1.41069268256433,
+            "RoadName": "Sembawang Rd",
+            "Description": "Nee Soon HQ 22 SIB"
+        },
+        {
+            "Distance": 21.7,
+            "BusStopCode": "57051",
+            "Longitude": 103.82337367876173,
+            "Latitude": 1.41527125453225,
+            "RoadName": "Sembawang Rd",
+            "Description": "Aft Sembawang Air Base"
+        },
+        {
+            "Distance": 22.2,
+            "BusStopCode": "57061",
+            "Longitude": 103.82452638790889,
+            "Latitude": 1.41996142296204,
+            "RoadName": "Sembawang Rd",
+            "Description": "Dieppe Barracks"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "57071",
+            "Longitude": 103.82550580503441,
+            "Latitude": 1.42501608069549,
+            "RoadName": "Sembawang Rd",
+            "Description": "Opp Khatib Camp"
+        },
+        {
+            "Distance": 23.2,
+            "BusStopCode": "59551",
+            "Longitude": 103.82822466548578,
+            "Latitude": 1.42539008150192,
+            "RoadName": "Yishun Ave 3",
+            "Description": "Blk 722"
+        },
+        {
+            "Distance": 23.5,
+            "BusStopCode": "59541",
+            "Longitude": 103.83018072233915,
+            "Latitude": 1.42363018656288,
+            "RoadName": "Yishun Ave 3",
+            "Description": "Opp Khatib Camp"
+        },
+        {
+            "Distance": 23.8,
+            "BusStopCode": "59331",
+            "Longitude": 103.83276716795122,
+            "Latitude": 1.422973728077,
+            "RoadName": "Yishun Ave 3",
+            "Description": "Blk 773"
+        },
+        {
+            "Distance": 24.3,
+            "BusStopCode": "59059",
+            "Longitude": 103.83497942324875,
+            "Latitude": 1.42054602879781,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 608"
+        },
+        {
+            "Distance": 24.7,
+            "BusStopCode": "59421",
+            "Longitude": 103.8351341252188,
+            "Latitude": 1.41762836917061,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 624"
+        },
+        {
+            "Distance": 25,
+            "BusStopCode": "59431",
+            "Longitude": 103.8377761,
+            "Latitude": 1.417801111,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 630"
+        },
+        {
+            "Distance": 25.6,
+            "BusStopCode": "59711",
+            "Longitude": 103.8427906,
+            "Latitude": 1.418173889,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 672C"
+        },
+        {
+            "Distance": 26,
+            "BusStopCode": "59571",
+            "Longitude": 103.8437325,
+            "Latitude": 1.420725,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Northbrooks Sec Sch"
+        },
+        {
+            "Distance": 26.3,
+            "BusStopCode": "59631",
+            "Longitude": 103.84397389045573,
+            "Latitude": 1.42333778088573,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 445"
+        },
+        {
+            "Distance": 26.6,
+            "BusStopCode": "59411",
+            "Longitude": 103.8457261,
+            "Latitude": 1.425213889,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 356"
+        },
+        {
+            "Distance": 26.9,
+            "BusStopCode": "59401",
+            "Longitude": 103.84615134332738,
+            "Latitude": 1.42705456686774,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 358"
+        },
+        {
+            "Distance": 27.3,
+            "BusStopCode": "59391",
+            "Longitude": 103.84523111093658,
+            "Latitude": 1.43021107363512,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 342B"
+        },
+        {
+            "Distance": 27.7,
+            "BusStopCode": "59381",
+            "Longitude": 103.84196021620254,
+            "Latitude": 1.43181131616813,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 314"
+        },
+        {
+            "Distance": 28,
+            "BusStopCode": "59171",
+            "Longitude": 103.84019665786346,
+            "Latitude": 1.43226509746155,
+            "RoadName": "Yishun Ave 9",
+            "Description": "Blk 309"
+        },
+        {
+            "Distance": 28.5,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int (Last Stop)"
+        }
+    ]
+}

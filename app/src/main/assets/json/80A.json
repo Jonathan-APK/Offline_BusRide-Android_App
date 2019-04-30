@@ -1,0 +1,252 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "67009",
+            "Longitude": 103.89588499436073,
+            "Latitude": 1.39178060381601,
+            "RoadName": "Sengkang Sq",
+            "Description": "Sengkang Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "67191",
+            "Longitude": 103.89710881285436,
+            "Latitude": 1.38908889970693,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 223D"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "67171",
+            "Longitude": 103.89897692182004,
+            "Latitude": 1.38731209583307,
+            "RoadName": "Compassvale Dr",
+            "Description": "Blk 225A"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "65029",
+            "Longitude": 103.90061583298267,
+            "Latitude": 1.38461500003195,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 111"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "65019",
+            "Longitude": 103.89749237919405,
+            "Latitude": 1.38151407829697,
+            "RoadName": "Punggol Rd",
+            "Description": "The Rivervale"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "64029",
+            "Longitude": 103.89688283812272,
+            "Latitude": 1.37781617357511,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Blk 458"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "64429",
+            "Longitude": 103.8952195672541,
+            "Latitude": 1.37481689904602,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 412"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "64381",
+            "Longitude": 103.89170384962591,
+            "Latitude": 1.37288245131287,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Blk 521"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "64549",
+            "Longitude": 103.89170972978319,
+            "Latitude": 1.37139998302648,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Opp Hougang Ctrl Int"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "64019",
+            "Longitude": 103.89393838248249,
+            "Latitude": 1.368308353364,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "63069",
+            "Longitude": 103.89194715850095,
+            "Latitude": 1.36637999879956,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 25"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "63059",
+            "Longitude": 103.88984149586426,
+            "Latitude": 1.36437667280221,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Serangoon JC"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "63049",
+            "Longitude": 103.88752277779692,
+            "Latitude": 1.36219166668854,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Glad Tidings Ch"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "63039",
+            "Longitude": 103.88538416663954,
+            "Latitude": 1.36026000003341,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit C"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "63029",
+            "Longitude": 103.88218027802674,
+            "Latitude": 1.35727472200293,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp The Helping Hand"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "63019",
+            "Longitude": 103.87800141702434,
+            "Latitude": 1.35347964311763,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Upp S'Goon Shop Ctr"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "62059",
+            "Longitude": 103.87859583297927,
+            "Latitude": 1.35170138896709,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Blk 161"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "62049",
+            "Longitude": 103.88022749996824,
+            "Latitude": 1.34904000002665,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Paya Lebar Cres"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "62039",
+            "Longitude": 103.880911959518,
+            "Latitude": 1.3467680506898,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Raya Gdn"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "62029",
+            "Longitude": 103.88273473175272,
+            "Latitude": 1.34411328094155,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Paya Lebar Gdns"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "62019",
+            "Longitude": 103.88405276089232,
+            "Latitude": 1.34215709944082,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Rochdale Rd"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "70309",
+            "Longitude": 103.88639700003634,
+            "Latitude": 1.33965000001824,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Opp Paya Lebar St"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "70299",
+            "Longitude": 103.88758305557131,
+            "Latitude": 1.3374750000156,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Opp Asiawide Ind Bldg"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "70289",
+            "Longitude": 103.8886929999761,
+            "Latitude": 1.3350640000249,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Opp Tai Seng Stn"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "70279",
+            "Longitude": 103.88951499040957,
+            "Latitude": 1.33155751923227,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Opp Trinity @ Paya Lebar"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "70269",
+            "Longitude": 103.89014388885742,
+            "Latitude": 1.32824611112671,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Citipoint Ind Cplx"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "70259",
+            "Longitude": 103.89080428753108,
+            "Latitude": 1.32498730068675,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Macpherson Stn Exit B"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "81229",
+            "Longitude": 103.89018804743054,
+            "Latitude": 1.31946112797115,
+            "RoadName": "Geylang East Ctrl",
+            "Description": "Blk 1015"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "81219",
+            "Longitude": 103.8866869928233,
+            "Latitude": 1.31877141262042,
+            "RoadName": "Geylang East Ctrl",
+            "Description": "Opp Geylang Polyclinic"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "81209",
+            "Longitude": 103.88429716458627,
+            "Latitude": 1.31843612461246,
+            "RoadName": "Geylang East Ctrl",
+            "Description": "Geylang Meth Pr Sch"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "81089",
+            "Longitude": 103.88202243551633,
+            "Latitude": 1.31628194302502,
+            "RoadName": "Aljunied Rd",
+            "Description": "Aljunied Stn"
+        }
+    ]
+}

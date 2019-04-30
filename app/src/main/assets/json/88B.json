@@ -1,0 +1,100 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "54261",
+            "Longitude": 103.85075454495572,
+            "Latitude": 1.36946941916508,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Ang Mo Kio Stn"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "54271",
+            "Longitude": 103.85356664655984,
+            "Latitude": 1.36996326781056,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 586"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "54281",
+            "Longitude": 103.85601277845504,
+            "Latitude": 1.3694902568174,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 570"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "54581",
+            "Longitude": 103.85665833302312,
+            "Latitude": 1.37105833303092,
+            "RoadName": "Ang Mo Kio Ave 10",
+            "Description": "Blk 574"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "54571",
+            "Longitude": 103.85491933752174,
+            "Latitude": 1.37425472964633,
+            "RoadName": "Ang Mo Kio Ave 10",
+            "Description": "Blk 532"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "54481",
+            "Longitude": 103.855765341723,
+            "Latitude": 1.37599497932237,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Ite Coll Ctrl"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "54491",
+            "Longitude": 103.86010323265269,
+            "Latitude": 1.37717165299187,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Aft CTE"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "54501",
+            "Longitude": 103.86266305598139,
+            "Latitude": 1.37787138898682,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp AMK Ind Pk 2"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "54651",
+            "Longitude": 103.86551861831312,
+            "Latitude": 1.37854275740549,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp Techplace 2"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "66451",
+            "Longitude": 103.86854361874474,
+            "Latitude": 1.37872496881803,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Aft AMK Ind Pk 2"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "66461",
+            "Longitude": 103.87128027800178,
+            "Latitude": 1.37889000002038,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Bef Seagate"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "66471",
+            "Longitude": 103.8743605559661,
+            "Latitude": 1.37895833299995,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Bef Yio Chu Kang Rd"
+        }
+    ]
+}

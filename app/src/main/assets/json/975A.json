@@ -1,0 +1,228 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "45009",
+            "Longitude": 103.76291779489557,
+            "Latitude": 1.37844139790821,
+            "RoadName": "Petir Rd",
+            "Description": "BT PANJANG INT"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "44259",
+            "Longitude": 103.76297124601712,
+            "Latitude": 1.38029564329691,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 183"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "44149",
+            "Longitude": 103.75776732086608,
+            "Latitude": 1.37798495709362,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Opp Phoenix Stn"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "44271",
+            "Longitude": 103.75614774814443,
+            "Latitude": 1.37867114732017,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Bet Blks 13/14"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "44281",
+            "Longitude": 103.75422740795686,
+            "Latitude": 1.38104915821148,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Blk 8"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "44291",
+            "Longitude": 103.75140111097832,
+            "Latitude": 1.38151999999791,
+            "RoadName": "Teck Whye Ave",
+            "Description": "Opp Cck Polyclinic"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "44391",
+            "Longitude": 103.74831030292964,
+            "Latitude": 1.38288970873929,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Aft Blk 202"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "44531",
+            "Longitude": 103.74453624872069,
+            "Latitude": 1.38425405298158,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Opp Choa Chu Kang Stn"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "44461",
+            "Longitude": 103.7430047219692,
+            "Latitude": 1.3825705560115,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 352"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "44521",
+            "Longitude": 103.74260886969472,
+            "Latitude": 1.38085185530408,
+            "RoadName": "Choa Chu Kang Ave 3",
+            "Description": "Blk 280"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "44511",
+            "Longitude": 103.7405687719047,
+            "Latitude": 1.37948507121488,
+            "RoadName": "Choa Chu Kang Ave 3",
+            "Description": "Blk 289"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "44689",
+            "Longitude": 103.73849893266107,
+            "Latitude": 1.37811000397911,
+            "RoadName": "Choa Chu Kang Ave 3",
+            "Description": "Sunshine Pl"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "44079",
+            "Longitude": 103.73634658951725,
+            "Latitude": 1.37657500784909,
+            "RoadName": "Choa Chu Kang Ave 3",
+            "Description": "Opp Blk 464"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "30089",
+            "Longitude": 103.73409166698833,
+            "Latitude": 1.377159999987,
+            "RoadName": "Brickland Rd",
+            "Description": "Aft Hai Inn See Tp"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "30099",
+            "Longitude": 103.73122812228895,
+            "Latitude": 1.37972159795466,
+            "RoadName": "Sg Tengah Rd",
+            "Description": "Opp Chengtai Nursery"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "30059",
+            "Longitude": 103.72614304198139,
+            "Latitude": 1.37439935176831,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Opp Track 14"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "30049",
+            "Longitude": 103.723836557791,
+            "Latitude": 1.37431332163268,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Home Team Academy"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "30039",
+            "Longitude": 103.71981883880738,
+            "Latitude": 1.37432162221947,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Army Logistics Base"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "30029",
+            "Longitude": 103.71709630730658,
+            "Latitude": 1.37415602765485,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Keat Hong Camp"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "30019",
+            "Longitude": 103.71365844785454,
+            "Latitude": 1.37333306785344,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Opp Tengah Air Base"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "31199",
+            "Longitude": 103.70931539839594,
+            "Latitude": 1.37097558139998,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "B25 Old Choa Chu Kang Rd"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "31179",
+            "Longitude": 103.70355081890855,
+            "Latitude": 1.37234403223499,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Aft Jln Berseri"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "31169",
+            "Longitude": 103.7012193702135,
+            "Latitude": 1.37245094201191,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Teen Challenge"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "31159",
+            "Longitude": 103.69619726943306,
+            "Latitude": 1.37336600723318,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Bef Lim Chu Kang Rd"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "31061",
+            "Longitude": 103.695570278013,
+            "Latitude": 1.37594722202959,
+            "RoadName": "Lim Chu Kang Rd",
+            "Description": "Opp Lim Chu Kang Camp II"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "31071",
+            "Longitude": 103.69626045229732,
+            "Latitude": 1.37853314214565,
+            "RoadName": "Lim Chu Kang Rd",
+            "Description": "Aft Chinese Cemy Path 11"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "31081",
+            "Longitude": 103.69732526991169,
+            "Latitude": 1.38056264189347,
+            "RoadName": "Old Lim Chu Kang Rd",
+            "Description": "Opp HQ 5th SIB Camp I"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "34101",
+            "Longitude": 103.69790380001842,
+            "Latitude": 1.38440683002823,
+            "RoadName": "Lor Rusuk",
+            "Description": "Aft Old Lim Chu Kang Rd"
+        }
+    ]
+}

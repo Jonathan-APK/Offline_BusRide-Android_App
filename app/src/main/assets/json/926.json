@@ -1,0 +1,140 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "46549",
+            "Longitude": 103.7812567265195,
+            "Latitude": 1.43319818915334,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 347"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "46539",
+            "Longitude": 103.77822365534921,
+            "Latitude": 1.43209962904173,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 320"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "46529",
+            "Longitude": 103.77459689006626,
+            "Latitude": 1.43208152770031,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Opp Marsiling Stn"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "46491",
+            "Longitude": 103.77200799456398,
+            "Latitude": 1.43188974761143,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 402"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "48011",
+            "Longitude": 103.77449402303927,
+            "Latitude": 1.41053605692452,
+            "RoadName": "Mandai Rd",
+            "Description": "Opp Mandai Camp 2"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "48111",
+            "Longitude": 103.7796356,
+            "Latitude": 1.409414444,
+            "RoadName": "Mandai Lake Rd",
+            "Description": "Aft Mandai Rd"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "48121",
+            "Longitude": 103.7830958,
+            "Latitude": 1.407433889,
+            "RoadName": "Mandai Lake Rd",
+            "Description": "Bef S'pore Zoo"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "48131",
+            "Longitude": 103.78935694475769,
+            "Latitude": 1.40462388269986,
+            "RoadName": "Mandai Lake Rd",
+            "Description": "S'Pore Zoo"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "48129",
+            "Longitude": 103.7830597,
+            "Latitude": 1.407335,
+            "RoadName": "Mandai Lake Rd",
+            "Description": "Aft S'pore Zoo"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "48119",
+            "Longitude": 103.77929091400647,
+            "Latitude": 1.40961851672775,
+            "RoadName": "Mandai Lake Rd",
+            "Description": "Bef Mandai Rd"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "48019",
+            "Longitude": 103.77547240613428,
+            "Latitude": 1.41047890324886,
+            "RoadName": "Mandai Rd",
+            "Description": "Mandai Camp 2"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "46499",
+            "Longitude": 103.77219638823969,
+            "Latitude": 1.4322913388299,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Opp Blk 402"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "46521",
+            "Longitude": 103.77429333367095,
+            "Latitude": 1.43237833345523,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Marsiling Stn"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "46531",
+            "Longitude": 103.77751138903017,
+            "Latitude": 1.43240249999047,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 173"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "46541",
+            "Longitude": 103.78083569681783,
+            "Latitude": 1.43328331503309,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Opp Blk 347"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (Last Stop)"
+        }
+    ]
+}

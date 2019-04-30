@@ -1,0 +1,92 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52471",
+            "Longitude": 103.84565118947224,
+            "Latitude": 1.32763988299446,
+            "RoadName": "Ah Hood Rd",
+            "Description": "EASB"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "52401",
+            "Longitude": 103.85082868868597,
+            "Latitude": 1.32830186081857,
+            "RoadName": "Jln Rajah",
+            "Description": "Blk 102"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "52411",
+            "Longitude": 103.85392666697314,
+            "Latitude": 1.32818666702477,
+            "RoadName": "Jln Rajah",
+            "Description": "Blk 105"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "52099",
+            "Longitude": 103.85488905075222,
+            "Latitude": 1.32652328466497,
+            "RoadName": "Kim Keat Rd",
+            "Description": "Opp NKF"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "50159",
+            "Longitude": 103.85326623915941,
+            "Latitude": 1.32456066077113,
+            "RoadName": "Kim Keat Rd",
+            "Description": "Bef Kim Keat Lane"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "50211",
+            "Longitude": 103.8525670514891,
+            "Latitude": 1.32306968689436,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Balestier Pt"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "50221",
+            "Longitude": 103.8530377626759,
+            "Latitude": 1.32143805851672,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Balestier Twrs"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "03223",
+            "Longitude": 103.84632468221952,
+            "Latitude": 1.2757033952327,
+            "RoadName": "Anson Rd",
+            "Description": "Intl Plaza"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "03151",
+            "Longitude": 103.84776234627124,
+            "Latitude": 1.27892124625262,
+            "RoadName": "Cecil St",
+            "Description": "Opp GB Bldg"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "03021",
+            "Longitude": 103.84998903789258,
+            "Latitude": 1.28255524603003,
+            "RoadName": "Cecil St",
+            "Description": "Prudential Twr"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46861",
+            "Longitude": 103.79998340500156,
+            "Latitude": 1.43515578551993,
+            "RoadName": "Woodlands Ring Rd",
+            "Description": "Opp Blk 624B"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "46871",
+            "Longitude": 103.80176512304321,
+            "Latitude": 1.43679116597713,
+            "RoadName": "Woodlands Ring Rd",
+            "Description": "Blk 644"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "47549",
+            "Longitude": 103.80352352573782,
+            "Latitude": 1.4379048516895,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Opp Blk 639"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "47559",
+            "Longitude": 103.80204564158956,
+            "Latitude": 1.43461254485308,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Opp Blk 630"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "47569",
+            "Longitude": 103.7987803897484,
+            "Latitude": 1.43291945534759,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Opp Blk 620"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "47579",
+            "Longitude": 103.79597019770507,
+            "Latitude": 1.4333134741952,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 556"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "47589",
+            "Longitude": 103.79254444311259,
+            "Latitude": 1.43479106906247,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 519A CP"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "46649",
+            "Longitude": 103.79042134084122,
+            "Latitude": 1.43513571565336,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 515"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "46331",
+            "Longitude": 103.78816378743082,
+            "Latitude": 1.43314769562187,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 511"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "46341",
+            "Longitude": 103.78630311506315,
+            "Latitude": 1.43172193690625,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Rosewood"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "46351",
+            "Longitude": 103.78373500001297,
+            "Latitude": 1.43084888887005,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "WOODHAVEN"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "46629",
+            "Longitude": 103.7808172850331,
+            "Latitude": 1.42946092866646,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "The Woodgrove"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "46619",
+            "Longitude": 103.77775112537243,
+            "Latitude": 1.42907407993851,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Opp Fuchun Sec Sch"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "47639",
+            "Longitude": 103.77500148961992,
+            "Latitude": 1.4290605076258,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Blk 418"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "46491",
+            "Longitude": 103.77200799456398,
+            "Latitude": 1.43188974761143,
+            "RoadName": "Woodlands Ave 3",
+            "Description": "Blk 402"
+        },
+        {
+            "Distance": 23.8,
+            "BusStopCode": "09219",
+            "Longitude": 103.83316088291699,
+            "Latitude": 1.30731999685228,
+            "RoadName": "Scotts Rd",
+            "Description": "Far East Plaza"
+        },
+        {
+            "Distance": 24.6,
+            "BusStopCode": "09037",
+            "Longitude": 103.83701253388183,
+            "Latitude": 1.3023400420296,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Mandarin Orchard"
+        },
+        {
+            "Distance": 25.1,
+            "BusStopCode": "08137",
+            "Longitude": 103.84100500816844,
+            "Latitude": 1.30073968408393,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Plaza"
+        },
+        {
+            "Distance": 25.8,
+            "BusStopCode": "08058",
+            "Longitude": 103.84654115271174,
+            "Latitude": 1.2989583431631,
+            "RoadName": "Orchard Rd",
+            "Description": "Aft Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 26.2,
+            "BusStopCode": "08069",
+            "Longitude": 103.84936128375956,
+            "Latitude": 1.29821382250893,
+            "RoadName": "Bras Basah Rd",
+            "Description": "BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 26.5,
+            "BusStopCode": "04179",
+            "Longitude": 103.85147164487202,
+            "Latitude": 1.29647916306741,
+            "RoadName": "Bras Basah Rd",
+            "Description": "AFT BRAS BASAH STN EXIT A"
+        },
+        {
+            "Distance": 27.3,
+            "BusStopCode": "02119",
+            "Longitude": 103.85534334305085,
+            "Latitude": 1.29184407356581,
+            "RoadName": "Nicoll Highway",
+            "Description": "Opp War Memorial Pk"
+        },
+        {
+            "Distance": 28.3,
+            "BusStopCode": "03019",
+            "Longitude": 103.85310805599599,
+            "Latitude": 1.284245000013,
+            "RoadName": "Collyer Quay",
+            "Description": "OUE Bayfront"
+        },
+        {
+            "Distance": 29.1,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 29.5,
+            "BusStopCode": "03217",
+            "Longitude": 103.8479443674916,
+            "Latitude": 1.27552218897645,
+            "RoadName": "Shenton Way",
+            "Description": "Opp AXA Twr"
+        },
+        {
+            "Distance": 29.7,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        }
+    ]
+}

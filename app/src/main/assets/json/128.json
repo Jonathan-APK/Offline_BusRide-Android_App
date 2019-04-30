@@ -1,0 +1,382 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "55009",
+            "Longitude": 103.84757704926118,
+            "Latitude": 1.38589831101442,
+            "RoadName": "Ang Mo Kio St 63",
+            "Description": "Ang Mo Kio Depot"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "55189",
+            "Longitude": 103.84383839092432,
+            "Latitude": 1.38261995770962,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "YIO CHU KANG STN"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "54399",
+            "Longitude": 103.84866111647399,
+            "Latitude": 1.37137302300723,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Ang Mo Kio Stn"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "54339",
+            "Longitude": 103.85057966582927,
+            "Latitude": 1.3678447007404,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 422"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "54329",
+            "Longitude": 103.85247983714417,
+            "Latitude": 1.36449772525141,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 420"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "54319",
+            "Longitude": 103.85305482306448,
+            "Latitude": 1.36205969144532,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Opp Christ The King Ch"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "53231",
+            "Longitude": 103.84797987894204,
+            "Latitude": 1.35089997844732,
+            "RoadName": "Bishan Rd",
+            "Description": "BISHAN STN"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "40189",
+            "Longitude": 103.83816095637219,
+            "Latitude": 1.31223181292182,
+            "RoadName": "Scotts Rd",
+            "Description": "Newton Stn Exit B"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "40179",
+            "Longitude": 103.83686949960516,
+            "Latitude": 1.31133173990881,
+            "RoadName": "Scotts Rd",
+            "Description": "Env Bldg"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "09219",
+            "Longitude": 103.83316088291699,
+            "Latitude": 1.30731999685228,
+            "RoadName": "Scotts Rd",
+            "Description": "Far East Plaza"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "09047",
+            "Longitude": 103.83294467208566,
+            "Latitude": 1.30446065207443,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Stn/Tang Plaza"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "09037",
+            "Longitude": 103.83701253388183,
+            "Latitude": 1.3023400420296,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Mandarin Orchard"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "08138",
+            "Longitude": 103.84184700607595,
+            "Latitude": 1.3004785730821,
+            "RoadName": "Orchard Rd",
+            "Description": "Concorde Hotel S'pore"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "08069",
+            "Longitude": 103.84936128375956,
+            "Latitude": 1.29821382250893,
+            "RoadName": "Bras Basah Rd",
+            "Description": "BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "04179",
+            "Longitude": 103.85147164487202,
+            "Latitude": 1.29647916306741,
+            "RoadName": "Bras Basah Rd",
+            "Description": "AFT BRAS BASAH STN EXIT A"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "02049",
+            "Longitude": 103.85402155505173,
+            "Latitude": 1.29452091230981,
+            "RoadName": "Bras Basah Rd",
+            "Description": "Raffles Hotel"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "02119",
+            "Longitude": 103.85534334305085,
+            "Latitude": 1.29184407356581,
+            "RoadName": "Nicoll Highway",
+            "Description": "Opp War Memorial Pk"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "03019",
+            "Longitude": 103.85310805599599,
+            "Latitude": 1.284245000013,
+            "RoadName": "Collyer Quay",
+            "Description": "OUE Bayfront"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "03059",
+            "Longitude": 103.85135652579491,
+            "Latitude": 1.28097649556002,
+            "RoadName": "Raffles Quay",
+            "Description": "One Raffles Quay"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "03239",
+            "Longitude": 103.84756721372408,
+            "Latitude": 1.27464226961973,
+            "RoadName": "Shenton Way",
+            "Description": "Shenton Way Ter"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03239",
+            "Longitude": 103.84756721372408,
+            "Latitude": 1.27464226961973,
+            "RoadName": "Shenton Way",
+            "Description": "Shenton Way Ter"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "03222",
+            "Longitude": 103.84489562922414,
+            "Latitude": 1.27397836925637,
+            "RoadName": "Anson Rd",
+            "Description": "Hub Synergy Pt"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "03031",
+            "Longitude": 103.85086074925066,
+            "Latitude": 1.28207492207952,
+            "RoadName": "Robinson Rd",
+            "Description": "Raffles Pl Stn Exit F"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "02111",
+            "Longitude": 103.85453419435228,
+            "Latitude": 1.29095592348389,
+            "RoadName": "Esplanade Dr",
+            "Description": "Esplanade Bridge"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "04111",
+            "Longitude": 103.85128983925452,
+            "Latitude": 1.2940020309036,
+            "RoadName": "Stamford Rd",
+            "Description": "Capitol Bldg"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "04121",
+            "Longitude": 103.84958029974611,
+            "Latitude": 1.29618544092334,
+            "RoadName": "Stamford Rd",
+            "Description": "SMU"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "08041",
+            "Longitude": 103.84780636909545,
+            "Latitude": 1.29811014243867,
+            "RoadName": "Orchard Rd",
+            "Description": "YMCA"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "08031",
+            "Longitude": 103.8452569595532,
+            "Latitude": 1.29831153783592,
+            "RoadName": "Penang Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "08111",
+            "Longitude": 103.84093746088925,
+            "Latitude": 1.29986928715834,
+            "RoadName": "Penang Rd",
+            "Description": "Winsland Hse"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "08121",
+            "Longitude": 103.83877618459663,
+            "Latitude": 1.30027569326586,
+            "RoadName": "Somerset Rd",
+            "Description": "Somerset Stn"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "09011",
+            "Longitude": 103.83431672376756,
+            "Latitude": 1.30211335092372,
+            "RoadName": "Orchard Turn",
+            "Description": "Opp Ngee Ann City"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "09023",
+            "Longitude": 103.83254180023424,
+            "Latitude": 1.30323727330942,
+            "RoadName": "Orchard Turn",
+            "Description": "Opp Orchard Stn/ION"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "09212",
+            "Longitude": 103.83265522662566,
+            "Latitude": 1.30702238421536,
+            "RoadName": "Scotts Rd",
+            "Description": "Royal Plaza On Scotts"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "40171",
+            "Longitude": 103.83582101192815,
+            "Latitude": 1.3109517198906,
+            "RoadName": "Scotts Rd",
+            "Description": "Opp Env Bldg"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "40181",
+            "Longitude": 103.83798341278676,
+            "Latitude": 1.31243561231028,
+            "RoadName": "Scotts Rd",
+            "Description": "Newton Stn Exit A"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "53239",
+            "Longitude": 103.8476587818646,
+            "Latitude": 1.35100305612802,
+            "RoadName": "Bishan Rd",
+            "Description": "OPP BISHAN STN"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "54311",
+            "Longitude": 103.85257506359629,
+            "Latitude": 1.36143610819625,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 332"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "54321",
+            "Longitude": 103.85237785571755,
+            "Latitude": 1.3639846735447,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 354"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "54331",
+            "Longitude": 103.85056845375878,
+            "Latitude": 1.36719473720813,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 346"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "54391",
+            "Longitude": 103.8482886110145,
+            "Latitude": 1.37161972202016,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Aft Ang Mo Kio Int"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "55181",
+            "Longitude": 103.84389230276943,
+            "Latitude": 1.38143251435794,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Opp Yio Chu Kang Stn"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "55009",
+            "Longitude": 103.84757704926118,
+            "Latitude": 1.38589831101442,
+            "RoadName": "Ang Mo Kio St 63",
+            "Description": "Ang Mo Kio Depot"
+        }
+    ]
+}

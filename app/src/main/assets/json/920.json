@@ -1,0 +1,244 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "45009",
+            "Longitude": 103.76291779489557,
+            "Latitude": 1.37844139790821,
+            "RoadName": "Petir Rd",
+            "Description": "BT PANJANG INT (First Stop)"
+        },
+        {
+            "Distance": 0.2,
+            "BusStopCode": "44631",
+            "Longitude": 103.76390959462616,
+            "Latitude": 1.37961719959059,
+            "RoadName": "Jelebu Rd",
+            "Description": "Opp Bt Panjang Plaza"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "44641",
+            "Longitude": 103.76285898246775,
+            "Latitude": 1.38178063199093,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Blk 602"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "44791",
+            "Longitude": 103.76068878232401,
+            "Latitude": 1.38372439268243,
+            "RoadName": "Senja Rd",
+            "Description": "West View Pr Sch"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "44801",
+            "Longitude": 103.75908340599958,
+            "Latitude": 1.38503510909651,
+            "RoadName": "Senja Rd",
+            "Description": "Opp Blk 628"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "44861",
+            "Longitude": 103.75877312173013,
+            "Latitude": 1.3866920101757,
+            "RoadName": "Senja Rd",
+            "Description": "BLK 636A"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "44811",
+            "Longitude": 103.76020832276009,
+            "Latitude": 1.38715472588861,
+            "RoadName": "Senja Rd",
+            "Description": "West Spring Sec Sch"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "44821",
+            "Longitude": 103.76338435587678,
+            "Latitude": 1.38637611056002,
+            "RoadName": "Senja Link",
+            "Description": "Blk 651"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "44661",
+            "Longitude": 103.76499586025828,
+            "Latitude": 1.38447517162011,
+            "RoadName": "Jelapang Rd",
+            "Description": "Blk 532"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "44671",
+            "Longitude": 103.76603097323033,
+            "Latitude": 1.38377960229632,
+            "RoadName": "Saujana Rd",
+            "Description": "Bet Blks 502/503"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "44601",
+            "Longitude": 103.76845044698479,
+            "Latitude": 1.38213337099986,
+            "RoadName": "Saujana Rd",
+            "Description": "Blk 413"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "44349",
+            "Longitude": 103.7693280970516,
+            "Latitude": 1.3813330335154,
+            "RoadName": "Fajar Rd",
+            "Description": "Bet Blks 443A/443B"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "44339",
+            "Longitude": 103.77114903339667,
+            "Latitude": 1.38084522961484,
+            "RoadName": "Fajar Rd",
+            "Description": "Blk 442D"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "44329",
+            "Longitude": 103.77257633645274,
+            "Latitude": 1.38021501052151,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Bangkit Stn"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "44301",
+            "Longitude": 103.77391201169718,
+            "Latitude": 1.37751089024595,
+            "RoadName": "Bangkit Rd",
+            "Description": "Opp Blk 271"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "44311",
+            "Longitude": 103.77434920734999,
+            "Latitude": 1.37930410199585,
+            "RoadName": "Bangkit Rd",
+            "Description": "Opp Blk 253"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "44321",
+            "Longitude": 103.77233083475981,
+            "Latitude": 1.3798880333463,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Opp Bangkit Stn"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "44331",
+            "Longitude": 103.77084865060209,
+            "Latitude": 1.38022107375265,
+            "RoadName": "Fajar Rd",
+            "Description": "Blk 239"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "44341",
+            "Longitude": 103.76917730998287,
+            "Latitude": 1.3811702972192,
+            "RoadName": "Fajar Rd",
+            "Description": "Blk 401A CP"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "44609",
+            "Longitude": 103.76817086367248,
+            "Latitude": 1.38201455238716,
+            "RoadName": "Saujana Rd",
+            "Description": "Blk 408"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "44679",
+            "Longitude": 103.76599518745716,
+            "Latitude": 1.3835337784384,
+            "RoadName": "Saujana Rd",
+            "Description": "Opp Blk 502"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "44669",
+            "Longitude": 103.76489752763662,
+            "Latitude": 1.38428576640159,
+            "RoadName": "Jelapang Rd",
+            "Description": "Opp Blk 532"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "44829",
+            "Longitude": 103.7630574999811,
+            "Latitude": 1.38671416700146,
+            "RoadName": "Senja Link",
+            "Description": "Opp Blk 650"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "44819",
+            "Longitude": 103.76004791400926,
+            "Latitude": 1.38707539442819,
+            "RoadName": "Senja Rd",
+            "Description": "Opp West Spring Sec Sch"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "44869",
+            "Longitude": 103.75886226371927,
+            "Latitude": 1.38658738981297,
+            "RoadName": "Senja Rd",
+            "Description": "BEF BLK 629A MSCP"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "44809",
+            "Longitude": 103.75978425435241,
+            "Latitude": 1.38500083704863,
+            "RoadName": "Senja Rd",
+            "Description": "Blk 628"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "44799",
+            "Longitude": 103.7609562427946,
+            "Latitude": 1.38338692962433,
+            "RoadName": "Senja Rd",
+            "Description": "Blk 610"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "44649",
+            "Longitude": 103.76296296396666,
+            "Latitude": 1.38207041321308,
+            "RoadName": "Bt Panjang Ring Rd",
+            "Description": "Blk 541A CP"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "44639",
+            "Longitude": 103.76396027777982,
+            "Latitude": 1.38006972221146,
+            "RoadName": "Jelebu Rd",
+            "Description": "Bt Panjang Plaza"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "45009",
+            "Longitude": 103.76291779489557,
+            "Latitude": 1.37844139790821,
+            "RoadName": "Petir Rd",
+            "Description": "BT PANJANG INT (Last Stop)"
+        }
+    ]
+}

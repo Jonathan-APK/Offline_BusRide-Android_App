@@ -1,0 +1,350 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "20129",
+            "Longitude": 103.73754105423453,
+            "Latitude": 1.32034555007728,
+            "RoadName": "West Coast Rd",
+            "Description": "Bet Blks 50/51"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "20239",
+            "Longitude": 103.73947011845992,
+            "Latitude": 1.32246879634748,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Aft Hasanah Mque"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "20219",
+            "Longitude": 103.74143326706027,
+            "Latitude": 1.32205689998871,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Opp Blk 41"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "20209",
+            "Longitude": 103.7440744439939,
+            "Latitude": 1.32043333301332,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Bef Jurong Town Hall Rd"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "20181",
+            "Longitude": 103.74745845796298,
+            "Latitude": 1.32048478912567,
+            "RoadName": "Pandan Gdns",
+            "Description": "Ayer Rajah CC"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "20191",
+            "Longitude": 103.74845638901051,
+            "Latitude": 1.31924166701026,
+            "RoadName": "Pandan Gdns",
+            "Description": "Blk 407"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "20149",
+            "Longitude": 103.74897266925451,
+            "Latitude": 1.31795969674094,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 408"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "20139",
+            "Longitude": 103.75204376675156,
+            "Latitude": 1.31584166892255,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Angliss Bldg"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "20289",
+            "Longitude": 103.75503415636196,
+            "Latitude": 1.31248801817062,
+            "RoadName": "West Coast Highway",
+            "Description": "The Japanese Sec Sch"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "20299",
+            "Longitude": 103.75857544044081,
+            "Latitude": 1.3109280417106,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Tanglin Sec Sch"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "17079",
+            "Longitude": 103.75999360222924,
+            "Latitude": 1.30968304242083,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 512"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "17069",
+            "Longitude": 103.76214066046377,
+            "Latitude": 1.3077663717505,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Blk 701"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "17049",
+            "Longitude": 103.76459821893782,
+            "Latitude": 1.30470638200942,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 601"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "17039",
+            "Longitude": 103.76606427132043,
+            "Latitude": 1.3015316464856,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Kent Ridge Sec Sch"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "17389",
+            "Longitude": 103.76700194402241,
+            "Latitude": 1.29908138901268,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp West Bay Resort Condo"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "17029",
+            "Longitude": 103.76710295331488,
+            "Latitude": 1.29694570097768,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Waseda S Snr High Sch"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "17019",
+            "Longitude": 103.76705176995323,
+            "Latitude": 1.2937974792702,
+            "RoadName": "West Coast Rd",
+            "Description": "Varsity Pk"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "03241",
+            "Longitude": 103.84537,
+            "Latitude": 1.27456,
+            "RoadName": "Anson Rd",
+            "Description": "Mapletree Anson"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "03381",
+            "Longitude": 103.85306513725685,
+            "Latitude": 1.28162601329006,
+            "RoadName": "Marina Blvd",
+            "Description": "The Sail"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "03391",
+            "Longitude": 103.85498006767988,
+            "Latitude": 1.28037660340352,
+            "RoadName": "Marina Blvd",
+            "Description": "Marina Bay Financial Ctr"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03539",
+            "Longitude": 103.85561610012866,
+            "Latitude": 1.2775330547661,
+            "RoadName": "Central Blvd",
+            "Description": "Marina Bay Stn"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "03529",
+            "Longitude": 103.85278769921703,
+            "Latitude": 1.27939957419063,
+            "RoadName": "Central Blvd",
+            "Description": "Downtown Stn"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "17011",
+            "Longitude": 103.76688187253777,
+            "Latitude": 1.29386900823232,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Varsity Pk"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "17021",
+            "Longitude": 103.76684546473278,
+            "Latitude": 1.2962010369817,
+            "RoadName": "West Coast Rd",
+            "Description": "Waseda S Snr High Sch"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "17381",
+            "Longitude": 103.76686444402534,
+            "Latitude": 1.29907638900012,
+            "RoadName": "West Coast Rd",
+            "Description": "West Bay Resort Condo"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "17031",
+            "Longitude": 103.76567633935802,
+            "Latitude": 1.30172305827699,
+            "RoadName": "West Coast Rd",
+            "Description": "Kent Ridge Sec Sch"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "17041",
+            "Longitude": 103.76455953939507,
+            "Latitude": 1.3042101570614,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 726 Clementi West Mkt"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "17061",
+            "Longitude": 103.76180505768346,
+            "Latitude": 1.30775834752765,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 701"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "17071",
+            "Longitude": 103.76044433406533,
+            "Latitude": 1.30891781912545,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 513"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "20291",
+            "Longitude": 103.75771430804498,
+            "Latitude": 1.31095062259154,
+            "RoadName": "West Coast Rd",
+            "Description": "Tanglin Sec Sch"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "20281",
+            "Longitude": 103.75484214400765,
+            "Latitude": 1.31234219524906,
+            "RoadName": "West Coast Highway",
+            "Description": "Opp The Japanese Sec Sch"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "20131",
+            "Longitude": 103.7518511517015,
+            "Latitude": 1.3155936163792,
+            "RoadName": "West Coast Rd",
+            "Description": "S'pore Food Industries Bldg"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "20141",
+            "Longitude": 103.7487710528033,
+            "Latitude": 1.31771999750607,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Blk 408"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "20199",
+            "Longitude": 103.74819972197395,
+            "Latitude": 1.31908111097886,
+            "RoadName": "Pandan Gdns",
+            "Description": "Blk 410"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "20189",
+            "Longitude": 103.74727299945995,
+            "Latitude": 1.32030501410074,
+            "RoadName": "Pandan Gdns",
+            "Description": "Opp Ayer Rajah CC"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "20201",
+            "Longitude": 103.74340527799251,
+            "Latitude": 1.32127611097845,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Teban Gdn PO"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "20211",
+            "Longitude": 103.74184000241928,
+            "Latitude": 1.32177193921987,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Blk 41"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "20231",
+            "Longitude": 103.7394439595661,
+            "Latitude": 1.32234407286907,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Bef Hasanah Mque"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "20121",
+            "Longitude": 103.73707999997312,
+            "Latitude": 1.32023972200054,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Blk 51"
+        }
+    ]
+}

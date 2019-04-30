@@ -1,0 +1,764 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "64389",
+            "Longitude": 103.89156818388481,
+            "Latitude": 1.37313809346006,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 522"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "64421",
+            "Longitude": 103.89511829229477,
+            "Latitude": 1.37505042808455,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 421"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "64021",
+            "Longitude": 103.89663845377325,
+            "Latitude": 1.37788950153352,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 458"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "65011",
+            "Longitude": 103.89720951783346,
+            "Latitude": 1.38159696830765,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp The Rivervale"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "67219",
+            "Longitude": 103.89751366061326,
+            "Latitude": 1.38368835333684,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Ranggung Stn Exit B"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "67209",
+            "Longitude": 103.89618101813248,
+            "Latitude": 1.38690839585967,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 203"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "67199",
+            "Longitude": 103.89689165133598,
+            "Latitude": 1.3889487081629,
+            "RoadName": "Compassvale Rd",
+            "Description": "Opp Blk 223D"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "67189",
+            "Longitude": 103.89742612835978,
+            "Latitude": 1.39059955869523,
+            "RoadName": "Compassvale Rd",
+            "Description": "Opp Blk 241"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "67249",
+            "Longitude": 103.89850423466406,
+            "Latitude": 1.39376571527248,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 259C"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "67259",
+            "Longitude": 103.90046238900585,
+            "Latitude": 1.39465386086721,
+            "RoadName": "Compassvale St",
+            "Description": "Compassvale Stn Exit B"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "65061",
+            "Longitude": 103.9018594759131,
+            "Latitude": 1.39490129020977,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 298A"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "65199",
+            "Longitude": 103.90542736761212,
+            "Latitude": 1.39591721161169,
+            "RoadName": "TPE",
+            "Description": "Aft Punggol Rd"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "77339",
+            "Longitude": 103.93278653475954,
+            "Latitude": 1.3780301775267,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "77289",
+            "Longitude": 103.93596534133927,
+            "Latitude": 1.37889759950996,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 738"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "77239",
+            "Longitude": 103.93793201117523,
+            "Latitude": 1.37741830757924,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 643"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "77249",
+            "Longitude": 103.939861116152,
+            "Latitude": 1.37599439507295,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 640"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "78049",
+            "Longitude": 103.94180578126523,
+            "Latitude": 1.3744627816256,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 612"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "77019",
+            "Longitude": 103.94351079998545,
+            "Latitude": 1.3737108000359,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 515"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "77029",
+            "Longitude": 103.94597779999948,
+            "Latitude": 1.37274960000662,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 571"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "77039",
+            "Longitude": 103.94834855629753,
+            "Latitude": 1.37159118708865,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Bef Pasir Ris Ctrl"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "77171",
+            "Longitude": 103.95064755544978,
+            "Latitude": 1.37276133738912,
+            "RoadName": "Pasir Ris Ctrl",
+            "Description": "Opp Pasir Ris Town Pk"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "78109",
+            "Longitude": 103.95388142049359,
+            "Latitude": 1.37533322687905,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Downtown East"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "78119",
+            "Longitude": 103.95796611110238,
+            "Latitude": 1.37568000002841,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Blk 479"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "78129",
+            "Longitude": 103.9621203385503,
+            "Latitude": 1.37513135750693,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Blk 233"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "78139",
+            "Longitude": 103.9639885558376,
+            "Latitude": 1.37321804486777,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Pasir Ris Pr Sch"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "78149",
+            "Longitude": 103.96411887211589,
+            "Latitude": 1.36970105283111,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Greenview Sec Sch"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "98109",
+            "Longitude": 103.96586134149551,
+            "Latitude": 1.36691496085079,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Loyang Pt"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "98031",
+            "Longitude": 103.96801787240187,
+            "Latitude": 1.36722636029551,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Pasir Ris Dr 3"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "98041",
+            "Longitude": 103.96968330432956,
+            "Latitude": 1.36905889178012,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Loyang Valley"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "98231",
+            "Longitude": 103.97184133530571,
+            "Latitude": 1.37118600522884,
+            "RoadName": "Loyang Ave",
+            "Description": "Loyang Ind Est"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "98051",
+            "Longitude": 103.97371333299213,
+            "Latitude": 1.37300166698251,
+            "RoadName": "Loyang Ave",
+            "Description": "Bef Loyang Way"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "98061",
+            "Longitude": 103.977166226331,
+            "Latitude": 1.37652810391204,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Engine Test Facility"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "98071",
+            "Longitude": 103.97838930249063,
+            "Latitude": 1.37965443818622,
+            "RoadName": "Loyang Ave",
+            "Description": "Loyang Way/Soxal"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "99011",
+            "Longitude": 103.97812168830427,
+            "Latitude": 1.38328110134472,
+            "RoadName": "Loyang Ave",
+            "Description": "Bef Sch Of Commando"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "99021",
+            "Longitude": 103.97916912424074,
+            "Latitude": 1.38667053181061,
+            "RoadName": "Loyang Ave",
+            "Description": "Bef Cranwell Rd"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "99031",
+            "Longitude": 103.98177807887794,
+            "Latitude": 1.38790615442763,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Maranatha B-P Ch"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "99041",
+            "Longitude": 103.98547333334741,
+            "Latitude": 1.38779999993686,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Changi Golf Course"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "99181",
+            "Longitude": 103.98850309975099,
+            "Latitude": 1.38775412603923,
+            "RoadName": "Telok Paku Rd",
+            "Description": "Bef S'pore Aviation Ac"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "99171",
+            "Longitude": 103.9910213889211,
+            "Latitude": 1.39112750002185,
+            "RoadName": "Nicoll Dr",
+            "Description": "Changi Beach CP 2"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "99161",
+            "Longitude": 103.99295664134459,
+            "Latitude": 1.39026180023806,
+            "RoadName": "Nicoll Dr",
+            "Description": "Bef Changi Beach CP 3"
+        },
+        {
+            "Distance": 19.3,
+            "BusStopCode": "95071",
+            "Longitude": 103.99512197669611,
+            "Latitude": 1.38994660051217,
+            "RoadName": "Nicoll Dr",
+            "Description": "Changi Beach CP 4"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "95081",
+            "Longitude": 103.99761693950214,
+            "Latitude": 1.38959028129733,
+            "RoadName": "Nicoll Dr",
+            "Description": "Changi Beach CP 5"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "95091",
+            "Longitude": 103.99971361110026,
+            "Latitude": 1.38721361114033,
+            "RoadName": "Nicoll Dr",
+            "Description": "SAF Ferry Ter"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "95131",
+            "Longitude": 103.99983438993594,
+            "Latitude": 1.38525245892982,
+            "RoadName": "Airline Rd",
+            "Description": "Police Pass Off"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "95141",
+            "Longitude": 103.99819135664978,
+            "Latitude": 1.38138618483813,
+            "RoadName": "Airline Rd",
+            "Description": "Aft Cargo Bldg D"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "95061",
+            "Longitude": 103.99653899373014,
+            "Latitude": 1.37755167138896,
+            "RoadName": "Airline Rd",
+            "Description": "SIA Hangar"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "95051",
+            "Longitude": 103.99619579312593,
+            "Latitude": 1.37528324353604,
+            "RoadName": "Airline Rd",
+            "Description": "3rd Cargo Agents"
+        },
+        {
+            "Distance": 21.9,
+            "BusStopCode": "95041",
+            "Longitude": 103.99570041596903,
+            "Latitude": 1.37265452174649,
+            "RoadName": "Airport Cargo Rd",
+            "Description": "CIAS Cargo Ters"
+        },
+        {
+            "Distance": 22.1,
+            "BusStopCode": "95039",
+            "Longitude": 103.99457879033221,
+            "Latitude": 1.37218943783154,
+            "RoadName": "Airport Cargo Rd",
+            "Description": "Airfreight Ter Bldg"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "95049",
+            "Longitude": 103.99443416702756,
+            "Latitude": 1.37359444402021,
+            "RoadName": "Airport Cargo Rd",
+            "Description": "SATS Cargo Ter"
+        },
+        {
+            "Distance": 22.9,
+            "BusStopCode": "95069",
+            "Longitude": 103.99643160040588,
+            "Latitude": 1.37789848118317,
+            "RoadName": "Airline Rd",
+            "Description": "Opp SIA Hangar"
+        },
+        {
+            "Distance": 23.2,
+            "BusStopCode": "95149",
+            "Longitude": 103.99785682775334,
+            "Latitude": 1.38128155042147,
+            "RoadName": "Airline Rd",
+            "Description": "Bef Cargo Bldg D"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "95139",
+            "Longitude": 103.99899787539849,
+            "Latitude": 1.38557240860116,
+            "RoadName": "Airline Rd",
+            "Description": "Police Pass Off"
+        },
+        {
+            "Distance": 24.1,
+            "BusStopCode": "95099",
+            "Longitude": 103.99878608257899,
+            "Latitude": 1.38815449129359,
+            "RoadName": "Nicoll Dr",
+            "Description": "Opp SAF Ferry Ter"
+        },
+        {
+            "Distance": 24.5,
+            "BusStopCode": "95089",
+            "Longitude": 103.99593111108919,
+            "Latitude": 1.38962166669625,
+            "RoadName": "Nicoll Dr",
+            "Description": "Opp Changi Beach CP 5"
+        },
+        {
+            "Distance": 24.9,
+            "BusStopCode": "95079",
+            "Longitude": 103.99252027779501,
+            "Latitude": 1.39019416668503,
+            "RoadName": "Nicoll Dr",
+            "Description": "Opp Changi Beach CP 4"
+        },
+        {
+            "Distance": 25.4,
+            "BusStopCode": "99189",
+            "Longitude": 103.9897163888532,
+            "Latitude": 1.3884141666958,
+            "RoadName": "Telok Paku Rd",
+            "Description": "S'pore Aviation Ac"
+        },
+        {
+            "Distance": 25.8,
+            "BusStopCode": "99049",
+            "Longitude": 103.98573364026825,
+            "Latitude": 1.38749994542049,
+            "RoadName": "Loyang Ave",
+            "Description": "Changi Golf Course"
+        },
+        {
+            "Distance": 26.2,
+            "BusStopCode": "99039",
+            "Longitude": 103.98202131073424,
+            "Latitude": 1.38768581439487,
+            "RoadName": "Loyang Ave",
+            "Description": "St. George Chapel"
+        },
+        {
+            "Distance": 26.5,
+            "BusStopCode": "99029",
+            "Longitude": 103.97959306203218,
+            "Latitude": 1.38664086819653,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Cranwell Rd"
+        },
+        {
+            "Distance": 26.9,
+            "BusStopCode": "99019",
+            "Longitude": 103.97844860768319,
+            "Latitude": 1.3837089764569,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Sch Of Commando"
+        },
+        {
+            "Distance": 27.5,
+            "BusStopCode": "98079",
+            "Longitude": 103.97870069719525,
+            "Latitude": 1.37859016739254,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Loyang Way/Soxal"
+        },
+        {
+            "Distance": 27.9,
+            "BusStopCode": "98069",
+            "Longitude": 103.976778734029,
+            "Latitude": 1.3757102208247,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Engine Test Facility"
+        },
+        {
+            "Distance": 28.3,
+            "BusStopCode": "98059",
+            "Longitude": 103.97437194693713,
+            "Latitude": 1.37320003118402,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Loyang Way"
+        },
+        {
+            "Distance": 28.6,
+            "BusStopCode": "98239",
+            "Longitude": 103.97258859531347,
+            "Latitude": 1.37149806503652,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Loyang Ind Est"
+        },
+        {
+            "Distance": 28.9,
+            "BusStopCode": "98049",
+            "Longitude": 103.97064054814314,
+            "Latitude": 1.36955111611083,
+            "RoadName": "Loyang Ave",
+            "Description": "Loyang Valley"
+        },
+        {
+            "Distance": 29.3,
+            "BusStopCode": "98039",
+            "Longitude": 103.96847160564306,
+            "Latitude": 1.3673740332815,
+            "RoadName": "Loyang Ave",
+            "Description": "Bef New Loyang Link"
+        },
+        {
+            "Distance": 29.8,
+            "BusStopCode": "98101",
+            "Longitude": 103.96535083584567,
+            "Latitude": 1.36705781222851,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Loyang Pt"
+        },
+        {
+            "Distance": 30.2,
+            "BusStopCode": "78141",
+            "Longitude": 103.96366520875914,
+            "Latitude": 1.37005889868954,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Greenview Sec Sch"
+        },
+        {
+            "Distance": 30.6,
+            "BusStopCode": "78131",
+            "Longitude": 103.9637271722912,
+            "Latitude": 1.37308472383764,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Pr Sch"
+        },
+        {
+            "Distance": 31,
+            "BusStopCode": "78121",
+            "Longitude": 103.96200053620825,
+            "Latitude": 1.37485968829133,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Bet Blks 232/233"
+        },
+        {
+            "Distance": 31.4,
+            "BusStopCode": "78111",
+            "Longitude": 103.95798631897796,
+            "Latitude": 1.37545781179514,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 479"
+        },
+        {
+            "Distance": 32,
+            "BusStopCode": "78101",
+            "Longitude": 103.95404801695994,
+            "Latitude": 1.37506644391944,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Downtown East"
+        },
+        {
+            "Distance": 32.6,
+            "BusStopCode": "77179",
+            "Longitude": 103.95081255052568,
+            "Latitude": 1.37254332490473,
+            "RoadName": "Pasir Ris Ctrl",
+            "Description": "Pasir Ris Town Pk"
+        },
+        {
+            "Distance": 33,
+            "BusStopCode": "77031",
+            "Longitude": 103.9483810573245,
+            "Latitude": 1.37116337071002,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Aft Pasir Ris Ctrl"
+        },
+        {
+            "Distance": 33.3,
+            "BusStopCode": "77021",
+            "Longitude": 103.94557280001845,
+            "Latitude": 1.3726630000055,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Opp Blk 571"
+        },
+        {
+            "Distance": 33.7,
+            "BusStopCode": "77011",
+            "Longitude": 103.94266590001561,
+            "Latitude": 1.37376489998905,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Opp Blk 515"
+        },
+        {
+            "Distance": 34,
+            "BusStopCode": "77241",
+            "Longitude": 103.940272636011,
+            "Latitude": 1.37531331487507,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Opp Blk 640"
+        },
+        {
+            "Distance": 34.3,
+            "BusStopCode": "77231",
+            "Longitude": 103.93844026085439,
+            "Latitude": 1.37670503142246,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Meridian JC"
+        },
+        {
+            "Distance": 34.6,
+            "BusStopCode": "77281",
+            "Longitude": 103.93618729229594,
+            "Latitude": 1.37837166677052,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 740"
+        },
+        {
+            "Distance": 35,
+            "BusStopCode": "77331",
+            "Longitude": 103.93338764757789,
+            "Latitude": 1.3782973982979,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Blk 747A"
+        },
+        {
+            "Distance": 39.1,
+            "BusStopCode": "65191",
+            "Longitude": 103.90539999997036,
+            "Latitude": 1.39527356921611,
+            "RoadName": "TPE",
+            "Description": "Bef Punggol Rd"
+        },
+        {
+            "Distance": 39.5,
+            "BusStopCode": "65069",
+            "Longitude": 103.90236824858533,
+            "Latitude": 1.39504382175966,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 190C"
+        },
+        {
+            "Distance": 39.8,
+            "BusStopCode": "67251",
+            "Longitude": 103.9003121852631,
+            "Latitude": 1.39442862205324,
+            "RoadName": "Compassvale St",
+            "Description": "Compassvale Stn Exit A"
+        },
+        {
+            "Distance": 40.1,
+            "BusStopCode": "67241",
+            "Longitude": 103.89846873686203,
+            "Latitude": 1.39296197800695,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 248A"
+        },
+        {
+            "Distance": 40.3,
+            "BusStopCode": "67181",
+            "Longitude": 103.89778017996501,
+            "Latitude": 1.39101786005668,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 240"
+        },
+        {
+            "Distance": 40.5,
+            "BusStopCode": "67191",
+            "Longitude": 103.89710881285436,
+            "Latitude": 1.38908889970693,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 223D"
+        },
+        {
+            "Distance": 40.8,
+            "BusStopCode": "67201",
+            "Longitude": 103.89628892246895,
+            "Latitude": 1.38669709800422,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 206A"
+        },
+        {
+            "Distance": 41.2,
+            "BusStopCode": "67211",
+            "Longitude": 103.89765917692944,
+            "Latitude": 1.38393828115359,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Ranggung Stn Exit A"
+        },
+        {
+            "Distance": 41.5,
+            "BusStopCode": "65019",
+            "Longitude": 103.89749237919405,
+            "Latitude": 1.38151407829697,
+            "RoadName": "Punggol Rd",
+            "Description": "The Rivervale"
+        },
+        {
+            "Distance": 41.9,
+            "BusStopCode": "64029",
+            "Longitude": 103.89688283812272,
+            "Latitude": 1.37781617357511,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Blk 458"
+        },
+        {
+            "Distance": 42.3,
+            "BusStopCode": "64429",
+            "Longitude": 103.8952195672541,
+            "Latitude": 1.37481689904602,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 412"
+        },
+        {
+            "Distance": 42.8,
+            "BusStopCode": "64381",
+            "Longitude": 103.89170384962591,
+            "Latitude": 1.37288245131287,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Blk 521"
+        },
+        {
+            "Distance": 43.4,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (Last Stop)"
+        }
+    ]
+}

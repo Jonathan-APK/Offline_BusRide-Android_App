@@ -1,0 +1,150 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "84301",
+            "Longitude": 103.92656628872025,
+            "Latitude": 1.32782140214678,
+            "RoadName": "Bedok Nth Ave 1",
+            "Description": "Opp Kg Chai Chee CC"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "84371",
+            "Longitude": 103.9262383330096,
+            "Latitude": 1.33055000001009,
+            "RoadName": "Bedok Nth Ave 1",
+            "Description": "Blk 546"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "84381",
+            "Longitude": 103.92426011381585,
+            "Latitude": 1.33078667404046,
+            "RoadName": "Bedok Nth St 3",
+            "Description": "Blk 544"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "84391",
+            "Longitude": 103.92447655289592,
+            "Latitude": 1.33274999618407,
+            "RoadName": "Bedok Nth St 3",
+            "Description": "Blk 534"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "84401",
+            "Longitude": 103.9269811109948,
+            "Latitude": 1.33316500001136,
+            "RoadName": "Bedok Nth St 3",
+            "Description": "Opp Blk 550"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "84411",
+            "Longitude": 103.92928425024714,
+            "Latitude": 1.33383806396564,
+            "RoadName": "Bedok Nth St 3",
+            "Description": "Blk 526"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "84421",
+            "Longitude": 103.93032045625178,
+            "Latitude": 1.33232270053889,
+            "RoadName": "Bedok Nth Ave 2",
+            "Description": "Blk 510"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "84331",
+            "Longitude": 103.93099993868753,
+            "Latitude": 1.32898829919632,
+            "RoadName": "Bedok Nth Ave 2",
+            "Description": "Opp Blk 416"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (Last Stop)"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "84339",
+            "Longitude": 103.93079062255664,
+            "Latitude": 1.32874469952532,
+            "RoadName": "Bedok Nth Ave 2",
+            "Description": "Blk 416"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "84449",
+            "Longitude": 103.93155200621871,
+            "Latitude": 1.33322170084132,
+            "RoadName": "Bedok Nth St 3",
+            "Description": "Blk 509"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "84419",
+            "Longitude": 103.9292288767243,
+            "Latitude": 1.33361648978155,
+            "RoadName": "Bedok Nth St 3",
+            "Description": "Blk 512"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "84409",
+            "Longitude": 103.92669166477268,
+            "Latitude": 1.33291002440884,
+            "RoadName": "Bedok Nth St 3",
+            "Description": "Blk 550"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "84379",
+            "Longitude": 103.92645503858006,
+            "Latitude": 1.33041495636834,
+            "RoadName": "Bedok Nth Ave 1",
+            "Description": "Opp Blk 546"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "84309",
+            "Longitude": 103.92687404688121,
+            "Latitude": 1.32802803259661,
+            "RoadName": "Bedok Nth Ave 1",
+            "Description": "Kg Chai Chee CC"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (Last Stop)"
+        }
+    ]
+}

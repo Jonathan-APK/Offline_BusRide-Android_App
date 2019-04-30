@@ -1,0 +1,132 @@
+{
+    "direction 1": [
+        {
+            "Distance": 2.6,
+            "BusStopCode": "65199",
+            "Longitude": 103.90542736761212,
+            "Latitude": 1.39591721161169,
+            "RoadName": "TPE",
+            "Description": "Aft Punggol Rd"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "75359",
+            "Longitude": 103.93147946559002,
+            "Latitude": 1.37438650022455,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "75369",
+            "Longitude": 103.93056528604264,
+            "Latitude": 1.37079630405212,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp HNS Micro Siltronic"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "75319",
+            "Longitude": 103.93106194445039,
+            "Latitude": 1.36720805556001,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp Tampines Dormitory"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "75299",
+            "Longitude": 103.93106617032824,
+            "Latitude": 1.36239101738996,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ave 9"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "75379",
+            "Longitude": 103.9309897702735,
+            "Latitude": 1.35943002306953,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ave 5"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "75171",
+            "Longitude": 103.9313,
+            "Latitude": 1.3575,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Aft Tampines Ave 9"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "75159",
+            "Longitude": 103.93146643451303,
+            "Latitude": 1.35405115206724,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Blk 874"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "75039",
+            "Longitude": 103.92956819494434,
+            "Latitude": 1.3506577199911,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Springfield Sec Sch"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "75241",
+            "Longitude": 103.92980219657613,
+            "Latitude": 1.34844803009871,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly West G"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "75231",
+            "Longitude": 103.93265533979496,
+            "Latitude": 1.34707779444929,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "75221",
+            "Longitude": 103.93595044893453,
+            "Latitude": 1.34567355960876,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly East G"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "75051",
+            "Longitude": 103.94008153173421,
+            "Latitude": 1.34503394154132,
+            "RoadName": "Tampines Ave 1",
+            "Description": "TAMPINES WEST STN EXIT B"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "96289",
+            "Longitude": 103.94838106593957,
+            "Latitude": 1.34005496226354,
+            "RoadName": "Simei Ave",
+            "Description": "Changi General Hosp"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "96109",
+            "Longitude": 103.95067333143491,
+            "Latitude": 1.33737118239889,
+            "RoadName": "Simei Ave",
+            "Description": "Opp Blk 3012"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "96119",
+            "Longitude": 103.9537488312858,
+            "Latitude": 1.33373145315305,
+            "RoadName": "Simei Ave",
+            "Description": "ITE Coll East Adm Blk"
+        }
+    ]
+}

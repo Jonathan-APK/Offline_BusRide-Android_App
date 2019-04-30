@@ -1,0 +1,148 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (First Stop)"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "22441",
+            "Longitude": 103.7036274900942,
+            "Latitude": 1.3426698715623,
+            "RoadName": "Jurong West St 64",
+            "Description": "Blk 669 CP"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "22591",
+            "Longitude": 103.70329583335823,
+            "Latitude": 1.34425833334291,
+            "RoadName": "Jurong West St 64",
+            "Description": "Blk 670A"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "27371",
+            "Longitude": 103.700994411555,
+            "Latitude": 1.34751384306624,
+            "RoadName": "Jurong West St 75",
+            "Description": "Opp Blk 755"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "27381",
+            "Longitude": 103.69863834523142,
+            "Latitude": 1.3481478303518,
+            "RoadName": "Jurong West St 75",
+            "Description": "Blk 749"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "27439",
+            "Longitude": 103.6971171383191,
+            "Latitude": 1.34941077845235,
+            "RoadName": "Jurong West Ave 5",
+            "Description": "Blk 861"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "27449",
+            "Longitude": 103.70107895859192,
+            "Latitude": 1.35053242519874,
+            "RoadName": "Jurong West Ave 5",
+            "Description": "Aft Westwood Ave"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "27459",
+            "Longitude": 103.70399035610369,
+            "Latitude": 1.35145070001383,
+            "RoadName": "Jurong West Ave 3",
+            "Description": "Blk 273B"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "27469",
+            "Longitude": 103.70486709831036,
+            "Latitude": 1.35307192192765,
+            "RoadName": "Jurong West Ave 3",
+            "Description": "Blk 276B"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "27479",
+            "Longitude": 103.70818261767401,
+            "Latitude": 1.3518923433776,
+            "RoadName": "Jurong West St 23",
+            "Description": "Opp Corporation Pr Sch"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "27451",
+            "Longitude": 103.7041505569119,
+            "Latitude": 1.35128613677034,
+            "RoadName": "Jurong West Ave 3",
+            "Description": "Bet Blks 272D/271A"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "27441",
+            "Longitude": 103.70079327483805,
+            "Latitude": 1.35032868767666,
+            "RoadName": "Jurong West Ave 5",
+            "Description": "Bet Blks 757/758"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "27431",
+            "Longitude": 103.69734630614052,
+            "Latitude": 1.34946527300866,
+            "RoadName": "Jurong West Ave 5",
+            "Description": "Blk 762"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "27389",
+            "Longitude": 103.69810437813979,
+            "Latitude": 1.34845180903204,
+            "RoadName": "Jurong West St 75",
+            "Description": "Gek Poh Shop Ctr"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "27379",
+            "Longitude": 103.70087385175057,
+            "Latitude": 1.34805042142493,
+            "RoadName": "Jurong West St 75",
+            "Description": "Blk 755"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "22599",
+            "Longitude": 103.70308100001235,
+            "Latitude": 1.34484038298879,
+            "RoadName": "Jurong West St 64",
+            "Description": "Blk 678D"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "22449",
+            "Longitude": 103.70380658858679,
+            "Latitude": 1.34276211470086,
+            "RoadName": "Jurong West St 64",
+            "Description": "Blk 685B"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (Last Stop)"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "21551",
+            "Longitude": 103.7209862100987,
+            "Latitude": 1.3266610431866,
+            "RoadName": "Yung Ho Rd",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "21771",
+            "Longitude": 103.72373023682435,
+            "Latitude": 1.3265799244816,
+            "RoadName": "Yung Ho Rd",
+            "Description": "AFT CORP DR"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "21761",
+            "Longitude": 103.72476805601295,
+            "Latitude": 1.32831333299986,
+            "RoadName": "Yuan Ching Rd",
+            "Description": "Blk 138B"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "21751",
+            "Longitude": 103.72480472198433,
+            "Latitude": 1.33089333300685,
+            "RoadName": "Yuan Ching Rd",
+            "Description": "Jurong Sec Sch"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "21631",
+            "Longitude": 103.72493610114242,
+            "Latitude": 1.33363626085559,
+            "RoadName": "Yuan Ching Rd",
+            "Description": "Blk 115/Opp Japanese Gdn"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "21641",
+            "Longitude": 103.7250086693193,
+            "Latitude": 1.3363012622323,
+            "RoadName": "Yuan Ching Rd",
+            "Description": "Opp Lakeside Apt"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "21651",
+            "Longitude": 103.72402172321266,
+            "Latitude": 1.33873014874255,
+            "RoadName": "Yuan Ching Rd",
+            "Description": "Opp Chinese Gdn"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "21661",
+            "Longitude": 103.72141430185464,
+            "Latitude": 1.34176560473259,
+            "RoadName": "Yuan Ching Rd",
+            "Description": "Yuan Ching Sec Sch"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "28091",
+            "Longitude": 103.72012487725401,
+            "Latitude": 1.34425795644531,
+            "RoadName": "Boon Lay Way",
+            "Description": "Lakeside Stn"
+        }
+    ]
+}

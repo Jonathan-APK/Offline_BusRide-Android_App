@@ -1,0 +1,308 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (First Stop)"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "21359",
+            "Longitude": 103.7099597309989,
+            "Latitude": 1.33867010260834,
+            "RoadName": "Jln Boon Lay",
+            "Description": "AFT ST KINETICS"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "21349",
+            "Longitude": 103.70924473268514,
+            "Latitude": 1.33506459808859,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Beecham Pte Ltd"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "21339",
+            "Longitude": 103.70832322685169,
+            "Latitude": 1.33042465634522,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Premier Milk Pte Ltd"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "21329",
+            "Longitude": 103.70901792785014,
+            "Latitude": 1.32691548284142,
+            "RoadName": "Jln Boon Lay",
+            "Description": "OPP UTOC ENGRG"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "21319",
+            "Longitude": 103.70980422080449,
+            "Latitude": 1.32377340235344,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Opp Tractor Rd"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "21309",
+            "Longitude": 103.71054697877872,
+            "Latitude": 1.3191903081711,
+            "RoadName": "Jurong Pier Rd",
+            "Description": "Aft Jln Pesawat"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "21299",
+            "Longitude": 103.70994575591939,
+            "Latitude": 1.31587034933081,
+            "RoadName": "Jurong Pier Rd",
+            "Description": "Bef Jln Buroh"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "22079",
+            "Longitude": 103.70804979014268,
+            "Latitude": 1.31394399203055,
+            "RoadName": "Jln Buroh",
+            "Description": "Aft Jurong Pier Rd"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "22069",
+            "Longitude": 103.70379462205501,
+            "Latitude": 1.31365447950552,
+            "RoadName": "Jln Buroh",
+            "Description": "Opp Ceva Logistics"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "22059",
+            "Longitude": 103.70126249997799,
+            "Latitude": 1.3136061110111,
+            "RoadName": "Jln Buroh",
+            "Description": "Aft Buroh St"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "22049",
+            "Longitude": 103.69788888900642,
+            "Latitude": 1.3144663889863,
+            "RoadName": "Jln Buroh",
+            "Description": "Bef Tg Kling Rd"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "22399",
+            "Longitude": 103.69601603244551,
+            "Latitude": 1.31345707127095,
+            "RoadName": "Tg Kling Rd",
+            "Description": "Aft Jln Buroh"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "22409",
+            "Longitude": 103.69741989860339,
+            "Latitude": 1.31014256556667,
+            "RoadName": "Tg Kling Rd",
+            "Description": "Bef Shipyard Rd"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "22429",
+            "Longitude": 103.69908070609895,
+            "Latitude": 1.30725749703402,
+            "RoadName": "Tg Kling Rd",
+            "Description": "Opp Natl Oxygen Pte Ltd"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "22089",
+            "Longitude": 103.70087805599307,
+            "Latitude": 1.30589277802592,
+            "RoadName": "Tg Kling Rd",
+            "Description": "Natsteel"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "22331",
+            "Longitude": 103.70317916961058,
+            "Latitude": 1.30485847664917,
+            "RoadName": "Tg Kling Rd",
+            "Description": "Jurong Shipyard"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "22081",
+            "Longitude": 103.70037593299399,
+            "Latitude": 1.30599555710248,
+            "RoadName": "Tg Kling Rd",
+            "Description": "Opp Natsteel"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "22421",
+            "Longitude": 103.69872388898081,
+            "Latitude": 1.30775500000365,
+            "RoadName": "Tg Kling Rd",
+            "Description": "Natl Oxygen Pte Ltd"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "22099",
+            "Longitude": 103.69688960154522,
+            "Latitude": 1.30879764761052,
+            "RoadName": "Shipyard Rd",
+            "Description": "Bef Jln Samulun"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "23469",
+            "Longitude": 103.69683459275382,
+            "Latitude": 1.3050852014562,
+            "RoadName": "Jln Samulun",
+            "Description": "Opp Tanoto Shipyard"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "23451",
+            "Longitude": 103.6972844439932,
+            "Latitude": 1.30402666700212,
+            "RoadName": "Jln Samulun",
+            "Description": "Jurong Shipyard"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "23461",
+            "Longitude": 103.69643466903611,
+            "Latitude": 1.30546916761511,
+            "RoadName": "Jln Samulun",
+            "Description": "Tanoto Shipyard"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "22091",
+            "Longitude": 103.6965558745042,
+            "Latitude": 1.30880721630907,
+            "RoadName": "Shipyard Rd",
+            "Description": "Aft Jln Samulun"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "22401",
+            "Longitude": 103.69714966993958,
+            "Latitude": 1.31007875279152,
+            "RoadName": "Tg Kling Rd",
+            "Description": "Aft Shipyard Rd"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "22391",
+            "Longitude": 103.6957230721563,
+            "Latitude": 1.31342749923518,
+            "RoadName": "Tg Kling Rd",
+            "Description": "Bef Jln Buroh"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "22041",
+            "Longitude": 103.69873083298778,
+            "Latitude": 1.31463499997457,
+            "RoadName": "Jln Buroh",
+            "Description": "Aft Tg Kling Rd"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "22051",
+            "Longitude": 103.7020447220124,
+            "Latitude": 1.31386916701697,
+            "RoadName": "Jln Buroh",
+            "Description": "Opp Buroh St"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "22061",
+            "Longitude": 103.70464097156747,
+            "Latitude": 1.31427617763344,
+            "RoadName": "Jln Buroh",
+            "Description": "Ceva Logistics"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "22071",
+            "Longitude": 103.70695129035255,
+            "Latitude": 1.31433636827053,
+            "RoadName": "Jln Buroh",
+            "Description": "Bef Jurong Pier Rd"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "21291",
+            "Longitude": 103.70943351671639,
+            "Latitude": 1.31585422996408,
+            "RoadName": "Jurong Pier Rd",
+            "Description": "Aft Jln Buroh"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "21301",
+            "Longitude": 103.70997054139839,
+            "Latitude": 1.31849721492889,
+            "RoadName": "Jurong Pier Rd",
+            "Description": "Opp Jln Pesawat"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "21311",
+            "Longitude": 103.70956380845345,
+            "Latitude": 1.32320514106483,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Bef Tractor Rd"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "21321",
+            "Longitude": 103.70885429370763,
+            "Latitude": 1.32624055798556,
+            "RoadName": "Jln Boon Lay",
+            "Description": "UTOC ENGRG"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "21331",
+            "Longitude": 103.70796785261548,
+            "Latitude": 1.33029049207675,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Opp Premier Milk Pte Ltd"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "21341",
+            "Longitude": 103.70895825573741,
+            "Latitude": 1.33517345758852,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Opp Beecham Pte Ltd"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "21351",
+            "Longitude": 103.70956429008974,
+            "Latitude": 1.33882138642125,
+            "RoadName": "Jln Boon Lay",
+            "Description": "BEF BOON LAY WAY"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int (Last Stop)"
+        }
+    ]
+}

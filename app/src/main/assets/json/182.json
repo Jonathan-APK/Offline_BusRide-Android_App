@@ -1,0 +1,460 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "24009",
+            "Longitude": 103.67839791240787,
+            "Latitude": 1.32697254709069,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Int (First Stop)"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "23081",
+            "Longitude": 103.67826798978071,
+            "Latitude": 1.33011660553179,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Opp S'pore Discovery Ctr"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "24041",
+            "Longitude": 103.67499316670492,
+            "Latitude": 1.33035313055333,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Opp Pasir Laba Camp"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "24501",
+            "Longitude": 103.66479791875364,
+            "Latitude": 1.32424896848956,
+            "RoadName": "PIE",
+            "Description": "Bef Tuas Flyover"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "25219",
+            "Longitude": 103.65692226679495,
+            "Latitude": 1.32877104016653,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Aft Tuas Ave 2"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "25229",
+            "Longitude": 103.65176249706444,
+            "Latitude": 1.33371272924751,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Crown Beverage Cans S'pore"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "25239",
+            "Longitude": 103.64795499996725,
+            "Latitude": 1.33740500002037,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Asia-Pacific Brewery"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "25249",
+            "Longitude": 103.64535166698558,
+            "Latitude": 1.33985499996776,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Aft Tuas West Rd"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "25259",
+            "Longitude": 103.6407070702331,
+            "Latitude": 1.34418817757747,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Bef Tuas West Dr"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "25269",
+            "Longitude": 103.63746924027154,
+            "Latitude": 1.34777150726774,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Tuas Checkpt"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "25411",
+            "Longitude": 103.63830559259954,
+            "Latitude": 1.34387062081224,
+            "RoadName": "Tuas West Dr",
+            "Description": "BEF TUAS TER"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "25421",
+            "Longitude": 103.63745040018382,
+            "Latitude": 1.3414665264837,
+            "RoadName": "Tuas West Dr",
+            "Description": "OPP TUAS LINK STN"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "25431",
+            "Longitude": 103.63658739973077,
+            "Latitude": 1.33897644927954,
+            "RoadName": "Tuas West Dr",
+            "Description": "Super Continental"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "25441",
+            "Longitude": 103.6351235369854,
+            "Latitude": 1.33483211759061,
+            "RoadName": "Tuas West Dr",
+            "Description": "Bef Pioneer Rd"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "25451",
+            "Longitude": 103.63410305264573,
+            "Latitude": 1.3322832999168,
+            "RoadName": "Tuas West Dr",
+            "Description": "Aft Tuas West St"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "25461",
+            "Longitude": 103.63291879027565,
+            "Latitude": 1.32944826490136,
+            "RoadName": "Tuas West Dr",
+            "Description": "Aft Tuas West Ave"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "26201",
+            "Longitude": 103.63192950215767,
+            "Latitude": 1.32695291537121,
+            "RoadName": "Tuas West Dr",
+            "Description": "Opp MSD"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "26249",
+            "Longitude": 103.63121830364248,
+            "Latitude": 1.32047370757812,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Bef Tuas Sth Ave 2"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "26259",
+            "Longitude": 103.63011079068617,
+            "Latitude": 1.31751639387096,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Aft Tuas Sth Ave 2"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "26269",
+            "Longitude": 103.62895500001656,
+            "Latitude": 1.3143583329901,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Bef Tuas Sth Ave 4"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "26279",
+            "Longitude": 103.6278418960082,
+            "Latitude": 1.31133425245546,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Aft Tuas Sth Ave 4"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "26289",
+            "Longitude": 103.62682065616312,
+            "Latitude": 1.30854575415228,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Opp Caterpillar"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "26299",
+            "Longitude": 103.62556346611815,
+            "Latitude": 1.30510954355111,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Bef Tuas Sth Ave 6"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "26369",
+            "Longitude": 103.62308583345813,
+            "Latitude": 1.2984699944142,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "See Hup Seng"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "26379",
+            "Longitude": 103.62192147229634,
+            "Latitude": 1.29387380677403,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Yong Nam"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "26389",
+            "Longitude": 103.62453377233186,
+            "Latitude": 1.29055080908937,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Bef Tuas Sth Ave 5"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "26399",
+            "Longitude": 103.627460343254,
+            "Latitude": 1.28949499042217,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Aft Tuas View Cres"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "26409",
+            "Longitude": 103.63019873280872,
+            "Latitude": 1.28912909258559,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Multico"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "26419",
+            "Longitude": 103.63301962123198,
+            "Latitude": 1.28891937327423,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Aft Tuas View Circuit"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "26429",
+            "Longitude": 103.63586909363458,
+            "Latitude": 1.28869749978137,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Bef Tuas Sth Ave 9"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "26211",
+            "Longitude": 103.6368386816709,
+            "Latitude": 1.2909661076742,
+            "RoadName": "Tuas Sth Ave 9",
+            "Description": "Framo S'pore Pte Ltd"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "26221",
+            "Longitude": 103.63700231055886,
+            "Latitude": 1.29324977797865,
+            "RoadName": "Tuas Sth Ave 9",
+            "Description": "Opp YLS Steel"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "26431",
+            "Longitude": 103.63619121489278,
+            "Latitude": 1.29448159014169,
+            "RoadName": "Tuas Sth Ave 8",
+            "Description": "Aft Tuas Sth Ave 9"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "26441",
+            "Longitude": 103.63296571362545,
+            "Latitude": 1.29568927488087,
+            "RoadName": "Tuas Sth Ave 8",
+            "Description": "Bef Tuas Sth Ave 7"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "26451",
+            "Longitude": 103.62977787735203,
+            "Latitude": 1.29689770170555,
+            "RoadName": "Tuas Sth Ave 8",
+            "Description": "Bef Tuas Sth Ave 5"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "26461",
+            "Longitude": 103.62876777798095,
+            "Latitude": 1.29946472196917,
+            "RoadName": "Tuas Sth Ave 5",
+            "Description": "Aft Tuas Sth Ave 8"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "26311",
+            "Longitude": 103.62978115947503,
+            "Latitude": 1.30228826515768,
+            "RoadName": "Tuas Sth Ave 5",
+            "Description": "Aft Tuas Sth Ave 6"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "26321",
+            "Longitude": 103.63116893582946,
+            "Latitude": 1.30603953289231,
+            "RoadName": "Tuas Sth Ave 5",
+            "Description": "Bef Tuas Sth St 2"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "26331",
+            "Longitude": 103.63213426017337,
+            "Latitude": 1.30869957612651,
+            "RoadName": "Tuas Sth Ave 5",
+            "Description": "RS Components"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "26349",
+            "Longitude": 103.62993851893346,
+            "Latitude": 1.3119396916744,
+            "RoadName": "Tuas Sth Ave 4",
+            "Description": "Tuas Technology Pk"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "26261",
+            "Longitude": 103.62871219060811,
+            "Latitude": 1.31470906872568,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Aft Tuas Sth Ave 4"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "26251",
+            "Longitude": 103.62972683501111,
+            "Latitude": 1.31744784261205,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Bef Tuas Sth Ave 2"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "26241",
+            "Longitude": 103.63084994911132,
+            "Latitude": 1.32051139798651,
+            "RoadName": "Tuas Sth Ave 3",
+            "Description": "Aft Tuas Sth Ave 2"
+        },
+        {
+            "Distance": 20.8,
+            "BusStopCode": "26209",
+            "Longitude": 103.63175333302223,
+            "Latitude": 1.32692000001177,
+            "RoadName": "Tuas West Dr",
+            "Description": "MSD"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "25469",
+            "Longitude": 103.63264583299014,
+            "Latitude": 1.32929472200012,
+            "RoadName": "Tuas West Dr",
+            "Description": "Bef Tuas West Ave"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "25459",
+            "Longitude": 103.63412166700834,
+            "Latitude": 1.33279999997118,
+            "RoadName": "Tuas West Dr",
+            "Description": "Opp Tuas West St"
+        },
+        {
+            "Distance": 21.8,
+            "BusStopCode": "25449",
+            "Longitude": 103.63488564434365,
+            "Latitude": 1.33559254994067,
+            "RoadName": "Tuas West Dr",
+            "Description": "Aft Pioneer Rd"
+        },
+        {
+            "Distance": 22.2,
+            "BusStopCode": "25439",
+            "Longitude": 103.63642647473378,
+            "Latitude": 1.33912525432561,
+            "RoadName": "Tuas West Dr",
+            "Description": "Opp Super Continental"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "25429",
+            "Longitude": 103.63696536000046,
+            "Latitude": 1.34055807307548,
+            "RoadName": "Tuas West Dr",
+            "Description": "TUAS LINK STN"
+        },
+        {
+            "Distance": 22.9,
+            "BusStopCode": "25419",
+            "Longitude": 103.63837611639327,
+            "Latitude": 1.3443890810874,
+            "RoadName": "Tuas West Dr",
+            "Description": "Aft Tuas Ter"
+        },
+        {
+            "Distance": 23.4,
+            "BusStopCode": "25269",
+            "Longitude": 103.63746924027154,
+            "Latitude": 1.34777150726774,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Tuas Checkpt"
+        },
+        {
+            "Distance": 24.9,
+            "BusStopCode": "25231",
+            "Longitude": 103.64740272813636,
+            "Latitude": 1.3386589540233,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Opp Asia-Pacific Brewery"
+        },
+        {
+            "Distance": 25.5,
+            "BusStopCode": "25221",
+            "Longitude": 103.65153114279171,
+            "Latitude": 1.33470589408796,
+            "RoadName": "Jln Ahmad Ibrahim",
+            "Description": "Raffles Country Club"
+        },
+        {
+            "Distance": 27.5,
+            "BusStopCode": "24509",
+            "Longitude": 103.66411622471436,
+            "Latitude": 1.32431478516881,
+            "RoadName": "PIE",
+            "Description": "Aft Tuas Flyover"
+        },
+        {
+            "Distance": 28.8,
+            "BusStopCode": "24049",
+            "Longitude": 103.67379074701834,
+            "Latitude": 1.33094144977498,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "Pasir Laba Camp"
+        },
+        {
+            "Distance": 29.3,
+            "BusStopCode": "23089",
+            "Longitude": 103.67843466317231,
+            "Latitude": 1.330433728881,
+            "RoadName": "Upp Jurong Rd",
+            "Description": "S'pore Discovery Ctr"
+        },
+        {
+            "Distance": 29.9,
+            "BusStopCode": "24009",
+            "Longitude": 103.67839791240787,
+            "Latitude": 1.32697254709069,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Int (Last Stop)"
+        }
+    ]
+}

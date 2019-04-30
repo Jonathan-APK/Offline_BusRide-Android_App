@@ -1,0 +1,134 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "45131",
+            "Longitude": 103.76103770449444,
+            "Latitude": 1.42513583961154,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Kranji Stn"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "46021",
+            "Longitude": 103.76175138901188,
+            "Latitude": 1.42919861102901,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef W'Lands Ind Pk D St 2"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "46031",
+            "Longitude": 103.7619231548512,
+            "Latitude": 1.4335562926407,
+            "RoadName": "Woodlands Rd",
+            "Description": "Kranji Lodge 1"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "46041",
+            "Longitude": 103.76405579624996,
+            "Latitude": 1.43664137008987,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Globalfoundries"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "46051",
+            "Longitude": 103.76640888181257,
+            "Latitude": 1.43897086088179,
+            "RoadName": "Woodlands Rd",
+            "Description": "Bef BKE"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "46101",
+            "Longitude": 103.76774882217022,
+            "Latitude": 1.44460832436456,
+            "RoadName": "Woodlands Crossing",
+            "Description": "W'Lands Checkpt"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "46211",
+            "Longitude": 103.76547712149443,
+            "Latitude": 1.46491732433248,
+            "RoadName": "Johor Bahru",
+            "Description": "Johor Bahru Checkpt"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "47711",
+            "Longitude": 103.76442341207213,
+            "Latitude": 1.46345834112565,
+            "RoadName": "Jln Jim Quee",
+            "Description": "JB Sentral Bus Ter"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "47711",
+            "Longitude": 103.76442341207213,
+            "Latitude": 1.46345834112565,
+            "RoadName": "Jln Jim Quee",
+            "Description": "JB Sentral Bus Ter"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "46219",
+            "Longitude": 103.76826657164715,
+            "Latitude": 1.4654268105665,
+            "RoadName": "Johor Bahru",
+            "Description": "Johor Bahru Checkpt"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "46109",
+            "Longitude": 103.76925342517902,
+            "Latitude": 1.44694093553778,
+            "RoadName": "Woodlands Crossing",
+            "Description": "W'Lands Checkpt"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "46059",
+            "Longitude": 103.76656472079625,
+            "Latitude": 1.4387537800127,
+            "RoadName": "Woodlands Rd",
+            "Description": "Globalfoundries/Aft Bke"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "46049",
+            "Longitude": 103.76460658875827,
+            "Latitude": 1.43689983237469,
+            "RoadName": "Woodlands Rd",
+            "Description": "Globalfoundries"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "46039",
+            "Longitude": 103.76200180616921,
+            "Latitude": 1.4330873187738,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Kranji Lodge 1"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "46029",
+            "Longitude": 103.76226643430736,
+            "Latitude": 1.42861423605127,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft W'Lands Ind Pk D St 2"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "45139",
+            "Longitude": 103.76178101875855,
+            "Latitude": 1.42525961270458,
+            "RoadName": "Woodlands Rd",
+            "Description": "Kranji Stn"
+        }
+    ]
+}

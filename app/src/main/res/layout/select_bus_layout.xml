@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/selectBusConstraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    android:clickable="true"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="com.mybusoffline.fypmybusoffline.UIClass.SelectBusService">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/toolBarColor"
+        android:minHeight="?attr/actionBarSize"
+        android:id="@+id/busLayoutToolbar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:theme="@style/ToolbarTheme"/>
+
+    <ImageView
+        android:id="@+id/selectBusImage"
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/busLayoutToolbar"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/select_bus" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/selectBusText"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:layout_marginTop="24dp"
+        android:gravity="start"
+        android:text="Select Bus Service No."
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/selectBusImage"
+        app:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/selectBusNextBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginStart="100dp"
+        android:enabled="true"
+        android:onClick="selectBusNext"
+        android:text="Next"
+        android:theme="@style/BlueButton"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/selectBusTextview" />
+
+    <AutoCompleteTextView
+        android:id="@+id/selectBusTextview"
+        android:layout_width="183dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:hint="Bus No."
+        app:layout_constraintHorizontal_bias="0.442"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/selectBusText" />
+
+    <ImageView
+        android:id="@+id/dropdownArrowImage"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginRight="0dp"
+        android:padding="5dp"
+        app:layout_constraintBottom_toBottomOf="@+id/selectBusTextview"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/selectBusTextview"
+        app:layout_constraintTop_toTopOf="@+id/selectBusTextview"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/dropdown_arrow_36" />
+
+</android.support.constraint.ConstraintLayout>

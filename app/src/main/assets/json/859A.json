@@ -1,0 +1,124 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "58009",
+            "Longitude": 103.81941391689068,
+            "Latitude": 1.44748179252514,
+            "RoadName": "Sembawang Vista",
+            "Description": "Sembawang Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "58259",
+            "Longitude": 103.81895151565973,
+            "Latitude": 1.44777267175187,
+            "RoadName": "Sembawang Dr",
+            "Description": "Opp Sun Plaza"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "58219",
+            "Longitude": 103.8199297231716,
+            "Latitude": 1.44953463697186,
+            "RoadName": "Sembawang Way",
+            "Description": "Opp Sembawang Stn"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "58111",
+            "Longitude": 103.82075231895968,
+            "Latitude": 1.45096272310028,
+            "RoadName": "Canberra Rd",
+            "Description": "Blk 351 CP"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "58121",
+            "Longitude": 103.81929476185202,
+            "Latitude": 1.45329115486737,
+            "RoadName": "Canberra Rd",
+            "Description": "Blk 424A CP"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "58401",
+            "Longitude": 103.81800207598671,
+            "Latitude": 1.45575658287341,
+            "RoadName": "Admiralty Link",
+            "Description": "Opp Blk 491"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "58411",
+            "Longitude": 103.81658372927154,
+            "Latitude": 1.45461200191848,
+            "RoadName": "Admiralty Link",
+            "Description": "Blk 404A CP"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "58341",
+            "Longitude": 103.81687772159036,
+            "Latitude": 1.45267992935187,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 405"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "58321",
+            "Longitude": 103.81614518346868,
+            "Latitude": 1.45020573824638,
+            "RoadName": "Admiralty Dr",
+            "Description": "Bet Blks 357/359"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "58271",
+            "Longitude": 103.81470654183288,
+            "Latitude": 1.44702783502401,
+            "RoadName": "Sembawang Cres",
+            "Description": "Blk 335"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "58281",
+            "Longitude": 103.8162666133863,
+            "Latitude": 1.4450136750226,
+            "RoadName": "Sembawang Cres",
+            "Description": "Sembawang Sec Sch"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "58371",
+            "Longitude": 103.8190895319006,
+            "Latitude": 1.44449009584233,
+            "RoadName": "Sembawang Cres",
+            "Description": "Bet Blks 325/326"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "58299",
+            "Longitude": 103.81968463382916,
+            "Latitude": 1.44582915331137,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 328"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "58241",
+            "Longitude": 103.82018490260376,
+            "Latitude": 1.44722064601498,
+            "RoadName": "Sembawang Vista",
+            "Description": "Sembawang Int"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "58009",
+            "Longitude": 103.81941391689068,
+            "Latitude": 1.44748179252514,
+            "RoadName": "Sembawang Vista",
+            "Description": "Sembawang Int (Last Stop)"
+        }
+    ]
+}

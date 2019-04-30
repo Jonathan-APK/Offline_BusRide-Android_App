@@ -1,0 +1,204 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46008",
+            "Longitude": 103.78575976841014,
+            "Latitude": 1.43736180998154,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "46321",
+            "Longitude": 103.78655642033898,
+            "Latitude": 1.43457763941924,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "W'Lands Civic Ctr"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "46331",
+            "Longitude": 103.78816378743082,
+            "Latitude": 1.43314769562187,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 511"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "46341",
+            "Longitude": 103.78630311506315,
+            "Latitude": 1.43172193690625,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Rosewood"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "46351",
+            "Longitude": 103.78373500001297,
+            "Latitude": 1.43084888887005,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "WOODHAVEN"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "46629",
+            "Longitude": 103.7808172850331,
+            "Latitude": 1.42946092866646,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "The Woodgrove"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "46619",
+            "Longitude": 103.77775112537243,
+            "Latitude": 1.42907407993851,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Opp Fuchun Sec Sch"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "46361",
+            "Longitude": 103.773787554639,
+            "Latitude": 1.4274660260627,
+            "RoadName": "Woodlands St 41",
+            "Description": "Blk 425"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "46371",
+            "Longitude": 103.77253170053454,
+            "Latitude": 1.42917208793815,
+            "RoadName": "Woodlands St 41",
+            "Description": "Blk 406"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "46519",
+            "Longitude": 103.77213801008084,
+            "Latitude": 1.43554811627266,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp Blk 144"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "46509",
+            "Longitude": 103.7709643228368,
+            "Latitude": 1.43804390195153,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Town Gdn"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "46069",
+            "Longitude": 103.76933833799299,
+            "Latitude": 1.44288948418349,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Train Checkpt"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "46088",
+            "Longitude": 103.77108660594439,
+            "Latitude": 1.44180914262822,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp Blk 1A"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "46501",
+            "Longitude": 103.77118912980488,
+            "Latitude": 1.43796940271606,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp W'Lands Town Gdn"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "46511",
+            "Longitude": 103.77255675974702,
+            "Latitude": 1.43438229479103,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Marsiling Pr Sch"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "46591",
+            "Longitude": 103.77322606797722,
+            "Latitude": 1.43068958976223,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Blk 303"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "46379",
+            "Longitude": 103.77294013114384,
+            "Latitude": 1.42911804399457,
+            "RoadName": "Woodlands St 41",
+            "Description": "Blk 409"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "46369",
+            "Longitude": 103.77315906940312,
+            "Latitude": 1.42760121342773,
+            "RoadName": "Woodlands St 41",
+            "Description": "Blk 413"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "46611",
+            "Longitude": 103.77760584579323,
+            "Latitude": 1.42923412810157,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Fuchun Sec Sch"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "46621",
+            "Longitude": 103.78064562823636,
+            "Latitude": 1.42955535916481,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Blk 335"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "46359",
+            "Longitude": 103.7829908333452,
+            "Latitude": 1.43082500006702,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Aft Blk 336"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "46349",
+            "Longitude": 103.78622445675852,
+            "Latitude": 1.4318970485931,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Aft Blk 353"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "46339",
+            "Longitude": 103.78798319246935,
+            "Latitude": 1.43352632033198,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 370"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "46329",
+            "Longitude": 103.78737576801932,
+            "Latitude": 1.43444810854853,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Opp W'Lands Civic Ctr"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (Last Stop)"
+        }
+    ]
+}

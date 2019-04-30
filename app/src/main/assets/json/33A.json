@@ -1,0 +1,180 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "16009",
+            "Longitude": 103.76988323197696,
+            "Latitude": 1.29425341056334,
+            "RoadName": "Clementi Rd",
+            "Description": "Kent Ridge Ter"
+        },
+        {
+            "Distance": 0.2,
+            "BusStopCode": "16131",
+            "Longitude": 103.76935201010454,
+            "Latitude": 1.29487639088562,
+            "RoadName": "Clementi Rd",
+            "Description": "Opp Kent Ridge Ter"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "16141",
+            "Longitude": 103.76959523650599,
+            "Latitude": 1.29786833526113,
+            "RoadName": "Clementi Rd",
+            "Description": "Tentera Diraja Mque"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "16151",
+            "Longitude": 103.76993555602371,
+            "Latitude": 1.30076138899694,
+            "RoadName": "Clementi Rd",
+            "Description": "The Japanese Pr Sch"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "19051",
+            "Longitude": 103.77392333299538,
+            "Latitude": 1.30896444398008,
+            "RoadName": "Dover Rd",
+            "Description": "New Town Sec Sch"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "19061",
+            "Longitude": 103.77782122462926,
+            "Latitude": 1.30752442673366,
+            "RoadName": "Dover Rd",
+            "Description": "Ayer Rajah Telecoms"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "19071",
+            "Longitude": 103.78108305597279,
+            "Latitude": 1.30515500002931,
+            "RoadName": "Dover Rd",
+            "Description": "Opp Acs Independent"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "19081",
+            "Longitude": 103.78282472199413,
+            "Latitude": 1.30256972202724,
+            "RoadName": "Dover Rd",
+            "Description": "Opp ACS Boarding Sch"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "18111",
+            "Longitude": 103.78448416698873,
+            "Latitude": 1.30059305599352,
+            "RoadName": "Dover Rd",
+            "Description": "Fairfield Meth Pr Sch"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "18129",
+            "Longitude": 103.78570767644749,
+            "Latitude": 1.29776225378985,
+            "RoadName": "Buona Vista Flyover",
+            "Description": "Ayer Rajah Ind Est"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "18109",
+            "Longitude": 103.78672599789039,
+            "Latitude": 1.29403436577434,
+            "RoadName": "Buona Vista Flyover",
+            "Description": "Opp PSB Science Pk Bldg"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "18049",
+            "Longitude": 103.79208093037771,
+            "Latitude": 1.29018147748939,
+            "RoadName": "AYE",
+            "Description": "Opp Normanton Pk"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "11511",
+            "Longitude": 103.80251884462385,
+            "Latitude": 1.2859468736223,
+            "RoadName": "Alexandra Rd",
+            "Description": "Alexandra Hosp"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "11521",
+            "Longitude": 103.80543003047167,
+            "Latitude": 1.2885710102662,
+            "RoadName": "Alexandra Rd",
+            "Description": "Anchorpoint"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "11531",
+            "Longitude": 103.80753083302794,
+            "Latitude": 1.29108833302538,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Lea Hin Hardware Fty"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "10299",
+            "Longitude": 103.81146486767658,
+            "Latitude": 1.29233498466278,
+            "RoadName": "Alexandra Rd",
+            "Description": "Aft Dawson Rd"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "10209",
+            "Longitude": 103.81672885450702,
+            "Latitude": 1.28954631749853,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Redhill Stn"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "10199",
+            "Longitude": 103.81936618662205,
+            "Latitude": 1.28875723330649,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Delta Swim Cplx"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "10189",
+            "Longitude": 103.82183192865197,
+            "Latitude": 1.28858805222806,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Blk 104A CP"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "10179",
+            "Longitude": 103.82395833301354,
+            "Latitude": 1.28722333302937,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Tiong Bahru Pk"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "10169",
+            "Longitude": 103.82748123930962,
+            "Latitude": 1.28599961406266,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Tiong Bahru Plaza"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "10149",
+            "Longitude": 103.83283384311112,
+            "Latitude": 1.28606797463712,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Blk 1"
+        }
+    ]
+}

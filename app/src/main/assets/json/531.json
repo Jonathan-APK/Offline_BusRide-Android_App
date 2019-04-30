@@ -1,0 +1,446 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "96129",
+            "Longitude": 103.95795115114063,
+            "Latitude": 1.3474583546739,
+            "RoadName": "Simei Rd",
+            "Description": "Melville Pk"
+        },
+        {
+            "Distance": 0.2,
+            "BusStopCode": "96189",
+            "Longitude": 103.95793622236005,
+            "Latitude": 1.3452978033151,
+            "RoadName": "Simei Rd",
+            "Description": "Blk 166"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "96261",
+            "Longitude": 103.95585935578698,
+            "Latitude": 1.34404967237603,
+            "RoadName": "Simei St 3",
+            "Description": "Blk 233"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "96161",
+            "Longitude": 103.95354015150029,
+            "Latitude": 1.34211893867102,
+            "RoadName": "Simei St 3",
+            "Description": "Opp Simei Stn"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "96251",
+            "Longitude": 103.95138028105873,
+            "Latitude": 1.34026697859529,
+            "RoadName": "Simei St 3",
+            "Description": "Bef Changi General Hosp"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "96109",
+            "Longitude": 103.95067333143491,
+            "Latitude": 1.33737118239889,
+            "RoadName": "Simei Ave",
+            "Description": "Opp Blk 3012"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "85079",
+            "Longitude": 103.9501523198666,
+            "Latitude": 1.33394889968504,
+            "RoadName": "Upp Changi Rd",
+            "Description": "Flextronic"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "85089",
+            "Longitude": 103.94880327361744,
+            "Latitude": 1.33338002405472,
+            "RoadName": "Upp Changi Rd",
+            "Description": "Bef Jln Chempaka Kuning"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "85069",
+            "Longitude": 103.9474077910704,
+            "Latitude": 1.33172434076631,
+            "RoadName": "Bedok Rd",
+            "Description": "Bedok Mkt Pl"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "85059",
+            "Longitude": 103.94906611097686,
+            "Latitude": 1.32950222197902,
+            "RoadName": "Bedok Rd",
+            "Description": "Bef Jln Chempaka Kuning"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "85049",
+            "Longitude": 103.95124872703616,
+            "Latitude": 1.32671998700111,
+            "RoadName": "Bedok Rd",
+            "Description": "Opp Man Fatt Lam Tp"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "85039",
+            "Longitude": 103.95298594261581,
+            "Latitude": 1.32442497435966,
+            "RoadName": "Bedok Rd",
+            "Description": "Opp Excelsior Gdns"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "85029",
+            "Longitude": 103.95429972202514,
+            "Latitude": 1.32261805599904,
+            "RoadName": "Bedok Rd",
+            "Description": "Aft Bedok Meth Ch"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "85019",
+            "Longitude": 103.95534472201146,
+            "Latitude": 1.321288333018,
+            "RoadName": "Bedok Rd",
+            "Description": "Eastwood Ctr"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "94079",
+            "Longitude": 103.9553775,
+            "Latitude": 1.319266944,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Bedok Camp 2"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "94069",
+            "Longitude": 103.95085659912792,
+            "Latitude": 1.31809668590525,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Opp Kew Green Condo"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "94059",
+            "Longitude": 103.94798092494041,
+            "Latitude": 1.31707137658578,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Temasek Sec Sch"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "94049",
+            "Longitude": 103.94482108127718,
+            "Latitude": 1.31616443335073,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Aft Bedok Sth Ave 3"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "94089",
+            "Longitude": 103.94294138900047,
+            "Latitude": 1.31536333302999,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Calvary Ably Of God Ch"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "94039",
+            "Longitude": 103.94066333773824,
+            "Latitude": 1.31485363967239,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Opp The Summit"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "93131",
+            "Longitude": 103.93415826027375,
+            "Latitude": 1.31277833350682,
+            "RoadName": "Bedok Sth Ave 1",
+            "Description": "Opp Eastern Lagoon II"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "02149",
+            "Longitude": 103.85955533029184,
+            "Latitude": 1.29560459817725,
+            "RoadName": "Temasek Blvd",
+            "Description": "Suntec Twr Three"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "02161",
+            "Longitude": 103.86093156188176,
+            "Latitude": 1.29268553508737,
+            "RoadName": "Temasek Ave",
+            "Description": "Promenade Stn"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "02051",
+            "Longitude": 103.85903388899317,
+            "Latitude": 1.2895030556082,
+            "RoadName": "Raffles Ave",
+            "Description": "Seating Gallery"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "02061",
+            "Longitude": 103.85640388886262,
+            "Latitude": 1.2899638888957,
+            "RoadName": "Raffles Ave",
+            "Description": "The Esplanade"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "03019",
+            "Longitude": 103.85310805599599,
+            "Latitude": 1.284245000013,
+            "RoadName": "Collyer Quay",
+            "Description": "OUE Bayfront"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "03217",
+            "Longitude": 103.8479443674916,
+            "Latitude": 1.27552218897645,
+            "RoadName": "Shenton Way",
+            "Description": "Opp AXA Twr"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03222",
+            "Longitude": 103.84489562922414,
+            "Latitude": 1.27397836925637,
+            "RoadName": "Anson Rd",
+            "Description": "Hub Synergy Pt"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "02111",
+            "Longitude": 103.85453419435228,
+            "Latitude": 1.29095592348389,
+            "RoadName": "Esplanade Dr",
+            "Description": "Esplanade Bridge"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "02151",
+            "Longitude": 103.85784623004031,
+            "Latitude": 1.29317776320814,
+            "RoadName": "Temasek Blvd",
+            "Description": "Suntec Convention Ctr"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "02161",
+            "Longitude": 103.86093156188176,
+            "Latitude": 1.29268553508737,
+            "RoadName": "Temasek Ave",
+            "Description": "Promenade Stn"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "93139",
+            "Longitude": 103.9338525622476,
+            "Latitude": 1.31278641539067,
+            "RoadName": "Bedok Sth Ave 1",
+            "Description": "Eastern Lagoon II"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "94031",
+            "Longitude": 103.94089937209914,
+            "Latitude": 1.31504670788151,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "The Summit"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "94041",
+            "Longitude": 103.94430577752213,
+            "Latitude": 1.31619439069366,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Aft Parbury Ave"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "94051",
+            "Longitude": 103.94737959133388,
+            "Latitude": 1.31710244970995,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Opp Temasek Sec Sch"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "94061",
+            "Longitude": 103.95138333302127,
+            "Latitude": 1.31843666702467,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Kew Green Condo"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "94071",
+            "Longitude": 103.9555975,
+            "Latitude": 1.319554722,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Opp Bedok Camp 2"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "85021",
+            "Longitude": 103.95468472199643,
+            "Latitude": 1.32190305598591,
+            "RoadName": "Bedok Rd",
+            "Description": "Country Pk"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "85031",
+            "Longitude": 103.95232021806196,
+            "Latitude": 1.32501115145725,
+            "RoadName": "Bedok Rd",
+            "Description": "Excelsior Gdns"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "85041",
+            "Longitude": 103.95116420801885,
+            "Latitude": 1.3264647104527,
+            "RoadName": "Bedok Rd",
+            "Description": "Man Fatt Lam Tp"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "85051",
+            "Longitude": 103.94880115987219,
+            "Latitude": 1.32956968334939,
+            "RoadName": "Bedok Rd",
+            "Description": "Aft Jln Chempaka Kuning"
+        },
+        {
+            "Distance": 18,
+            "BusStopCode": "85061",
+            "Longitude": 103.94735350449812,
+            "Latitude": 1.33150499798206,
+            "RoadName": "Bedok Rd",
+            "Description": "Opp Bedok Mkt Pl"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "85081",
+            "Longitude": 103.94719977411023,
+            "Latitude": 1.33292331447242,
+            "RoadName": "Upp Changi Rd",
+            "Description": "Bef Jln Pari Burong"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "85071",
+            "Longitude": 103.9498516702887,
+            "Latitude": 1.33407653133395,
+            "RoadName": "Upp Changi Rd",
+            "Description": "Bef Changi Fire Stn"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "96101",
+            "Longitude": 103.9510568939649,
+            "Latitude": 1.33638500905398,
+            "RoadName": "Simei Ave",
+            "Description": "Blk 3012"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "96259",
+            "Longitude": 103.95124680626643,
+            "Latitude": 1.34043019344412,
+            "RoadName": "Simei St 3",
+            "Description": "Aft Changi General Hosp"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "96169",
+            "Longitude": 103.95346611100372,
+            "Latitude": 1.34226222202581,
+            "RoadName": "Simei St 3",
+            "Description": "Simei Stn"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "96269",
+            "Longitude": 103.95588755609721,
+            "Latitude": 1.34431781695634,
+            "RoadName": "Simei St 3",
+            "Description": "Blk 146"
+        },
+        {
+            "Distance": 20.5,
+            "BusStopCode": "96181",
+            "Longitude": 103.95770528781159,
+            "Latitude": 1.34563053684832,
+            "RoadName": "Simei Rd",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "96121",
+            "Longitude": 103.95776019526973,
+            "Latitude": 1.34719360554366,
+            "RoadName": "Simei Rd",
+            "Description": "Metta Welfare Assn"
+        }
+    ]
+}

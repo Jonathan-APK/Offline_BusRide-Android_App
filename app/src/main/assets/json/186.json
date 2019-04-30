@@ -1,0 +1,718 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03239",
+            "Longitude": 103.84756721372408,
+            "Latitude": 1.27464226961973,
+            "RoadName": "Shenton Way",
+            "Description": "Shenton Way Ter"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "03223",
+            "Longitude": 103.84632468221952,
+            "Latitude": 1.2757033952327,
+            "RoadName": "Anson Rd",
+            "Description": "Intl Plaza"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "03151",
+            "Longitude": 103.84776234627124,
+            "Latitude": 1.27892124625262,
+            "RoadName": "Cecil St",
+            "Description": "Opp GB Bldg"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "03041",
+            "Longitude": 103.84893207391676,
+            "Latitude": 1.28179509394707,
+            "RoadName": "Cross St",
+            "Description": "Telok Ayer Stn Exit A"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "05131",
+            "Longitude": 103.84527387289731,
+            "Latitude": 1.28398513155185,
+            "RoadName": "Upp Cross St",
+            "Description": "Opp Hong Lim Cplx"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "06171",
+            "Longitude": 103.84244788580838,
+            "Latitude": 1.2860773006121,
+            "RoadName": "Upp Cross St",
+            "Description": "Opp State Ct"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "06161",
+            "Longitude": 103.83994286096711,
+            "Latitude": 1.28901705678419,
+            "RoadName": "Havelock Rd",
+            "Description": "Blk 2"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "06151",
+            "Longitude": 103.83737276969174,
+            "Latitude": 1.28870976841461,
+            "RoadName": "Havelock Rd",
+            "Description": "Hotel Miramar"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "06141",
+            "Longitude": 103.83381241921823,
+            "Latitude": 1.28963300933974,
+            "RoadName": "Havelock Rd",
+            "Description": "Holiday Inn Atrium"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "10221",
+            "Longitude": 103.83111793441608,
+            "Latitude": 1.29032906602668,
+            "RoadName": "Ganges Ave",
+            "Description": "Ganges Ctr"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "10231",
+            "Longitude": 103.8278819,
+            "Latitude": 1.290468056,
+            "RoadName": "Ganges Ave",
+            "Description": "Blk 51 CP"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "10241",
+            "Longitude": 103.82362326803131,
+            "Latitude": 1.2906166672167,
+            "RoadName": "Alexandra Rd",
+            "Description": "Gan Eng Seng Sec Sch"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "10261",
+            "Longitude": 103.82047232884216,
+            "Latitude": 1.29090335842692,
+            "RoadName": "Alexandra Rd",
+            "Description": "Delta Sports Hall"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "10271",
+            "Longitude": 103.81757666701353,
+            "Latitude": 1.29115999997607,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Tanglin View"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "10281",
+            "Longitude": 103.81445166697797,
+            "Latitude": 1.29153833298318,
+            "RoadName": "Alexandra Rd",
+            "Description": "SIS Bldg"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "10291",
+            "Longitude": 103.81065866068086,
+            "Latitude": 1.29215855273858,
+            "RoadName": "Alexandra Rd",
+            "Description": "Bef Dawson Rd"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "11131",
+            "Longitude": 103.80706694417339,
+            "Latitude": 1.2928849988829,
+            "RoadName": "C'wealth Ave",
+            "Description": "Queens Condo"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "11141",
+            "Longitude": 103.80582510668431,
+            "Latitude": 1.29463705145492,
+            "RoadName": "C'wealth Ave",
+            "Description": "Queenstown Stn Exit A/D"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "11151",
+            "Longitude": 103.80247592925552,
+            "Latitude": 1.29863585845076,
+            "RoadName": "C'wealth Ave",
+            "Description": "Blk 42"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "11061",
+            "Longitude": 103.80118694402536,
+            "Latitude": 1.30265777802206,
+            "RoadName": "Queensway",
+            "Description": "Opp Queensway Sec Sch"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "11071",
+            "Longitude": 103.80170944396954,
+            "Latitude": 1.30621305601609,
+            "RoadName": "Queensway",
+            "Description": "Blk 97"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "11081",
+            "Longitude": 103.80258027799627,
+            "Latitude": 1.30851972202313,
+            "RoadName": "Queensway",
+            "Description": "Viz Holland"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "11091",
+            "Longitude": 103.80367378215983,
+            "Latitude": 1.31219444050072,
+            "RoadName": "Farrer Rd",
+            "Description": "Tulip Gdn"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "11101",
+            "Longitude": 103.80596012189226,
+            "Latitude": 1.31614971080385,
+            "RoadName": "Farrer Rd",
+            "Description": "Farrer Rd Mkt"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "11111",
+            "Longitude": 103.80771866952543,
+            "Latitude": 1.31780157259006,
+            "RoadName": "Farrer Rd",
+            "Description": "Farrer Rd Stn Exit B"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "41101",
+            "Longitude": 103.80921733406133,
+            "Latitude": 1.31908138967253,
+            "RoadName": "Farrer Rd",
+            "Description": "St. Margaret's Sec Sch"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "41111",
+            "Longitude": 103.81185140010722,
+            "Latitude": 1.32081170217365,
+            "RoadName": "Farrer Rd",
+            "Description": "Lutheran Twrs"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "41029",
+            "Longitude": 103.81630566925632,
+            "Latitude": 1.32333331915013,
+            "RoadName": "Dunearn Rd",
+            "Description": "Opp Botanic Gdns Stn"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "41019",
+            "Longitude": 103.82025232877241,
+            "Latitude": 1.32267444098276,
+            "RoadName": "Dunearn Rd",
+            "Description": "Aft Kheam Hock Rd"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "40099",
+            "Longitude": 103.82344007494515,
+            "Latitude": 1.32185235205471,
+            "RoadName": "Dunearn Rd",
+            "Description": "Aft Dunkirk Ave"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "40231",
+            "Longitude": 103.82568817714628,
+            "Latitude": 1.32214806956461,
+            "RoadName": "Whitley Rd",
+            "Description": "Raffles Town Club"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "51091",
+            "Longitude": 103.83401870730577,
+            "Latitude": 1.32648060854916,
+            "RoadName": "PIE",
+            "Description": "Opp Catholic JC"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "51101",
+            "Longitude": 103.83724817699014,
+            "Latitude": 1.32753637537789,
+            "RoadName": "PIE",
+            "Description": "Old Police Academy"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "51019",
+            "Longitude": 103.84066508496021,
+            "Latitude": 1.32894248973791,
+            "RoadName": "Thomson Rd",
+            "Description": "Thomson Flyover"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "50161",
+            "Longitude": 103.84366009715464,
+            "Latitude": 1.32665700619185,
+            "RoadName": "Balestier Rd",
+            "Description": "Bef Jln Dusun"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "50171",
+            "Longitude": 103.84641000001729,
+            "Latitude": 1.32663388888255,
+            "RoadName": "Balestier Rd",
+            "Description": "Zhongshan Mall"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "50191",
+            "Longitude": 103.84902388888725,
+            "Latitude": 1.32604500002988,
+            "RoadName": "Balestier Rd",
+            "Description": "Bef Balestier Plaza"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "50201",
+            "Longitude": 103.85096555600265,
+            "Latitude": 1.32490472200696,
+            "RoadName": "Balestier Rd",
+            "Description": "Shaw Plaza"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "50211",
+            "Longitude": 103.8525670514891,
+            "Latitude": 1.32306968689436,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Balestier Pt"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "50991",
+            "Longitude": 103.85626145335385,
+            "Latitude": 1.32337986005569,
+            "RoadName": "Whampoa Dr",
+            "Description": "Blk 82"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "52129",
+            "Longitude": 103.85938111100755,
+            "Latitude": 1.32544666698102,
+            "RoadName": "Jln Bahagia",
+            "Description": "Blk 29"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "52109",
+            "Longitude": 103.8581711110213,
+            "Latitude": 1.32697666701265,
+            "RoadName": "Jln Bahagia",
+            "Description": "Bet Blks 33/34"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "52499",
+            "Longitude": 103.85537211273478,
+            "Latitude": 1.32603759751245,
+            "RoadName": "Whampoa Rd",
+            "Description": "St. Michael's Ter"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52499",
+            "Longitude": 103.85537211273478,
+            "Latitude": 1.32603759751245,
+            "RoadName": "Whampoa Rd",
+            "Description": "St. Michael's Ter"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "52451",
+            "Longitude": 103.85731928602708,
+            "Latitude": 1.3253199216809,
+            "RoadName": "Whampoa Rd",
+            "Description": "Blk 114"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "52129",
+            "Longitude": 103.85938111100755,
+            "Latitude": 1.32544666698102,
+            "RoadName": "Jln Bahagia",
+            "Description": "Blk 29"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "52109",
+            "Longitude": 103.8581711110213,
+            "Latitude": 1.32697666701265,
+            "RoadName": "Jln Bahagia",
+            "Description": "Bet Blks 33/34"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "52099",
+            "Longitude": 103.85488905075222,
+            "Latitude": 1.32652328466497,
+            "RoadName": "Kim Keat Rd",
+            "Description": "Opp NKF"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "50159",
+            "Longitude": 103.85326623915941,
+            "Latitude": 1.32456066077113,
+            "RoadName": "Kim Keat Rd",
+            "Description": "Bef Kim Keat Lane"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "50209",
+            "Longitude": 103.85158181192296,
+            "Latitude": 1.32392782849174,
+            "RoadName": "Balestier Rd",
+            "Description": "Aft Pegu Rd"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "50199",
+            "Longitude": 103.85050892832005,
+            "Latitude": 1.32496824756028,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Shaw Plaza"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "50189",
+            "Longitude": 103.84849190712964,
+            "Latitude": 1.32606229603246,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Public Man"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "50179",
+            "Longitude": 103.8464203281907,
+            "Latitude": 1.32640402126103,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Zhongshan Mall"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "50169",
+            "Longitude": 103.84420812253344,
+            "Latitude": 1.32647401158756,
+            "RoadName": "Balestier Rd",
+            "Description": "Aft Irrawaddy Rd"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "51109",
+            "Longitude": 103.8397080559738,
+            "Latitude": 1.32709277800856,
+            "RoadName": "Whitley Rd",
+            "Description": "Opp Old Police Academy"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "51099",
+            "Longitude": 103.8345342161876,
+            "Latitude": 1.325881667006,
+            "RoadName": "Whitley Rd",
+            "Description": "Catholic JC"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "40249",
+            "Longitude": 103.82735055603025,
+            "Latitude": 1.3249247219882,
+            "RoadName": "Whitley Rd",
+            "Description": "St. Joseph'S Instn"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "40239",
+            "Longitude": 103.82620193736967,
+            "Latitude": 1.32255443038995,
+            "RoadName": "Whitley Rd",
+            "Description": "Aft Tanglin CC"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "40091",
+            "Longitude": 103.82350944419166,
+            "Latitude": 1.32101807290903,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Bef Lewis Rd"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "41011",
+            "Longitude": 103.81891666700089,
+            "Latitude": 1.32235611101422,
+            "RoadName": "Bt Timah Rd",
+            "Description": "NUS Bt Timah Campus"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "41021",
+            "Longitude": 103.81554000003177,
+            "Latitude": 1.32264999998361,
+            "RoadName": "Bt Timah Rd",
+            "Description": "Botanic Gdns Stn"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "41119",
+            "Longitude": 103.81245374678939,
+            "Latitude": 1.32074221277671,
+            "RoadName": "Farrer Rd",
+            "Description": "Opp Lutheran Twrs"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "41109",
+            "Longitude": 103.81052861101583,
+            "Latitude": 1.31944666701923,
+            "RoadName": "Farrer Rd",
+            "Description": "Opp St. Margaret's Sec Sch"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "11119",
+            "Longitude": 103.80785606728587,
+            "Latitude": 1.31747833490912,
+            "RoadName": "Farrer Rd",
+            "Description": "Farrer Rd Stn Exit A"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "11109",
+            "Longitude": 103.80574305602846,
+            "Latitude": 1.31552472199926,
+            "RoadName": "Farrer Rd",
+            "Description": "Spanish Village"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "11099",
+            "Longitude": 103.80437666697586,
+            "Latitude": 1.31305333300118,
+            "RoadName": "Farrer Rd",
+            "Description": "Opp Tulip Gdn"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "11089",
+            "Longitude": 103.80334087354639,
+            "Latitude": 1.30946135492693,
+            "RoadName": "Queensway",
+            "Description": "Opp Holland Hill Lodge"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "11079",
+            "Longitude": 103.80185250000659,
+            "Latitude": 1.305441389003,
+            "RoadName": "Queensway",
+            "Description": "Opp Blk 95"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "11069",
+            "Longitude": 103.80161762237655,
+            "Latitude": 1.30236853162324,
+            "RoadName": "Queensway",
+            "Description": "Queensway Sec Sch"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "11159",
+            "Longitude": 103.80362656855579,
+            "Latitude": 1.29800440816386,
+            "RoadName": "C'wealth Ave",
+            "Description": "Aft Ch Of Our Saviour"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "11149",
+            "Longitude": 103.80596280094791,
+            "Latitude": 1.29506407111991,
+            "RoadName": "C'wealth Ave",
+            "Description": "Queenstown Stn Exit B/C"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "11139",
+            "Longitude": 103.80744694841283,
+            "Latitude": 1.2931986108138,
+            "RoadName": "C'wealth Ave",
+            "Description": "Blk 53A CP"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "10299",
+            "Longitude": 103.81146486767658,
+            "Latitude": 1.29233498466278,
+            "RoadName": "Alexandra Rd",
+            "Description": "Aft Dawson Rd"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "10289",
+            "Longitude": 103.81440639448375,
+            "Latitude": 1.2918699745378,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp SIS Bldg"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "10279",
+            "Longitude": 103.81757660887743,
+            "Latitude": 1.29151373164978,
+            "RoadName": "Alexandra Rd",
+            "Description": "Tanglin View"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "10269",
+            "Longitude": 103.82057583280772,
+            "Latitude": 1.29125331927458,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Delta Sports Hall"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "10249",
+            "Longitude": 103.82407777797806,
+            "Latitude": 1.29088138899671,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Gan Eng Seng Sec Sch"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "10239",
+            "Longitude": 103.82865,
+            "Latitude": 1.2906,
+            "RoadName": "Ganges Ave",
+            "Description": "Blk 79"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "10229",
+            "Longitude": 103.83178189529583,
+            "Latitude": 1.29052137840164,
+            "RoadName": "Ganges Ave",
+            "Description": "Opp Harvest Mans"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "06149",
+            "Longitude": 103.83411526676929,
+            "Latitude": 1.28984045728104,
+            "RoadName": "Havelock Rd",
+            "Description": "Opp Holiday Inn Atrium"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "06159",
+            "Longitude": 103.8368794036018,
+            "Latitude": 1.28909385421188,
+            "RoadName": "Havelock Rd",
+            "Description": "Opp Hotel Miramar"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "06169",
+            "Longitude": 103.83998944937589,
+            "Latitude": 1.28937078931125,
+            "RoadName": "Havelock Rd",
+            "Description": "River Pl Condo"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "06189",
+            "Longitude": 103.84329428089559,
+            "Latitude": 1.28779136477868,
+            "RoadName": "Havelock Rd",
+            "Description": "Ctrl Sq"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "05129",
+            "Longitude": 103.84634666701143,
+            "Latitude": 1.28601166699569,
+            "RoadName": "Upp Pickering St",
+            "Description": "Hong Lim Pk"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "05319",
+            "Longitude": 103.84908685850282,
+            "Latitude": 1.28449667301849,
+            "RoadName": "Church St",
+            "Description": "OCBC Ctr"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "03059",
+            "Longitude": 103.85135652579491,
+            "Latitude": 1.28097649556002,
+            "RoadName": "Raffles Quay",
+            "Description": "One Raffles Quay"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "03239",
+            "Longitude": 103.84756721372408,
+            "Latitude": 1.27464226961973,
+            "RoadName": "Shenton Way",
+            "Description": "Shenton Way Ter"
+        }
+    ]
+}

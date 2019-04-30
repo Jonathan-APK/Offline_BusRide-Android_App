@@ -1,0 +1,20 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "46269",
+            "Longitude": 103.78588499999181,
+            "Latitude": 1.44217333334596,
+            "RoadName": "Woodlands Ave 9",
+            "Description": "Republic Poly"
+        }
+    ]
+}

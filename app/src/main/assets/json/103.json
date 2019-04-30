@@ -1,0 +1,654 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "62131",
+            "Longitude": 103.87277432797597,
+            "Latitude": 1.3489790064228,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit H"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "62141",
+            "Longitude": 103.87515194713767,
+            "Latitude": 1.35149112412235,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 1"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "63141",
+            "Longitude": 103.87491322643768,
+            "Latitude": 1.35404612202219,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "63361",
+            "Longitude": 103.87383985365209,
+            "Latitude": 1.35744648841295,
+            "RoadName": "Yio Chu Kang Link",
+            "Description": "Opp S'Goon Sports Cplx"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "63181",
+            "Longitude": 103.87346222201559,
+            "Latitude": 1.36083138898279,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef St. Helier's Ave"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "63191",
+            "Longitude": 103.87403972199432,
+            "Latitude": 1.36426277802723,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Nth Ave 1"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "63201",
+            "Longitude": 103.87492029493984,
+            "Latitude": 1.36617789459924,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 133"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "63211",
+            "Longitude": 103.87573084011618,
+            "Latitude": 1.36814638231195,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 138"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "64101",
+            "Longitude": 103.87653938842564,
+            "Latitude": 1.37212119701131,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Gracehaven S Army"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "64111",
+            "Longitude": 103.87684285462154,
+            "Latitude": 1.37594188334629,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Blk 953"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "64121",
+            "Longitude": 103.87650111729936,
+            "Latitude": 1.37974139718092,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Ang Mo Kio Ave 5"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "67079",
+            "Longitude": 103.87673500001087,
+            "Latitude": 1.38256500000442,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Ch Of St. Vincent De Paul"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "67069",
+            "Longitude": 103.87514174819793,
+            "Latitude": 1.38553238093164,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Jln Selaseh"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "67059",
+            "Longitude": 103.87298447808229,
+            "Latitude": 1.38705245959807,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Seletar Hills Est"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "67049",
+            "Longitude": 103.869986495669,
+            "Latitude": 1.38773464426252,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "The Greenwich"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "67081",
+            "Longitude": 103.86883700264016,
+            "Latitude": 1.38990180700693,
+            "RoadName": "Sengkang West Rd",
+            "Description": "Aft Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "68011",
+            "Longitude": 103.8701030697383,
+            "Latitude": 1.3913169267408,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Bef Jln Kayu"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "68021",
+            "Longitude": 103.8724709608888,
+            "Latitude": 1.39317909764213,
+            "RoadName": "Jln Kayu",
+            "Description": "Opp Blk 448A"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "68031",
+            "Longitude": 103.87307298530668,
+            "Latitude": 1.39705024252478,
+            "RoadName": "Jln Kayu",
+            "Description": "Jln Kayu Shophouse"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "68051",
+            "Longitude": 103.87232065200857,
+            "Latitude": 1.39955011852479,
+            "RoadName": "Jln Kayu",
+            "Description": "Bef TPE"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "68111",
+            "Longitude": 103.87138805557646,
+            "Latitude": 1.40222194447692,
+            "RoadName": "Jln Kayu",
+            "Description": "Bef Seletar Camp G"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "68061",
+            "Longitude": 103.87206315994297,
+            "Latitude": 1.40719212135322,
+            "RoadName": "Piccadilly",
+            "Description": "Sing-China Bldg"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "68091",
+            "Longitude": 103.8711692911676,
+            "Latitude": 1.40885699822728,
+            "RoadName": "Seletar Aerospace Dr",
+            "Description": "Aft Baker St"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "68081",
+            "Longitude": 103.86681241814273,
+            "Latitude": 1.40559323576727,
+            "RoadName": "Seletar Aerospace Dr",
+            "Description": "Bef Seletar A'Space Rise"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "68101",
+            "Longitude": 103.86344710129676,
+            "Latitude": 1.40378584520974,
+            "RoadName": "Seletar Aerospace Dr",
+            "Description": "Rolls Royce Pte Ltd"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "68121",
+            "Longitude": 103.85999518683653,
+            "Latitude": 1.40580853768965,
+            "RoadName": "Seletar Aerospace Dr",
+            "Description": "Bef West Camp Rd"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "68161",
+            "Longitude": 103.86179481507453,
+            "Latitude": 1.41076903489058,
+            "RoadName": "West Camp Rd",
+            "Description": "Aft Seletar A'Space Lane"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "68131",
+            "Longitude": 103.86188939696589,
+            "Latitude": 1.41460695862945,
+            "RoadName": "West Camp Rd",
+            "Description": "Opp Youth Flying Club"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "68141",
+            "Longitude": 103.86347697141191,
+            "Latitude": 1.42043301652737,
+            "RoadName": "West Camp Rd",
+            "Description": "Opp Seletar Airport"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "68151",
+            "Longitude": 103.86619112165944,
+            "Latitude": 1.42333311184046,
+            "RoadName": "West Camp Rd",
+            "Description": "BEF SHELL AVIATION"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "68171",
+            "Longitude": 103.85535247743789,
+            "Latitude": 1.42704251041342,
+            "RoadName": "Yishun Ave 1",
+            "Description": "Bef Yishun Ave 8"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "59461",
+            "Longitude": 103.84695938114267,
+            "Latitude": 1.4233562505923,
+            "RoadName": "Yishun Ave 11",
+            "Description": "Opp Blk 419"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "59459",
+            "Longitude": 103.84259503772017,
+            "Latitude": 1.42637371131971,
+            "RoadName": "Yishun Ave 11",
+            "Description": "Opp Huamin Pr Sch"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "59709",
+            "Longitude": 103.84064406907125,
+            "Latitude": 1.42599217250432,
+            "RoadName": "Yishun Ctrl",
+            "Description": "Bef SAFRA Yishun"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "59349",
+            "Longitude": 103.83882425770956,
+            "Latitude": 1.42345056032348,
+            "RoadName": "Yishun Ctrl",
+            "Description": "Opp Khoo Teck Puat Hosp"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "59061",
+            "Longitude": 103.83495820649408,
+            "Latitude": 1.42556399229911,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 763"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "59671",
+            "Longitude": 103.83518718969762,
+            "Latitude": 1.42777620949098,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Bef Yishun Stn"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "59073",
+            "Longitude": 103.8354631,
+            "Latitude": 1.428686944,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Stn"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "59069",
+            "Longitude": 103.83536957259517,
+            "Latitude": 1.42657294826877,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Blk 757"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "59341",
+            "Longitude": 103.83864456915899,
+            "Latitude": 1.42367163179884,
+            "RoadName": "Yishun Ctrl",
+            "Description": "Khoo Teck Puat Hosp"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "59701",
+            "Longitude": 103.84020205228329,
+            "Latitude": 1.42548192920513,
+            "RoadName": "Yishun Ctrl",
+            "Description": "Opp SAFRA Yishun"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "59651",
+            "Longitude": 103.84169418862261,
+            "Latitude": 1.42711698762084,
+            "RoadName": "Yishun Ave 11",
+            "Description": "Blk 348B"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "59451",
+            "Longitude": 103.84360741617542,
+            "Latitude": 1.42569613726662,
+            "RoadName": "Yishun Ave 11",
+            "Description": "Bet Blks 349/350"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "59469",
+            "Longitude": 103.84747960044407,
+            "Latitude": 1.42357927683882,
+            "RoadName": "Yishun Ave 11",
+            "Description": "Blk 419"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "68179",
+            "Longitude": 103.85550329736579,
+            "Latitude": 1.42698397142724,
+            "RoadName": "Piccadilly",
+            "Description": "Aft Yishun Ave 8"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "68159",
+            "Longitude": 103.86626907370781,
+            "Latitude": 1.42306890210566,
+            "RoadName": "West Camp Rd",
+            "Description": "AFT SHELL AVIATION"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "68149",
+            "Longitude": 103.86279700000911,
+            "Latitude": 1.41891604556531,
+            "RoadName": "West Camp Rd",
+            "Description": "Seletar Airport"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "68139",
+            "Longitude": 103.86207999648197,
+            "Latitude": 1.4144389729383,
+            "RoadName": "West Camp Rd",
+            "Description": "Youth Flying Club"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "68169",
+            "Longitude": 103.86188409763393,
+            "Latitude": 1.4107138403801,
+            "RoadName": "West Camp Rd",
+            "Description": "Bef Seletar A'Space Lane"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "68129",
+            "Longitude": 103.86016462232045,
+            "Latitude": 1.40606522969086,
+            "RoadName": "Seletar Aerospace Dr",
+            "Description": "Aft West Camp Rd"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "68109",
+            "Longitude": 103.86349233396736,
+            "Latitude": 1.40400332581506,
+            "RoadName": "Seletar Aerospace Dr",
+            "Description": "Opp Rolls Royce Pte Ltd"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "68089",
+            "Longitude": 103.86666745163518,
+            "Latitude": 1.40570196065228,
+            "RoadName": "Seletar Aerospace Dr",
+            "Description": "Aft Seletar A'Space Rise"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "68099",
+            "Longitude": 103.87095311541565,
+            "Latitude": 1.40885009957996,
+            "RoadName": "Seletar Aerospace Dr",
+            "Description": "Bef Baker St"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "68069",
+            "Longitude": 103.87228032413654,
+            "Latitude": 1.40757217631739,
+            "RoadName": "Piccadilly",
+            "Description": "Opp Sing-China Bldg"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "68119",
+            "Longitude": 103.87194871751426,
+            "Latitude": 1.40231306085319,
+            "RoadName": "Jln Kayu",
+            "Description": "Aft Seletar Camp G"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "68059",
+            "Longitude": 103.87243527803194,
+            "Latitude": 1.39978638898633,
+            "RoadName": "Jln Kayu",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "68049",
+            "Longitude": 103.8729604565282,
+            "Latitude": 1.39851660309414,
+            "RoadName": "Jln Kayu",
+            "Description": "Opp Jln Tari Lilin"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "68039",
+            "Longitude": 103.87311388899468,
+            "Latitude": 1.39652972197871,
+            "RoadName": "Jln Kayu",
+            "Description": "Aft Abundant Grace Ch"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "68029",
+            "Longitude": 103.87264955115819,
+            "Latitude": 1.39312162118162,
+            "RoadName": "Jln Kayu",
+            "Description": "Blk 448A"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "68019",
+            "Longitude": 103.87060612962611,
+            "Latitude": 1.39106694073297,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Aft Jln Kayu"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "67089",
+            "Longitude": 103.86916019529639,
+            "Latitude": 1.39029406445756,
+            "RoadName": "Sengkang West Rd",
+            "Description": "Bef Fernvale Lane"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "67041",
+            "Longitude": 103.87037184486725,
+            "Latitude": 1.38802587904105,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp The Greenwich"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "67051",
+            "Longitude": 103.87302341120069,
+            "Latitude": 1.3873944756683,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Seletar Hills Est"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "67061",
+            "Longitude": 103.8753413890144,
+            "Latitude": 1.38580333301583,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Jln Selaseh"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "67071",
+            "Longitude": 103.87700083300696,
+            "Latitude": 1.38224166699882,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Gerald Dr"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "64129",
+            "Longitude": 103.87686804999332,
+            "Latitude": 1.37995970749936,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 988B"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "64119",
+            "Longitude": 103.87713655364794,
+            "Latitude": 1.37679164872283,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 953"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "64109",
+            "Longitude": 103.87690900449827,
+            "Latitude": 1.37202330151763,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Gracehaven S Army"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "63219",
+            "Longitude": 103.8762710483349,
+            "Latitude": 1.36856637012739,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Blk 139"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "63209",
+            "Longitude": 103.87522122785421,
+            "Latitude": 1.36605804817414,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Toho Green"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "63199",
+            "Longitude": 103.87383805598819,
+            "Latitude": 1.36327972197547,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Nth Ave 1"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "63189",
+            "Longitude": 103.87363460960414,
+            "Latitude": 1.36133997852966,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Gdn Way"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "63179",
+            "Longitude": 103.87393532776181,
+            "Latitude": 1.35999305129204,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Tai Seng Chr Ch"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "63369",
+            "Longitude": 103.87410388898788,
+            "Latitude": 1.35663166702793,
+            "RoadName": "Yio Chu Kang Link",
+            "Description": "Serangoon Sports Cplx"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "63149",
+            "Longitude": 103.87452555599006,
+            "Latitude": 1.35489972198729,
+            "RoadName": "Boundary Rd",
+            "Description": "Serangoon Stadium"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "62149",
+            "Longitude": 103.87595332312252,
+            "Latitude": 1.35169173270668,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Paya Lebar Camp"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "62189",
+            "Longitude": 103.87470953705504,
+            "Latitude": 1.35056391832311,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit D/Blk 416"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int"
+        }
+    ]
+}

@@ -1,0 +1,388 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "65341",
+            "Longitude": 103.9009230492748,
+            "Latitude": 1.40194694990354,
+            "RoadName": "Punggol Field",
+            "Description": "Opp Blk 272C"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "65331",
+            "Longitude": 103.89851804993967,
+            "Latitude": 1.4028650002354,
+            "RoadName": "Punggol Field",
+            "Description": "Opp Blk 268D"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "65431",
+            "Longitude": 103.89673562171807,
+            "Latitude": 1.40238938083661,
+            "RoadName": "Punggol Way",
+            "Description": "Twin Waterfalls"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "67591",
+            "Longitude": 103.8953647897483,
+            "Latitude": 1.39790048032037,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Blk 286B"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "67411",
+            "Longitude": 103.89436833778728,
+            "Latitude": 1.39495624396821,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Blk 261"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "67401",
+            "Longitude": 103.89531738456282,
+            "Latitude": 1.39290842289238,
+            "RoadName": "Sengkang East Way",
+            "Description": "Opp Sengkang Stn/Blk 260A"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "67101",
+            "Longitude": 103.89956953538392,
+            "Latitude": 1.39143144034973,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 250A"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "67111",
+            "Longitude": 103.90237246307768,
+            "Latitude": 1.39105369405739,
+            "RoadName": "Sengkang East Way",
+            "Description": "Chij St. Joseph'S Convent"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "67121",
+            "Longitude": 103.90518999989366,
+            "Latitude": 1.38949805550873,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 142A"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "67131",
+            "Longitude": 103.90527388892869,
+            "Latitude": 1.38767805568948,
+            "RoadName": "Rivervale Dr",
+            "Description": "Bakau Stn/Blk 122F"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "67141",
+            "Longitude": 103.90353194446361,
+            "Latitude": 1.38602111109914,
+            "RoadName": "Rivervale Dr",
+            "Description": "Blk 119D"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "67151",
+            "Longitude": 103.90215499999188,
+            "Latitude": 1.38353305558266,
+            "RoadName": "Rivervale Dr",
+            "Description": "Kangkar Stn Exit B"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "67161",
+            "Longitude": 103.89926833301193,
+            "Latitude": 1.38212499997742,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Opp Blk 101"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "65019",
+            "Longitude": 103.89749237919405,
+            "Latitude": 1.38151407829697,
+            "RoadName": "Punggol Rd",
+            "Description": "The Rivervale"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "64029",
+            "Longitude": 103.89688283812272,
+            "Latitude": 1.37781617357511,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Blk 458"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "64079",
+            "Longitude": 103.89774777801168,
+            "Latitude": 1.37500833299826,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Punggol Pk"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "64059",
+            "Longitude": 103.89837470452339,
+            "Latitude": 1.37249135705281,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 355"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "64049",
+            "Longitude": 103.89603248614272,
+            "Latitude": 1.3703713899857,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp The Midtown"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "64019",
+            "Longitude": 103.89393838248249,
+            "Latitude": 1.368308353364,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "63069",
+            "Longitude": 103.89194715850095,
+            "Latitude": 1.36637999879956,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 25"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "63059",
+            "Longitude": 103.88984149586426,
+            "Latitude": 1.36437667280221,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Serangoon JC"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "63049",
+            "Longitude": 103.88752277779692,
+            "Latitude": 1.36219166668854,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Glad Tidings Ch"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "63039",
+            "Longitude": 103.88538416663954,
+            "Latitude": 1.36026000003341,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit C"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "63221",
+            "Longitude": 103.8855063915276,
+            "Latitude": 1.35799327947024,
+            "RoadName": "Hougang St 21",
+            "Description": "KOVAN HUB"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "63231",
+            "Longitude": 103.88763070107527,
+            "Latitude": 1.35901223241231,
+            "RoadName": "Hougang St 21",
+            "Description": "Bet Blks 210/211"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "63041",
+            "Longitude": 103.88754805602413,
+            "Latitude": 1.36259166703136,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Glad Tidings Ch"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "63051",
+            "Longitude": 103.8891427848695,
+            "Latitude": 1.36415166798646,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Serangoon JC"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "63061",
+            "Longitude": 103.89129134480065,
+            "Latitude": 1.36623834226067,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 25"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "64011",
+            "Longitude": 103.8927594439902,
+            "Latitude": 1.36756333302324,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Naung Ct"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "64041",
+            "Longitude": 103.89535999996711,
+            "Latitude": 1.37016500002901,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "The Midtown"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "64051",
+            "Longitude": 103.89777362456783,
+            "Latitude": 1.37239666924933,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 465A"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "64071",
+            "Longitude": 103.89724811886428,
+            "Latitude": 1.37514056376267,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Opp Punggol Pk"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "64021",
+            "Longitude": 103.89663845377325,
+            "Latitude": 1.37788950153352,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 458"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "65011",
+            "Longitude": 103.89720951783346,
+            "Latitude": 1.38159696830765,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp The Rivervale"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "67169",
+            "Longitude": 103.89922222337448,
+            "Latitude": 1.38253470078472,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "67159",
+            "Longitude": 103.90225602044251,
+            "Latitude": 1.38436793782529,
+            "RoadName": "Rivervale Dr",
+            "Description": "Kangkar Stn Exit A"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "67139",
+            "Longitude": 103.90417577185805,
+            "Latitude": 1.38715714684677,
+            "RoadName": "Rivervale Dr",
+            "Description": "Nth Spring Pr Sch"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "67129",
+            "Longitude": 103.90498892005203,
+            "Latitude": 1.38936844113699,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 137"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "67119",
+            "Longitude": 103.90323582065614,
+            "Latitude": 1.39050824371994,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 128"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "67109",
+            "Longitude": 103.89998669813552,
+            "Latitude": 1.39102885574104,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 235"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "67409",
+            "Longitude": 103.89606816606354,
+            "Latitude": 1.3923391568303,
+            "RoadName": "Sengkang East Way",
+            "Description": "Sengkang Stn"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "67419",
+            "Longitude": 103.89383161169673,
+            "Latitude": 1.39443204166804,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Opp Blk 261"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "67599",
+            "Longitude": 103.89490664468322,
+            "Latitude": 1.3972004371065,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Opp Blk 293D"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "65439",
+            "Longitude": 103.89631809709375,
+            "Latitude": 1.40172529138051,
+            "RoadName": "Punggol Way",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "65339",
+            "Longitude": 103.8980438895579,
+            "Latitude": 1.4031330662473,
+            "RoadName": "Punggol Field",
+            "Description": "Blk 268C"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "65349",
+            "Longitude": 103.90057499993252,
+            "Latitude": 1.40217805576782,
+            "RoadName": "Punggol Field",
+            "Description": "Blk 272C"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (Last Stop)"
+        }
+    ]
+}

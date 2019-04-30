@@ -1,0 +1,686 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "52079",
+            "Longitude": 103.84382885735747,
+            "Latitude": 1.32931477158443,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Opp Trellis Twrs"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "50161",
+            "Longitude": 103.84366009715464,
+            "Latitude": 1.32665700619185,
+            "RoadName": "Balestier Rd",
+            "Description": "Bef Jln Dusun"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "50171",
+            "Longitude": 103.84641000001729,
+            "Latitude": 1.32663388888255,
+            "RoadName": "Balestier Rd",
+            "Description": "Zhongshan Mall"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "52401",
+            "Longitude": 103.85082868868597,
+            "Latitude": 1.32830186081857,
+            "RoadName": "Jln Rajah",
+            "Description": "Blk 102"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "52411",
+            "Longitude": 103.85392666697314,
+            "Latitude": 1.32818666702477,
+            "RoadName": "Jln Rajah",
+            "Description": "Blk 105"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "52451",
+            "Longitude": 103.85731928602708,
+            "Latitude": 1.3253199216809,
+            "RoadName": "Whampoa Rd",
+            "Description": "Blk 114"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "52129",
+            "Longitude": 103.85938111100755,
+            "Latitude": 1.32544666698102,
+            "RoadName": "Jln Bahagia",
+            "Description": "Blk 29"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "52109",
+            "Longitude": 103.8581711110213,
+            "Latitude": 1.32697666701265,
+            "RoadName": "Jln Bahagia",
+            "Description": "Bet Blks 33/34"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "52099",
+            "Longitude": 103.85488905075222,
+            "Latitude": 1.32652328466497,
+            "RoadName": "Kim Keat Rd",
+            "Description": "Opp NKF"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "50159",
+            "Longitude": 103.85326623915941,
+            "Latitude": 1.32456066077113,
+            "RoadName": "Kim Keat Rd",
+            "Description": "Bef Kim Keat Lane"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "50211",
+            "Longitude": 103.8525670514891,
+            "Latitude": 1.32306968689436,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Balestier Pt"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "50221",
+            "Longitude": 103.8530377626759,
+            "Latitude": 1.32143805851672,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp Balestier Twrs"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "50231",
+            "Longitude": 103.85492583301323,
+            "Latitude": 1.31872472201456,
+            "RoadName": "Balestier Rd",
+            "Description": "Northlight Sch"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "50241",
+            "Longitude": 103.8572754498738,
+            "Latitude": 1.31724802771626,
+            "RoadName": "Balestier Rd",
+            "Description": "Opp S'pore Khalsa Assn"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "60199",
+            "Longitude": 103.8612788890282,
+            "Latitude": 1.3179530560114,
+            "RoadName": "Boon Keng Rd",
+            "Description": "Boon Keng Stn/Blk 22"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "60099",
+            "Longitude": 103.86086821464755,
+            "Latitude": 1.31456420794151,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Bef Lavender St"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "07329",
+            "Longitude": 103.85989088288474,
+            "Latitude": 1.31284472583438,
+            "RoadName": "Jln Besar",
+            "Description": "Hoa Nam Bldg"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "07319",
+            "Longitude": 103.85870666696984,
+            "Latitude": 1.31038833299803,
+            "RoadName": "Jln Besar",
+            "Description": "Aft Allenby Rd"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "07419",
+            "Longitude": 103.8561630249311,
+            "Latitude": 1.30653024120879,
+            "RoadName": "Jln Besar",
+            "Description": "Opp Veerasamy Rd"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "07529",
+            "Longitude": 103.85501564257024,
+            "Latitude": 1.30431906266143,
+            "RoadName": "Jln Besar",
+            "Description": "JLN BESAR STN EXIT A"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "07517",
+            "Longitude": 103.85252564651103,
+            "Latitude": 1.30138184852118,
+            "RoadName": "Bencoolen St",
+            "Description": "IBIS S'PORE ON BENCOOLEN"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "04029",
+            "Longitude": 103.85092666701239,
+            "Latitude": 1.29948166696821,
+            "RoadName": "Bencoolen St",
+            "Description": "BEF BENCOOLEN STN EXIT A"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "08041",
+            "Longitude": 103.84780636909545,
+            "Latitude": 1.29811014243867,
+            "RoadName": "Orchard Rd",
+            "Description": "YMCA"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "08019",
+            "Longitude": 103.84407009228418,
+            "Latitude": 1.29624633745957,
+            "RoadName": "Clemenceau Ave",
+            "Description": "Aft Haw Par Glass Twr"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "13109",
+            "Longitude": 103.84272416702719,
+            "Latitude": 1.29350944398488,
+            "RoadName": "River Valley Rd",
+            "Description": "UE Sq"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "13099",
+            "Longitude": 103.83961272081199,
+            "Latitude": 1.29578024244395,
+            "RoadName": "River Valley Rd",
+            "Description": "BEF KIM YAM RD"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "13089",
+            "Longitude": 103.83604111103381,
+            "Latitude": 1.29575111096804,
+            "RoadName": "River Valley Rd",
+            "Description": "Opp St. Thomas Wk"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "13079",
+            "Longitude": 103.83255861099337,
+            "Latitude": 1.29616972198544,
+            "RoadName": "River Valley Rd",
+            "Description": "Aft ERC Inst"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "13069",
+            "Longitude": 103.82880805602646,
+            "Latitude": 1.29488000002792,
+            "RoadName": "River Valley Rd",
+            "Description": "RV RESIDENCES"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "13059",
+            "Longitude": 103.82663492676832,
+            "Latitude": 1.29328273601932,
+            "RoadName": "River Valley Rd",
+            "Description": "Valley Pt"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "10519",
+            "Longitude": 103.82610949356565,
+            "Latitude": 1.29172303079906,
+            "RoadName": "Delta Rd",
+            "Description": "Blk 4"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "10241",
+            "Longitude": 103.82362326803131,
+            "Latitude": 1.2906166672167,
+            "RoadName": "Alexandra Rd",
+            "Description": "Gan Eng Seng Sec Sch"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "10261",
+            "Longitude": 103.82047232884216,
+            "Latitude": 1.29090335842692,
+            "RoadName": "Alexandra Rd",
+            "Description": "Delta Sports Hall"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "10271",
+            "Longitude": 103.81757666701353,
+            "Latitude": 1.29115999997607,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Tanglin View"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "10281",
+            "Longitude": 103.81445166697797,
+            "Latitude": 1.29153833298318,
+            "RoadName": "Alexandra Rd",
+            "Description": "SIS Bldg"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "10291",
+            "Longitude": 103.81065866068086,
+            "Latitude": 1.29215855273858,
+            "RoadName": "Alexandra Rd",
+            "Description": "Bef Dawson Rd"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "10219",
+            "Longitude": 103.81191424883255,
+            "Latitude": 1.29089526651849,
+            "RoadName": "Leng Kee Rd",
+            "Description": "Opp Motor Image"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "10421",
+            "Longitude": 103.81503540991777,
+            "Latitude": 1.2889706156154,
+            "RoadName": "Lengkok Bahru",
+            "Description": "Blk 63B"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "10431",
+            "Longitude": 103.81399869917512,
+            "Latitude": 1.28708384358883,
+            "RoadName": "Lengkok Bahru",
+            "Description": "ENABLING VILLAGE"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "10441",
+            "Longitude": 103.8116061687213,
+            "Latitude": 1.28656898930199,
+            "RoadName": "Lengkok Bahru",
+            "Description": "Opp Blk 44"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "10119",
+            "Longitude": 103.81122515087834,
+            "Latitude": 1.28598009010704,
+            "RoadName": "Jln Bt Merah",
+            "Description": "Opp Pacific Tech Ctr"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "10651",
+            "Longitude": 103.81547665017668,
+            "Latitude": 1.28329993019059,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Blk 161"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "10659",
+            "Longitude": 103.81472833301791,
+            "Latitude": 1.28362333298689,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Blk 1003"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "10101",
+            "Longitude": 103.81374366011399,
+            "Latitude": 1.28502568134889,
+            "RoadName": "Jln Bt Merah",
+            "Description": "OPP BT MERAH SEC SCH"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "10449",
+            "Longitude": 103.81195378046979,
+            "Latitude": 1.28666552495266,
+            "RoadName": "Lengkok Bahru",
+            "Description": "Blk 44"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "10439",
+            "Longitude": 103.81418936580334,
+            "Latitude": 1.28747956947939,
+            "RoadName": "Lengkok Bahru",
+            "Description": "OPP ENABLING VILLAGE"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "10429",
+            "Longitude": 103.81404805422201,
+            "Latitude": 1.2892779060127,
+            "RoadName": "Lengkok Bahru",
+            "Description": "Blk 54"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "10211",
+            "Longitude": 103.81144166700754,
+            "Latitude": 1.29075499997303,
+            "RoadName": "Leng Kee Rd",
+            "Description": "Porsche Ctr S'pore"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "10299",
+            "Longitude": 103.81146486767658,
+            "Latitude": 1.29233498466278,
+            "RoadName": "Alexandra Rd",
+            "Description": "Aft Dawson Rd"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "10289",
+            "Longitude": 103.81440639448375,
+            "Latitude": 1.2918699745378,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp SIS Bldg"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "10279",
+            "Longitude": 103.81757660887743,
+            "Latitude": 1.29151373164978,
+            "RoadName": "Alexandra Rd",
+            "Description": "Tanglin View"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "10269",
+            "Longitude": 103.82057583280772,
+            "Latitude": 1.29125331927458,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Delta Sports Hall"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "10249",
+            "Longitude": 103.82407777797806,
+            "Latitude": 1.29088138899671,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Gan Eng Seng Sec Sch"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "13051",
+            "Longitude": 103.8263656209055,
+            "Latitude": 1.29334305906356,
+            "RoadName": "River Valley Rd",
+            "Description": "Opp Valley Pt"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "13062",
+            "Longitude": 103.82852554324063,
+            "Latitude": 1.2948495492402,
+            "RoadName": "River Valley Rd",
+            "Description": "STELLAR RV"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "13071",
+            "Longitude": 103.8322512944371,
+            "Latitude": 1.29636199316259,
+            "RoadName": "River Valley Rd",
+            "Description": "Opp ERC Inst"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "13081",
+            "Longitude": 103.83624277798825,
+            "Latitude": 1.2959113890106,
+            "RoadName": "River Valley Rd",
+            "Description": "St. Thomas Wk"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "13091",
+            "Longitude": 103.83937805601917,
+            "Latitude": 1.29593138900491,
+            "RoadName": "River Valley Rd",
+            "Description": "AFT KIM YAM RD"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "13101",
+            "Longitude": 103.84231209757696,
+            "Latitude": 1.29414162678811,
+            "RoadName": "River Valley Rd",
+            "Description": "Opp Mohd Sultan Rd"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "04311",
+            "Longitude": 103.8439214229312,
+            "Latitude": 1.29464575337351,
+            "RoadName": "Clemenceau Ave",
+            "Description": "Aft River Valley Rd"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "08011",
+            "Longitude": 103.84361028672502,
+            "Latitude": 1.29706985017362,
+            "RoadName": "Clemenceau Ave",
+            "Description": "Opp Haw Par Glass Twr"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "08058",
+            "Longitude": 103.84654115271174,
+            "Latitude": 1.2989583431631,
+            "RoadName": "Orchard Rd",
+            "Description": "Aft Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "08079",
+            "Longitude": 103.84910329217985,
+            "Latitude": 1.29921444445586,
+            "RoadName": "Prinsep St",
+            "Description": "Sch of the Arts"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "07011",
+            "Longitude": 103.8498101874305,
+            "Latitude": 1.30099699058522,
+            "RoadName": "Selegie Rd",
+            "Description": "Peace Ctr"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "07021",
+            "Longitude": 103.84995776766847,
+            "Latitude": 1.30324521574524,
+            "RoadName": "Selegie Rd",
+            "Description": "Selegie Ctr"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "07031",
+            "Longitude": 103.85120583303191,
+            "Latitude": 1.30572083298412,
+            "RoadName": "S'goon Rd",
+            "Description": "Tekka Ctr"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "07111",
+            "Longitude": 103.8531751994068,
+            "Latitude": 1.30879366465919,
+            "RoadName": "S'goon Rd",
+            "Description": "Broadway Hotel"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "07211",
+            "Longitude": 103.8563561439714,
+            "Latitude": 1.31313747728456,
+            "RoadName": "S'goon Rd",
+            "Description": "Sri Srinivasa Perumal Tp"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "07221",
+            "Longitude": 103.85788270432104,
+            "Latitude": 1.31503278656775,
+            "RoadName": "S'goon Rd",
+            "Description": "Sri Vadapathira K Tp"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "50249",
+            "Longitude": 103.85671387960308,
+            "Latitude": 1.31728239717191,
+            "RoadName": "Balestier Rd",
+            "Description": "S'pore Khalsa Assn"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "50239",
+            "Longitude": 103.85509172316276,
+            "Latitude": 1.31831836156155,
+            "RoadName": "Balestier Rd",
+            "Description": "S'pore Indian Assn"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "50229",
+            "Longitude": 103.85283489560972,
+            "Latitude": 1.32095764720403,
+            "RoadName": "Balestier Rd",
+            "Description": "Balestier Twrs"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "50991",
+            "Longitude": 103.85626145335385,
+            "Latitude": 1.32337986005569,
+            "RoadName": "Whampoa Dr",
+            "Description": "Blk 82"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "52129",
+            "Longitude": 103.85938111100755,
+            "Latitude": 1.32544666698102,
+            "RoadName": "Jln Bahagia",
+            "Description": "Blk 29"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "52109",
+            "Longitude": 103.8581711110213,
+            "Latitude": 1.32697666701265,
+            "RoadName": "Jln Bahagia",
+            "Description": "Bet Blks 33/34"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "52419",
+            "Longitude": 103.85391750002599,
+            "Latitude": 1.32803305599299,
+            "RoadName": "Jln Rajah",
+            "Description": "Curtin S'pore"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "52409",
+            "Longitude": 103.85105250762084,
+            "Latitude": 1.32801971174787,
+            "RoadName": "Jln Rajah",
+            "Description": "Opp Blk 102"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "52479",
+            "Longitude": 103.84578619081431,
+            "Latitude": 1.32749617656635,
+            "RoadName": "Ah Hood Rd",
+            "Description": "Opp EASB"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "50169",
+            "Longitude": 103.84420812253344,
+            "Latitude": 1.32647401158756,
+            "RoadName": "Balestier Rd",
+            "Description": "Aft Irrawaddy Rd"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "51011",
+            "Longitude": 103.84095472172798,
+            "Latitude": 1.32770447989161,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp Tan Tong Meng Twr"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "52071",
+            "Longitude": 103.84381843224321,
+            "Latitude": 1.32991416932901,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Trellis Twrs"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int"
+        }
+    ]
+}

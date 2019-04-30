@@ -1,0 +1,148 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "55101",
+            "Longitude": 103.85967918415774,
+            "Latitude": 1.3909401415525,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Serenity Pk"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "67011",
+            "Longitude": 103.86263251348234,
+            "Latitude": 1.39009747909366,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Begonia Rd"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "67021",
+            "Longitude": 103.86548666703128,
+            "Latitude": 1.389306388988,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Dedap Rd"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "67041",
+            "Longitude": 103.87037184486725,
+            "Latitude": 1.38802587904105,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp The Greenwich"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "67051",
+            "Longitude": 103.87302341120069,
+            "Latitude": 1.3873944756683,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Seletar Hills Est"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "67061",
+            "Longitude": 103.8753413890144,
+            "Latitude": 1.38580333301583,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Jln Selaseh"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "67071",
+            "Longitude": 103.87700083300696,
+            "Latitude": 1.38224166699882,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Gerald Dr"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "64129",
+            "Longitude": 103.87686804999332,
+            "Latitude": 1.37995970749936,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 988B"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "64119",
+            "Longitude": 103.87713655364794,
+            "Latitude": 1.37679164872283,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 953"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "64109",
+            "Longitude": 103.87690900449827,
+            "Latitude": 1.37202330151763,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Gracehaven S Army"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "63219",
+            "Longitude": 103.8762710483349,
+            "Latitude": 1.36856637012739,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Blk 139"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "63209",
+            "Longitude": 103.87522122785421,
+            "Latitude": 1.36605804817414,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Toho Green"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "63199",
+            "Longitude": 103.87383805598819,
+            "Latitude": 1.36327972197547,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Nth Ave 1"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "63189",
+            "Longitude": 103.87363460960414,
+            "Latitude": 1.36133997852966,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Gdn Way"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "63179",
+            "Longitude": 103.87393532776181,
+            "Latitude": 1.35999305129204,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Tai Seng Chr Ch"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "63369",
+            "Longitude": 103.87410388898788,
+            "Latitude": 1.35663166702793,
+            "RoadName": "Yio Chu Kang Link",
+            "Description": "Serangoon Sports Cplx"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "66379",
+            "Longitude": 103.87285801649963,
+            "Latitude": 1.35339155862192,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "66359",
+            "Longitude": 103.87328604946424,
+            "Latitude": 1.35080698547823,
+            "RoadName": "S'goon Ctrl",
+            "Description": "S'Goon Stn Exit C/Blk 201"
+        }
+    ]
+}

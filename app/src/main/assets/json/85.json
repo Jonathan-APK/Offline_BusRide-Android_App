@@ -1,0 +1,502 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "65221",
+            "Longitude": 103.90480763848863,
+            "Latitude": 1.40402842836975,
+            "RoadName": "Punggol Ctrl",
+            "Description": "BLK 303D"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "65281",
+            "Longitude": 103.90783309940194,
+            "Latitude": 1.40201165055481,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Punggol Sec/Blk 601B"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "65271",
+            "Longitude": 103.91064287603247,
+            "Latitude": 1.39995544080394,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Opp Blk 188"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "65261",
+            "Longitude": 103.91478844205221,
+            "Latitude": 1.39695155432601,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Blk 649"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "65239",
+            "Longitude": 103.91603484855351,
+            "Latitude": 1.39410461413829,
+            "RoadName": "Punggol East",
+            "Description": "Riviera Stn Exit A"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "65529",
+            "Longitude": 103.914103333333,
+            "Latitude": 1.39161433333333,
+            "RoadName": "Punggol East",
+            "Description": "Aft Punggol Field"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "67529",
+            "Longitude": 103.90933965001662,
+            "Latitude": 1.38730477108595,
+            "RoadName": "Sengkang East Dr",
+            "Description": "Opp Blk 157A"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "67539",
+            "Longitude": 103.90661294770753,
+            "Latitude": 1.38772020397705,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 122C"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "67131",
+            "Longitude": 103.90527388892869,
+            "Latitude": 1.38767805568948,
+            "RoadName": "Rivervale Dr",
+            "Description": "Bakau Stn/Blk 122F"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "67141",
+            "Longitude": 103.90353194446361,
+            "Latitude": 1.38602111109914,
+            "RoadName": "Rivervale Dr",
+            "Description": "Blk 119D"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "67179",
+            "Longitude": 103.8979957397525,
+            "Latitude": 1.38741393896265,
+            "RoadName": "Compassvale Dr",
+            "Description": "Opp Blk 225A"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "67349",
+            "Longitude": 103.8953369095349,
+            "Latitude": 1.38837810902521,
+            "RoadName": "Compassvale Dr",
+            "Description": "Blk 204 CP"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "67449",
+            "Longitude": 103.89307115004729,
+            "Latitude": 1.39203289077574,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Blk 323B"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "67399",
+            "Longitude": 103.89167010585574,
+            "Latitude": 1.39385005995777,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 325 CP"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "67389",
+            "Longitude": 103.88869095686496,
+            "Latitude": 1.39424377787036,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 317B"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "67549",
+            "Longitude": 103.88618230819876,
+            "Latitude": 1.39454660425441,
+            "RoadName": "Sengkang East Way",
+            "Description": "Opp Hockey Stadium"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "67559",
+            "Longitude": 103.88094503218825,
+            "Latitude": 1.3954939065925,
+            "RoadName": "Sengkang West Way",
+            "Description": "Opp Blk 471A"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "67569",
+            "Longitude": 103.87700000087196,
+            "Latitude": 1.39504999232889,
+            "RoadName": "Sengkang West Way",
+            "Description": "Blk 432A"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "67579",
+            "Longitude": 103.8734686374815,
+            "Latitude": 1.39483619700068,
+            "RoadName": "Sengkang West Way",
+            "Description": "Bef Jln Kayu"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "68031",
+            "Longitude": 103.87307298530668,
+            "Latitude": 1.39705024252478,
+            "RoadName": "Jln Kayu",
+            "Description": "Jln Kayu Shophouse"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "68051",
+            "Longitude": 103.87232065200857,
+            "Latitude": 1.39955011852479,
+            "RoadName": "Jln Kayu",
+            "Description": "Bef TPE"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "55281",
+            "Longitude": 103.8288169,
+            "Latitude": 1.398135,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft SLE"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "59011",
+            "Longitude": 103.82737908252,
+            "Latitude": 1.40205059877403,
+            "RoadName": "Lentor Ave",
+            "Description": "Bef Sg Seletar Bridge"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "59021",
+            "Longitude": 103.828825,
+            "Latitude": 1.407988889,
+            "RoadName": "Lentor Ave",
+            "Description": "Bef Yishun Ave 1"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "59031",
+            "Longitude": 103.83083958669692,
+            "Latitude": 1.41277747172151,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Sports Hall"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "59041",
+            "Longitude": 103.832591612732,
+            "Latitude": 1.41625420109094,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Bef Khatib Stn"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "59051",
+            "Longitude": 103.83429674432547,
+            "Latitude": 1.41968270185637,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 790"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "59061",
+            "Longitude": 103.83495820649408,
+            "Latitude": 1.42556399229911,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 763"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "59671",
+            "Longitude": 103.83518718969762,
+            "Latitude": 1.42777620949098,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Bef Yishun Stn"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "59073",
+            "Longitude": 103.8354631,
+            "Latitude": 1.428686944,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Stn"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "59069",
+            "Longitude": 103.83536957259517,
+            "Latitude": 1.42657294826877,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Blk 757"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "59059",
+            "Longitude": 103.83497942324875,
+            "Latitude": 1.42054602879781,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 608"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "59049",
+            "Longitude": 103.83339984073773,
+            "Latitude": 1.41700998157675,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Khatib Stn"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "59039",
+            "Longitude": 103.83156300557019,
+            "Latitude": 1.41342871609658,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Sports Hall"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "59029",
+            "Longitude": 103.82924769115782,
+            "Latitude": 1.40885843406387,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Yishun Ave 1"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "59019",
+            "Longitude": 103.82763036053306,
+            "Latitude": 1.40217670308957,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Sg Seletar Bridge"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "55289",
+            "Longitude": 103.82903916367646,
+            "Latitude": 1.39844339285315,
+            "RoadName": "Lentor Ave",
+            "Description": "LP 94"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "68059",
+            "Longitude": 103.87243527803194,
+            "Latitude": 1.39978638898633,
+            "RoadName": "Jln Kayu",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "68049",
+            "Longitude": 103.8729604565282,
+            "Latitude": 1.39851660309414,
+            "RoadName": "Jln Kayu",
+            "Description": "Opp Jln Tari Lilin"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "68039",
+            "Longitude": 103.87311388899468,
+            "Latitude": 1.39652972197871,
+            "RoadName": "Jln Kayu",
+            "Description": "Aft Abundant Grace Ch"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "67571",
+            "Longitude": 103.87391924861367,
+            "Latitude": 1.39515796674426,
+            "RoadName": "Sengkang West Way",
+            "Description": "Aft Lor Tanggam"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "67561",
+            "Longitude": 103.87697696683591,
+            "Latitude": 1.39545828505824,
+            "RoadName": "Sengkang West Way",
+            "Description": "Opp Blk 432A"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "67551",
+            "Longitude": 103.87927293767908,
+            "Latitude": 1.39600529337669,
+            "RoadName": "Sengkang West Way",
+            "Description": "Blk 471A"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "67541",
+            "Longitude": 103.88633251190507,
+            "Latitude": 1.39478256874239,
+            "RoadName": "Sengkang East Way",
+            "Description": "Hockey Stadium"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "67381",
+            "Longitude": 103.88844266691056,
+            "Latitude": 1.39459040201234,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 326 CP"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "67391",
+            "Longitude": 103.89144488028346,
+            "Latitude": 1.39425676218487,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 333B"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "67441",
+            "Longitude": 103.8934666647416,
+            "Latitude": 1.3923095386042,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Sengkang Community Hub"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "67341",
+            "Longitude": 103.89505169031366,
+            "Latitude": 1.38864779457077,
+            "RoadName": "Compassvale Dr",
+            "Description": "Opp Blk 204 CP"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "67171",
+            "Longitude": 103.89897692182004,
+            "Latitude": 1.38731209583307,
+            "RoadName": "Compassvale Dr",
+            "Description": "Blk 225A"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "67139",
+            "Longitude": 103.90417577185805,
+            "Latitude": 1.38715714684677,
+            "RoadName": "Rivervale Dr",
+            "Description": "Nth Spring Pr Sch"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "67531",
+            "Longitude": 103.90676693747147,
+            "Latitude": 1.38786807176296,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 158C"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "67521",
+            "Longitude": 103.90838009469488,
+            "Latitude": 1.38714536637767,
+            "RoadName": "Sengkang East Dr",
+            "Description": "Blk 160"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "65521",
+            "Longitude": 103.912942666667,
+            "Latitude": 1.39031766666667,
+            "RoadName": "Punggol East",
+            "Description": "Waterwoods"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "65231",
+            "Longitude": 103.91576531457447,
+            "Latitude": 1.3942824799683,
+            "RoadName": "Punggol East",
+            "Description": "Riviera Stn Exit B"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "65269",
+            "Longitude": 103.91467219472072,
+            "Latitude": 1.39671015437474,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Blk 162B"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "65279",
+            "Longitude": 103.91103404530959,
+            "Latitude": 1.39929726136961,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Bet Blks 187/188"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "65289",
+            "Longitude": 103.90762981656073,
+            "Latitude": 1.40173746082241,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Opp Punggol Sec/Blk 195E"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "65229",
+            "Longitude": 103.90556931496221,
+            "Latitude": 1.40320219454105,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Blk 298"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int"
+        }
+    ]
+}

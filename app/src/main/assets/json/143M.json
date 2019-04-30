@@ -1,0 +1,228 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "28301",
+            "Longitude": 103.74030301599491,
+            "Latitude": 1.33473899929823,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Blk 131"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "28431",
+            "Longitude": 103.73881557585635,
+            "Latitude": 1.33449626498358,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 134"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "28249",
+            "Longitude": 103.73979174224014,
+            "Latitude": 1.33212287290362,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Jurong East Lib"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "28239",
+            "Longitude": 103.74307145172916,
+            "Latitude": 1.32980442518564,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Jurong Town Hall"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "28229",
+            "Longitude": 103.74593185918442,
+            "Latitude": 1.32536675242565,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "German Ctr"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "20269",
+            "Longitude": 103.74580944947768,
+            "Latitude": 1.32151780618055,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Bef Pandan Gdns"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "20201",
+            "Longitude": 103.74340527799251,
+            "Latitude": 1.32127611097845,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Teban Gdn PO"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "20211",
+            "Longitude": 103.74184000241928,
+            "Latitude": 1.32177193921987,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Blk 41"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "20231",
+            "Longitude": 103.7394439595661,
+            "Latitude": 1.32234407286907,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Bef Hasanah Mque"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "20179",
+            "Longitude": 103.73910069465363,
+            "Latitude": 1.32000211967899,
+            "RoadName": "West Coast Rd",
+            "Description": "Aft Teban Gdns Rd"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "20169",
+            "Longitude": 103.74251246450982,
+            "Latitude": 1.31928347830225,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 35"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "20159",
+            "Longitude": 103.74640166581365,
+            "Latitude": 1.31851137522994,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 411"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "20199",
+            "Longitude": 103.74819972197395,
+            "Latitude": 1.31908111097886,
+            "RoadName": "Pandan Gdns",
+            "Description": "Blk 410"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "20189",
+            "Longitude": 103.74727299945995,
+            "Latitude": 1.32030501410074,
+            "RoadName": "Pandan Gdns",
+            "Description": "Opp Ayer Rajah CC"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "20259",
+            "Longitude": 103.74477002532701,
+            "Latitude": 1.31962187605788,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "C'wealth Sec Sch"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "20161",
+            "Longitude": 103.74213695526599,
+            "Latitude": 1.31915476642967,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Blks 34/35"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "20171",
+            "Longitude": 103.73984434693502,
+            "Latitude": 1.31967681449311,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Blk 47"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "20239",
+            "Longitude": 103.73947011845992,
+            "Latitude": 1.32246879634748,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Aft Hasanah Mque"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "20219",
+            "Longitude": 103.74143326706027,
+            "Latitude": 1.32205689998871,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Opp Blk 41"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "20209",
+            "Longitude": 103.7440744439939,
+            "Latitude": 1.32043333301332,
+            "RoadName": "Teban Gdns Rd",
+            "Description": "Bef Jurong Town Hall Rd"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "20261",
+            "Longitude": 103.74546423225033,
+            "Latitude": 1.3215997308483,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Aft Pandan Gdns"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "20271",
+            "Longitude": 103.74550887325397,
+            "Latitude": 1.32527553308365,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp German Ctr"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "28221",
+            "Longitude": 103.74494173101616,
+            "Latitude": 1.32761805004,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Intl Business Pk"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "28231",
+            "Longitude": 103.74248183726264,
+            "Latitude": 1.32986201071411,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Jurong Town Hall"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "28241",
+            "Longitude": 103.73957485927775,
+            "Latitude": 1.33175858461326,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Jurong East Lib"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "28439",
+            "Longitude": 103.7385749816785,
+            "Latitude": 1.33451434015094,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 124"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int (Last Stop)"
+        }
+    ]
+}

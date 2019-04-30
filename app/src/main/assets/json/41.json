@@ -1,0 +1,300 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "28441",
+            "Longitude": 103.73884916698127,
+            "Latitude": 1.33576638902918,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "28311",
+            "Longitude": 103.74108351905207,
+            "Latitude": 1.33825277511898,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "28631",
+            "Longitude": 103.74418616293988,
+            "Latitude": 1.34053157728505,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Opp Blk 288D"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "28641",
+            "Longitude": 103.74610320575732,
+            "Latitude": 1.33917889755759,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 284"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "28661",
+            "Longitude": 103.74951999566713,
+            "Latitude": 1.33665522766949,
+            "RoadName": "Toh Guan Rd East",
+            "Description": "Opp Jurong East Warehse"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "28671",
+            "Longitude": 103.75226376356609,
+            "Latitude": 1.33715229988486,
+            "RoadName": "Toh Guan Rd East",
+            "Description": "Alliance Bldg"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "28681",
+            "Longitude": 103.75488889772056,
+            "Latitude": 1.33720242588623,
+            "RoadName": "Toh Guan Rd East",
+            "Description": "Toh Guan Ctr"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "28691",
+            "Longitude": 103.75748934005021,
+            "Latitude": 1.33565242851513,
+            "RoadName": "Toh Guan Rd East",
+            "Description": "Wang-Fu Ind Pte Ltd"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "28701",
+            "Longitude": 103.75773000000456,
+            "Latitude": 1.33149833298375,
+            "RoadName": "Toh Tuck Link",
+            "Description": "Aft Old Toh Tuck Rd"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "28101",
+            "Longitude": 103.75905617435505,
+            "Latitude": 1.33312436803086,
+            "RoadName": "Toh Tuck Ave",
+            "Description": "Opp SMRT Ulu Pandan Depot"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "42201",
+            "Longitude": 103.76383096590918,
+            "Latitude": 1.33939353535638,
+            "RoadName": "Toh Tuck Rd",
+            "Description": "Bef Toh Tuck Rise"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "42211",
+            "Longitude": 103.76559520495253,
+            "Latitude": 1.33974260070464,
+            "RoadName": "Toh Tuck Rd",
+            "Description": "Highgate Pk"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "42221",
+            "Longitude": 103.7679072102881,
+            "Latitude": 1.33957381292395,
+            "RoadName": "Toh Tuck Rd",
+            "Description": "Goodluck Gdn"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "42231",
+            "Longitude": 103.7706058329681,
+            "Latitude": 1.34056805598593,
+            "RoadName": "Toh Tuck Rd",
+            "Description": "Bef Jln Jurong Kechil"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "42169",
+            "Longitude": 103.77366130505683,
+            "Latitude": 1.34038575681297,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Opp Blk 19"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "42159",
+            "Longitude": 103.77530898996658,
+            "Latitude": 1.34036805329812,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Opp Beauty World Stn"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "42259",
+            "Longitude": 103.7770788000345,
+            "Latitude": 1.34106160633217,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Goh & Goh Bldg"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "42089",
+            "Longitude": 103.77941451542826,
+            "Latitude": 1.34007090936874,
+            "RoadName": "Jln Anak Bt",
+            "Description": "Opp Bt Timah Plaza"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "42071",
+            "Longitude": 103.77694915592028,
+            "Latitude": 1.33876225175982,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Pei Hwa Presby Pr Sch"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "42151",
+            "Longitude": 103.77531978477353,
+            "Latitude": 1.34009254981171,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Beauty World Stn Exit C"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "42161",
+            "Longitude": 103.77264625507586,
+            "Latitude": 1.34027669212035,
+            "RoadName": "Jln Jurong Kechil",
+            "Description": "Blk 18"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "42239",
+            "Longitude": 103.77016055707928,
+            "Latitude": 1.34027047980738,
+            "RoadName": "Toh Tuck Rd",
+            "Description": "Aft Jln Jurong Kechil"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "42229",
+            "Longitude": 103.76827388898352,
+            "Latitude": 1.33943222197209,
+            "RoadName": "Toh Tuck Rd",
+            "Description": "Aft Toh Tuck Terr"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "42219",
+            "Longitude": 103.76535388898161,
+            "Latitude": 1.3395991670039,
+            "RoadName": "Toh Tuck Rd",
+            "Description": "Opp Highgate Pk"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "42209",
+            "Longitude": 103.76363595867413,
+            "Latitude": 1.33914661405948,
+            "RoadName": "Toh Tuck Rd",
+            "Description": "Aft Toh Tuck Rise"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "28109",
+            "Longitude": 103.7593317971408,
+            "Latitude": 1.33327344230787,
+            "RoadName": "Toh Tuck Ave",
+            "Description": "SMRT Ulu Pandan Depot"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "28709",
+            "Longitude": 103.75734406053928,
+            "Latitude": 1.331639972025,
+            "RoadName": "Toh Tuck Link",
+            "Description": "Bef Old Toh Tuck Rd"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "28699",
+            "Longitude": 103.75723501585756,
+            "Latitude": 1.33566850623054,
+            "RoadName": "Toh Guan Rd East",
+            "Description": "Opp Uni-Tech Ctr"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "28689",
+            "Longitude": 103.75440999786483,
+            "Latitude": 1.33727934409499,
+            "RoadName": "Toh Guan Rd East",
+            "Description": "Opp Toh Guan Ctr"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "28679",
+            "Longitude": 103.75110456918219,
+            "Latitude": 1.33661449274468,
+            "RoadName": "Toh Guan Rd East",
+            "Description": "Hitachi Elevator Bldg"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "28669",
+            "Longitude": 103.74935500317244,
+            "Latitude": 1.33644500000269,
+            "RoadName": "Toh Guan Rd East",
+            "Description": "Jurong East Warehse"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "28649",
+            "Longitude": 103.74603439301079,
+            "Latitude": 1.33901303401774,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 286A"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "28639",
+            "Longitude": 103.74395996871245,
+            "Latitude": 1.34045649755771,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 288E"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "28319",
+            "Longitude": 103.74173313734524,
+            "Latitude": 1.33862623918679,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 207"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "28449",
+            "Longitude": 103.73944500002973,
+            "Latitude": 1.33618166701348,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Bef Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int (Last Stop)"
+        }
+    ]
+}

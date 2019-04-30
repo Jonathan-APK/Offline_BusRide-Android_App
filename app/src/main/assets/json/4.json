@@ -1,0 +1,212 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "76191",
+            "Longitude": 103.94477445426702,
+            "Latitude": 1.3569438864901,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 401"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "76201",
+            "Longitude": 103.9479674220669,
+            "Latitude": 1.35687499368341,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 423"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "76211",
+            "Longitude": 103.95100259167165,
+            "Latitude": 1.35674667237884,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 449"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "76221",
+            "Longitude": 103.95390226733993,
+            "Latitude": 1.3563896244901,
+            "RoadName": "Tampines Ave 7",
+            "Description": "TAMPINES EAST STN EXIT A"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "76231",
+            "Longitude": 103.95736200626966,
+            "Latitude": 1.35666908955685,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Tampines JC/Opp Blk 390"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "76241",
+            "Longitude": 103.95917058122039,
+            "Latitude": 1.35845802746258,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 497D"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "98301",
+            "Longitude": 103.96487611110979,
+            "Latitude": 1.36001388887382,
+            "RoadName": "Flora Rd",
+            "Description": "Avila Gdns"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "98311",
+            "Longitude": 103.96849111110153,
+            "Latitude": 1.35930611110109,
+            "RoadName": "Mariam Way",
+            "Description": "Bef Mariam Wk"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "97049",
+            "Longitude": 103.96973879358464,
+            "Latitude": 1.35817903735465,
+            "RoadName": "Upp Changi Rd Nth",
+            "Description": "Changi Prison"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "97039",
+            "Longitude": 103.96894056406585,
+            "Latitude": 1.35535232677111,
+            "RoadName": "Upp Changi Rd Nth",
+            "Description": "Bef Jln Bena"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "97141",
+            "Longitude": 103.96793511086432,
+            "Latitude": 1.35231360645922,
+            "RoadName": "Changi Nth St 1",
+            "Description": "Aft Upp Changi Rd Nth"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "97301",
+            "Longitude": 103.96979848322833,
+            "Latitude": 1.35182434688859,
+            "RoadName": "Changi Nth Way",
+            "Description": "Agility"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "97311",
+            "Longitude": 103.97290111112585,
+            "Latitude": 1.35255805555221,
+            "RoadName": "Changi Nth Way",
+            "Description": "Zuellig Pharma"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "97331",
+            "Longitude": 103.97509801681349,
+            "Latitude": 1.3556366037228,
+            "RoadName": "Changi Nth Way",
+            "Description": "Bef Changi Prison Cplx"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "97321",
+            "Longitude": 103.97464120182451,
+            "Latitude": 1.36060285135304,
+            "RoadName": "Tanah Merah Besar Rd",
+            "Description": "Aft Compass Green"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "97059",
+            "Longitude": 103.97097232582753,
+            "Latitude": 1.36075141209876,
+            "RoadName": "Upp Changi Rd Nth",
+            "Description": "Changi Women's Prison"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "98319",
+            "Longitude": 103.96845690524152,
+            "Latitude": 1.3592369444173,
+            "RoadName": "Flora Rd",
+            "Description": "Aft Ballota Pk"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "98309",
+            "Longitude": 103.96473694441013,
+            "Latitude": 1.35996000001358,
+            "RoadName": "Flora Rd",
+            "Description": "Carissa Pk"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "76249",
+            "Longitude": 103.95947435534286,
+            "Latitude": 1.35836639849151,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 370"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "76239",
+            "Longitude": 103.95752447018292,
+            "Latitude": 1.35646655532488,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 390/Opp Tampines JC"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "76229",
+            "Longitude": 103.95353851635838,
+            "Latitude": 1.35614001051089,
+            "RoadName": "Tampines Ave 7",
+            "Description": "OPP TAMPINES EAST STN"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "76219",
+            "Longitude": 103.95114418566536,
+            "Latitude": 1.35644168689504,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 230E"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "76209",
+            "Longitude": 103.94766913185744,
+            "Latitude": 1.35660332787929,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 233"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "76199",
+            "Longitude": 103.94535428432116,
+            "Latitude": 1.35660016333768,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 503"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (Last Stop)"
+        }
+    ]
+}

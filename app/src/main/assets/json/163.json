@@ -1,0 +1,790 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "67009",
+            "Longitude": 103.89588499436073,
+            "Latitude": 1.39178060381601,
+            "RoadName": "Sengkang Sq",
+            "Description": "Sengkang Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "67189",
+            "Longitude": 103.89742612835978,
+            "Latitude": 1.39059955869523,
+            "RoadName": "Compassvale Rd",
+            "Description": "Opp Blk 241"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "67101",
+            "Longitude": 103.89956953538392,
+            "Latitude": 1.39143144034973,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 250A"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "65049",
+            "Longitude": 103.90187166698628,
+            "Latitude": 1.38993499998792,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 126A"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "65039",
+            "Longitude": 103.9019239673808,
+            "Latitude": 1.38732741861632,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 124"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "65029",
+            "Longitude": 103.90061583298267,
+            "Latitude": 1.38461500003195,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 111"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "67219",
+            "Longitude": 103.89751366061326,
+            "Latitude": 1.38368835333684,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Ranggung Stn Exit B"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "67269",
+            "Longitude": 103.89513364231524,
+            "Latitude": 1.38605407647483,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Opp Blk 203A"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "67339",
+            "Longitude": 103.89269086108794,
+            "Latitude": 1.38648038153055,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Opp Blk 200B"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "67299",
+            "Longitude": 103.88973216030708,
+            "Latitude": 1.38683575602542,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Opp Blk 303B"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "67309",
+            "Longitude": 103.88759103191384,
+            "Latitude": 1.38813799869207,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Opp Blk 305 CP"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "67329",
+            "Longitude": 103.88460168183559,
+            "Latitude": 1.39001974230515,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Opp Blk 310B"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "67479",
+            "Longitude": 103.88019668070044,
+            "Latitude": 1.39198203746983,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Layar Stn Exit A/Blk 417A"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "67489",
+            "Longitude": 103.87708498686095,
+            "Latitude": 1.39100245036434,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Opp Fernvale Stn"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "67499",
+            "Longitude": 103.87467870992985,
+            "Latitude": 1.39068028707514,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Fernvale Pr Sch"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "67281",
+            "Longitude": 103.87298584005708,
+            "Latitude": 1.38925023527794,
+            "RoadName": "Fernvale Lane",
+            "Description": "Blk 403A"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "67651",
+            "Longitude": 103.87040021599799,
+            "Latitude": 1.38939833797873,
+            "RoadName": "Fernvale Lane",
+            "Description": "Bef Sengkang West Rd"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "67039",
+            "Longitude": 103.86800750000182,
+            "Latitude": 1.38831000001759,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Seletar Rd"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "67029",
+            "Longitude": 103.86517736947857,
+            "Latitude": 1.38906690681702,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Dedap Rd"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "67019",
+            "Longitude": 103.86253811109862,
+            "Latitude": 1.38976371710347,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Begonia Rd"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "55109",
+            "Longitude": 103.8599334800352,
+            "Latitude": 1.39049447273752,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Serenity Pk"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "55089",
+            "Longitude": 103.85630398734284,
+            "Latitude": 1.39129403706334,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Sunrise Gdns"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "55079",
+            "Longitude": 103.85336802569404,
+            "Latitude": 1.39195216697174,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft KLC Intl Inst"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "55059",
+            "Longitude": 103.84909518015897,
+            "Latitude": 1.3920822654425,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "ST Electronics"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "55049",
+            "Longitude": 103.84659281119058,
+            "Latitude": 1.39110547694961,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Ue Bizhub Ctrl"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "55039",
+            "Longitude": 103.84383135324573,
+            "Latitude": 1.3891573228776,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "NCS Hub"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "55029",
+            "Longitude": 103.83917105055716,
+            "Latitude": 1.38565193733046,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "SEASONS PK"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "55019",
+            "Longitude": 103.83616944399448,
+            "Latitude": 1.38228305598375,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "The Calrose"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "56209",
+            "Longitude": 103.83240305645302,
+            "Latitude": 1.38031863295854,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Thomson Hills Dr"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "56199",
+            "Longitude": 103.83003638899949,
+            "Latitude": 1.37892333298882,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "NPB Serangoon Depot"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "56039",
+            "Longitude": 103.82848388900504,
+            "Latitude": 1.37673055602474,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "56029",
+            "Longitude": 103.82870000002058,
+            "Latitude": 1.37359500001635,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Sembawang Hill FC"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "56019",
+            "Longitude": 103.82862910254734,
+            "Latitude": 1.36949553492338,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Ang Mo Kio Ave 1"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "53099",
+            "Longitude": 103.82842866172699,
+            "Latitude": 1.36660638165473,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Ang Mo Kio Ave 1"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "53089",
+            "Longitude": 103.82823689416603,
+            "Latitude": 1.36413164157937,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Faber Gdn"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "53079",
+            "Longitude": 103.82864333297208,
+            "Latitude": 1.36082666696977,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Flame Tree Pk"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "53069",
+            "Longitude": 103.82894351047115,
+            "Latitude": 1.35777159286274,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Windsor Pk Rd"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "53059",
+            "Longitude": 103.8314804136155,
+            "Latitude": 1.35539998953236,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Thomson Plaza"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "53049",
+            "Longitude": 103.83422172361446,
+            "Latitude": 1.35362664583092,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Jln Todak"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "53039",
+            "Longitude": 103.83591070615076,
+            "Latitude": 1.35144681735328,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Thomson CC"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "53029",
+            "Longitude": 103.83729222566143,
+            "Latitude": 1.34939240848355,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Shunfu Est"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "53019",
+            "Longitude": 103.83880345588697,
+            "Latitude": 1.34592211870884,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "OPP ST. THERESA'S HME"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "51131",
+            "Longitude": 103.83934772641125,
+            "Latitude": 1.34409261817375,
+            "RoadName": "Braddell Rd",
+            "Description": "Opp Braddell View"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "52011",
+            "Longitude": 103.84263401771713,
+            "Latitude": 1.34504127313408,
+            "RoadName": "Braddell Rd",
+            "Description": "Bef Bishan Rd"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "52021",
+            "Longitude": 103.84766088139544,
+            "Latitude": 1.34431313758435,
+            "RoadName": "Braddell Rd",
+            "Description": "OPP BLK 1004"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "52031",
+            "Longitude": 103.85026155631283,
+            "Latitude": 1.34404852974216,
+            "RoadName": "Braddell Rd",
+            "Description": "OPP BLK 998"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "52361",
+            "Longitude": 103.8529812160764,
+            "Latitude": 1.33974408909931,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "52279",
+            "Longitude": 103.84992957112877,
+            "Latitude": 1.33702420555118,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Blk 56"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "52269",
+            "Longitude": 103.85147452356613,
+            "Latitude": 1.33404239936331,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Blk 73"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "52501",
+            "Longitude": 103.85011762889827,
+            "Latitude": 1.33090220918791,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "52509",
+            "Longitude": 103.85017633434691,
+            "Latitude": 1.33115712303762,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "52261",
+            "Longitude": 103.85128140448401,
+            "Latitude": 1.33403167346972,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Opp Blk 73"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "52271",
+            "Longitude": 103.84974718092391,
+            "Latitude": 1.33683113907107,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Jackson Sq"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "52369",
+            "Longitude": 103.85273333299853,
+            "Latitude": 1.34001833298065,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 237"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "52039",
+            "Longitude": 103.85130310024304,
+            "Latitude": 1.34333817728421,
+            "RoadName": "Braddell Rd",
+            "Description": "Aft Muhajirin Mque"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "52029",
+            "Longitude": 103.84736537931644,
+            "Latitude": 1.34359918269745,
+            "RoadName": "Braddell Rd",
+            "Description": "Blk 1004"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "52019",
+            "Longitude": 103.84368166701324,
+            "Latitude": 1.34403333300249,
+            "RoadName": "Braddell Rd",
+            "Description": "Aft Bishan Rd"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "51139",
+            "Longitude": 103.84032264966956,
+            "Latitude": 1.34436688449065,
+            "RoadName": "Braddell Rd",
+            "Description": "Braddell View"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "53011",
+            "Longitude": 103.83823575360742,
+            "Latitude": 1.34549354899945,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "ST. THERESA'S HME"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "53021",
+            "Longitude": 103.83652457261991,
+            "Latitude": 1.34967996840542,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Shunfu Est"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "53041",
+            "Longitude": 103.8343639597673,
+            "Latitude": 1.35307831612792,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Thomson Ridge"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "53051",
+            "Longitude": 103.8323381,
+            "Latitude": 1.354748333,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Thomson Plaza"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "53061",
+            "Longitude": 103.82883507046125,
+            "Latitude": 1.3571583010953,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Windsor Pk Rd"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "53071",
+            "Longitude": 103.82834252087906,
+            "Latitude": 1.36063333692202,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Flame Tree Pk"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "53081",
+            "Longitude": 103.82783467220469,
+            "Latitude": 1.36319303798878,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Faber Gdn"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "53091",
+            "Longitude": 103.8279237884758,
+            "Latitude": 1.36482025993725,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Ang Mo Kio Ave 1"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "56021",
+            "Longitude": 103.82842917358784,
+            "Latitude": 1.37242858974896,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp S'wang Hill FC"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "56031",
+            "Longitude": 103.82822527799023,
+            "Latitude": 1.37695666700099,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "56191",
+            "Longitude": 103.82944083302411,
+            "Latitude": 1.37879833302094,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp NPB Serangoon Depot"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "56201",
+            "Longitude": 103.83224759401025,
+            "Latitude": 1.38059381566563,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Munshi Abdullah Ave"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "55011",
+            "Longitude": 103.8357043497683,
+            "Latitude": 1.38226165654508,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp The Calrose"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "55021",
+            "Longitude": 103.83872706499656,
+            "Latitude": 1.3857011784032,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "OPP SEASONS PK"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "55031",
+            "Longitude": 103.84360331162512,
+            "Latitude": 1.38944774212221,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp NCS Hub"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "55041",
+            "Longitude": 103.84602799523668,
+            "Latitude": 1.39122406741106,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Ue Bizhub Ctrl"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "55051",
+            "Longitude": 103.8489623936009,
+            "Latitude": 1.3923998014128,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp ST Electronics"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "55071",
+            "Longitude": 103.85261828242731,
+            "Latitude": 1.39246274085167,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef KLC Intl Inst"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "55081",
+            "Longitude": 103.8559732827973,
+            "Latitude": 1.39177133420779,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Sunrise Gdns"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "55101",
+            "Longitude": 103.85967918415774,
+            "Latitude": 1.3909401415525,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Serenity Pk"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "67011",
+            "Longitude": 103.86263251348234,
+            "Latitude": 1.39009747909366,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Begonia Rd"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "67021",
+            "Longitude": 103.86548666703128,
+            "Latitude": 1.389306388988,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Dedap Rd"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "67659",
+            "Longitude": 103.87074360172006,
+            "Latitude": 1.38980594691547,
+            "RoadName": "Fernvale Lane",
+            "Description": "Aft Sengkang West Rd"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "67289",
+            "Longitude": 103.8732873820409,
+            "Latitude": 1.38966431065207,
+            "RoadName": "Fernvale Lane",
+            "Description": "Opp Blk 405C"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "67491",
+            "Longitude": 103.87466488789592,
+            "Latitude": 1.39087538517899,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Opp Fernvale Pr Sch"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "67481",
+            "Longitude": 103.87764586518084,
+            "Latitude": 1.39149794105559,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Fernvale Stn/Blk 439A"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "67471",
+            "Longitude": 103.88018144124133,
+            "Latitude": 1.39218567915754,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Layar Stn Exit B"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "67321",
+            "Longitude": 103.88425489183726,
+            "Latitude": 1.39056792623455,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Blk 311A"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "67301",
+            "Longitude": 103.88694431255796,
+            "Latitude": 1.38888930138858,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Blk 305D"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "67291",
+            "Longitude": 103.88971793853818,
+            "Latitude": 1.38717956363215,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Blk 303B"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "67331",
+            "Longitude": 103.89252149146469,
+            "Latitude": 1.38676807101072,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Blk 200B"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "67261",
+            "Longitude": 103.89464206866457,
+            "Latitude": 1.3865874133088,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Blk 203B"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "67211",
+            "Longitude": 103.89765917692944,
+            "Latitude": 1.38393828115359,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Ranggung Stn Exit A"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "65021",
+            "Longitude": 103.89961345545082,
+            "Latitude": 1.38403136207098,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp Blk 110"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "65031",
+            "Longitude": 103.90162639249785,
+            "Latitude": 1.38711827264676,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 227D"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "65041",
+            "Longitude": 103.90162265734195,
+            "Latitude": 1.38984412426173,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 231"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "67109",
+            "Longitude": 103.89998669813552,
+            "Latitude": 1.39102885574104,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 235"
+        },
+        {
+            "Distance": 19.3,
+            "BusStopCode": "67009",
+            "Longitude": 103.89588499436073,
+            "Latitude": 1.39178060381601,
+            "RoadName": "Sengkang Sq",
+            "Description": "Sengkang Int"
+        }
+    ]
+}

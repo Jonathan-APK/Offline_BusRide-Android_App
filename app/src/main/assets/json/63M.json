@@ -1,0 +1,284 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "82009",
+            "Longitude": 103.90180834139497,
+            "Latitude": 1.31933717157385,
+            "RoadName": "Eunos Rd 2",
+            "Description": "Eunos Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "82061",
+            "Longitude": 103.9022689641617,
+            "Latitude": 1.31876162629115,
+            "RoadName": "Sims Ave",
+            "Description": "Eunos Stn/ Int"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "83101",
+            "Longitude": 103.90489836683336,
+            "Latitude": 1.32066709057479,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Stn"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "83111",
+            "Longitude": 103.90527311322877,
+            "Latitude": 1.32346854012914,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 17"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "72011",
+            "Longitude": 103.90548361097667,
+            "Latitude": 1.32816499999482,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 322"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "71099",
+            "Longitude": 103.9038336109893,
+            "Latitude": 1.33022638900189,
+            "RoadName": "Eunos Link",
+            "Description": "Blk 311"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "71139",
+            "Longitude": 103.90087888738246,
+            "Latitude": 1.33054224737538,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "71101",
+            "Longitude": 103.90283722202501,
+            "Latitude": 1.3283069439771,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Blk 318"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "71111",
+            "Longitude": 103.90058695177659,
+            "Latitude": 1.3267052749653,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Blk 343"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "71201",
+            "Longitude": 103.89795152582765,
+            "Latitude": 1.32612447781531,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Paya Ubi Ind Pk"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "71211",
+            "Longitude": 103.89525403753592,
+            "Latitude": 1.32546235545492,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Ubi 55"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "71221",
+            "Longitude": 103.89318347862555,
+            "Latitude": 1.32632177179998,
+            "RoadName": "Ubi Rd 1",
+            "Description": "Meiban Ind Bldg"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "71169",
+            "Longitude": 103.89217317535862,
+            "Latitude": 1.32706502989935,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Aztech Bldg"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "70379",
+            "Longitude": 103.88933975894,
+            "Latitude": 1.32604294133609,
+            "RoadName": "Circuit Link",
+            "Description": "Opp Macpherson Stn Exit A"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "70201",
+            "Longitude": 103.88885416699938,
+            "Latitude": 1.32461138902969,
+            "RoadName": "Circuit Rd",
+            "Description": "OPP MACPHERSON STN EXIT D"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "70211",
+            "Longitude": 103.88696166698931,
+            "Latitude": 1.32362166702646,
+            "RoadName": "Pipit Rd",
+            "Description": "Blk 90"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "70221",
+            "Longitude": 103.88512100988676,
+            "Latitude": 1.32620809233247,
+            "RoadName": "Circuit Rd",
+            "Description": "Blk 79 FC"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "70171",
+            "Longitude": 103.88547138902759,
+            "Latitude": 1.32833666697134,
+            "RoadName": "Circuit Rd",
+            "Description": "Blk 77"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "70181",
+            "Longitude": 103.88691723349123,
+            "Latitude": 1.32886177068404,
+            "RoadName": "Circuit Rd",
+            "Description": "Blk 36"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "70191",
+            "Longitude": 103.88793655793152,
+            "Latitude": 1.32722900950909,
+            "RoadName": "Circuit Rd",
+            "Description": "OPP BLK 66"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "70371",
+            "Longitude": 103.88932330108935,
+            "Latitude": 1.32623288866609,
+            "RoadName": "Circuit Link",
+            "Description": "Macpherson Stn Exit A"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "71161",
+            "Longitude": 103.89209147524538,
+            "Latitude": 1.32732994325917,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Blk 3019"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "71229",
+            "Longitude": 103.8933485973626,
+            "Latitude": 1.32623562632795,
+            "RoadName": "Ubi Rd 1",
+            "Description": "Opp Meiban Ind Bldg"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "71219",
+            "Longitude": 103.89505220634288,
+            "Latitude": 1.32554207103,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Ubi Techpark"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "71209",
+            "Longitude": 103.89720788120638,
+            "Latitude": 1.32608112825105,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Opp Paya Ubi Ind Pk"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "71119",
+            "Longitude": 103.90021869264116,
+            "Latitude": 1.32680124825187,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Opp Blk 343"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "71109",
+            "Longitude": 103.90256616022272,
+            "Latitude": 1.32831828375817,
+            "RoadName": "Ubi Ave 1",
+            "Description": "Maha Bodhi Sch"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "71131",
+            "Longitude": 103.90140378909662,
+            "Latitude": 1.33127510693644,
+            "RoadName": "Ubi Ave 2",
+            "Description": "Automobile Megamart"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "71091",
+            "Longitude": 103.90373154551283,
+            "Latitude": 1.33073374785934,
+            "RoadName": "Eunos Link",
+            "Description": "Blk 637"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "72019",
+            "Longitude": 103.90546507501655,
+            "Latitude": 1.32884628389091,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Mans"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "83119",
+            "Longitude": 103.90560762847845,
+            "Latitude": 1.32306974700238,
+            "RoadName": "Jln Eunos",
+            "Description": "Opp Blk 16"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "83109",
+            "Longitude": 103.90537221650075,
+            "Latitude": 1.32135678897249,
+            "RoadName": "Jln Eunos",
+            "Description": "Opp Eunos Stn"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "82069",
+            "Longitude": 103.90295147896967,
+            "Latitude": 1.31709537499354,
+            "RoadName": "Changi Rd",
+            "Description": "Aft Lor 106 Changi"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "82221",
+            "Longitude": 103.89900705591394,
+            "Latitude": 1.31760511655727,
+            "RoadName": "Jln Turi",
+            "Description": "Blk 3A"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "82009",
+            "Longitude": 103.90180834139497,
+            "Latitude": 1.31933717157385,
+            "RoadName": "Eunos Rd 2",
+            "Description": "Eunos Int (Last Stop)"
+        }
+    ]
+}

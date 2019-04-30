@@ -1,0 +1,260 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "84031",
+            "Longitude": 103.93003627080394,
+            "Latitude": 1.32428292329305,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Stn Exit B"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "84041",
+            "Longitude": 103.93468799273933,
+            "Latitude": 1.3246905167586,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 221A"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "84051",
+            "Longitude": 103.93957942418302,
+            "Latitude": 1.32531855805156,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Sports Cplx"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "84061",
+            "Longitude": 103.94223128727671,
+            "Latitude": 1.32584790501258,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "The Tanamera Condo"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "85091",
+            "Longitude": 103.94636119805759,
+            "Latitude": 1.32754912682416,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Tanah Merah Stn Exit B"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "96229",
+            "Longitude": 103.95799531596526,
+            "Latitude": 1.3312261583979,
+            "RoadName": "Xilin Ave",
+            "Description": "S'pore Expo"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "96239",
+            "Longitude": 103.96193922509366,
+            "Latitude": 1.33007025409204,
+            "RoadName": "Xilin Ave",
+            "Description": "CEVA Freight"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "96249",
+            "Longitude": 103.96653156328907,
+            "Latitude": 1.32823969887083,
+            "RoadName": "Xilin Ave",
+            "Description": "Builders Ctr"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "96219",
+            "Longitude": 103.98889428788505,
+            "Latitude": 1.31520306285456,
+            "RoadName": "Tanah Merah Ferry Rd",
+            "Description": "Tanah Merah Ferry Ter"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "96421",
+            "Longitude": 103.99655,
+            "Latitude": 1.313621111,
+            "RoadName": "Tanah Merah Coast Rd",
+            "Description": "OPP CHANGI LODGE 2"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "96431",
+            "Longitude": 104.0152631,
+            "Latitude": 1.318286944,
+            "RoadName": "Tanah Merah Coast Rd",
+            "Description": "OPP CHANGI NAVAL BASE"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "95161",
+            "Longitude": 104.00455640513198,
+            "Latitude": 1.3725170000281,
+            "RoadName": "Changi Coast Rd",
+            "Description": "Bef Changi Ferry Rd"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "95171",
+            "Longitude": 104.0020734051487,
+            "Latitude": 1.37462795179536,
+            "RoadName": "Alps Ave",
+            "Description": "Prologis"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "95181",
+            "Longitude": 104.00189840513904,
+            "Latitude": 1.37700618973294,
+            "RoadName": "Alps Ave",
+            "Description": "Menlo Worldwide"
+        },
+        {
+            "Distance": 21.7,
+            "BusStopCode": "95191",
+            "Longitude": 104.00092640513972,
+            "Latitude": 1.38009118975333,
+            "RoadName": "Alps Ave",
+            "Description": "Opp DB Schenker"
+        },
+        {
+            "Distance": 22.1,
+            "BusStopCode": "95189",
+            "Longitude": 104.0014724782864,
+            "Latitude": 1.3787447073172,
+            "RoadName": "Alps Ave",
+            "Description": "Expeditors"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "95179",
+            "Longitude": 104.00221640515575,
+            "Latitude": 1.37635787246647,
+            "RoadName": "Alps Ave",
+            "Description": "DHL"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "95169",
+            "Longitude": 104.0046664051527,
+            "Latitude": 1.37262300000012,
+            "RoadName": "Changi Coast Rd",
+            "Description": "Aft Changi Ferry Rd"
+        },
+        {
+            "Distance": 31.2,
+            "BusStopCode": "96439",
+            "Longitude": 104.0155981,
+            "Latitude": 1.318248056,
+            "RoadName": "Tanah Merah Coast Rd",
+            "Description": "CHANGI NAVAL BASE"
+        },
+        {
+            "Distance": 33.7,
+            "BusStopCode": "96429",
+            "Longitude": 103.9953811,
+            "Latitude": 1.313721111,
+            "RoadName": "Tanah Merah Coast Rd",
+            "Description": "CHANGI LODGE 2"
+        },
+        {
+            "Distance": 34.7,
+            "BusStopCode": "96219",
+            "Longitude": 103.98889428788505,
+            "Latitude": 1.31520306285456,
+            "RoadName": "Tanah Merah Ferry Rd",
+            "Description": "Tanah Merah Ferry Ter"
+        },
+        {
+            "Distance": 38.4,
+            "BusStopCode": "96241",
+            "Longitude": 103.96702744644506,
+            "Latitude": 1.32746975992942,
+            "RoadName": "Xilin Ave",
+            "Description": "LAGUNA NATL COUNTRY CLUB"
+        },
+        {
+            "Distance": 38.8,
+            "BusStopCode": "96271",
+            "Longitude": 103.96366258799002,
+            "Latitude": 1.32913596796858,
+            "RoadName": "Xilin Ave",
+            "Description": "Opp Global Logistics Ctr"
+        },
+        {
+            "Distance": 39.1,
+            "BusStopCode": "96231",
+            "Longitude": 103.96086883190902,
+            "Latitude": 1.3300314164688,
+            "RoadName": "Xilin Ave",
+            "Description": "DB Schenker"
+        },
+        {
+            "Distance": 39.4,
+            "BusStopCode": "96221",
+            "Longitude": 103.95796397863708,
+            "Latitude": 1.33090140156137,
+            "RoadName": "Xilin Ave",
+            "Description": "Opp S'pore Expo"
+        },
+        {
+            "Distance": 40.8,
+            "BusStopCode": "85099",
+            "Longitude": 103.94645987386455,
+            "Latitude": 1.32684437763421,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Tanah Merah Stn Exit A"
+        },
+        {
+            "Distance": 41.3,
+            "BusStopCode": "84069",
+            "Longitude": 103.94219019887281,
+            "Latitude": 1.32548742810424,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 55"
+        },
+        {
+            "Distance": 41.6,
+            "BusStopCode": "84059",
+            "Longitude": 103.93953481204565,
+            "Latitude": 1.32493504095045,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 65"
+        },
+        {
+            "Distance": 42.1,
+            "BusStopCode": "84049",
+            "Longitude": 103.93471220144858,
+            "Latitude": 1.32432719820227,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 27"
+        },
+        {
+            "Distance": 42.8,
+            "BusStopCode": "84039",
+            "Longitude": 103.92886300203479,
+            "Latitude": 1.32353645344906,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Stn Exit A"
+        },
+        {
+            "Distance": 43.5,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (Last Stop)"
+        }
+    ]
+}

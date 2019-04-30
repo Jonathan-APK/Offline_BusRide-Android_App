@@ -1,0 +1,108 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "62129",
+            "Longitude": 103.87205488524701,
+            "Latitude": 1.34698958928417,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 403"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "62119",
+            "Longitude": 103.8710922003054,
+            "Latitude": 1.34483265931476,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Sunshine Lodge"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "61049",
+            "Longitude": 103.8709686110327,
+            "Latitude": 1.34196277802503,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Bartley Rd"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "61039",
+            "Longitude": 103.87084881783568,
+            "Latitude": 1.33845332842129,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Woodleigh Stn Exit A"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "70069",
+            "Longitude": 103.87591879816988,
+            "Latitude": 1.33839951928873,
+            "RoadName": "Upp Aljunied Rd",
+            "Description": "Aft Bidadari Pk Dr"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "70059",
+            "Longitude": 103.87831166701761,
+            "Latitude": 1.33477611102342,
+            "RoadName": "Upp Aljunied Rd",
+            "Description": "Aft Joo Seng Rd"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "70049",
+            "Longitude": 103.87871499999147,
+            "Latitude": 1.33290666703267,
+            "RoadName": "Upp Aljunied Rd",
+            "Description": "Aft Blk 4"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "70039",
+            "Longitude": 103.87975573742911,
+            "Latitude": 1.32930256265165,
+            "RoadName": "Aljunied Rd",
+            "Description": "Aljunied Pk"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "70029",
+            "Longitude": 103.88054354805391,
+            "Latitude": 1.32662552821417,
+            "RoadName": "Aljunied Rd",
+            "Description": "Aft Canossa Convent Pr"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "70019",
+            "Longitude": 103.88145725676175,
+            "Latitude": 1.32322990499562,
+            "RoadName": "Aljunied Rd",
+            "Description": "Blk 125"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "81099",
+            "Longitude": 103.88194665985091,
+            "Latitude": 1.31982276662398,
+            "RoadName": "Aljunied Rd",
+            "Description": "Blk 102"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "81089",
+            "Longitude": 103.88202243551633,
+            "Latitude": 1.31628194302502,
+            "RoadName": "Aljunied Rd",
+            "Description": "Aljunied Stn"
+        }
+    ]
+}

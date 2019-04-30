@@ -1,0 +1,196 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75019",
+            "Longitude": 103.9416488042812,
+            "Latitude": 1.35737133106172,
+            "RoadName": "Tampines Concourse",
+            "Description": "Tampines Concourse Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "76559",
+            "Longitude": 103.9434688889217,
+            "Latitude": 1.35556499992374,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "AFT TAMPINES STN EXIT E"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "76191",
+            "Longitude": 103.94477445426702,
+            "Latitude": 1.3569438864901,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 401"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "76149",
+            "Longitude": 103.94636710560508,
+            "Latitude": 1.35370728527221,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Tampines Stn/Int"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "76139",
+            "Longitude": 103.94385009279503,
+            "Latitude": 1.35162691843499,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Century Sq"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "76111",
+            "Longitude": 103.94023387732626,
+            "Latitude": 1.35157455446947,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Blk 945"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "76041",
+            "Longitude": 103.9365069000221,
+            "Latitude": 1.35122178461773,
+            "RoadName": "Tampines St 82",
+            "Description": "BLK 842C"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "75089",
+            "Longitude": 103.93404731779178,
+            "Latitude": 1.34977145890473,
+            "RoadName": "Tampines Ave 3",
+            "Description": "Blk 827"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "75109",
+            "Longitude": 103.93102423699943,
+            "Latitude": 1.35115140327554,
+            "RoadName": "Tampines Ave 3",
+            "Description": "Blk 888"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "75151",
+            "Longitude": 103.93145206236657,
+            "Latitude": 1.35451781224143,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Opp Blk 871A"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "75179",
+            "Longitude": 103.9317,
+            "Latitude": 1.357,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Bef Tampines Ave 9"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "75419",
+            "Longitude": 103.92918587034406,
+            "Latitude": 1.35575831547919,
+            "RoadName": "Tampines Ave 10",
+            "Description": "AFT TAMPINES AVE 5"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "75021",
+            "Longitude": 103.92851745350569,
+            "Latitude": 1.35168445182114,
+            "RoadName": "Tampines Street 86",
+            "Description": "BLK 879B"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "75251",
+            "Longitude": 103.92783361101397,
+            "Latitude": 1.3494983330038,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Tropica Condo"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "75031",
+            "Longitude": 103.92946243284943,
+            "Latitude": 1.35080696753697,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Opp Springfield Sec Sch"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "75101",
+            "Longitude": 103.93150144928326,
+            "Latitude": 1.35109968413462,
+            "RoadName": "Tampines Ave 3",
+            "Description": "Blk 880"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "75081",
+            "Longitude": 103.93426738811776,
+            "Latitude": 1.34986941891093,
+            "RoadName": "Tampines Ave 3",
+            "Description": "Blk 831"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "76049",
+            "Longitude": 103.93633200959248,
+            "Latitude": 1.35118252345739,
+            "RoadName": "Tampines St 82",
+            "Description": "OPP BLK 842C"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "76119",
+            "Longitude": 103.94009028016603,
+            "Latitude": 1.35188664573357,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Blk 945"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "76131",
+            "Longitude": 103.94254133694142,
+            "Latitude": 1.35184112001279,
+            "RoadName": "Tampines Ave 4",
+            "Description": "UOB Tampines Ctr"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "76141",
+            "Longitude": 103.94609060451609,
+            "Latitude": 1.35366689109025,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Tampines Stn/Int"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "76199",
+            "Longitude": 103.94535428432116,
+            "Latitude": 1.35660016333768,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 503"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "76551",
+            "Longitude": 103.943599,
+            "Latitude": 1.355401,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "TAMPINES STN EXIT D"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "75019",
+            "Longitude": 103.9416488042812,
+            "Latitude": 1.35737133106172,
+            "RoadName": "Tampines Concourse",
+            "Description": "Tampines Concourse Int (Last Stop)"
+        }
+    ]
+}

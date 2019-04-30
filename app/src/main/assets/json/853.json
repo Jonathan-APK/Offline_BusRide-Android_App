@@ -1,0 +1,718 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "59669",
+            "Longitude": 103.83784276257873,
+            "Latitude": 1.42623639393056,
+            "RoadName": "Yishun Ctrl 1",
+            "Description": "Opp Blk 932"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "59619",
+            "Longitude": 103.83687299997104,
+            "Latitude": 1.42335199999945,
+            "RoadName": "Yishun Ctrl 2",
+            "Description": "Yishun Community Hosp"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "59059",
+            "Longitude": 103.83497942324875,
+            "Latitude": 1.42054602879781,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 608"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "59049",
+            "Longitude": 103.83339984073773,
+            "Latitude": 1.41700998157675,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Khatib Stn"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "59039",
+            "Longitude": 103.83156300557019,
+            "Latitude": 1.41342871609658,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Sports Hall"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "59029",
+            "Longitude": 103.82924769115782,
+            "Latitude": 1.40885843406387,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Yishun Ave 1"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "59019",
+            "Longitude": 103.82763036053306,
+            "Latitude": 1.40217670308957,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Sg Seletar Bridge"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "55279",
+            "Longitude": 103.83433810671694,
+            "Latitude": 1.39414737127204,
+            "RoadName": "Lentor Ave",
+            "Description": "Lentor Flyover"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "55269",
+            "Longitude": 103.83691645885587,
+            "Latitude": 1.39252554978737,
+            "RoadName": "Lentor Ave",
+            "Description": "Opp Bullion Pk Condo"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "55259",
+            "Longitude": 103.83872874845498,
+            "Latitude": 1.39141346219733,
+            "RoadName": "Lentor Ave",
+            "Description": "Opp Countryside Est"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "55249",
+            "Longitude": 103.84085200603315,
+            "Latitude": 1.38966405934167,
+            "RoadName": "Lentor Ave",
+            "Description": "Bef Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "55179",
+            "Longitude": 103.84259428959234,
+            "Latitude": 1.38573179925587,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "OPP CASTLE GREEN"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "55189",
+            "Longitude": 103.84383839092432,
+            "Latitude": 1.38261995770962,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "YIO CHU KANG STN"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "55209",
+            "Longitude": 103.84468444401317,
+            "Latitude": 1.37863166702811,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Anderson JC"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "54059",
+            "Longitude": 103.84498299185917,
+            "Latitude": 1.3762849891494,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Bef Ang Mo Kio Lib"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "54049",
+            "Longitude": 103.84532571985918,
+            "Latitude": 1.37350472194557,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Courts Ang Mo Kio"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "54039",
+            "Longitude": 103.84563650364578,
+            "Latitude": 1.37091786093364,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Bef Al-Muttaqin Mque"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "54241",
+            "Longitude": 103.84618005827467,
+            "Latitude": 1.36913518643274,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 700B"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "54339",
+            "Longitude": 103.85057966582927,
+            "Latitude": 1.3678447007404,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 422"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "54329",
+            "Longitude": 103.85247983714417,
+            "Latitude": 1.36449772525141,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 420"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "54319",
+            "Longitude": 103.85305482306448,
+            "Latitude": 1.36205969144532,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Opp Christ The King Ch"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "54101",
+            "Longitude": 103.85465761724518,
+            "Latitude": 1.35732097800984,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Aft Ang Mo Kio Ave 10"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "66091",
+            "Longitude": 103.86145166702076,
+            "Latitude": 1.35454666698201,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Golden Hill Est"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "66031",
+            "Longitude": 103.86572364607075,
+            "Latitude": 1.35465640659199,
+            "RoadName": "Lor Chuan",
+            "Description": "Cardiff Residence"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "66041",
+            "Longitude": 103.8697219448858,
+            "Latitude": 1.3557230306281,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 230"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "66051",
+            "Longitude": 103.87196190877665,
+            "Latitude": 1.35585499445871,
+            "RoadName": "Boundary Rd",
+            "Description": "Opp Blk 257"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "66379",
+            "Longitude": 103.87285801649963,
+            "Latitude": 1.35339155862192,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "62139",
+            "Longitude": 103.87341165935781,
+            "Latitude": 1.3490461240579,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit A/Blk 413"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "62129",
+            "Longitude": 103.87205488524701,
+            "Latitude": 1.34698958928417,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 403"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "62119",
+            "Longitude": 103.8710922003054,
+            "Latitude": 1.34483265931476,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Sunshine Lodge"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "61049",
+            "Longitude": 103.8709686110327,
+            "Latitude": 1.34196277802503,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Bartley Rd"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "61039",
+            "Longitude": 103.87084881783568,
+            "Latitude": 1.33845332842129,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Woodleigh Stn Exit A"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "61029",
+            "Longitude": 103.87051588342655,
+            "Latitude": 1.33596832935372,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Woodleigh Pk"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "61019",
+            "Longitude": 103.86976166703383,
+            "Latitude": 1.33320166700854,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 101"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "60269",
+            "Longitude": 103.86922890950602,
+            "Latitude": 1.33099030126892,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Potong Pasir Stn Exit B"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "60209",
+            "Longitude": 103.86896099565628,
+            "Latitude": 1.32986133945973,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Sant Ritz"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "60179",
+            "Longitude": 103.86834025123765,
+            "Latitude": 1.32634025655419,
+            "RoadName": "Bendemeer Rd",
+            "Description": "MOM Svcs Ctr"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "60221",
+            "Longitude": 103.87081431318353,
+            "Latitude": 1.32212380559601,
+            "RoadName": "Geylang Bahru",
+            "Description": "BLK 73/GEYLANG BAHRU STN"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "60039",
+            "Longitude": 103.86983042567824,
+            "Latitude": 1.31996473842763,
+            "RoadName": "Kallang Bahru",
+            "Description": "Opp Blk 66"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "60029",
+            "Longitude": 103.86600136758759,
+            "Latitude": 1.31717045698013,
+            "RoadName": "Kallang Bahru",
+            "Description": "Blk 16"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "60059",
+            "Longitude": 103.86586250001177,
+            "Latitude": 1.31434638899368,
+            "RoadName": "Boon Keng Rd",
+            "Description": "Bef Kallang Pl"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "80109",
+            "Longitude": 103.871430158598,
+            "Latitude": 1.31324473748019,
+            "RoadName": "Lor 1 Geylang",
+            "Description": "Opp Kallang Stn/Blk 2C"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "80009",
+            "Longitude": 103.87216341433337,
+            "Latitude": 1.3111642220841,
+            "RoadName": "Lor 1 Geylang",
+            "Description": "Lor 1 Geylang Ter"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "80009",
+            "Longitude": 103.87216341433337,
+            "Latitude": 1.3111642220841,
+            "RoadName": "Lor 1 Geylang",
+            "Description": "Lor 1 Geylang Ter"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "80101",
+            "Longitude": 103.87153830811837,
+            "Latitude": 1.31251933500742,
+            "RoadName": "Lor 1 Geylang",
+            "Description": "Kallang Stn/Opp Blk 2C"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "60051",
+            "Longitude": 103.86571468040536,
+            "Latitude": 1.3141464005633,
+            "RoadName": "Boon Keng Rd",
+            "Description": "Opp Kallang Pl"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "60021",
+            "Longitude": 103.86669874193286,
+            "Latitude": 1.31828596087227,
+            "RoadName": "Kallang Bahru",
+            "Description": "Chubb S'pore"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "60031",
+            "Longitude": 103.87007832529532,
+            "Latitude": 1.3204097072077,
+            "RoadName": "Kallang Bahru",
+            "Description": "BEF GEYLANG BAHRU STN"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "60229",
+            "Longitude": 103.87024013608315,
+            "Latitude": 1.32258108743147,
+            "RoadName": "Geylang Bahru",
+            "Description": "Blk 68"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "60159",
+            "Longitude": 103.86764196002876,
+            "Latitude": 1.32409476572475,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Blk 54"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "60161",
+            "Longitude": 103.8655673081052,
+            "Latitude": 1.32477289725503,
+            "RoadName": "S'goon Rd",
+            "Description": "St. Michael's Pl"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "60201",
+            "Longitude": 103.8683861111429,
+            "Latitude": 1.32933888886,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "18 Woodsville"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "60261",
+            "Longitude": 103.86891794930561,
+            "Latitude": 1.33132471594343,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Potong Pasir Stn Exit C"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "61011",
+            "Longitude": 103.86946402615806,
+            "Latitude": 1.3333927981396,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 103"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "61021",
+            "Longitude": 103.87018878876424,
+            "Latitude": 1.33627668492978,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Woodleigh Pk"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "61031",
+            "Longitude": 103.8704496726279,
+            "Latitude": 1.33836472248768,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Woodleigh Stn Exit B"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "61041",
+            "Longitude": 103.87049194397346,
+            "Latitude": 1.34142999996834,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Bef Braddell Rd"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "62111",
+            "Longitude": 103.87077171254077,
+            "Latitude": 1.34509852230089,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Sommerville Rd"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "62121",
+            "Longitude": 103.87156809881778,
+            "Latitude": 1.34682778451192,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Wolskel Rd"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "62131",
+            "Longitude": 103.87277432797597,
+            "Latitude": 1.3489790064228,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit H"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "66371",
+            "Longitude": 103.87268543240587,
+            "Latitude": 1.353767301605,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 261"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "66059",
+            "Longitude": 103.87212299732872,
+            "Latitude": 1.35553141738293,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 257A"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "66049",
+            "Longitude": 103.86896493522666,
+            "Latitude": 1.35535475300084,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 233"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "66039",
+            "Longitude": 103.86668854745251,
+            "Latitude": 1.35475138514216,
+            "RoadName": "Lor Chuan",
+            "Description": "Blk 307"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "66099",
+            "Longitude": 103.86142199387719,
+            "Latitude": 1.35427474694456,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Opp Golden Hill Est"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "54109",
+            "Longitude": 103.85433890252277,
+            "Latitude": 1.35708169204878,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Bef Ang Mo Kio Ave 10"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "54311",
+            "Longitude": 103.85257506359629,
+            "Latitude": 1.36143610819625,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 332"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "54321",
+            "Longitude": 103.85237785571755,
+            "Latitude": 1.3639846735447,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 354"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "54331",
+            "Longitude": 103.85056845375878,
+            "Latitude": 1.36719473720813,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Blk 346"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "54247",
+            "Longitude": 103.84719306132868,
+            "Latitude": 1.36873836498602,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 322"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "54031",
+            "Longitude": 103.84534111753092,
+            "Latitude": 1.37008641040706,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Opp Al-Muttaqin Mque"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "54041",
+            "Longitude": 103.84498706463532,
+            "Latitude": 1.37348335118866,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Opp Courts Ang Mo Kio"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "54051",
+            "Longitude": 103.844658068335,
+            "Latitude": 1.37627000357879,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Bef Ang Mo Kio Ave 5"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "55201",
+            "Longitude": 103.8443777268119,
+            "Latitude": 1.37859113966821,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Opp Anderson JC"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "55181",
+            "Longitude": 103.84389230276943,
+            "Latitude": 1.38143251435794,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Opp Yio Chu Kang Stn"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "55171",
+            "Longitude": 103.84229777803078,
+            "Latitude": 1.38564388899504,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "CASTLE GREEN"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "55241",
+            "Longitude": 103.84071031595586,
+            "Latitude": 1.38932985258763,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "55251",
+            "Longitude": 103.83885575492444,
+            "Latitude": 1.39093600499761,
+            "RoadName": "Lentor Ave",
+            "Description": "Countryside Est"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "55261",
+            "Longitude": 103.83649555600854,
+            "Latitude": 1.3924244439738,
+            "RoadName": "Lentor Ave",
+            "Description": "Bullion Pk Condo"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "55271",
+            "Longitude": 103.83251388902453,
+            "Latitude": 1.39499833298517,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Lentor Flyover"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "59011",
+            "Longitude": 103.82737908252,
+            "Latitude": 1.40205059877403,
+            "RoadName": "Lentor Ave",
+            "Description": "Bef Sg Seletar Bridge"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "59021",
+            "Longitude": 103.828825,
+            "Latitude": 1.407988889,
+            "RoadName": "Lentor Ave",
+            "Description": "Bef Yishun Ave 1"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "59031",
+            "Longitude": 103.83083958669692,
+            "Latitude": 1.41277747172151,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Sports Hall"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "59041",
+            "Longitude": 103.832591612732,
+            "Latitude": 1.41625420109094,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Bef Khatib Stn"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "59051",
+            "Longitude": 103.83429674432547,
+            "Latitude": 1.41968270185637,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 790"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "59611",
+            "Longitude": 103.83666744952643,
+            "Latitude": 1.42362582861812,
+            "RoadName": "Yishun Ctrl 2",
+            "Description": "Opp Yishun Community Hosp"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "59661",
+            "Longitude": 103.83762861110566,
+            "Latitude": 1.42631491614237,
+            "RoadName": "Yishun Ctrl 1",
+            "Description": "Blk 932"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int"
+        }
+    ]
+}

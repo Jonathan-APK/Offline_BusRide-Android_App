@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="toolBarColor">#428AF1</color>
+    <color name="grey">#f6f7f9</color>
+    <color name="lightblue">#5f97f6</color>
+    <color name="darkblue">#3367d5</color>
+    <color name="plat">#E5E4E2</color>
+    <color name="apptheme_color">#DA4A38</color>
+
+
+
+</resources>

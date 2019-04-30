@@ -1,0 +1,204 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "17221",
+            "Longitude": 103.76790022594946,
+            "Latitude": 1.31735631283972,
+            "RoadName": "Clementi Ave 5",
+            "Description": "Blk 377"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "12119",
+            "Longitude": 103.77279266281438,
+            "Latitude": 1.31964598192789,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Police KINS Trg Camp"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "12059",
+            "Longitude": 103.77515897833835,
+            "Latitude": 1.32072731097778,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Opp Pine Gr Condo"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "12049",
+            "Longitude": 103.77655888991401,
+            "Latitude": 1.32091131971837,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Opp Pandan Valley"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "12039",
+            "Longitude": 103.78018998386835,
+            "Latitude": 1.32104526183447,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Opp Pandan Valley Condo"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "12029",
+            "Longitude": 103.7824392109149,
+            "Latitude": 1.31958369390988,
+            "RoadName": "Holland Rd",
+            "Description": "Opp Moonbeam Wk"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "11299",
+            "Longitude": 103.78558843680226,
+            "Latitude": 1.31826975603165,
+            "RoadName": "Holland Rd",
+            "Description": "Opp Cold Storage Jelita"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "11289",
+            "Longitude": 103.78904342517946,
+            "Latitude": 1.31618891387774,
+            "RoadName": "Holland Rd",
+            "Description": "Opp Tan Boon Chong Ave"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "11279",
+            "Longitude": 103.79069259768109,
+            "Latitude": 1.31466878886978,
+            "RoadName": "Holland Rd",
+            "Description": "Aft Coronation Rd West"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "11269",
+            "Longitude": 103.79453796697418,
+            "Latitude": 1.31256112590195,
+            "RoadName": "Holland Rd",
+            "Description": "Opp Holland Village"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "11239",
+            "Longitude": 103.80165517330278,
+            "Latitude": 1.31152857401616,
+            "RoadName": "Holland Rd",
+            "Description": "Fairlodge"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "11229",
+            "Longitude": 103.80522542227166,
+            "Latitude": 1.31060065879064,
+            "RoadName": "Holland Rd",
+            "Description": "Les Jardins De Holland"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "11219",
+            "Longitude": 103.80716407830104,
+            "Latitude": 1.30988506093033,
+            "RoadName": "Holland Rd",
+            "Description": "Great Eastern Mans"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "11209",
+            "Longitude": 103.81038349817638,
+            "Latitude": 1.30817280849852,
+            "RoadName": "Holland Rd",
+            "Description": "Opp Peirce Rd"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "13029",
+            "Longitude": 103.8145185880206,
+            "Latitude": 1.30671783282361,
+            "RoadName": "Holland Rd",
+            "Description": "Bef Tyersall Ave"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "13019",
+            "Longitude": 103.82013079894885,
+            "Latitude": 1.3067380217198,
+            "RoadName": "Napier Rd",
+            "Description": "S'pore Botanic Gdns"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "09149",
+            "Longitude": 103.8212215023314,
+            "Latitude": 1.30608981381948,
+            "RoadName": "Napier Rd",
+            "Description": "Opp British Council"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "09159",
+            "Longitude": 103.82568042620605,
+            "Latitude": 1.30602637557418,
+            "RoadName": "Tanglin Rd",
+            "Description": "Aft Tomlinson Rd"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "09169",
+            "Longitude": 103.82835507326037,
+            "Latitude": 1.3070135326348,
+            "RoadName": "Orchard Rd",
+            "Description": "Delfi Orchard"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "09179",
+            "Longitude": 103.83049004618626,
+            "Latitude": 1.30587966240898,
+            "RoadName": "Orchard Rd",
+            "Description": "Royal Thai Embassy"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "09048",
+            "Longitude": 103.83413070051408,
+            "Latitude": 1.30386684425114,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Stn/Lucky Plaza"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "09038",
+            "Longitude": 103.83852481842337,
+            "Latitude": 1.30154262450563,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Somerset Stn"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "08138",
+            "Longitude": 103.84184700607595,
+            "Latitude": 1.3004785730821,
+            "RoadName": "Orchard Rd",
+            "Description": "Concorde Hotel S'pore"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        }
+    ]
+}

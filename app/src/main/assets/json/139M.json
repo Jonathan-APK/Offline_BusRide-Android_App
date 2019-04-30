@@ -1,0 +1,132 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int (First Stop)"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "52079",
+            "Longitude": 103.84382885735747,
+            "Latitude": 1.32931477158443,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Opp Trellis Twrs"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "50161",
+            "Longitude": 103.84366009715464,
+            "Latitude": 1.32665700619185,
+            "RoadName": "Balestier Rd",
+            "Description": "Bef Jln Dusun"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "50171",
+            "Longitude": 103.84641000001729,
+            "Latitude": 1.32663388888255,
+            "RoadName": "Balestier Rd",
+            "Description": "Zhongshan Mall"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "52401",
+            "Longitude": 103.85082868868597,
+            "Latitude": 1.32830186081857,
+            "RoadName": "Jln Rajah",
+            "Description": "Blk 102"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "52411",
+            "Longitude": 103.85392666697314,
+            "Latitude": 1.32818666702477,
+            "RoadName": "Jln Rajah",
+            "Description": "Blk 105"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "52451",
+            "Longitude": 103.85731928602708,
+            "Latitude": 1.3253199216809,
+            "RoadName": "Whampoa Rd",
+            "Description": "Blk 114"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "52129",
+            "Longitude": 103.85938111100755,
+            "Latitude": 1.32544666698102,
+            "RoadName": "Jln Bahagia",
+            "Description": "Blk 29"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "52109",
+            "Longitude": 103.8581711110213,
+            "Latitude": 1.32697666701265,
+            "RoadName": "Jln Bahagia",
+            "Description": "Bet Blks 33/34"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "52419",
+            "Longitude": 103.85391750002599,
+            "Latitude": 1.32803305599299,
+            "RoadName": "Jln Rajah",
+            "Description": "Curtin S'pore"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "52409",
+            "Longitude": 103.85105250762084,
+            "Latitude": 1.32801971174787,
+            "RoadName": "Jln Rajah",
+            "Description": "Opp Blk 102"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "52479",
+            "Longitude": 103.84578619081431,
+            "Latitude": 1.32749617656635,
+            "RoadName": "Ah Hood Rd",
+            "Description": "Opp EASB"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "50169",
+            "Longitude": 103.84420812253344,
+            "Latitude": 1.32647401158756,
+            "RoadName": "Balestier Rd",
+            "Description": "Aft Irrawaddy Rd"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "51011",
+            "Longitude": 103.84095472172798,
+            "Latitude": 1.32770447989161,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp Tan Tong Meng Twr"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "52071",
+            "Longitude": 103.84381843224321,
+            "Latitude": 1.32991416932901,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Trellis Twrs"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int (Last Stop)"
+        }
+    ]
+}

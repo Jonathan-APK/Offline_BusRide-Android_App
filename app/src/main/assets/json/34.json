@@ -1,0 +1,436 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "65221",
+            "Longitude": 103.90480763848863,
+            "Latitude": 1.40402842836975,
+            "RoadName": "Punggol Ctrl",
+            "Description": "BLK 303D"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "65089",
+            "Longitude": 103.90580511592151,
+            "Latitude": 1.4013394838038,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp Blk 296"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "65079",
+            "Longitude": 103.90474802293774,
+            "Latitude": 1.39893574516181,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 102C"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "65199",
+            "Longitude": 103.90542736761212,
+            "Latitude": 1.39591721161169,
+            "RoadName": "TPE",
+            "Description": "Aft Punggol Rd"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "75359",
+            "Longitude": 103.93147946559002,
+            "Latitude": 1.37438650022455,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "75369",
+            "Longitude": 103.93056528604264,
+            "Latitude": 1.37079630405212,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp HNS Micro Siltronic"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "75319",
+            "Longitude": 103.93106194445039,
+            "Latitude": 1.36720805556001,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp Tampines Dormitory"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "75299",
+            "Longitude": 103.93106617032824,
+            "Latitude": 1.36239101738996,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ave 9"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "75379",
+            "Longitude": 103.9309897702735,
+            "Latitude": 1.35943002306953,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ave 5"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "75171",
+            "Longitude": 103.9313,
+            "Latitude": 1.3575,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Aft Tampines Ave 9"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "75141",
+            "Longitude": 103.93377888890949,
+            "Latitude": 1.35625000000112,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 730"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "75131",
+            "Longitude": 103.93709646027764,
+            "Latitude": 1.35594818346107,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Bet Blks 701/702"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "75121",
+            "Longitude": 103.93903255460283,
+            "Latitude": 1.35593392058986,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Darul Ghufran Mque"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "76059",
+            "Longitude": 103.94165154852797,
+            "Latitude": 1.35296163572491,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Our Tampines Hub"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "76069",
+            "Longitude": 103.94208629087403,
+            "Latitude": 1.34875342114003,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 147"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "76071",
+            "Longitude": 103.94517805600674,
+            "Latitude": 1.34802638899143,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 141"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "76081",
+            "Longitude": 103.94932305553937,
+            "Latitude": 1.34950194446778,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Opp The Holy Trinity Ch"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "76091",
+            "Longitude": 103.95275166965992,
+            "Latitude": 1.35071636446812,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "76101",
+            "Longitude": 103.95480210652737,
+            "Latitude": 1.35303315550855,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Tampines East CC"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "76031",
+            "Longitude": 103.95529781026745,
+            "Latitude": 1.35507956918888,
+            "RoadName": "Tampines Ave 2",
+            "Description": "TAMPINES EAST STN EXIT B"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "76231",
+            "Longitude": 103.95736200626966,
+            "Latitude": 1.35666908955685,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Tampines JC/Opp Blk 390"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "76241",
+            "Longitude": 103.95917058122039,
+            "Latitude": 1.35845802746258,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 497D"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "95151",
+            "Longitude": 103.98181795541137,
+            "Latitude": 1.34209640049942,
+            "RoadName": "Airport Blvd",
+            "Description": "Airport Police Stn"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "95011",
+            "Longitude": 103.98406055558529,
+            "Latitude": 1.34719486317101,
+            "RoadName": "Airport Blvd",
+            "Description": "Bef Changi Airport PTB3"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "95109",
+            "Longitude": 103.98635233782801,
+            "Latitude": 1.35650049529119,
+            "RoadName": "PTB3 Basement",
+            "Description": "Changi Airport PTB3"
+        },
+        {
+            "Distance": 19.3,
+            "BusStopCode": "95029",
+            "Longitude": 103.99069984684058,
+            "Latitude": 1.36126748727797,
+            "RoadName": "PTB1 Basement",
+            "Description": "Changi Airport PTB1"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "95129",
+            "Longitude": 103.9892195407387,
+            "Latitude": 1.35509298857124,
+            "RoadName": "PTB2 Basement",
+            "Description": "Changi Airport PTB2"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "95019",
+            "Longitude": 103.98488339642644,
+            "Latitude": 1.34794299896363,
+            "RoadName": "Airport Blvd",
+            "Description": "Aft Changi Airport PTB2"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "95209",
+            "Longitude": 103.98206408704047,
+            "Latitude": 1.33899412275069,
+            "RoadName": "T4 CRESCENT",
+            "Description": "CHANGI AIRPORT PTB4"
+        },
+        {
+            "Distance": 24.1,
+            "BusStopCode": "95159",
+            "Longitude": 103.9823888759626,
+            "Latitude": 1.34203653965365,
+            "RoadName": "Airport Blvd",
+            "Description": "Near SATS Flight Kitchen"
+        },
+        {
+            "Distance": 28.5,
+            "BusStopCode": "76249",
+            "Longitude": 103.95947435534286,
+            "Latitude": 1.35836639849151,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 370"
+        },
+        {
+            "Distance": 28.8,
+            "BusStopCode": "76239",
+            "Longitude": 103.95752447018292,
+            "Latitude": 1.35646655532488,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 390/Opp Tampines JC"
+        },
+        {
+            "Distance": 29.1,
+            "BusStopCode": "76039",
+            "Longitude": 103.9555498102644,
+            "Latitude": 1.35506418976437,
+            "RoadName": "Tampines Ave 2",
+            "Description": "TAMPINES EAST STN EXIT C"
+        },
+        {
+            "Distance": 29.4,
+            "BusStopCode": "76109",
+            "Longitude": 103.9551184525466,
+            "Latitude": 1.35296639979416,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 29.9,
+            "BusStopCode": "76099",
+            "Longitude": 103.95249172187374,
+            "Latitude": 1.35026359502623,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 285"
+        },
+        {
+            "Distance": 30.4,
+            "BusStopCode": "76089",
+            "Longitude": 103.94923388889873,
+            "Latitude": 1.34916805553714,
+            "RoadName": "Tampines Ave 2",
+            "Description": "The Holy Trinity Ch"
+        },
+        {
+            "Distance": 30.9,
+            "BusStopCode": "76079",
+            "Longitude": 103.94563500000055,
+            "Latitude": 1.34794388891649,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 31.5,
+            "BusStopCode": "76061",
+            "Longitude": 103.94189805552267,
+            "Latitude": 1.3482019444416,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 938"
+        },
+        {
+            "Distance": 32,
+            "BusStopCode": "76051",
+            "Longitude": 103.9412639409046,
+            "Latitude": 1.35313809279079,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Our Tampines Hub"
+        },
+        {
+            "Distance": 32.5,
+            "BusStopCode": "75129",
+            "Longitude": 103.93936521711959,
+            "Latitude": 1.35563642049496,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Darul Ghufran Mque"
+        },
+        {
+            "Distance": 32.9,
+            "BusStopCode": "75139",
+            "Longitude": 103.93612503756641,
+            "Latitude": 1.35563964372785,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 863"
+        },
+        {
+            "Distance": 33.1,
+            "BusStopCode": "75149",
+            "Longitude": 103.93366388890493,
+            "Latitude": 1.35597194444127,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 867A"
+        },
+        {
+            "Distance": 33.4,
+            "BusStopCode": "75179",
+            "Longitude": 103.9317,
+            "Latitude": 1.357,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Bef Tampines Ave 9"
+        },
+        {
+            "Distance": 33.7,
+            "BusStopCode": "75371",
+            "Longitude": 103.93052373888251,
+            "Latitude": 1.35909826524265,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft Tampines Ave 5"
+        },
+        {
+            "Distance": 34,
+            "BusStopCode": "75291",
+            "Longitude": 103.93076720725303,
+            "Latitude": 1.36149182194897,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft Tampines Ave 9"
+        },
+        {
+            "Distance": 34.6,
+            "BusStopCode": "75311",
+            "Longitude": 103.93078207971784,
+            "Latitude": 1.36707803417357,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Tampines Dormitory"
+        },
+        {
+            "Distance": 35,
+            "BusStopCode": "75361",
+            "Longitude": 103.93030234430374,
+            "Latitude": 1.3706441545828,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ind Ave 5"
+        },
+        {
+            "Distance": 35.3,
+            "BusStopCode": "75351",
+            "Longitude": 103.93077504301999,
+            "Latitude": 1.37364163782281,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef TPE"
+        },
+        {
+            "Distance": 39.3,
+            "BusStopCode": "65191",
+            "Longitude": 103.90539999997036,
+            "Latitude": 1.39527356921611,
+            "RoadName": "TPE",
+            "Description": "Bef Punggol Rd"
+        },
+        {
+            "Distance": 39.8,
+            "BusStopCode": "65071",
+            "Longitude": 103.90416383740006,
+            "Latitude": 1.39845074063981,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp Blk 103A"
+        },
+        {
+            "Distance": 40.1,
+            "BusStopCode": "65081",
+            "Longitude": 103.90531038561681,
+            "Latitude": 1.40092158845981,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp Blk 199C"
+        },
+        {
+            "Distance": 40.4,
+            "BusStopCode": "65229",
+            "Longitude": 103.90556931496221,
+            "Latitude": 1.40320219454105,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Blk 298"
+        },
+        {
+            "Distance": 40.9,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (Last Stop)"
+        }
+    ]
+}

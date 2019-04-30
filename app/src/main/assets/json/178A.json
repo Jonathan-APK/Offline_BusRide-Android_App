@@ -1,0 +1,108 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "46291",
+            "Longitude": 103.78248384607947,
+            "Latitude": 1.4364014799639,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 106"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "46199",
+            "Longitude": 103.78065534399263,
+            "Latitude": 1.43955043252866,
+            "RoadName": "Marsiling Rise",
+            "Description": "Blk 120"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "46181",
+            "Longitude": 103.778867882596,
+            "Latitude": 1.44015882292646,
+            "RoadName": "Marsiling Rd",
+            "Description": "Opp Blk 12"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "46209",
+            "Longitude": 103.77727510649777,
+            "Latitude": 1.44025242879024,
+            "RoadName": "Marsiling Dr",
+            "Description": "Blk 2"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "46709",
+            "Longitude": 103.77554719559573,
+            "Latitude": 1.44144739085946,
+            "RoadName": "Marsiling Dr",
+            "Description": "Aft Blk 1"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "46119",
+            "Longitude": 103.77252382232057,
+            "Latitude": 1.44101545973486,
+            "RoadName": "Admiralty Rd",
+            "Description": "Marsiling CC"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "46091",
+            "Longitude": 103.77010864564294,
+            "Latitude": 1.43960616363191,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Town Gdn"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "46059",
+            "Longitude": 103.76656472079625,
+            "Latitude": 1.4387537800127,
+            "RoadName": "Woodlands Rd",
+            "Description": "Globalfoundries/Aft Bke"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "46049",
+            "Longitude": 103.76460658875827,
+            "Latitude": 1.43689983237469,
+            "RoadName": "Woodlands Rd",
+            "Description": "Globalfoundries"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "46039",
+            "Longitude": 103.76200180616921,
+            "Latitude": 1.4330873187738,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Kranji Lodge 1"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "46029",
+            "Longitude": 103.76226643430736,
+            "Latitude": 1.42861423605127,
+            "RoadName": "Woodlands Rd",
+            "Description": "Aft W'Lands Ind Pk D St 2"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "45139",
+            "Longitude": 103.76178101875855,
+            "Latitude": 1.42525961270458,
+            "RoadName": "Woodlands Rd",
+            "Description": "Kranji Stn"
+        }
+    ]
+}

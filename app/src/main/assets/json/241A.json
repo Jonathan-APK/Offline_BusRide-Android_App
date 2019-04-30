@@ -1,0 +1,76 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "27271",
+            "Longitude": 103.69132051378558,
+            "Latitude": 1.34199989028017,
+            "RoadName": "Jurong West St 91",
+            "Description": "Blk 962"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "27131",
+            "Longitude": 103.6885297219715,
+            "Latitude": 1.34193999997072,
+            "RoadName": "Jurong West St 91",
+            "Description": "Blk 932"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "27531",
+            "Longitude": 103.68697304819686,
+            "Latitude": 1.34052795177305,
+            "RoadName": "Jurong West St 91",
+            "Description": "Blk 918"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "27141",
+            "Longitude": 103.68779973857258,
+            "Latitude": 1.33967546710179,
+            "RoadName": "Jurong West St 91",
+            "Description": "Blk 920"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "27159",
+            "Longitude": 103.69005138898682,
+            "Latitude": 1.34033777802121,
+            "RoadName": "Jurong West St 92",
+            "Description": "Blk 924"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "27279",
+            "Longitude": 103.69119289371211,
+            "Latitude": 1.34210239034142,
+            "RoadName": "Jurong West St 91",
+            "Description": "Blk 953"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "27309",
+            "Longitude": 103.69426536144466,
+            "Latitude": 1.3410704693164,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "Blk 705"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "22459",
+            "Longitude": 103.69572041924057,
+            "Latitude": 1.33856290426228,
+            "RoadName": "Pioneer Rd Nth",
+            "Description": "Blk 643"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "22529",
+            "Longitude": 103.69728617102128,
+            "Latitude": 1.33777262767008,
+            "RoadName": "Jurong West St 63",
+            "Description": "Pioneer Stn Exit B"
+        }
+    ]
+}

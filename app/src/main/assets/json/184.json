@@ -1,0 +1,428 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "00481",
+            "Longitude": 103.7583,
+            "Latitude": 1.383764,
+            "RoadName": "Woodlands Rd",
+            "Description": "BT PANJANG TEMP BUS PK (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "44049",
+            "Longitude": 103.7608578414621,
+            "Latitude": 1.38103523807931,
+            "RoadName": "Woodlands Rd",
+            "Description": "Opp Ten Mile Junction Stn"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "44251",
+            "Longitude": 103.76227862094703,
+            "Latitude": 1.38033407967784,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 604"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "44241",
+            "Longitude": 103.76586096715347,
+            "Latitude": 1.38117443945082,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Opp Lompang Rd"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "44231",
+            "Longitude": 103.76933485417399,
+            "Latitude": 1.37916686797468,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Zhenghua Pr Sch"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "44229",
+            "Longitude": 103.771459794786,
+            "Latitude": 1.37656055754166,
+            "RoadName": "Pending Rd",
+            "Description": "Bef Pending Stn"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "43139",
+            "Longitude": 103.77029311221521,
+            "Latitude": 1.37322530507327,
+            "RoadName": "Cashew Rd",
+            "Description": "Opp Bt Panjang Pr Sch"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "43129",
+            "Longitude": 103.76760246505873,
+            "Latitude": 1.37162881663563,
+            "RoadName": "Cashew Rd",
+            "Description": "Cashew Pk Condo"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "43099",
+            "Longitude": 103.76498636840047,
+            "Latitude": 1.36872205121157,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Assumption Pathway Sch"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "43089",
+            "Longitude": 103.76608527288596,
+            "Latitude": 1.36705664197789,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Assumption Eng Sch"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "43069",
+            "Longitude": 103.76768583722071,
+            "Latitude": 1.36296778241046,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "HILLVIEW STN EXIT A"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "43059",
+            "Longitude": 103.7674364,
+            "Latitude": 1.359408611,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "The Rail Mall"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "43049",
+            "Longitude": 103.76885141403912,
+            "Latitude": 1.3556996199834,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp Hume Pk Condo"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "43029",
+            "Longitude": 103.77000849173528,
+            "Latitude": 1.35218580086883,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp The Hillside"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "43019",
+            "Longitude": 103.7710775,
+            "Latitude": 1.348201944,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Bt Timah Fire Stn"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "42119",
+            "Longitude": 103.77330275765884,
+            "Latitude": 1.34582513057916,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Southaven II"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "42109",
+            "Longitude": 103.7769164,
+            "Latitude": 1.343246111,
+            "RoadName": "Jln Anak Bt",
+            "Description": "Opp Beauty World Ctr"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "42089",
+            "Longitude": 103.77941451542826,
+            "Latitude": 1.34007090936874,
+            "RoadName": "Jln Anak Bt",
+            "Description": "Opp Bt Timah Plaza"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "42149",
+            "Longitude": 103.77862313710679,
+            "Latitude": 1.33607426889198,
+            "RoadName": "Clementi Rd",
+            "Description": "Aft Bt Timah Rd"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "12109",
+            "Longitude": 103.7780086,
+            "Latitude": 1.330819444,
+            "RoadName": "Clementi Rd",
+            "Description": "Opp Ngee Ann Poly"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "12099",
+            "Longitude": 103.7767036,
+            "Latitude": 1.327838056,
+            "RoadName": "Clementi Rd",
+            "Description": "Opp SIM HQ"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "12089",
+            "Longitude": 103.7757089,
+            "Latitude": 1.326261111,
+            "RoadName": "Clementi Rd",
+            "Description": "Opp Maju Camp"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "12079",
+            "Longitude": 103.77263094375739,
+            "Latitude": 1.32383187575187,
+            "RoadName": "Clementi Rd",
+            "Description": "Opp Blk 116"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "12069",
+            "Longitude": 103.7710419,
+            "Latitude": 1.321433056,
+            "RoadName": "Clementi Rd",
+            "Description": "Opp Blk 109A"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "17229",
+            "Longitude": 103.76824211745355,
+            "Latitude": 1.31728402491862,
+            "RoadName": "Clementi Ave 5",
+            "Description": "Blk 335"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "17179",
+            "Longitude": 103.76536000516927,
+            "Latitude": 1.31528191560846,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Clementi Stn"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "17169",
+            "Longitude": 103.76679666702314,
+            "Latitude": 1.31284527799656,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 329"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "17241",
+            "Longitude": 103.76905503649127,
+            "Latitude": 1.31519114798349,
+            "RoadName": "Clementi Ave 2",
+            "Description": "Blk 334"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "17111",
+            "Longitude": 103.77124639148465,
+            "Latitude": 1.31779809827118,
+            "RoadName": "Clementi Rd",
+            "Description": "Blk 343"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "12061",
+            "Longitude": 103.77087339859139,
+            "Latitude": 1.32178500189496,
+            "RoadName": "Clementi Rd",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "12071",
+            "Longitude": 103.77219388896603,
+            "Latitude": 1.32402249998323,
+            "RoadName": "Clementi Rd",
+            "Description": "Blk 116"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "12081",
+            "Longitude": 103.77543,
+            "Latitude": 1.326468056,
+            "RoadName": "Clementi Rd",
+            "Description": "Maju Camp"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "12091",
+            "Longitude": 103.7771471166854,
+            "Latitude": 1.32918315486756,
+            "RoadName": "Clementi Rd",
+            "Description": "SIM HQ"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "12101",
+            "Longitude": 103.77768506316727,
+            "Latitude": 1.33243896358504,
+            "RoadName": "Clementi Rd",
+            "Description": "Ngee Ann Poly"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "42141",
+            "Longitude": 103.77817465012919,
+            "Latitude": 1.33608648972914,
+            "RoadName": "Clementi Rd",
+            "Description": "Bef Dunearn Rd"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "42071",
+            "Longitude": 103.77694915592028,
+            "Latitude": 1.33876225175982,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Pei Hwa Presby Pr Sch"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "42091",
+            "Longitude": 103.77539033846315,
+            "Latitude": 1.34278636864291,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Beauty World Stn Exit B"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "42111",
+            "Longitude": 103.77262861101015,
+            "Latitude": 1.34584805601375,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "WOH HUP BLDG"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "43011",
+            "Longitude": 103.77118138899144,
+            "Latitude": 1.34742333297015,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bt Regency"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "43021",
+            "Longitude": 103.76979529427526,
+            "Latitude": 1.35132007773328,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Old Jurong Rd"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "43041",
+            "Longitude": 103.76845331635313,
+            "Latitude": 1.35582940983395,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Hume Pk Condo"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "43051",
+            "Longitude": 103.76705036241354,
+            "Latitude": 1.35910148170791,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp The Rail Mall"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "43061",
+            "Longitude": 103.76739148459211,
+            "Latitude": 1.36301133873589,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Hillview Stn"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "43071",
+            "Longitude": 103.76698012950051,
+            "Latitude": 1.36511351504744,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp Dairy Farm Rd"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "43081",
+            "Longitude": 103.76572777796798,
+            "Latitude": 1.36704277799302,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp Assumption Eng Sch"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "43121",
+            "Longitude": 103.76669327756966,
+            "Latitude": 1.37118669285497,
+            "RoadName": "Cashew Rd",
+            "Description": "Aft Cashew Terr"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "43131",
+            "Longitude": 103.7700624999975,
+            "Latitude": 1.37331749997168,
+            "RoadName": "Cashew Rd",
+            "Description": "Bt Panjang Pr Sch"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "44221",
+            "Longitude": 103.77099428887409,
+            "Latitude": 1.3762995851872,
+            "RoadName": "Pending Rd",
+            "Description": "Opp Pending Stn"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "44239",
+            "Longitude": 103.76983083299403,
+            "Latitude": 1.37846111098819,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Opp Zhenghua Pr Sch"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "44249",
+            "Longitude": 103.76649141308671,
+            "Latitude": 1.38049595009817,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 174"
+        },
+        {
+            "Distance": 21.9,
+            "BusStopCode": "44259",
+            "Longitude": 103.76297124601712,
+            "Latitude": 1.38029564329691,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 183"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "44041",
+            "Longitude": 103.7603697770399,
+            "Latitude": 1.3809505774787,
+            "RoadName": "Woodlands Rd",
+            "Description": "Ten Mile Junction Stn"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "00481",
+            "Longitude": 103.7583,
+            "Latitude": 1.383764,
+            "RoadName": "Woodlands Rd",
+            "Description": "BT PANJANG TEMP BUS PK (Last Stop)"
+        }
+    ]
+}

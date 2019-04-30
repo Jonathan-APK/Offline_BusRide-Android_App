@@ -1,0 +1,396 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "02099",
+            "Longitude": 103.86255772172497,
+            "Latitude": 1.29101661693418,
+            "RoadName": "Raffles Blvd",
+            "Description": "Marina Ctr Ter"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "02101",
+            "Longitude": 103.8618029276249,
+            "Latitude": 1.28939197625331,
+            "RoadName": "Raffles Ave",
+            "Description": "AFT S'PORE FLYER"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "02051",
+            "Longitude": 103.85903388899317,
+            "Latitude": 1.2895030556082,
+            "RoadName": "Raffles Ave",
+            "Description": "Seating Gallery"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "02061",
+            "Longitude": 103.85640388886262,
+            "Latitude": 1.2899638888957,
+            "RoadName": "Raffles Ave",
+            "Description": "The Esplanade"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "04167",
+            "Longitude": 103.85145315468638,
+            "Latitude": 1.29250006522444,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "City Hall Stn Exit B"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "04249",
+            "Longitude": 103.85026216508201,
+            "Latitude": 1.29043039362749,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "Opp The Treasury"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "05029",
+            "Longitude": 103.84833343750249,
+            "Latitude": 1.28724656561704,
+            "RoadName": "Sth Bridge Rd",
+            "Description": "Boat Quay"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "04222",
+            "Longitude": 103.84708976365569,
+            "Latitude": 1.28898962180798,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Clarke Quay Stn Exit E"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "04211",
+            "Longitude": 103.84712444398055,
+            "Latitude": 1.29043611099357,
+            "RoadName": "River Valley Rd",
+            "Description": "Clarke Quay"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "04331",
+            "Longitude": 103.84504089382705,
+            "Latitude": 1.29183939431601,
+            "RoadName": "River Valley Rd",
+            "Description": "BEF FORT CANNING STN"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "13109",
+            "Longitude": 103.84272416702719,
+            "Latitude": 1.29350944398488,
+            "RoadName": "River Valley Rd",
+            "Description": "UE Sq"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "13099",
+            "Longitude": 103.83961272081199,
+            "Latitude": 1.29578024244395,
+            "RoadName": "River Valley Rd",
+            "Description": "BEF KIM YAM RD"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "08121",
+            "Longitude": 103.83877618459663,
+            "Latitude": 1.30027569326586,
+            "RoadName": "Somerset Rd",
+            "Description": "Somerset Stn"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "09011",
+            "Longitude": 103.83431672376756,
+            "Latitude": 1.30211335092372,
+            "RoadName": "Orchard Turn",
+            "Description": "Opp Ngee Ann City"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "09023",
+            "Longitude": 103.83254180023424,
+            "Latitude": 1.30323727330942,
+            "RoadName": "Orchard Turn",
+            "Description": "Opp Orchard Stn/ION"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "09212",
+            "Longitude": 103.83265522662566,
+            "Latitude": 1.30702238421536,
+            "RoadName": "Scotts Rd",
+            "Description": "Royal Plaza On Scotts"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "09213",
+            "Longitude": 103.83305083303023,
+            "Latitude": 1.30783805600034,
+            "RoadName": "Scotts Rd",
+            "Description": "Thong Teck Bldg"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "40191",
+            "Longitude": 103.8304269440197,
+            "Latitude": 1.31268555601325,
+            "RoadName": "Stevens Rd",
+            "Description": "Raffles Girls' Sch"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "40201",
+            "Longitude": 103.82743055599407,
+            "Latitude": 1.31358972201496,
+            "RoadName": "Stevens Rd",
+            "Description": "Chelsea Gdns Condo"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "40211",
+            "Longitude": 103.825862990405,
+            "Latitude": 1.31655331624558,
+            "RoadName": "Stevens Rd",
+            "Description": "Opp Met YMCA"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "40221",
+            "Longitude": 103.82545561296305,
+            "Latitude": 1.31902531287493,
+            "RoadName": "Stevens Rd",
+            "Description": "Opp Stevens Stn"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "40231",
+            "Longitude": 103.82568817714628,
+            "Latitude": 1.32214806956461,
+            "RoadName": "Whitley Rd",
+            "Description": "Raffles Town Club"
+        },
+        {
+            "Distance": 26.2,
+            "BusStopCode": "46069",
+            "Longitude": 103.76933833799299,
+            "Latitude": 1.44288948418349,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "W'Lands Train Checkpt"
+        },
+        {
+            "Distance": 26.5,
+            "BusStopCode": "46088",
+            "Longitude": 103.77108660594439,
+            "Latitude": 1.44180914262822,
+            "RoadName": "Woodlands Ctr Rd",
+            "Description": "Opp Blk 1A"
+        },
+        {
+            "Distance": 26.9,
+            "BusStopCode": "46111",
+            "Longitude": 103.77372416702165,
+            "Latitude": 1.44132222201705,
+            "RoadName": "Admiralty Rd",
+            "Description": "Blk 23"
+        },
+        {
+            "Distance": 27.4,
+            "BusStopCode": "46201",
+            "Longitude": 103.77680238652405,
+            "Latitude": 1.44071020952285,
+            "RoadName": "Marsiling Dr",
+            "Description": "Blk 10"
+        },
+        {
+            "Distance": 27.6,
+            "BusStopCode": "46189",
+            "Longitude": 103.77854042726402,
+            "Latitude": 1.44008271628617,
+            "RoadName": "Marsiling Rd",
+            "Description": "Blk 12"
+        },
+        {
+            "Distance": 27.9,
+            "BusStopCode": "46191",
+            "Longitude": 103.78053807087814,
+            "Latitude": 1.43978268235949,
+            "RoadName": "Marsiling Rise",
+            "Description": "Opp Blk 120"
+        },
+        {
+            "Distance": 28.9,
+            "BusStopCode": "46279",
+            "Longitude": 103.78690125681027,
+            "Latitude": 1.44021958652464,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 803"
+        },
+        {
+            "Distance": 29.3,
+            "BusStopCode": "46281",
+            "Longitude": 103.79002589502426,
+            "Latitude": 1.43878695707764,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 825"
+        },
+        {
+            "Distance": 29.7,
+            "BusStopCode": "46391",
+            "Longitude": 103.79299454006805,
+            "Latitude": 1.43921765358175,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 853"
+        },
+        {
+            "Distance": 30.1,
+            "BusStopCode": "46691",
+            "Longitude": 103.79587886684328,
+            "Latitude": 1.43823132518893,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Opp 888 Plaza"
+        },
+        {
+            "Distance": 30.4,
+            "BusStopCode": "46689",
+            "Longitude": 103.79601265965388,
+            "Latitude": 1.43587054546915,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 609"
+        },
+        {
+            "Distance": 30.7,
+            "BusStopCode": "47571",
+            "Longitude": 103.79639715585557,
+            "Latitude": 1.43349024051919,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 618"
+        },
+        {
+            "Distance": 31,
+            "BusStopCode": "47561",
+            "Longitude": 103.79885163626874,
+            "Latitude": 1.43320820124698,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 620"
+        },
+        {
+            "Distance": 31.4,
+            "BusStopCode": "47551",
+            "Longitude": 103.80188755233279,
+            "Latitude": 1.43472623786722,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 630"
+        },
+        {
+            "Distance": 31.9,
+            "BusStopCode": "47541",
+            "Longitude": 103.80334162830194,
+            "Latitude": 1.43789201937501,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 639"
+        },
+        {
+            "Distance": 32.1,
+            "BusStopCode": "47591",
+            "Longitude": 103.8025081158021,
+            "Latitude": 1.43973872693624,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 680"
+        },
+        {
+            "Distance": 32.5,
+            "BusStopCode": "47601",
+            "Longitude": 103.80304911976373,
+            "Latitude": 1.44211880036977,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 793"
+        },
+        {
+            "Distance": 32.9,
+            "BusStopCode": "47611",
+            "Longitude": 103.80622284389754,
+            "Latitude": 1.44388706173517,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Woodsvale Condo"
+        },
+        {
+            "Distance": 33.5,
+            "BusStopCode": "58301",
+            "Longitude": 103.81055057568135,
+            "Latitude": 1.44485650594175,
+            "RoadName": "Gambas Ave",
+            "Description": "3M Bldg"
+        },
+        {
+            "Distance": 35.1,
+            "BusStopCode": "58391",
+            "Longitude": 103.82241222202445,
+            "Latitude": 1.44426472199698,
+            "RoadName": "Sembawang Ave",
+            "Description": "Blk 303"
+        },
+        {
+            "Distance": 35.4,
+            "BusStopCode": "58101",
+            "Longitude": 103.82282277802054,
+            "Latitude": 1.44667277800811,
+            "RoadName": "Canberra Rd",
+            "Description": "Blk 311"
+        },
+        {
+            "Distance": 35.6,
+            "BusStopCode": "58151",
+            "Longitude": 103.82201343608213,
+            "Latitude": 1.44835904274406,
+            "RoadName": "Canberra Rd",
+            "Description": "Bef Sembawang Stn"
+        },
+        {
+            "Distance": 35.9,
+            "BusStopCode": "58111",
+            "Longitude": 103.82075231895968,
+            "Latitude": 1.45096272310028,
+            "RoadName": "Canberra Rd",
+            "Description": "Blk 351 CP"
+        },
+        {
+            "Distance": 36.2,
+            "BusStopCode": "58421",
+            "Longitude": 103.81902919989243,
+            "Latitude": 1.4513061244853,
+            "RoadName": "Admiralty Dr",
+            "Description": "Blk 353"
+        },
+        {
+            "Distance": 36.4,
+            "BusStopCode": "58311",
+            "Longitude": 103.81810459422103,
+            "Latitude": 1.4501979542693,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 354 CP"
+        },
+        {
+            "Distance": 36.7,
+            "BusStopCode": "58251",
+            "Longitude": 103.81895207486829,
+            "Latitude": 1.44803148822713,
+            "RoadName": "Sembawang Dr",
+            "Description": "Sun Plaza"
+        },
+        {
+            "Distance": 37,
+            "BusStopCode": "58291",
+            "Longitude": 103.8199449173096,
+            "Latitude": 1.44579319988216,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 317"
+        }
+    ]
+}

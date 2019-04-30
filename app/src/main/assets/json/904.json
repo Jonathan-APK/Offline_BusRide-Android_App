@@ -1,0 +1,156 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "46281",
+            "Longitude": 103.79002589502426,
+            "Latitude": 1.43878695707764,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 825"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "46391",
+            "Longitude": 103.79299454006805,
+            "Latitude": 1.43921765358175,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 853"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "46761",
+            "Longitude": 103.79740027801978,
+            "Latitude": 1.43964444400977,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 706"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "46771",
+            "Longitude": 103.80018670656507,
+            "Latitude": 1.44088808355944,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Opp Admiralty Stn"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "47599",
+            "Longitude": 103.80263149734922,
+            "Latitude": 1.4399264222862,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 683A"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "47641",
+            "Longitude": 103.80372860775078,
+            "Latitude": 1.43923143369845,
+            "RoadName": "Woodlands Dr 62",
+            "Description": "Blk 681A"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "47651",
+            "Longitude": 103.80525516994503,
+            "Latitude": 1.4416971090803,
+            "RoadName": "Woodlands Dr 73",
+            "Description": "Blk 684B"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "47661",
+            "Longitude": 103.80275437815418,
+            "Latitude": 1.44445189092675,
+            "RoadName": "Woodlands Cres",
+            "Description": "Blk 788E"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "47671",
+            "Longitude": 103.80365132611001,
+            "Latitude": 1.44634317378069,
+            "RoadName": "Woodlands Cres",
+            "Description": "Opp Admiralty Sec Sch"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "47681",
+            "Longitude": 103.80448623998072,
+            "Latitude": 1.44457845619804,
+            "RoadName": "Woodlands Cres",
+            "Description": "Woodsvale Condo"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "47659",
+            "Longitude": 103.80545909188204,
+            "Latitude": 1.44146349893337,
+            "RoadName": "Woodlands Dr 73",
+            "Description": "Blk 685A"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "47649",
+            "Longitude": 103.8036760000029,
+            "Latitude": 1.43909453192901,
+            "RoadName": "Woodlands Dr 62",
+            "Description": "Opp Blk 681B"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "47591",
+            "Longitude": 103.8025081158021,
+            "Latitude": 1.43973872693624,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 680"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "46779",
+            "Longitude": 103.80070754495145,
+            "Latitude": 1.44071357576488,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Admiralty Stn"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "46769",
+            "Longitude": 103.79735798460473,
+            "Latitude": 1.43935103379454,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 666"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "46399",
+            "Longitude": 103.79423705109248,
+            "Latitude": 1.43896035246776,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Aft 888 Plaza"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "46289",
+            "Longitude": 103.79091198323174,
+            "Latitude": 1.43872239825648,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 891C CP"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (Last Stop)"
+        }
+    ]
+}

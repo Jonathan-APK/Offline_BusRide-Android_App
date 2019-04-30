@@ -1,0 +1,148 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "63261",
+            "Longitude": 103.88913833298105,
+            "Latitude": 1.35896472197244,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Opp Blk 232"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "63271",
+            "Longitude": 103.88997632456076,
+            "Latitude": 1.35639501261001,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Blk 239"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "63281",
+            "Longitude": 103.8898808330127,
+            "Latitude": 1.3541297220266,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Blk 105 Mkt/FC"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "63291",
+            "Longitude": 103.88785804760475,
+            "Latitude": 1.35225002342978,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Opp Blk 115"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "63301",
+            "Longitude": 103.88531199399267,
+            "Latitude": 1.35149473186732,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Paya Lebar Girls' Sch"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "62221",
+            "Longitude": 103.88255343944132,
+            "Latitude": 1.35090140225527,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Opp The Minton"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "62051",
+            "Longitude": 103.87775496869286,
+            "Latitude": 1.35170429575719,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Jln Chermat"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "63141",
+            "Longitude": 103.87491322643768,
+            "Latitude": 1.35404612202219,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "66379",
+            "Longitude": 103.87285801649963,
+            "Latitude": 1.35339155862192,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "66359",
+            "Longitude": 103.87328604946424,
+            "Latitude": 1.35080698547823,
+            "RoadName": "S'goon Ctrl",
+            "Description": "S'Goon Stn Exit C/Blk 201"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "62141",
+            "Longitude": 103.87515194713767,
+            "Latitude": 1.35149112412235,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 1"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "62059",
+            "Longitude": 103.87859583297927,
+            "Latitude": 1.35170138896709,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Blk 161"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "62229",
+            "Longitude": 103.88212234368397,
+            "Latitude": 1.35108999372692,
+            "RoadName": "Lor Ah Soo",
+            "Description": "The Minton"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "63309",
+            "Longitude": 103.88581055600547,
+            "Latitude": 1.35205944401441,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Opp Paya Lebar Girls' Sch"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "63299",
+            "Longitude": 103.88833522800789,
+            "Latitude": 1.35263165715857,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Blk 115"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "63289",
+            "Longitude": 103.88966083299925,
+            "Latitude": 1.3540116670036,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Aljunied CC"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "63279",
+            "Longitude": 103.88983499998875,
+            "Latitude": 1.35623805601182,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Opp Yuying Sec Sch"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "63269",
+            "Longitude": 103.88905763623875,
+            "Latitude": 1.35875481272429,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Blk 232"
+        }
+    ]
+}

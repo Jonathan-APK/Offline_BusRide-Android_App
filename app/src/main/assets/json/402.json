@@ -1,0 +1,124 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03239",
+            "Longitude": 103.84756721372408,
+            "Latitude": 1.27464226961973,
+            "RoadName": "Shenton Way",
+            "Description": "Shenton Way Ter (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "03223",
+            "Longitude": 103.84632468221952,
+            "Latitude": 1.2757033952327,
+            "RoadName": "Anson Rd",
+            "Description": "Intl Plaza"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "03151",
+            "Longitude": 103.84776234627124,
+            "Latitude": 1.27892124625262,
+            "RoadName": "Cecil St",
+            "Description": "Opp GB Bldg"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "03381",
+            "Longitude": 103.85306513725685,
+            "Latitude": 1.28162601329006,
+            "RoadName": "Marina Blvd",
+            "Description": "The Sail"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "03391",
+            "Longitude": 103.85498006767988,
+            "Latitude": 1.28037660340352,
+            "RoadName": "Marina Blvd",
+            "Description": "Marina Bay Financial Ctr"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "03331",
+            "Longitude": 103.86076808024792,
+            "Latitude": 1.27663307202767,
+            "RoadName": "Marina Blvd",
+            "Description": "Bef Marina Gdns Dr"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "03419",
+            "Longitude": 103.86297693157816,
+            "Latitude": 1.27127698470973,
+            "RoadName": "Marina Coastal Dr",
+            "Description": "Marina Sth Pier"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "03421",
+            "Longitude": 103.85964778134667,
+            "Latitude": 1.26694090294712,
+            "RoadName": "Marina Coastal Dr",
+            "Description": "Marina Bay Cruise Ctr"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "03411",
+            "Longitude": 103.86300900488229,
+            "Latitude": 1.27159299884076,
+            "RoadName": "Marina Coastal Dr",
+            "Description": "Opp Marina Sth Pier"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "03339",
+            "Longitude": 103.85950016250487,
+            "Latitude": 1.27498516412784,
+            "RoadName": "Central Blvd",
+            "Description": "Aft Marina Gdns Dr"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "03539",
+            "Longitude": 103.85561610012866,
+            "Latitude": 1.2775330547661,
+            "RoadName": "Central Blvd",
+            "Description": "Marina Bay Stn"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "03529",
+            "Longitude": 103.85278769921703,
+            "Latitude": 1.27939957419063,
+            "RoadName": "Central Blvd",
+            "Description": "Downtown Stn"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "03239",
+            "Longitude": 103.84756721372408,
+            "Latitude": 1.27464226961973,
+            "RoadName": "Shenton Way",
+            "Description": "Shenton Way Ter (Last Stop)"
+        }
+    ]
+}

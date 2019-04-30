@@ -1,0 +1,148 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "46281",
+            "Longitude": 103.79002589502426,
+            "Latitude": 1.43878695707764,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 825"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "46391",
+            "Longitude": 103.79299454006805,
+            "Latitude": 1.43921765358175,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 853"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "46691",
+            "Longitude": 103.79587886684328,
+            "Latitude": 1.43823132518893,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Opp 888 Plaza"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "46689",
+            "Longitude": 103.79601265965388,
+            "Latitude": 1.43587054546915,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 609"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "46651",
+            "Longitude": 103.79455264522785,
+            "Latitude": 1.43298096854241,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 550"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "46951",
+            "Longitude": 103.79133300087983,
+            "Latitude": 1.43143692171434,
+            "RoadName": "Woodlands Dr 14",
+            "Description": "Blk 536A"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "58461",
+            "Longitude": 103.79044555841314,
+            "Latitude": 1.42965591818928,
+            "RoadName": "Champions Way",
+            "Description": "Innova Pr Sch"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "58479",
+            "Longitude": 103.78977121023533,
+            "Latitude": 1.4283363281994,
+            "RoadName": "Woodlands Dr 17",
+            "Description": "Aft Innova Pr Sch"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "58449",
+            "Longitude": 103.78906720963263,
+            "Latitude": 1.4270920469684,
+            "RoadName": "Champions Way",
+            "Description": "S'pore Sports Sch"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "58439",
+            "Longitude": 103.78833922258168,
+            "Latitude": 1.42857896419364,
+            "RoadName": "Champions Way",
+            "Description": "Innova JC"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "46969",
+            "Longitude": 103.79269972105995,
+            "Latitude": 1.43059181782407,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 532"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "46659",
+            "Longitude": 103.79414300304941,
+            "Latitude": 1.43269272771322,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Opp Blk 550"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "46681",
+            "Longitude": 103.79577696652271,
+            "Latitude": 1.4357329097814,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 899A"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "46699",
+            "Longitude": 103.79566316043969,
+            "Latitude": 1.43769989889611,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "888 Plaza"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "46399",
+            "Longitude": 103.79423705109248,
+            "Latitude": 1.43896035246776,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Aft 888 Plaza"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "46289",
+            "Longitude": 103.79091198323174,
+            "Latitude": 1.43872239825648,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 891C CP"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (Last Stop)"
+        }
+    ]
+}

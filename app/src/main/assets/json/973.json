@@ -1,0 +1,236 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "45009",
+            "Longitude": 103.76291779489557,
+            "Latitude": 1.37844139790821,
+            "RoadName": "Petir Rd",
+            "Description": "BT PANJANG INT (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "44241",
+            "Longitude": 103.76586096715347,
+            "Latitude": 1.38117443945082,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Opp Lompang Rd"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "44231",
+            "Longitude": 103.76933485417399,
+            "Latitude": 1.37916686797468,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Zhenghua Pr Sch"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "44229",
+            "Longitude": 103.771459794786,
+            "Latitude": 1.37656055754166,
+            "RoadName": "Pending Rd",
+            "Description": "Bef Pending Stn"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "44371",
+            "Longitude": 103.77263963002856,
+            "Latitude": 1.37402225721945,
+            "RoadName": "Petir Rd",
+            "Description": "Blk 219"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "44381",
+            "Longitude": 103.77441361028244,
+            "Latitude": 1.37242134216992,
+            "RoadName": "Petir Rd",
+            "Description": "Blk 202"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "44351",
+            "Longitude": 103.77558853634072,
+            "Latitude": 1.36823452426378,
+            "RoadName": "Petir Rd",
+            "Description": "Aft Chestnut Ave"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "44361",
+            "Longitude": 103.77558768232717,
+            "Latitude": 1.36645894982356,
+            "RoadName": "Petir Rd",
+            "Description": "Bef Dairy Farm Rd"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "43969",
+            "Longitude": 103.7725931,
+            "Latitude": 1.36463,
+            "RoadName": "Dairy Farm Rd",
+            "Description": "BEF DAIRY FARM HTS"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "43899",
+            "Longitude": 103.769,
+            "Latitude": 1.363535,
+            "RoadName": "Dairy Farm Rd",
+            "Description": "BEF DAIRY FARM CRES"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "43069",
+            "Longitude": 103.76768583722071,
+            "Latitude": 1.36296778241046,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "HILLVIEW STN EXIT A"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "43279",
+            "Longitude": 103.76591020179649,
+            "Latitude": 1.36203855984679,
+            "RoadName": "Hillview Rd",
+            "Description": "Aft Hillview Stn"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "43268",
+            "Longitude": 103.76427530511685,
+            "Latitude": 1.36036935442362,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillington Green Condo"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "43811",
+            "Longitude": 103.76492799419663,
+            "Latitude": 1.35839109999144,
+            "RoadName": "Hume Ave",
+            "Description": "Bef Summerhill"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "43821",
+            "Longitude": 103.7675828524089,
+            "Latitude": 1.35675369196927,
+            "RoadName": "Hume Ave",
+            "Description": "Opp Symphony Hts"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "43041",
+            "Longitude": 103.76845331635313,
+            "Latitude": 1.35582940983395,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Hume Pk Condo"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "43051",
+            "Longitude": 103.76705036241354,
+            "Latitude": 1.35910148170791,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp The Rail Mall"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "42991",
+            "Longitude": 103.766952,
+            "Latitude": 1.36164,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "BEF HILLVIEW STN EXIT B"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "43891",
+            "Longitude": 103.7692319,
+            "Latitude": 1.363698889,
+            "RoadName": "Dairy Farm Rd",
+            "Description": "AFT DAIRY FARM CRES"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "43961",
+            "Longitude": 103.7729861,
+            "Latitude": 1.364838889,
+            "RoadName": "Dairy Farm Rd",
+            "Description": "AFT DAIRY FARM HTS"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "44369",
+            "Longitude": 103.7753149073364,
+            "Latitude": 1.36574284265165,
+            "RoadName": "Petir Rd",
+            "Description": "Aft Dairy Farm Rd"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "44359",
+            "Longitude": 103.77530877476855,
+            "Latitude": 1.36772582083696,
+            "RoadName": "Petir Rd",
+            "Description": "Bef Chestnut Ave"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "44389",
+            "Longitude": 103.77461859337586,
+            "Latitude": 1.37154303506556,
+            "RoadName": "Petir Rd",
+            "Description": "Opp Blk 201"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "44379",
+            "Longitude": 103.77293526626733,
+            "Latitude": 1.37355053515267,
+            "RoadName": "Petir Rd",
+            "Description": "Opp Blk 219"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "44221",
+            "Longitude": 103.77099428887409,
+            "Latitude": 1.3762995851872,
+            "RoadName": "Pending Rd",
+            "Description": "Opp Pending Stn"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "44239",
+            "Longitude": 103.76983083299403,
+            "Latitude": 1.37846111098819,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Opp Zhenghua Pr Sch"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "44249",
+            "Longitude": 103.76649141308671,
+            "Latitude": 1.38049595009817,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 174"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "44639",
+            "Longitude": 103.76396027777982,
+            "Latitude": 1.38006972221146,
+            "RoadName": "Jelebu Rd",
+            "Description": "Bt Panjang Plaza"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "45009",
+            "Longitude": 103.76291779489557,
+            "Latitude": 1.37844139790821,
+            "RoadName": "Petir Rd",
+            "Description": "BT PANJANG INT (Last Stop)"
+        }
+    ]
+}

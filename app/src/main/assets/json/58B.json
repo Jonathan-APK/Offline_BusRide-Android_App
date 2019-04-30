@@ -1,0 +1,196 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "77191",
+            "Longitude": 103.94602815996554,
+            "Latitude": 1.37654807606486,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 500A"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "77201",
+            "Longitude": 103.94276350247947,
+            "Latitude": 1.37864001176536,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Aft Blk 601"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "77211",
+            "Longitude": 103.94094544562029,
+            "Latitude": 1.37999169580419,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 626"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "77251",
+            "Longitude": 103.93864433688064,
+            "Latitude": 1.38223834152443,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 713"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "77261",
+            "Longitude": 103.93615875590504,
+            "Latitude": 1.38285811735056,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Blk 717"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "77271",
+            "Longitude": 103.9349613837619,
+            "Latitude": 1.38058998439068,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Aft Pasir Ris St 72"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "77331",
+            "Longitude": 103.93338764757789,
+            "Latitude": 1.3782973982979,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Blk 747A"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "75359",
+            "Longitude": 103.93147946559002,
+            "Latitude": 1.37438650022455,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "75369",
+            "Longitude": 103.93056528604264,
+            "Latitude": 1.37079630405212,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp HNS Micro Siltronic"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "75319",
+            "Longitude": 103.93106194445039,
+            "Latitude": 1.36720805556001,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp Tampines Dormitory"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "75299",
+            "Longitude": 103.93106617032824,
+            "Latitude": 1.36239101738996,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ave 9"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "75379",
+            "Longitude": 103.9309897702735,
+            "Latitude": 1.35943002306953,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ave 5"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "84481",
+            "Longitude": 103.91532871743395,
+            "Latitude": 1.33753167256033,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Bedok Ind Pk C"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "84701",
+            "Longitude": 103.91214210205735,
+            "Latitude": 1.33601304352046,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "72031",
+            "Longitude": 103.9099203114682,
+            "Latitude": 1.33521859078695,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "BEF KAKI BT STN EXIT B"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "72041",
+            "Longitude": 103.90743417265202,
+            "Latitude": 1.33470286981513,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Blk 660A CP"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "72051",
+            "Longitude": 103.90412516288117,
+            "Latitude": 1.33343973211343,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Kaki Bt Ind Est"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "71089",
+            "Longitude": 103.90097214917817,
+            "Latitude": 1.33291479894363,
+            "RoadName": "Eunos Link",
+            "Description": "Opp Eunos Technolink"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "70079",
+            "Longitude": 103.89851833301576,
+            "Latitude": 1.33372166698373,
+            "RoadName": "Ubi Ave 3",
+            "Description": "Aft Regent Motors"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "70089",
+            "Longitude": 103.89443953236938,
+            "Latitude": 1.33187702164512,
+            "RoadName": "Ubi Ave 3",
+            "Description": "HDB CP"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "70099",
+            "Longitude": 103.89132142065273,
+            "Latitude": 1.33063155191578,
+            "RoadName": "Ubi Ave 3",
+            "Description": "Traffic Police"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "70271",
+            "Longitude": 103.88931512831826,
+            "Latitude": 1.33078171512111,
+            "RoadName": "Paya Lebar Rd",
+            "Description": "Le Crescendo"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "70281",
+            "Longitude": 103.8879999999696,
+            "Latitude": 1.33530627797371,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Aft Tai Seng Stn"
+        }
+    ]
+}

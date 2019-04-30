@@ -1,0 +1,366 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "64389",
+            "Longitude": 103.89156818388481,
+            "Latitude": 1.37313809346006,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 522"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "64379",
+            "Longitude": 103.89266306129461,
+            "Latitude": 1.37468500843171,
+            "RoadName": "Hougang Ave 6",
+            "Description": "Punggol CC"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "64369",
+            "Longitude": 103.89149353867691,
+            "Latitude": 1.37634448413795,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 532"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "64359",
+            "Longitude": 103.88918760776436,
+            "Latitude": 1.37528677811119,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Montfort Sch"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "64349",
+            "Longitude": 103.88673982857989,
+            "Latitude": 1.37291834719604,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 502"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "64411",
+            "Longitude": 103.88503406200056,
+            "Latitude": 1.37353273194871,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 670"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "64601",
+            "Longitude": 103.8845866729986,
+            "Latitude": 1.37548640364406,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 919"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "64611",
+            "Longitude": 103.88445923003084,
+            "Latitude": 1.37837333826782,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 913"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "64469",
+            "Longitude": 103.88576472203239,
+            "Latitude": 1.3795683329839,
+            "RoadName": "Buangkok Green",
+            "Description": "Opp Blk 579"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "64629",
+            "Longitude": 103.88805638900106,
+            "Latitude": 1.38153999996628,
+            "RoadName": "Buangkok Green",
+            "Description": "Opp Blk 565"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "67459",
+            "Longitude": 103.88911083301012,
+            "Latitude": 1.38288638899819,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Aft Buangkok Dr"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "67469",
+            "Longitude": 103.8907421565758,
+            "Latitude": 1.38533638989648,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Bef Sengkang East Ave"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "67279",
+            "Longitude": 103.89167879073923,
+            "Latitude": 1.38809305404187,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Blk 301D"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "67449",
+            "Longitude": 103.89307115004729,
+            "Latitude": 1.39203289077574,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Blk 323B"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "67401",
+            "Longitude": 103.89531738456282,
+            "Latitude": 1.39290842289238,
+            "RoadName": "Sengkang East Way",
+            "Description": "Opp Sengkang Stn/Blk 260A"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "67101",
+            "Longitude": 103.89956953538392,
+            "Latitude": 1.39143144034973,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 250A"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "65061",
+            "Longitude": 103.9018594759131,
+            "Latitude": 1.39490129020977,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 298A"
+        },
+        {
+            "Distance": 22.5,
+            "BusStopCode": "46229",
+            "Longitude": 103.78706868583511,
+            "Latitude": 1.43013056874728,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Opp Innova JC"
+        },
+        {
+            "Distance": 22.9,
+            "BusStopCode": "46339",
+            "Longitude": 103.78798319246935,
+            "Latitude": 1.43352632033198,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 370"
+        },
+        {
+            "Distance": 23.3,
+            "BusStopCode": "46639",
+            "Longitude": 103.78884919678751,
+            "Latitude": 1.43702205360453,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Opp Blk 892C CP"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "46631",
+            "Longitude": 103.78915264291737,
+            "Latitude": 1.43689297551872,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 892C CP"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "46331",
+            "Longitude": 103.78816378743082,
+            "Latitude": 1.43314769562187,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 511"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "46221",
+            "Longitude": 103.78759769642132,
+            "Latitude": 1.4309096816047,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Innova JC"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "65069",
+            "Longitude": 103.90236824858533,
+            "Latitude": 1.39504382175966,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 190C"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "65059",
+            "Longitude": 103.90129355204087,
+            "Latitude": 1.39308440832899,
+            "RoadName": "Punggol Rd",
+            "Description": "St. Anne's Ch"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "67109",
+            "Longitude": 103.89998669813552,
+            "Latitude": 1.39102885574104,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 235"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "67409",
+            "Longitude": 103.89606816606354,
+            "Latitude": 1.3923391568303,
+            "RoadName": "Sengkang East Way",
+            "Description": "Sengkang Stn"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "67441",
+            "Longitude": 103.8934666647416,
+            "Latitude": 1.3923095386042,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Sengkang Community Hub"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "67271",
+            "Longitude": 103.89208955744495,
+            "Latitude": 1.38825138740075,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Blk 201 CP"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "67461",
+            "Longitude": 103.89121528705635,
+            "Latitude": 1.38575273465234,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Aft Sengkang East Ave"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "67451",
+            "Longitude": 103.88960583301704,
+            "Latitude": 1.383046111,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Bef Buangkok Dr"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "64621",
+            "Longitude": 103.88821499999295,
+            "Latitude": 1.38133333296872,
+            "RoadName": "Buangkok Green",
+            "Description": "Blk 565"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "64461",
+            "Longitude": 103.88640309201648,
+            "Latitude": 1.37938472998807,
+            "RoadName": "Buangkok Green",
+            "Description": "Blk 579"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "64619",
+            "Longitude": 103.88468027114665,
+            "Latitude": 1.37809338718149,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Opp Blk 913"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "64609",
+            "Longitude": 103.884701388976,
+            "Latitude": 1.37595638900393,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 687"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "64419",
+            "Longitude": 103.88521854859373,
+            "Latitude": 1.37339164793235,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 681"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "64341",
+            "Longitude": 103.88633750747994,
+            "Latitude": 1.3729130421635,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Bef Blk 683"
+        },
+        {
+            "Distance": 21.8,
+            "BusStopCode": "64351",
+            "Longitude": 103.88808212175417,
+            "Latitude": 1.37481110511316,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Opp Montfort Sch"
+        },
+        {
+            "Distance": 22.1,
+            "BusStopCode": "64361",
+            "Longitude": 103.89054894445846,
+            "Latitude": 1.37634509209583,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 535"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "64371",
+            "Longitude": 103.89289427356103,
+            "Latitude": 1.37447444021165,
+            "RoadName": "Hougang Ave 6",
+            "Description": "Opp Punggol CC"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "64381",
+            "Longitude": 103.89170384962591,
+            "Latitude": 1.37288245131287,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Blk 521"
+        },
+        {
+            "Distance": 23.6,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int"
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "24009",
+            "Longitude": 103.67839791240787,
+            "Latitude": 1.32697254709069,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Int (First Stop)"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "23519",
+            "Longitude": 103.6793660000188,
+            "Latitude": 1.32479352408668,
+            "RoadName": "Benoi Rd",
+            "Description": "Opp FairPrice Hub"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "24639",
+            "Longitude": 103.67791569301414,
+            "Latitude": 1.32041012800861,
+            "RoadName": "Gul Circle",
+            "Description": "Aft Benoi Rd"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "24259",
+            "Longitude": 103.6756285744157,
+            "Latitude": 1.32022430366593,
+            "RoadName": "Gul Circle",
+            "Description": "DNV GL Laboratory"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "24249",
+            "Longitude": 103.67231073811735,
+            "Latitude": 1.3200141711372,
+            "RoadName": "Gul Circle",
+            "Description": "Asiatic Agricultural Ind"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "24239",
+            "Longitude": 103.6690038889689,
+            "Latitude": 1.31979166699662,
+            "RoadName": "Gul Circle",
+            "Description": "Bef Gul St 1"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "24229",
+            "Longitude": 103.66615348821185,
+            "Latitude": 1.31953778109044,
+            "RoadName": "Gul Circle",
+            "Description": "Aft Gul St 3"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "24219",
+            "Longitude": 103.66267154250265,
+            "Latitude": 1.31822701576325,
+            "RoadName": "Gul Circle",
+            "Description": "Precision Products"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "24209",
+            "Longitude": 103.65986932009741,
+            "Latitude": 1.31523764085318,
+            "RoadName": "Gul Cres",
+            "Description": "Aft Gul Lane"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "24199",
+            "Longitude": 103.65993666344218,
+            "Latitude": 1.31308152323838,
+            "RoadName": "Gul Cres",
+            "Description": "JB Ind Pte Ltd"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "24189",
+            "Longitude": 103.6619380811675,
+            "Latitude": 1.31116229073472,
+            "RoadName": "Gul Cres",
+            "Description": "Tai Sin Electric Cables"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "24179",
+            "Longitude": 103.66477126222463,
+            "Latitude": 1.30940312319597,
+            "RoadName": "Gul Cres",
+            "Description": "Opp Hong Hock Hardware"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "24169",
+            "Longitude": 103.66671593002816,
+            "Latitude": 1.31038624703757,
+            "RoadName": "Gul Cres",
+            "Description": "Bef Gul Circle"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "24301",
+            "Longitude": 103.66584908540896,
+            "Latitude": 1.31260985884793,
+            "RoadName": "Gul Circle",
+            "Description": "SNL Logistics Pte Ltd"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "24641",
+            "Longitude": 103.66551388890647,
+            "Latitude": 1.31424000000651,
+            "RoadName": "Gul Ave",
+            "Description": "W Atelier"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "24651",
+            "Longitude": 103.66882611097928,
+            "Latitude": 1.31490027800406,
+            "RoadName": "Gul Ave",
+            "Description": "Metall-Treat Ind"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "24089",
+            "Longitude": 103.67069001700851,
+            "Latitude": 1.31445576142607,
+            "RoadName": "Gul Way",
+            "Description": "Aft Gul Ave"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "24299",
+            "Longitude": 103.67165007095036,
+            "Latitude": 1.31215859373419,
+            "RoadName": "Gul Circle",
+            "Description": "Aft Gul Way"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "24289",
+            "Longitude": 103.674858525035,
+            "Latitude": 1.31240457504935,
+            "RoadName": "Gul Circle",
+            "Description": "Opp Keppel T&T"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "24279",
+            "Longitude": 103.6767463061916,
+            "Latitude": 1.31480277476233,
+            "RoadName": "Gul Circle",
+            "Description": "Cameron Iron Works"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "24269",
+            "Longitude": 103.67660828077693,
+            "Latitude": 1.31796007151086,
+            "RoadName": "Gul Circle",
+            "Description": "Sing Huat Hardware"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "24631",
+            "Longitude": 103.67824444522353,
+            "Latitude": 1.32056657586424,
+            "RoadName": "Gul Circle",
+            "Description": "Bef Benoi Rd"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "23371",
+            "Longitude": 103.6790814673288,
+            "Latitude": 1.32595445317751,
+            "RoadName": "Benoi Rd",
+            "Description": "Bef Joo Koon Int"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "24009",
+            "Longitude": 103.67839791240787,
+            "Latitude": 1.32697254709069,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Int (Last Stop)"
+        }
+    ]
+}

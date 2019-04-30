@@ -1,0 +1,180 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "45231",
+            "Longitude": 103.74221319586665,
+            "Latitude": 1.3847780730563,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 432"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "45241",
+            "Longitude": 103.74049628403257,
+            "Latitude": 1.38849236327693,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Opp Blk 511A"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "45251",
+            "Longitude": 103.74006551818796,
+            "Latitude": 1.39132771354143,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Opp Kranji Sec Sch"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "45311",
+            "Longitude": 103.74208908630851,
+            "Latitude": 1.39312896100059,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Blk 547"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "45261",
+            "Longitude": 103.7435570382963,
+            "Latitude": 1.39431509144869,
+            "RoadName": "Choa Chu Kang St 52",
+            "Description": "Blk 551"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "45271",
+            "Longitude": 103.74526443744904,
+            "Latitude": 1.39569595459867,
+            "RoadName": "Choa Chu Kang St 52",
+            "Description": "Blk 560"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "45321",
+            "Longitude": 103.74755489070483,
+            "Latitude": 1.39740269682477,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Yew Tee Stn"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "45389",
+            "Longitude": 103.7473817647614,
+            "Latitude": 1.40063804359533,
+            "RoadName": "Choa Chu Kang Nth 7",
+            "Description": "Blk 619"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "45401",
+            "Longitude": 103.74594266826703,
+            "Latitude": 1.40279972616248,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Blk 681"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "45411",
+            "Longitude": 103.74767347957746,
+            "Latitude": 1.4035145178289,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Opp Blk 670"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "45421",
+            "Longitude": 103.75050925171398,
+            "Latitude": 1.40274884902867,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Opp Blk 666"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "45439",
+            "Longitude": 103.75115527801049,
+            "Latitude": 1.40127194398549,
+            "RoadName": "Choa Chu Kang Cres",
+            "Description": "Opp Blk 661"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "45399",
+            "Longitude": 103.74991277803167,
+            "Latitude": 1.39984083299841,
+            "RoadName": "Choa Chu Kang Nth 7",
+            "Description": "Regent Gr Condo"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "45329",
+            "Longitude": 103.7478650735721,
+            "Latitude": 1.39743803967229,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Opp Yew Tee Stn"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "45279",
+            "Longitude": 103.74540871067298,
+            "Latitude": 1.39565860027275,
+            "RoadName": "Choa Chu Kang St 52",
+            "Description": "Blk 563"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "45269",
+            "Longitude": 103.74373102471621,
+            "Latitude": 1.39436168074215,
+            "RoadName": "Choa Chu Kang St 52",
+            "Description": "Blk 544"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "45319",
+            "Longitude": 103.74210769996479,
+            "Latitude": 1.39292754317447,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Blk 530"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "45259",
+            "Longitude": 103.74054217961515,
+            "Latitude": 1.39170172991756,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 523"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "45249",
+            "Longitude": 103.74086222271667,
+            "Latitude": 1.38856706129182,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Blk 511A"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "45239",
+            "Longitude": 103.74242083050345,
+            "Latitude": 1.38507307693267,
+            "RoadName": "Choa Chu Kang Way",
+            "Description": "Bet Blks 306/307"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int (Last Stop)"
+        }
+    ]
+}

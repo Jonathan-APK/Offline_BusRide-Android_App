@@ -1,0 +1,260 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "62131",
+            "Longitude": 103.87277432797597,
+            "Latitude": 1.3489790064228,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit H"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "62141",
+            "Longitude": 103.87515194713767,
+            "Latitude": 1.35149112412235,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 1"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "63141",
+            "Longitude": 103.87491322643768,
+            "Latitude": 1.35404612202219,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "63361",
+            "Longitude": 103.87383985365209,
+            "Latitude": 1.35744648841295,
+            "RoadName": "Yio Chu Kang Link",
+            "Description": "Opp S'Goon Sports Cplx"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "63181",
+            "Longitude": 103.87346222201559,
+            "Latitude": 1.36083138898279,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef St. Helier's Ave"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "66149",
+            "Longitude": 103.87236222198605,
+            "Latitude": 1.36291833299844,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Aft Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "66139",
+            "Longitude": 103.86929111065648,
+            "Latitude": 1.36357778856307,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Opp Trinity Meth Ch"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "66271",
+            "Longitude": 103.86578916701893,
+            "Latitude": 1.36398333300081,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Serangoon Gdn Circus"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "66151",
+            "Longitude": 103.86588376967377,
+            "Latitude": 1.36306633208702,
+            "RoadName": "Chartwell Dr",
+            "Description": "Opp Penshurst Pl"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "66161",
+            "Longitude": 103.86464333342467,
+            "Latitude": 1.36123776322522,
+            "RoadName": "Chartwell Dr",
+            "Description": "Opp Crowhurst Dr"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "66171",
+            "Longitude": 103.86361193890139,
+            "Latitude": 1.35976302696107,
+            "RoadName": "Chartwell Dr",
+            "Description": "Bef Cooling Cl"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "66181",
+            "Longitude": 103.86185764149462,
+            "Latitude": 1.35878665442309,
+            "RoadName": "Burghley Dr",
+            "Description": "Aft Chartwell Rd"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "66191",
+            "Longitude": 103.85983944399274,
+            "Latitude": 1.36065611099902,
+            "RoadName": "Burghley Dr",
+            "Description": "Aft Corfe Pl"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "66201",
+            "Longitude": 103.85966527802135,
+            "Latitude": 1.36208638896684,
+            "RoadName": "Berwick Dr",
+            "Description": "Opp Brockhampton Dr"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "66211",
+            "Longitude": 103.86103467229529,
+            "Latitude": 1.36412138937997,
+            "RoadName": "Berwick Dr",
+            "Description": "Opp Bloxhome Dr"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "66291",
+            "Longitude": 103.86192411659012,
+            "Latitude": 1.3659363788285,
+            "RoadName": "Berwick Dr",
+            "Description": "Opp Serangoon Gdn Circus"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "66221",
+            "Longitude": 103.86262638902237,
+            "Latitude": 1.36834972197817,
+            "RoadName": "Tavistock Ave",
+            "Description": "Opp Portchester Ave"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "66231",
+            "Longitude": 103.86438051938194,
+            "Latitude": 1.36994831751271,
+            "RoadName": "Tavistock Ave",
+            "Description": "Bef Huddington Ave"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "66241",
+            "Longitude": 103.86562505721909,
+            "Latitude": 1.36890803491379,
+            "RoadName": "Hemsley Ave",
+            "Description": "Hemsley Ave"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "66251",
+            "Longitude": 103.86653816215,
+            "Latitude": 1.36724305880207,
+            "RoadName": "Kensington Pk Rd",
+            "Description": "Opp Kingswear Ave"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "66261",
+            "Longitude": 103.86640982940798,
+            "Latitude": 1.36555110748973,
+            "RoadName": "Kensington Pk Rd",
+            "Description": "S'Goon Gdns Country Club"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "66271",
+            "Longitude": 103.86578916701893,
+            "Latitude": 1.36398333300081,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Serangoon Gdn Circus"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "66131",
+            "Longitude": 103.87019205208469,
+            "Latitude": 1.36346698150382,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Aft Trinity Meth Ch"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "66141",
+            "Longitude": 103.87239656838271,
+            "Latitude": 1.36311828855893,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Bef Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "63189",
+            "Longitude": 103.87363460960414,
+            "Latitude": 1.36133997852966,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Gdn Way"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "63179",
+            "Longitude": 103.87393532776181,
+            "Latitude": 1.35999305129204,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Tai Seng Chr Ch"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "63369",
+            "Longitude": 103.87410388898788,
+            "Latitude": 1.35663166702793,
+            "RoadName": "Yio Chu Kang Link",
+            "Description": "Serangoon Sports Cplx"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "63149",
+            "Longitude": 103.87452555599006,
+            "Latitude": 1.35489972198729,
+            "RoadName": "Boundary Rd",
+            "Description": "Serangoon Stadium"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "62149",
+            "Longitude": 103.87595332312252,
+            "Latitude": 1.35169173270668,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Paya Lebar Camp"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "62189",
+            "Longitude": 103.87470953705504,
+            "Latitude": 1.35056391832311,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit D/Blk 416"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int (Last Stop)"
+        }
+    ]
+}

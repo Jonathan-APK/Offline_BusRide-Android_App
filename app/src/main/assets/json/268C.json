@@ -1,0 +1,92 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "54269",
+            "Longitude": 103.85111893571647,
+            "Latitude": 1.36921006543476,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Ang Mo Kio Stn"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "54248",
+            "Longitude": 103.84661006967286,
+            "Latitude": 1.36875490594243,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 324"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "54239",
+            "Longitude": 103.84332015576305,
+            "Latitude": 1.369186093503,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "54229",
+            "Longitude": 103.83993274827546,
+            "Latitude": 1.36960577947339,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Ang Mo Kio Pr Sch"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "54181",
+            "Longitude": 103.83653495602837,
+            "Latitude": 1.37053305192374,
+            "RoadName": "Ang Mo Kio Ave 4",
+            "Description": "BLK 258"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "54191",
+            "Longitude": 103.83756404776227,
+            "Latitude": 1.37447193336668,
+            "RoadName": "Ang Mo Kio Ave 4",
+            "Description": "BLK 170"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "54201",
+            "Longitude": 103.83927614239282,
+            "Latitude": 1.37608498575075,
+            "RoadName": "Ang Mo Kio Ave 4",
+            "Description": "OPP BLK 155"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "55131",
+            "Longitude": 103.8396597025406,
+            "Latitude": 1.37986282047018,
+            "RoadName": "Ang Mo Kio Ave 4",
+            "Description": "BLK 612"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "55141",
+            "Longitude": 103.83902055596755,
+            "Latitude": 1.38151305598601,
+            "RoadName": "Ang Mo Kio Ave 4",
+            "Description": "OPP BLK 622"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "55151",
+            "Longitude": 103.8403312479222,
+            "Latitude": 1.3833944010563,
+            "RoadName": "Ang Mo Kio Ave 9",
+            "Description": "Ang Mo Kio Comm Hosp"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "55301",
+            "Longitude": 103.84445666701023,
+            "Latitude": 1.38425166698696,
+            "RoadName": "Ang Mo Kio Ave 9",
+            "Description": "AMK Police Div HQ"
+        }
+    ]
+}

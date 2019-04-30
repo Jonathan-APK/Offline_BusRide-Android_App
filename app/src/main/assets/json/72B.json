@@ -1,0 +1,44 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "55509",
+            "Longitude": 103.8455558816965,
+            "Latitude": 1.38113241525166,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Yio Chu Kang Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "55329",
+            "Longitude": 103.84722527828754,
+            "Latitude": 1.37901970079676,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Nanyang Poly"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "54351",
+            "Longitude": 103.85003474200923,
+            "Latitude": 1.37647777885877,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Nanyang Poly"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "54471",
+            "Longitude": 103.853296559924,
+            "Latitude": 1.37613470846106,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp Blk 538"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "54481",
+            "Longitude": 103.855765341723,
+            "Latitude": 1.37599497932237,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Ite Coll Ctrl"
+        }
+    ]
+}

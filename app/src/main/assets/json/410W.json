@@ -1,0 +1,180 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "53009",
+            "Longitude": 103.84988083722291,
+            "Latitude": 1.35045541249544,
+            "RoadName": "Bishan St 13",
+            "Description": "Bishan Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "53261",
+            "Longitude": 103.85179055539538,
+            "Latitude": 1.35285975794309,
+            "RoadName": "Bishan St 14",
+            "Description": "Opp Bishan Stadium"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "53391",
+            "Longitude": 103.84696320325273,
+            "Latitude": 1.35444291744538,
+            "RoadName": "Bishan St 22",
+            "Description": "Opp Blk 203"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "53381",
+            "Longitude": 103.84496212009292,
+            "Latitude": 1.35830432828214,
+            "RoadName": "Bishan St 22",
+            "Description": "Bishan Nth Shop Mall"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "53371",
+            "Longitude": 103.84379568310376,
+            "Latitude": 1.35994333341045,
+            "RoadName": "Bishan St 22",
+            "Description": "Blk 257"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "53321",
+            "Longitude": 103.84029472198131,
+            "Latitude": 1.36135000000011,
+            "RoadName": "Sin Ming Ave",
+            "Description": "CityCab"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "53331",
+            "Longitude": 103.83701277802122,
+            "Latitude": 1.36285472197724,
+            "RoadName": "Sin Ming Ave",
+            "Description": "Bef Bright Hill Tp"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "53341",
+            "Longitude": 103.83394166697735,
+            "Latitude": 1.36355638900203,
+            "RoadName": "Sin Ming Ave",
+            "Description": "Blk 407"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "53351",
+            "Longitude": 103.83211750001261,
+            "Latitude": 1.36080972198475,
+            "RoadName": "Sin Ming Ave",
+            "Description": "Ai Tong Sch"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "53361",
+            "Longitude": 103.83032083300758,
+            "Latitude": 1.35929833296604,
+            "RoadName": "Sin Ming Ave",
+            "Description": "Blk 454"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "53069",
+            "Longitude": 103.82894351047115,
+            "Latitude": 1.35777159286274,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Windsor Pk Rd"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "53059",
+            "Longitude": 103.8314804136155,
+            "Latitude": 1.35539998953236,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Thomson Plaza"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "53049",
+            "Longitude": 103.83422172361446,
+            "Latitude": 1.35362664583092,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Jln Todak"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "53299",
+            "Longitude": 103.83794546128104,
+            "Latitude": 1.35174011670427,
+            "RoadName": "Shunfu Rd",
+            "Description": "Blk 314"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "53129",
+            "Longitude": 103.83978033272378,
+            "Latitude": 1.34968057726521,
+            "RoadName": "Marymount Rd",
+            "Description": "Opp Marymount Stn"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "53319",
+            "Longitude": 103.8412483330228,
+            "Latitude": 1.34722500001495,
+            "RoadName": "Bishan St 21",
+            "Description": "Bosch"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "53309",
+            "Longitude": 103.8452725001234,
+            "Latitude": 1.34849137843448,
+            "RoadName": "Bishan St 21",
+            "Description": "Opp Raffles Instn"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "53419",
+            "Longitude": 103.84980877522956,
+            "Latitude": 1.34639996494893,
+            "RoadName": "Bishan St 12",
+            "Description": "Opp Guangyang Pr Sch"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "53409",
+            "Longitude": 103.85126805621526,
+            "Latitude": 1.34534609724691,
+            "RoadName": "Bishan St 12",
+            "Description": "Blk 131"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "53281",
+            "Longitude": 103.85432083296934,
+            "Latitude": 1.34665638902153,
+            "RoadName": "Bishan St 13",
+            "Description": "Blk 169"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "53271",
+            "Longitude": 103.85391500001569,
+            "Latitude": 1.3493461110909,
+            "RoadName": "Bishan St 13",
+            "Description": "Opp Kuo Chuan Presby Sch"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "53009",
+            "Longitude": 103.84988083722291,
+            "Latitude": 1.35045541249544,
+            "RoadName": "Bishan St 13",
+            "Description": "Bishan Int (Last Stop)"
+        }
+    ]
+}

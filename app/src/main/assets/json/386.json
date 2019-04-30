@@ -1,0 +1,164 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "65221",
+            "Longitude": 103.90480763848863,
+            "Latitude": 1.40402842836975,
+            "RoadName": "Punggol Ctrl",
+            "Description": "BLK 303D"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "65281",
+            "Longitude": 103.90783309940194,
+            "Latitude": 1.40201165055481,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Punggol Sec/Blk 601B"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "65381",
+            "Longitude": 103.90976700000783,
+            "Latitude": 1.40206799999564,
+            "RoadName": "Edgefield Plains",
+            "Description": "Punggol Sec Sch"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "65391",
+            "Longitude": 103.91251694444946,
+            "Latitude": 1.40587968028504,
+            "RoadName": "Edgefield Plains",
+            "Description": "Blk 672A"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "65319",
+            "Longitude": 103.91244500001986,
+            "Latitude": 1.40257805553795,
+            "RoadName": "Punggol Dr",
+            "Description": "Oasis Stn Exit A"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "65371",
+            "Longitude": 103.91626762051331,
+            "Latitude": 1.40288670334271,
+            "RoadName": "Edgedale Plains",
+            "Description": "Blk 682A"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "65419",
+            "Longitude": 103.91395382625832,
+            "Latitude": 1.39946209125417,
+            "RoadName": "Edgefield Plains",
+            "Description": "Opp Horizon Pr Sch"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "65429",
+            "Longitude": 103.912022758935,
+            "Latitude": 1.39678724110144,
+            "RoadName": "Edgefield Plains",
+            "Description": "Greendale Pr Sch"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "65171",
+            "Longitude": 103.91205304613206,
+            "Latitude": 1.39452041732154,
+            "RoadName": "Punggol Field",
+            "Description": "Coral Edge Stn Exit B"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "65231",
+            "Longitude": 103.91576531457447,
+            "Latitude": 1.3942824799683,
+            "RoadName": "Punggol East",
+            "Description": "Riviera Stn Exit B"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "65269",
+            "Longitude": 103.91467219472072,
+            "Latitude": 1.39671015437474,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Blk 162B"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "65411",
+            "Longitude": 103.91384912994876,
+            "Latitude": 1.39944781445392,
+            "RoadName": "Edgefield Plains",
+            "Description": "Horizon Pr Sch"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "65379",
+            "Longitude": 103.91633762054916,
+            "Latitude": 1.40280775893278,
+            "RoadName": "Edgedale Plains",
+            "Description": "Blk 661A"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "65311",
+            "Longitude": 103.91285694443438,
+            "Latitude": 1.40201500002599,
+            "RoadName": "Punggol Dr",
+            "Description": "Oasis Stn Exit B/Blk 617D"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "65399",
+            "Longitude": 103.91259546667418,
+            "Latitude": 1.40580472725369,
+            "RoadName": "Edgefield Plains",
+            "Description": "Blk 670A"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "65389",
+            "Longitude": 103.91007199999862,
+            "Latitude": 1.40225699999819,
+            "RoadName": "Edgefield Plains",
+            "Description": "Opp Punggol Sec Sch"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "65289",
+            "Longitude": 103.90762981656073,
+            "Latitude": 1.40173746082241,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Opp Punggol Sec/Blk 195E"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "65229",
+            "Longitude": 103.90556931496221,
+            "Latitude": 1.40320219454105,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Blk 298"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (Last Stop)"
+        }
+    ]
+}

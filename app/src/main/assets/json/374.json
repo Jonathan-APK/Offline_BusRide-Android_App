@@ -1,0 +1,156 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "67759",
+            "Longitude": 103.89720218513328,
+            "Latitude": 1.39129522332876,
+            "RoadName": "Compassvale Rd",
+            "Description": "COMPASSVALE INT (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "67409",
+            "Longitude": 103.89606816606354,
+            "Latitude": 1.3923391568303,
+            "RoadName": "Sengkang East Way",
+            "Description": "Sengkang Stn"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "67419",
+            "Longitude": 103.89383161169673,
+            "Latitude": 1.39443204166804,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Opp Blk 261"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "67649",
+            "Longitude": 103.8933425,
+            "Latitude": 1.398051,
+            "RoadName": "Anchorvale Cres",
+            "Description": "AFT ANCHORVALE ST"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "67699",
+            "Longitude": 103.889524,
+            "Latitude": 1.3988295,
+            "RoadName": "Anchorvale Cres",
+            "Description": "BLK 334A"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "67769",
+            "Longitude": 103.88766378607079,
+            "Latitude": 1.39607378603056,
+            "RoadName": "Anchorvale Rd",
+            "Description": "BLK 326D"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "67549",
+            "Longitude": 103.88618230819876,
+            "Latitude": 1.39454660425441,
+            "RoadName": "Sengkang East Way",
+            "Description": "Opp Hockey Stadium"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "67559",
+            "Longitude": 103.88094503218825,
+            "Latitude": 1.3954939065925,
+            "RoadName": "Sengkang West Way",
+            "Description": "Opp Blk 471A"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "67701",
+            "Longitude": 103.877445,
+            "Latitude": 1.3984935,
+            "RoadName": "Fernvale St",
+            "Description": "AFT BLK 467B"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "67741",
+            "Longitude": 103.875622,
+            "Latitude": 1.3971275,
+            "RoadName": "Fernvale Rd",
+            "Description": "THANGGAM STN"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "67561",
+            "Longitude": 103.87697696683591,
+            "Latitude": 1.39545828505824,
+            "RoadName": "Sengkang West Way",
+            "Description": "Opp Blk 432A"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "67551",
+            "Longitude": 103.87927293767908,
+            "Latitude": 1.39600529337669,
+            "RoadName": "Sengkang West Way",
+            "Description": "Blk 471A"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "67541",
+            "Longitude": 103.88633251190507,
+            "Latitude": 1.39478256874239,
+            "RoadName": "Sengkang East Way",
+            "Description": "Hockey Stadium"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "67761",
+            "Longitude": 103.887595,
+            "Latitude": 1.396006,
+            "RoadName": "Anchorvale Rd",
+            "Description": "OPP BLK 326D"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "67691",
+            "Longitude": 103.8887775,
+            "Latitude": 1.39899,
+            "RoadName": "Anchorvale Cres",
+            "Description": "BLK 338A"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "67641",
+            "Longitude": 103.8934405,
+            "Latitude": 1.398044,
+            "RoadName": "Anchorvale Cres",
+            "Description": "BEF ANCHORVALE ST"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "67411",
+            "Longitude": 103.89436833778728,
+            "Latitude": 1.39495624396821,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Blk 261"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "67441",
+            "Longitude": 103.8934666647416,
+            "Latitude": 1.3923095386042,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Sengkang Community Hub"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "67759",
+            "Longitude": 103.89720218513328,
+            "Latitude": 1.39129522332876,
+            "RoadName": "Compassvale Rd",
+            "Description": "COMPASSVALE INT (Last Stop)"
+        }
+    ]
+}

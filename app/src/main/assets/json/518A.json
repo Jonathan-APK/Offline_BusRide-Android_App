@@ -1,0 +1,308 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "77191",
+            "Longitude": 103.94602815996554,
+            "Latitude": 1.37654807606486,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 500A"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "77201",
+            "Longitude": 103.94276350247947,
+            "Latitude": 1.37864001176536,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Aft Blk 601"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "77211",
+            "Longitude": 103.94094544562029,
+            "Latitude": 1.37999169580419,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 626"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "77251",
+            "Longitude": 103.93864433688064,
+            "Latitude": 1.38223834152443,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 713"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "77261",
+            "Longitude": 103.93615875590504,
+            "Latitude": 1.38285811735056,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Blk 717"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "77271",
+            "Longitude": 103.9349613837619,
+            "Latitude": 1.38058998439068,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Aft Pasir Ris St 72"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "77289",
+            "Longitude": 103.93596534133927,
+            "Latitude": 1.37889759950996,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 738"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "77239",
+            "Longitude": 103.93793201117523,
+            "Latitude": 1.37741830757924,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 643"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "77249",
+            "Longitude": 103.939861116152,
+            "Latitude": 1.37599439507295,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 640"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "78049",
+            "Longitude": 103.94180578126523,
+            "Latitude": 1.3744627816256,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 612"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "77019",
+            "Longitude": 103.94351079998545,
+            "Latitude": 1.3737108000359,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 515"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "77029",
+            "Longitude": 103.94597779999948,
+            "Latitude": 1.37274960000662,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 571"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "77039",
+            "Longitude": 103.94834855629753,
+            "Latitude": 1.37159118708865,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Bef Pasir Ris Ctrl"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "77049",
+            "Longitude": 103.95158314847573,
+            "Latitude": 1.36963556960047,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Pasir Ris Town Pk"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "77059",
+            "Longitude": 103.95506338293471,
+            "Latitude": 1.36936138996292,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 425"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "78069",
+            "Longitude": 103.95815838787027,
+            "Latitude": 1.36869168470813,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 442"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "78059",
+            "Longitude": 103.96113744871693,
+            "Latitude": 1.36677606799955,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 210"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "98099",
+            "Longitude": 103.96328361098551,
+            "Latitude": 1.36457166700645,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 269A"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "98019",
+            "Longitude": 103.96338699998489,
+            "Latitude": 1.3622609999684,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Blk 149A"
+        },
+        {
+            "Distance": 23.8,
+            "BusStopCode": "50129",
+            "Longitude": 103.84929028517206,
+            "Latitude": 1.3189880880064,
+            "RoadName": "Moulmein Rd",
+            "Description": "Opp Tan Tock Seng Hosp"
+        },
+        {
+            "Distance": 24.2,
+            "BusStopCode": "50119",
+            "Longitude": 103.8458185038638,
+            "Latitude": 1.31829503182752,
+            "RoadName": "Moulmein Rd",
+            "Description": "St. Joseph Instn Jnr"
+        },
+        {
+            "Distance": 24.8,
+            "BusStopCode": "50069",
+            "Longitude": 103.84164776289317,
+            "Latitude": 1.31702163080967,
+            "RoadName": "Newton Rd",
+            "Description": "Hotel Royal"
+        },
+        {
+            "Distance": 25.6,
+            "BusStopCode": "40189",
+            "Longitude": 103.83816095637219,
+            "Latitude": 1.31223181292182,
+            "RoadName": "Scotts Rd",
+            "Description": "Newton Stn Exit B"
+        },
+        {
+            "Distance": 25.8,
+            "BusStopCode": "40179",
+            "Longitude": 103.83686949960516,
+            "Latitude": 1.31133173990881,
+            "RoadName": "Scotts Rd",
+            "Description": "Env Bldg"
+        },
+        {
+            "Distance": 26.6,
+            "BusStopCode": "09219",
+            "Longitude": 103.83316088291699,
+            "Latitude": 1.30731999685228,
+            "RoadName": "Scotts Rd",
+            "Description": "Far East Plaza"
+        },
+        {
+            "Distance": 27,
+            "BusStopCode": "09047",
+            "Longitude": 103.83294467208566,
+            "Latitude": 1.30446065207443,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Stn/Tang Plaza"
+        },
+        {
+            "Distance": 27.5,
+            "BusStopCode": "09037",
+            "Longitude": 103.83701253388183,
+            "Latitude": 1.3023400420296,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Mandarin Orchard"
+        },
+        {
+            "Distance": 28.2,
+            "BusStopCode": "08138",
+            "Longitude": 103.84184700607595,
+            "Latitude": 1.3004785730821,
+            "RoadName": "Orchard Rd",
+            "Description": "Concorde Hotel S'pore"
+        },
+        {
+            "Distance": 28.6,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 29.1,
+            "BusStopCode": "08069",
+            "Longitude": 103.84936128375956,
+            "Latitude": 1.29821382250893,
+            "RoadName": "Bras Basah Rd",
+            "Description": "BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 29.4,
+            "BusStopCode": "04179",
+            "Longitude": 103.85147164487202,
+            "Latitude": 1.29647916306741,
+            "RoadName": "Bras Basah Rd",
+            "Description": "AFT BRAS BASAH STN EXIT A"
+        },
+        {
+            "Distance": 29.8,
+            "BusStopCode": "02049",
+            "Longitude": 103.85402155505173,
+            "Latitude": 1.29452091230981,
+            "RoadName": "Bras Basah Rd",
+            "Description": "Raffles Hotel"
+        },
+        {
+            "Distance": 30.4,
+            "BusStopCode": "02151",
+            "Longitude": 103.85784623004031,
+            "Latitude": 1.29317776320814,
+            "RoadName": "Temasek Blvd",
+            "Description": "Suntec Convention Ctr"
+        },
+        {
+            "Distance": 31.1,
+            "BusStopCode": "02161",
+            "Longitude": 103.86093156188176,
+            "Latitude": 1.29268553508737,
+            "RoadName": "Temasek Ave",
+            "Description": "Promenade Stn"
+        },
+        {
+            "Distance": 31.4,
+            "BusStopCode": "02171",
+            "Longitude": 103.86092194446034,
+            "Latitude": 1.29070000003898,
+            "RoadName": "Temasek Ave",
+            "Description": "Opp The Ritz-Carlton"
+        },
+        {
+            "Distance": 32.3,
+            "BusStopCode": "03509",
+            "Longitude": 103.86004388891767,
+            "Latitude": 1.28314999997332,
+            "RoadName": "Bayfront Ave",
+            "Description": "Marina Bay Sands Hotel"
+        },
+        {
+            "Distance": 32.6,
+            "BusStopCode": "03519",
+            "Longitude": 103.85884799997385,
+            "Latitude": 1.28124500000125,
+            "RoadName": "Bayfront Ave",
+            "Description": "Opp Marina Bay Sands MICE"
+        }
+    ]
+}

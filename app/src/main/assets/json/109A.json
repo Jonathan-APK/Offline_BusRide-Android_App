@@ -1,0 +1,124 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "66361",
+            "Longitude": 103.86824850324253,
+            "Latitude": 1.35258501828366,
+            "RoadName": "S'goon Ave 2",
+            "Description": "Blk 319"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "66041",
+            "Longitude": 103.8697219448858,
+            "Latitude": 1.3557230306281,
+            "RoadName": "Boundary Rd",
+            "Description": "Blk 230"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "66051",
+            "Longitude": 103.87196190877665,
+            "Latitude": 1.35585499445871,
+            "RoadName": "Boundary Rd",
+            "Description": "Opp Blk 257"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "63361",
+            "Longitude": 103.87383985365209,
+            "Latitude": 1.35744648841295,
+            "RoadName": "Yio Chu Kang Link",
+            "Description": "Opp S'Goon Sports Cplx"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "63181",
+            "Longitude": 103.87346222201559,
+            "Latitude": 1.36083138898279,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef St. Helier's Ave"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "63191",
+            "Longitude": 103.87403972199432,
+            "Latitude": 1.36426277802723,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Nth Ave 1"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "63201",
+            "Longitude": 103.87492029493984,
+            "Latitude": 1.36617789459924,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 133"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "63211",
+            "Longitude": 103.87573084011618,
+            "Latitude": 1.36814638231195,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 138"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "64101",
+            "Longitude": 103.87653938842564,
+            "Latitude": 1.37212119701131,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Gracehaven S Army"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "64491",
+            "Longitude": 103.87905166700338,
+            "Latitude": 1.37513027801163,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Hougang 1"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "64481",
+            "Longitude": 103.8807864140804,
+            "Latitude": 1.37514474329335,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Bet Blks 930/931"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "64471",
+            "Longitude": 103.8839677779891,
+            "Latitude": 1.37454805598778,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Blk 917"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "64601",
+            "Longitude": 103.8845866729986,
+            "Latitude": 1.37548640364406,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 919"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "64611",
+            "Longitude": 103.88445923003084,
+            "Latitude": 1.37837333826782,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 913"
+        }
+    ]
+}

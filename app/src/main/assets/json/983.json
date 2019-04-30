@@ -1,0 +1,212 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "44491",
+            "Longitude": 103.74175317755231,
+            "Latitude": 1.38358841426131,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Bet Blks 416/417"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "44501",
+            "Longitude": 103.73879787160988,
+            "Latitude": 1.38087128691259,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Blk 426"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "44621",
+            "Longitude": 103.73710050197961,
+            "Latitude": 1.37922934454518,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Opp Concord Pr Sch"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "44551",
+            "Longitude": 103.73843005883766,
+            "Latitude": 1.37602460873449,
+            "RoadName": "Choa Chu Kang Ave 5",
+            "Description": "Opp Blk 486"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "44581",
+            "Longitude": 103.74031352986161,
+            "Latitude": 1.37532277779344,
+            "RoadName": "Choa Chu Kang Ave 5",
+            "Description": "Blk 489A"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "44591",
+            "Longitude": 103.7419701443328,
+            "Latitude": 1.37543194866252,
+            "RoadName": "Choa Chu Kang Ave 6",
+            "Description": "Blk 490B"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "44091",
+            "Longitude": 103.74421611501322,
+            "Latitude": 1.37647222708666,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Bef Choa Chu Kang Mkt"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "44879",
+            "Longitude": 103.74701128990601,
+            "Latitude": 1.37431656227768,
+            "RoadName": "Choa Chu Kang Ave 7",
+            "Description": "Opp Blk 810 CP"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "44899",
+            "Longitude": 103.74949989571633,
+            "Latitude": 1.37432287109092,
+            "RoadName": "Choa Chu Kang Gr",
+            "Description": "Opp APSN"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "44131",
+            "Longitude": 103.75532192967427,
+            "Latitude": 1.37710069702793,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Blk 26"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "44141",
+            "Longitude": 103.75773677895589,
+            "Latitude": 1.37835602806756,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Phoenix Stn"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "44031",
+            "Longitude": 103.76232373807855,
+            "Latitude": 1.37785685552262,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Aft Bt Panjang Stn"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "44259",
+            "Longitude": 103.76297124601712,
+            "Latitude": 1.38029564329691,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 183"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "44149",
+            "Longitude": 103.75776732086608,
+            "Latitude": 1.37798495709362,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Opp Phoenix Stn"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "44139",
+            "Longitude": 103.75536565517723,
+            "Latitude": 1.37680960030968,
+            "RoadName": "Choa Chu Kang Rd",
+            "Description": "Opp Blk 26"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "44891",
+            "Longitude": 103.74930160167106,
+            "Latitude": 1.37409009466488,
+            "RoadName": "Choa Chu Kang Gr",
+            "Description": "APSN"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "44871",
+            "Longitude": 103.74679713839167,
+            "Latitude": 1.37415475892549,
+            "RoadName": "Choa Chu Kang Ave 7",
+            "Description": "Blk 810 CP"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "44099",
+            "Longitude": 103.74462947882313,
+            "Latitude": 1.37631844004137,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Opp Choa Chu Kang Mkt"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "44599",
+            "Longitude": 103.7421877620434,
+            "Latitude": 1.37551323792473,
+            "RoadName": "Choa Chu Kang Ave 6",
+            "Description": "Bet Blks 801B/801C"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "44589",
+            "Longitude": 103.7401815256426,
+            "Latitude": 1.37512566998176,
+            "RoadName": "Choa Chu Kang Ave 5",
+            "Description": "Opp Blk 489A"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "44559",
+            "Longitude": 103.73789066346548,
+            "Latitude": 1.37620955732727,
+            "RoadName": "Choa Chu Kang Ave 5",
+            "Description": "Blk 483"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "44629",
+            "Longitude": 103.73644907938714,
+            "Latitude": 1.37851168892339,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Blk 457"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "44509",
+            "Longitude": 103.73845177601393,
+            "Latitude": 1.38081340360597,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Blk 442"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "44499",
+            "Longitude": 103.74089358044327,
+            "Latitude": 1.3832016053923,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Blk 429A CP"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int (Last Stop)"
+        }
+    ]
+}

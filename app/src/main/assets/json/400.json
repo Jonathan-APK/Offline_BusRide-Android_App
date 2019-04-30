@@ -1,0 +1,132 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03239",
+            "Longitude": 103.84756721372408,
+            "Latitude": 1.27464226961973,
+            "RoadName": "Shenton Way",
+            "Description": "Shenton Way Ter (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "03223",
+            "Longitude": 103.84632468221952,
+            "Latitude": 1.2757033952327,
+            "RoadName": "Anson Rd",
+            "Description": "Intl Plaza"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "03151",
+            "Longitude": 103.84776234627124,
+            "Latitude": 1.27892124625262,
+            "RoadName": "Cecil St",
+            "Description": "Opp GB Bldg"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "03381",
+            "Longitude": 103.85306513725685,
+            "Latitude": 1.28162601329006,
+            "RoadName": "Marina Blvd",
+            "Description": "The Sail"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "03391",
+            "Longitude": 103.85498006767988,
+            "Latitude": 1.28037660340352,
+            "RoadName": "Marina Blvd",
+            "Description": "Marina Bay Financial Ctr"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "03331",
+            "Longitude": 103.86076808024792,
+            "Latitude": 1.27663307202767,
+            "RoadName": "Marina Blvd",
+            "Description": "Bef Marina Gdns Dr"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "03341",
+            "Longitude": 103.8643376844082,
+            "Latitude": 1.27959780011944,
+            "RoadName": "Marina Gdns Dr",
+            "Description": "Bef Gdns by the Bay"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "03371",
+            "Longitude": 103.86626955523418,
+            "Latitude": 1.28066479303461,
+            "RoadName": "Marina Gdns Dr",
+            "Description": "Gdns by the Bay"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "03369",
+            "Longitude": 103.8698744774074,
+            "Latitude": 1.27960772061959,
+            "RoadName": "Marina Gdns Dr",
+            "Description": "Marina Barrage"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "03349",
+            "Longitude": 103.8647780795552,
+            "Latitude": 1.27965600609923,
+            "RoadName": "Marina Gdns Dr",
+            "Description": "Aft Gdns by the Bay"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "03339",
+            "Longitude": 103.85950016250487,
+            "Latitude": 1.27498516412784,
+            "RoadName": "Central Blvd",
+            "Description": "Aft Marina Gdns Dr"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "03539",
+            "Longitude": 103.85561610012866,
+            "Latitude": 1.2775330547661,
+            "RoadName": "Central Blvd",
+            "Description": "Marina Bay Stn"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "03529",
+            "Longitude": 103.85278769921703,
+            "Latitude": 1.27939957419063,
+            "RoadName": "Central Blvd",
+            "Description": "Downtown Stn"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "03239",
+            "Longitude": 103.84756721372408,
+            "Latitude": 1.27464226961973,
+            "RoadName": "Shenton Way",
+            "Description": "Shenton Way Ter (Last Stop)"
+        }
+    ]
+}

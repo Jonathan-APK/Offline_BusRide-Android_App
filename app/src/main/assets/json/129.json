@@ -1,0 +1,558 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75019",
+            "Longitude": 103.9416488042812,
+            "Latitude": 1.35737133106172,
+            "RoadName": "Tampines Concourse",
+            "Description": "Tampines Concourse Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "76559",
+            "Longitude": 103.9434688889217,
+            "Latitude": 1.35556499992374,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "AFT TAMPINES STN EXIT E"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "76191",
+            "Longitude": 103.94477445426702,
+            "Latitude": 1.3569438864901,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 401"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "76149",
+            "Longitude": 103.94636710560508,
+            "Latitude": 1.35370728527221,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Tampines Stn/Int"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "76139",
+            "Longitude": 103.94385009279503,
+            "Latitude": 1.35162691843499,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Century Sq"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "76111",
+            "Longitude": 103.94023387732626,
+            "Latitude": 1.35157455446947,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Blk 945"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "76121",
+            "Longitude": 103.93817517168992,
+            "Latitude": 1.35003333718868,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp St. Hilda's Sec Sch"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "76281",
+            "Longitude": 103.93848632286071,
+            "Latitude": 1.34758373789104,
+            "RoadName": "Tampines Ave 4",
+            "Description": "East View Pr Sch"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "75229",
+            "Longitude": 103.93676608938834,
+            "Latitude": 1.34499782605889,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly East G"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "75239",
+            "Longitude": 103.93257655832721,
+            "Latitude": 1.34675259898315,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "75249",
+            "Longitude": 103.93017010145029,
+            "Latitude": 1.34791499671757,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly West G"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "75259",
+            "Longitude": 103.92798027801848,
+            "Latitude": 1.34913805600656,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Tropica Condo"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "62071",
+            "Longitude": 103.88002892732668,
+            "Latitude": 1.34252980960729,
+            "RoadName": "Bartley Rd",
+            "Description": "BARTLEY STN EXIT A"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "62081",
+            "Longitude": 103.87773872280378,
+            "Latitude": 1.34384211984571,
+            "RoadName": "Bartley Rd",
+            "Description": "Opp Bartley Chr Ch"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "62091",
+            "Longitude": 103.8751907687792,
+            "Latitude": 1.34366730308769,
+            "RoadName": "Bartley Rd",
+            "Description": "Opp Gambir Ridge"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "66069",
+            "Longitude": 103.86263251306754,
+            "Latitude": 1.34350264971893,
+            "RoadName": "Braddell Rd",
+            "Description": "Bef Braddell Flyover"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "52069",
+            "Longitude": 103.85856611406128,
+            "Latitude": 1.34314389988912,
+            "RoadName": "Braddell Rd",
+            "Description": "Comfortdelgro Corp Ltd"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "52059",
+            "Longitude": 103.85622585798508,
+            "Latitude": 1.34309745890513,
+            "RoadName": "Braddell Rd",
+            "Description": "Blk 219"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "52361",
+            "Longitude": 103.8529812160764,
+            "Latitude": 1.33974408909931,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "52449",
+            "Longitude": 103.85000305578686,
+            "Latitude": 1.34044945876465,
+            "RoadName": "Lor 1 Toa Payoh",
+            "Description": "Toa Payoh Police Ctr"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "52179",
+            "Longitude": 103.84803485038329,
+            "Latitude": 1.34069018059141,
+            "RoadName": "Lor 1 Toa Payoh",
+            "Description": "Braddell Stn/Blk 106"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "52209",
+            "Longitude": 103.84678448871398,
+            "Latitude": 1.33925873230713,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Blk 101C CP"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "52199",
+            "Longitude": 103.84663861149124,
+            "Latitude": 1.33547301693721,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Blk 84B"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "52189",
+            "Longitude": 103.84678305554863,
+            "Latitude": 1.33318499999452,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Toa Payoh Stn"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "52079",
+            "Longitude": 103.84382885735747,
+            "Latitude": 1.32931477158443,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Opp Trellis Twrs"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "50161",
+            "Longitude": 103.84366009715464,
+            "Latitude": 1.32665700619185,
+            "RoadName": "Balestier Rd",
+            "Description": "Bef Jln Dusun"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "50171",
+            "Longitude": 103.84641000001729,
+            "Latitude": 1.32663388888255,
+            "RoadName": "Balestier Rd",
+            "Description": "Zhongshan Mall"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "52401",
+            "Longitude": 103.85082868868597,
+            "Latitude": 1.32830186081857,
+            "RoadName": "Jln Rajah",
+            "Description": "Blk 102"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "52411",
+            "Longitude": 103.85392666697314,
+            "Latitude": 1.32818666702477,
+            "RoadName": "Jln Rajah",
+            "Description": "Blk 105"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "52451",
+            "Longitude": 103.85731928602708,
+            "Latitude": 1.3253199216809,
+            "RoadName": "Whampoa Rd",
+            "Description": "Blk 114"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "52129",
+            "Longitude": 103.85938111100755,
+            "Latitude": 1.32544666698102,
+            "RoadName": "Jln Bahagia",
+            "Description": "Blk 29"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "52049",
+            "Longitude": 103.85978762051998,
+            "Latitude": 1.32721151783698,
+            "RoadName": "Jln Tenteram",
+            "Description": "Blk 19"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "52119",
+            "Longitude": 103.8581076205424,
+            "Latitude": 1.32782675894568,
+            "RoadName": "Jln Tenteram",
+            "Description": "Opp Blk 65"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "52499",
+            "Longitude": 103.85537211273478,
+            "Latitude": 1.32603759751245,
+            "RoadName": "Whampoa Rd",
+            "Description": "St. Michael's Ter"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52499",
+            "Longitude": 103.85537211273478,
+            "Latitude": 1.32603759751245,
+            "RoadName": "Whampoa Rd",
+            "Description": "St. Michael's Ter"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "52451",
+            "Longitude": 103.85731928602708,
+            "Latitude": 1.3253199216809,
+            "RoadName": "Whampoa Rd",
+            "Description": "Blk 114"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "52129",
+            "Longitude": 103.85938111100755,
+            "Latitude": 1.32544666698102,
+            "RoadName": "Jln Bahagia",
+            "Description": "Blk 29"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "52049",
+            "Longitude": 103.85978762051998,
+            "Latitude": 1.32721151783698,
+            "RoadName": "Jln Tenteram",
+            "Description": "Blk 19"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "52119",
+            "Longitude": 103.8581076205424,
+            "Latitude": 1.32782675894568,
+            "RoadName": "Jln Tenteram",
+            "Description": "Opp Blk 65"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "52419",
+            "Longitude": 103.85391750002599,
+            "Latitude": 1.32803305599299,
+            "RoadName": "Jln Rajah",
+            "Description": "Curtin S'pore"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "52409",
+            "Longitude": 103.85105250762084,
+            "Latitude": 1.32801971174787,
+            "RoadName": "Jln Rajah",
+            "Description": "Opp Blk 102"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "52479",
+            "Longitude": 103.84578619081431,
+            "Latitude": 1.32749617656635,
+            "RoadName": "Ah Hood Rd",
+            "Description": "Opp EASB"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "50169",
+            "Longitude": 103.84420812253344,
+            "Latitude": 1.32647401158756,
+            "RoadName": "Balestier Rd",
+            "Description": "Aft Irrawaddy Rd"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "51011",
+            "Longitude": 103.84095472172798,
+            "Latitude": 1.32770447989161,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp Tan Tong Meng Twr"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "52071",
+            "Longitude": 103.84381843224321,
+            "Latitude": 1.32991416932901,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Trellis Twrs"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "52181",
+            "Longitude": 103.84656071660625,
+            "Latitude": 1.33306633976898,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Opp Toa Payoh Stn"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "52191",
+            "Longitude": 103.84608389640735,
+            "Latitude": 1.33636138602833,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Blk 138B"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "52201",
+            "Longitude": 103.84650759525915,
+            "Latitude": 1.33918030742933,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Blk 121"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "52171",
+            "Longitude": 103.8477798112237,
+            "Latitude": 1.3409498853794,
+            "RoadName": "Lor 1 Toa Payoh",
+            "Description": "Braddell Stn/Blk 107"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "52441",
+            "Longitude": 103.84976000739448,
+            "Latitude": 1.34083165668042,
+            "RoadName": "Lor 1 Toa Payoh",
+            "Description": "Blk 202"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "52369",
+            "Longitude": 103.85273333299853,
+            "Latitude": 1.34001833298065,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 237"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "52051",
+            "Longitude": 103.85469257245785,
+            "Latitude": 1.34338820709349,
+            "RoadName": "Braddell Rd",
+            "Description": "BLK 147"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "52061",
+            "Longitude": 103.85873879159365,
+            "Latitude": 1.34352174018964,
+            "RoadName": "Braddell Rd",
+            "Description": "BCA Academy"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "66061",
+            "Longitude": 103.86346055601665,
+            "Latitude": 1.34405111099275,
+            "RoadName": "Braddell Rd",
+            "Description": "Aft Lynwood Gr"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "62099",
+            "Longitude": 103.87562115587856,
+            "Latitude": 1.34412749517611,
+            "RoadName": "Bartley Rd",
+            "Description": "Gambir Ridge"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "62089",
+            "Longitude": 103.8782509427123,
+            "Latitude": 1.34383983323818,
+            "RoadName": "Bartley Rd",
+            "Description": "Bartley Chr Ch"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "62079",
+            "Longitude": 103.87976646424752,
+            "Latitude": 1.34296635529936,
+            "RoadName": "Bartley Rd",
+            "Description": "AFT BARTLEY STN EXIT B"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "75251",
+            "Longitude": 103.92783361101397,
+            "Latitude": 1.3494983330038,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Tropica Condo"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "75241",
+            "Longitude": 103.92980219657613,
+            "Latitude": 1.34844803009871,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly West G"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "75231",
+            "Longitude": 103.93265533979496,
+            "Latitude": 1.34707779444929,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "75221",
+            "Longitude": 103.93595044893453,
+            "Latitude": 1.34567355960876,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly East G"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "76289",
+            "Longitude": 103.93814569319093,
+            "Latitude": 1.34738728491099,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp East View Pr Sch"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "76129",
+            "Longitude": 103.93791583710507,
+            "Latitude": 1.34988214931301,
+            "RoadName": "Tampines Ave 4",
+            "Description": "St. Hilda's Sec Sch"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "76119",
+            "Longitude": 103.94009028016603,
+            "Latitude": 1.35188664573357,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Blk 945"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "76131",
+            "Longitude": 103.94254133694142,
+            "Latitude": 1.35184112001279,
+            "RoadName": "Tampines Ave 4",
+            "Description": "UOB Tampines Ctr"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "76141",
+            "Longitude": 103.94609060451609,
+            "Latitude": 1.35366689109025,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Tampines Stn/Int"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "76199",
+            "Longitude": 103.94535428432116,
+            "Latitude": 1.35660016333768,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 503"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "76551",
+            "Longitude": 103.943599,
+            "Latitude": 1.355401,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "TAMPINES STN EXIT D"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "75019",
+            "Longitude": 103.9416488042812,
+            "Latitude": 1.35737133106172,
+            "RoadName": "Tampines Concourse",
+            "Description": "Tampines Concourse Int"
+        }
+    ]
+}

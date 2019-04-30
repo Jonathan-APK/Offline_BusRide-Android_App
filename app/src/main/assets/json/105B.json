@@ -1,0 +1,108 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "28441",
+            "Longitude": 103.73884916698127,
+            "Latitude": 1.33576638902918,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "28311",
+            "Longitude": 103.74108351905207,
+            "Latitude": 1.33825277511898,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "28631",
+            "Longitude": 103.74418616293988,
+            "Latitude": 1.34053157728505,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Opp Blk 288D"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "28641",
+            "Longitude": 103.74610320575732,
+            "Latitude": 1.33917889755759,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 284"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "28651",
+            "Longitude": 103.74794188238828,
+            "Latitude": 1.33515192012369,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Opp IMM Bldg"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "28049",
+            "Longitude": 103.7481034124348,
+            "Latitude": 1.33069921313648,
+            "RoadName": "Boon Lay Way",
+            "Description": "Opp The Synergy"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "28039",
+            "Longitude": 103.75140833297368,
+            "Latitude": 1.3280750000324,
+            "RoadName": "Boon Lay Way",
+            "Description": "Aft Boon Lay Sub Stn"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "28029",
+            "Longitude": 103.75436027668461,
+            "Latitude": 1.32688998200812,
+            "RoadName": "Boon Lay Way",
+            "Description": "8 @ TRADEHUB 21"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "28019",
+            "Longitude": 103.75894333173954,
+            "Latitude": 1.32492720506757,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Aft Toh Tuck Ave"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "20109",
+            "Longitude": 103.76206999856427,
+            "Latitude": 1.32085220079341,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 203"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "17189",
+            "Longitude": 103.76406408827933,
+            "Latitude": 1.31790502165515,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 317"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "17179",
+            "Longitude": 103.76536000516927,
+            "Latitude": 1.31528191560846,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Clementi Stn"
+        }
+    ]
+}

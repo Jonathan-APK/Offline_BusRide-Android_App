@@ -1,0 +1,116 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "59179",
+            "Longitude": 103.83988331688866,
+            "Latitude": 1.43221439515231,
+            "RoadName": "Yishun Ave 9",
+            "Description": "Blk 241"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "59189",
+            "Longitude": 103.84204166750071,
+            "Latitude": 1.43425361497792,
+            "RoadName": "Yishun Ave 9",
+            "Description": "Blk 245"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "59199",
+            "Longitude": 103.84224938363205,
+            "Latitude": 1.43609553700432,
+            "RoadName": "Yishun Ave 6",
+            "Description": "Blk 250"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "59209",
+            "Longitude": 103.84021166701386,
+            "Latitude": 1.43856611102095,
+            "RoadName": "Yishun Ave 6",
+            "Description": "Blk 272"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "59211",
+            "Longitude": 103.8381736110171,
+            "Latitude": 1.44037027798466,
+            "RoadName": "Yishun Ave 7",
+            "Description": "Blk 289"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "59221",
+            "Longitude": 103.83502785005078,
+            "Latitude": 1.43902299324239,
+            "RoadName": "Yishun Ave 7",
+            "Description": "Opp Yishun Ind Pk A"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "59261",
+            "Longitude": 103.83159143616113,
+            "Latitude": 1.43755803458153,
+            "RoadName": "Yishun Ave 7",
+            "Description": "Blk 174"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "59271",
+            "Longitude": 103.82855161345292,
+            "Latitude": 1.4362831713903,
+            "RoadName": "Yishun Ave 7",
+            "Description": "Blk 118"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "57129",
+            "Longitude": 103.82641445936885,
+            "Latitude": 1.43418656873084,
+            "RoadName": "Sembawang Rd",
+            "Description": "Blk 114"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "57119",
+            "Longitude": 103.82688773076856,
+            "Latitude": 1.43130257113028,
+            "RoadName": "Sembawang Rd",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "59119",
+            "Longitude": 103.82794865433573,
+            "Latitude": 1.43037444021889,
+            "RoadName": "Yishun Ave 5",
+            "Description": "Opp Blk 701A"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "59149",
+            "Longitude": 103.83218000002928,
+            "Latitude": 1.43061861098729,
+            "RoadName": "Yishun Ave 5",
+            "Description": "Blk 145"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "59159",
+            "Longitude": 103.8346706884974,
+            "Latitude": 1.43055466220788,
+            "RoadName": "Yishun Ave 5",
+            "Description": "Blk 151"
+        }
+    ]
+}

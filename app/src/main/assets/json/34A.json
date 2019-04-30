@@ -1,0 +1,124 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "65221",
+            "Longitude": 103.90480763848863,
+            "Latitude": 1.40402842836975,
+            "RoadName": "Punggol Ctrl",
+            "Description": "BLK 303D"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "65089",
+            "Longitude": 103.90580511592151,
+            "Latitude": 1.4013394838038,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp Blk 296"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "65079",
+            "Longitude": 103.90474802293774,
+            "Latitude": 1.39893574516181,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 102C"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "65199",
+            "Longitude": 103.90542736761212,
+            "Latitude": 1.39591721161169,
+            "RoadName": "TPE",
+            "Description": "Aft Punggol Rd"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "75359",
+            "Longitude": 103.93147946559002,
+            "Latitude": 1.37438650022455,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "75369",
+            "Longitude": 103.93056528604264,
+            "Latitude": 1.37079630405212,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp HNS Micro Siltronic"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "75319",
+            "Longitude": 103.93106194445039,
+            "Latitude": 1.36720805556001,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Opp Tampines Dormitory"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "75299",
+            "Longitude": 103.93106617032824,
+            "Latitude": 1.36239101738996,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ave 9"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "75379",
+            "Longitude": 103.9309897702735,
+            "Latitude": 1.35943002306953,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ave 5"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "75171",
+            "Longitude": 103.9313,
+            "Latitude": 1.3575,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Aft Tampines Ave 9"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "75141",
+            "Longitude": 103.93377888890949,
+            "Latitude": 1.35625000000112,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 730"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "75131",
+            "Longitude": 103.93709646027764,
+            "Latitude": 1.35594818346107,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Bet Blks 701/702"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "75121",
+            "Longitude": 103.93903255460283,
+            "Latitude": 1.35593392058986,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Darul Ghufran Mque"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "76059",
+            "Longitude": 103.94165154852797,
+            "Latitude": 1.35296163572491,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Our Tampines Hub"
+        }
+    ]
+}

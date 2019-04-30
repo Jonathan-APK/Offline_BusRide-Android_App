@@ -1,0 +1,372 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "46631",
+            "Longitude": 103.78915264291737,
+            "Latitude": 1.43689297551872,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Blk 892C CP"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "46641",
+            "Longitude": 103.79002659369449,
+            "Latitude": 1.43537882843176,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 894C"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "47581",
+            "Longitude": 103.79352674536875,
+            "Latitude": 1.43464494959345,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Opp Blk 521"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "47571",
+            "Longitude": 103.79639715585557,
+            "Latitude": 1.43349024051919,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 618"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "47561",
+            "Longitude": 103.79885163626874,
+            "Latitude": 1.43320820124698,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 620"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "47551",
+            "Longitude": 103.80188755233279,
+            "Latitude": 1.43472623786722,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 630"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "47541",
+            "Longitude": 103.80334162830194,
+            "Latitude": 1.43789201937501,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 639"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "47591",
+            "Longitude": 103.8025081158021,
+            "Latitude": 1.43973872693624,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 680"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "47601",
+            "Longitude": 103.80304911976373,
+            "Latitude": 1.44211880036977,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 793"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "47611",
+            "Longitude": 103.80622284389754,
+            "Latitude": 1.44388706173517,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Woodsvale Condo"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "47621",
+            "Longitude": 103.80982770058664,
+            "Latitude": 1.44689218119453,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Aft Gambas Ave"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "58381",
+            "Longitude": 103.81337787352544,
+            "Latitude": 1.44797049342873,
+            "RoadName": "Sembawang Way",
+            "Description": "Blk 469B"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "58271",
+            "Longitude": 103.81470654183288,
+            "Latitude": 1.44702783502401,
+            "RoadName": "Sembawang Cres",
+            "Description": "Blk 335"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "58281",
+            "Longitude": 103.8162666133863,
+            "Latitude": 1.4450136750226,
+            "RoadName": "Sembawang Cres",
+            "Description": "Sembawang Sec Sch"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "58371",
+            "Longitude": 103.8190895319006,
+            "Latitude": 1.44449009584233,
+            "RoadName": "Sembawang Cres",
+            "Description": "Bet Blks 325/326"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "58299",
+            "Longitude": 103.81968463382916,
+            "Latitude": 1.44582915331137,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 328"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "58259",
+            "Longitude": 103.81895151565973,
+            "Latitude": 1.44777267175187,
+            "RoadName": "Sembawang Dr",
+            "Description": "Opp Sun Plaza"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "58319",
+            "Longitude": 103.81802192152004,
+            "Latitude": 1.44976933938251,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 357C"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "58349",
+            "Longitude": 103.81642343207659,
+            "Latitude": 1.45273139537549,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 478"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "58359",
+            "Longitude": 103.81465411421149,
+            "Latitude": 1.45619440004203,
+            "RoadName": "Sembawang Dr",
+            "Description": "Opp Blk 484A CP"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "58459",
+            "Longitude": 103.81514063371951,
+            "Latitude": 1.45994030687762,
+            "RoadName": "Sembawang Dr",
+            "Description": "Bef Heavy Veh Pk"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "58369",
+            "Longitude": 103.81192581738017,
+            "Latitude": 1.46067315253986,
+            "RoadName": "Admiralty St",
+            "Description": "BEF ACACIA HME"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "58361",
+            "Longitude": 103.81270708997143,
+            "Latitude": 1.46118688481447,
+            "RoadName": "Admiralty St",
+            "Description": "Nth Link Bldg"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "58451",
+            "Longitude": 103.81537241523831,
+            "Latitude": 1.46002660309429,
+            "RoadName": "Sembawang Dr",
+            "Description": "Aft Heavy Veh Pk"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "58351",
+            "Longitude": 103.81491062256012,
+            "Latitude": 1.45593548683251,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 483"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "58341",
+            "Longitude": 103.81687772159036,
+            "Latitude": 1.45267992935187,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 405"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "58311",
+            "Longitude": 103.81810459422103,
+            "Latitude": 1.4501979542693,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 354 CP"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "58251",
+            "Longitude": 103.81895207486829,
+            "Latitude": 1.44803148822713,
+            "RoadName": "Sembawang Dr",
+            "Description": "Sun Plaza"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "58291",
+            "Longitude": 103.8199449173096,
+            "Latitude": 1.44579319988216,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 317"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "58379",
+            "Longitude": 103.81900511225648,
+            "Latitude": 1.44428574142951,
+            "RoadName": "Sembawang Cres",
+            "Description": "Opp Blk 325"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "58289",
+            "Longitude": 103.81627162679553,
+            "Latitude": 1.44485960840447,
+            "RoadName": "Sembawang Cres",
+            "Description": "Opp Sembawang Sec Sch"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "58279",
+            "Longitude": 103.81460487842601,
+            "Latitude": 1.44671025812826,
+            "RoadName": "Sembawang Cres",
+            "Description": "Opp Blk 336A CP"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "58389",
+            "Longitude": 103.8135666814871,
+            "Latitude": 1.44773992017207,
+            "RoadName": "Sembawang Way",
+            "Description": "Opp Blk 469B"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "47629",
+            "Longitude": 103.80985736845511,
+            "Latitude": 1.44667808186871,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Seagate"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "47619",
+            "Longitude": 103.80713784459924,
+            "Latitude": 1.44430697551185,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Opp Woodsvale Condo"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "47609",
+            "Longitude": 103.80309468577371,
+            "Latitude": 1.44184941782685,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Opp Blk 793"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "47599",
+            "Longitude": 103.80263149734922,
+            "Latitude": 1.4399264222862,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 683A"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "47549",
+            "Longitude": 103.80352352573782,
+            "Latitude": 1.4379048516895,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Opp Blk 639"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "47559",
+            "Longitude": 103.80204564158956,
+            "Latitude": 1.43461254485308,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Opp Blk 630"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "47569",
+            "Longitude": 103.7987803897484,
+            "Latitude": 1.43291945534759,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Opp Blk 620"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "47579",
+            "Longitude": 103.79597019770507,
+            "Latitude": 1.4333134741952,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 556"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "47589",
+            "Longitude": 103.79254444311259,
+            "Latitude": 1.43479106906247,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 519A CP"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "46649",
+            "Longitude": 103.79042134084122,
+            "Latitude": 1.43513571565336,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 515"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "46639",
+            "Longitude": 103.78884919678751,
+            "Latitude": 1.43702205360453,
+            "RoadName": "Woodlands Ave 2",
+            "Description": "Opp Blk 892C CP"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (Last Stop)"
+        }
+    ]
+}

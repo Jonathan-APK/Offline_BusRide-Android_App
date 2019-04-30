@@ -1,0 +1,100 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "44539",
+            "Longitude": 103.74502387945829,
+            "Latitude": 1.38463078337388,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Lot 1 Shoppers' Mall"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "44399",
+            "Longitude": 103.74851002579776,
+            "Latitude": 1.38306278590518,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Opp Blk 210"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "44111",
+            "Longitude": 103.74975224203959,
+            "Latitude": 1.38094121398036,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Opp Blk 203"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "44109",
+            "Longitude": 103.74762171258732,
+            "Latitude": 1.3771776806334,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Opp Hong San Terr"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "44879",
+            "Longitude": 103.74701128990601,
+            "Latitude": 1.37431656227768,
+            "RoadName": "Choa Chu Kang Ave 7",
+            "Description": "Opp Blk 810 CP"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "44899",
+            "Longitude": 103.74949989571633,
+            "Latitude": 1.37432287109092,
+            "RoadName": "Choa Chu Kang Gr",
+            "Description": "Opp APSN"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "44889",
+            "Longitude": 103.74839851286828,
+            "Latitude": 1.3755999743303,
+            "RoadName": "Keat Hong Link",
+            "Description": "Opp Blk 816A"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "44101",
+            "Longitude": 103.74683070774694,
+            "Latitude": 1.37715950047084,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Aft Hong San Terr"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "44119",
+            "Longitude": 103.74930565785152,
+            "Latitude": 1.38048445565999,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Blk 204"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "44391",
+            "Longitude": 103.74831030292964,
+            "Latitude": 1.38288970873929,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Aft Blk 202"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int (Last Stop)"
+        }
+    ]
+}

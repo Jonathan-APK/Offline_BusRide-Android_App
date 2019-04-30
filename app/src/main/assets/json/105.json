@@ -1,0 +1,910 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "66419",
+            "Longitude": 103.86930944403264,
+            "Latitude": 1.35021638901553,
+            "RoadName": "S'goon Ave 3",
+            "Description": "Blk 330"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "66409",
+            "Longitude": 103.86593883283692,
+            "Latitude": 1.34926598081238,
+            "RoadName": "S'goon Ave 3",
+            "Description": "Opp Golden Hts"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "66399",
+            "Longitude": 103.8632462430678,
+            "Latitude": 1.35148729748638,
+            "RoadName": "S'goon Ave 3",
+            "Description": "Opp Lor Chuan Stn Exit B"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "66029",
+            "Longitude": 103.86143525134639,
+            "Latitude": 1.35017159420349,
+            "RoadName": "Lor Chuan",
+            "Description": "St. Gabriel's Pr Sch"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "66019",
+            "Longitude": 103.86040421534554,
+            "Latitude": 1.34602837489201,
+            "RoadName": "Lor Chuan",
+            "Description": "Bef Braddell Rd"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "52069",
+            "Longitude": 103.85856611406128,
+            "Latitude": 1.34314389988912,
+            "RoadName": "Braddell Rd",
+            "Description": "Comfortdelgro Corp Ltd"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "52059",
+            "Longitude": 103.85622585798508,
+            "Latitude": 1.34309745890513,
+            "RoadName": "Braddell Rd",
+            "Description": "Blk 219"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "52361",
+            "Longitude": 103.8529812160764,
+            "Latitude": 1.33974408909931,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 1"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "52279",
+            "Longitude": 103.84992957112877,
+            "Latitude": 1.33702420555118,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Blk 56"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "52239",
+            "Longitude": 103.84894805557066,
+            "Latitude": 1.33412194449168,
+            "RoadName": "Toa Payoh Ctrl",
+            "Description": "Blk 177"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "52189",
+            "Longitude": 103.84678305554863,
+            "Latitude": 1.33318499999452,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Toa Payoh Stn"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "52079",
+            "Longitude": 103.84382885735747,
+            "Latitude": 1.32931477158443,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Opp Trellis Twrs"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "51099",
+            "Longitude": 103.8345342161876,
+            "Latitude": 1.325881667006,
+            "RoadName": "Whitley Rd",
+            "Description": "Catholic JC"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "40249",
+            "Longitude": 103.82735055603025,
+            "Latitude": 1.3249247219882,
+            "RoadName": "Whitley Rd",
+            "Description": "St. Joseph'S Instn"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "40239",
+            "Longitude": 103.82620193736967,
+            "Latitude": 1.32255443038995,
+            "RoadName": "Whitley Rd",
+            "Description": "Aft Tanglin CC"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "40229",
+            "Longitude": 103.82570109605929,
+            "Latitude": 1.31933337975163,
+            "RoadName": "Stevens Rd",
+            "Description": "Aft Stevens Stn"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "40219",
+            "Longitude": 103.82605954338264,
+            "Latitude": 1.31703698010115,
+            "RoadName": "Stevens Rd",
+            "Description": "Bef Met YMCA"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "40209",
+            "Longitude": 103.82738777802837,
+            "Latitude": 1.31388805600649,
+            "RoadName": "Stevens Rd",
+            "Description": "NOVOTEL MERCURE @ STEVENS"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "40199",
+            "Longitude": 103.83191222199584,
+            "Latitude": 1.31258333303153,
+            "RoadName": "Stevens Rd",
+            "Description": "Opp Raffles Girls' Sch"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "09219",
+            "Longitude": 103.83316088291699,
+            "Latitude": 1.30731999685228,
+            "RoadName": "Scotts Rd",
+            "Description": "Far East Plaza"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "09111",
+            "Longitude": 103.82914529614989,
+            "Latitude": 1.30453752623147,
+            "RoadName": "Orchard Blvd",
+            "Description": "Opp Four Seasons Hotel"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "09121",
+            "Longitude": 103.82699645124522,
+            "Latitude": 1.30397379238249,
+            "RoadName": "Orchard Blvd",
+            "Description": "Bef Tomlinson Rd"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "09131",
+            "Longitude": 103.82333805603095,
+            "Latitude": 1.30391999998489,
+            "RoadName": "Grange Rd",
+            "Description": "Grange Residences"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "09141",
+            "Longitude": 103.82177666702269,
+            "Latitude": 1.30543500002797,
+            "RoadName": "Napier Rd",
+            "Description": "British Council"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "13011",
+            "Longitude": 103.81983822614549,
+            "Latitude": 1.30634849184404,
+            "RoadName": "Napier Rd",
+            "Description": "Opp S'pore Botanic Gdns"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "13021",
+            "Longitude": 103.81430670816292,
+            "Latitude": 1.30633972996805,
+            "RoadName": "Holland Rd",
+            "Description": "Aft Min Of Foreign Affairs"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "11201",
+            "Longitude": 103.81186453577433,
+            "Latitude": 1.30692642897557,
+            "RoadName": "Holland Rd",
+            "Description": "CSC Dempsey Clubhse"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "11211",
+            "Longitude": 103.80939522851014,
+            "Latitude": 1.30838779885113,
+            "RoadName": "Holland Rd",
+            "Description": "Aft Peirce Rd"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "11221",
+            "Longitude": 103.80544413357042,
+            "Latitude": 1.31002225322358,
+            "RoadName": "Holland Rd",
+            "Description": "Lien Twrs"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "11089",
+            "Longitude": 103.80334087354639,
+            "Latitude": 1.30946135492693,
+            "RoadName": "Queensway",
+            "Description": "Opp Holland Hill Lodge"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "11079",
+            "Longitude": 103.80185250000659,
+            "Latitude": 1.305441389003,
+            "RoadName": "Queensway",
+            "Description": "Opp Blk 95"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "11069",
+            "Longitude": 103.80161762237655,
+            "Latitude": 1.30236853162324,
+            "RoadName": "Queensway",
+            "Description": "Queensway Sec Sch"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "11161",
+            "Longitude": 103.79839083302141,
+            "Latitude": 1.30213305598263,
+            "RoadName": "C'wealth Ave",
+            "Description": "C'Wealth Stn Exit A/D"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "11171",
+            "Longitude": 103.79479722196947,
+            "Latitude": 1.30535666699303,
+            "RoadName": "C'wealth Ave",
+            "Description": "Opp Blk 7B"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "11181",
+            "Longitude": 103.79227638896938,
+            "Latitude": 1.30722333300814,
+            "RoadName": "C'wealth Ave",
+            "Description": "Opp Blk 43"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "11191",
+            "Longitude": 103.7883731546267,
+            "Latitude": 1.30801640815091,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Buona Vista Stn"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "19011",
+            "Longitude": 103.78423666696615,
+            "Latitude": 1.30781638901709,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 19A CP"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "19021",
+            "Longitude": 103.7812018067838,
+            "Latitude": 1.30965490194051,
+            "RoadName": "C'wealth Ave West",
+            "Description": "SP SMA"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "19031",
+            "Longitude": 103.77838361113201,
+            "Latitude": 1.31123416666912,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Dover Stn"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "19041",
+            "Longitude": 103.77552750001337,
+            "Latitude": 1.31235972197855,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Sch Of Science & Tech"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "17151",
+            "Longitude": 103.76960993525367,
+            "Latitude": 1.31169519353522,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 410"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "17161",
+            "Longitude": 103.76685476875124,
+            "Latitude": 1.31240993603605,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Blk 329"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "17171",
+            "Longitude": 103.76502698264449,
+            "Latitude": 1.31497399268611,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Clementi Stn"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "17181",
+            "Longitude": 103.7638854582427,
+            "Latitude": 1.31749570803723,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Blk 317"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "20101",
+            "Longitude": 103.76221926730373,
+            "Latitude": 1.31993714188512,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Nan Hua Pr Sch"
+        },
+        {
+            "Distance": 22.2,
+            "BusStopCode": "28011",
+            "Longitude": 103.7591472219987,
+            "Latitude": 1.32425805601593,
+            "RoadName": "C'wealth Ave West",
+            "Description": "BEF TOH TUCK AVE"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "28021",
+            "Longitude": 103.75545022241596,
+            "Latitude": 1.32615808379173,
+            "RoadName": "Boon Lay Way",
+            "Description": "OPP 8 @TRADEHUB 21"
+        },
+        {
+            "Distance": 23.2,
+            "BusStopCode": "28031",
+            "Longitude": 103.75101499996688,
+            "Latitude": 1.32790100001681,
+            "RoadName": "Boon Lay Way",
+            "Description": "Bef The Synergy"
+        },
+        {
+            "Distance": 23.6,
+            "BusStopCode": "28041",
+            "Longitude": 103.74828366332322,
+            "Latitude": 1.33008349967851,
+            "RoadName": "Boon Lay Way",
+            "Description": "The Synergy"
+        },
+        {
+            "Distance": 24.2,
+            "BusStopCode": "28659",
+            "Longitude": 103.74767782537164,
+            "Latitude": 1.33446189256828,
+            "RoadName": "Toh Guan Rd",
+            "Description": "IMM Bldg"
+        },
+        {
+            "Distance": 24.9,
+            "BusStopCode": "28649",
+            "Longitude": 103.74603439301079,
+            "Latitude": 1.33901303401774,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 286A"
+        },
+        {
+            "Distance": 25.2,
+            "BusStopCode": "28639",
+            "Longitude": 103.74395996871245,
+            "Latitude": 1.34045649755771,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 288E"
+        },
+        {
+            "Distance": 25.6,
+            "BusStopCode": "28319",
+            "Longitude": 103.74173313734524,
+            "Latitude": 1.33862623918679,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 207"
+        },
+        {
+            "Distance": 25.9,
+            "BusStopCode": "28449",
+            "Longitude": 103.73944500002973,
+            "Latitude": 1.33618166701348,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Bef Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 26.4,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "28441",
+            "Longitude": 103.73884916698127,
+            "Latitude": 1.33576638902918,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "28311",
+            "Longitude": 103.74108351905207,
+            "Latitude": 1.33825277511898,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "28631",
+            "Longitude": 103.74418616293988,
+            "Latitude": 1.34053157728505,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Opp Blk 288D"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "28641",
+            "Longitude": 103.74610320575732,
+            "Latitude": 1.33917889755759,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 284"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "28651",
+            "Longitude": 103.74794188238828,
+            "Latitude": 1.33515192012369,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Opp IMM Bldg"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "28049",
+            "Longitude": 103.7481034124348,
+            "Latitude": 1.33069921313648,
+            "RoadName": "Boon Lay Way",
+            "Description": "Opp The Synergy"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "28039",
+            "Longitude": 103.75140833297368,
+            "Latitude": 1.3280750000324,
+            "RoadName": "Boon Lay Way",
+            "Description": "Aft Boon Lay Sub Stn"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "28029",
+            "Longitude": 103.75436027668461,
+            "Latitude": 1.32688998200812,
+            "RoadName": "Boon Lay Way",
+            "Description": "8 @ TRADEHUB 21"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "28019",
+            "Longitude": 103.75894333173954,
+            "Latitude": 1.32492720506757,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Aft Toh Tuck Ave"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "20109",
+            "Longitude": 103.76206999856427,
+            "Latitude": 1.32085220079341,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 203"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "17189",
+            "Longitude": 103.76406408827933,
+            "Latitude": 1.31790502165515,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 317"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "17179",
+            "Longitude": 103.76536000516927,
+            "Latitude": 1.31528191560846,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Clementi Stn"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "17169",
+            "Longitude": 103.76679666702314,
+            "Latitude": 1.31284527799656,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 329"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "17159",
+            "Longitude": 103.7698144,
+            "Latitude": 1.311975556,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 365"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "19049",
+            "Longitude": 103.77479215922537,
+            "Latitude": 1.31266302174215,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Sch Of Science & Tech"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "19039",
+            "Longitude": 103.77868390552867,
+            "Latitude": 1.31167951129602,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Dover Stn"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "19029",
+            "Longitude": 103.78201879388226,
+            "Latitude": 1.3095609201372,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp SP SMA"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "19019",
+            "Longitude": 103.78475916699466,
+            "Latitude": 1.30807305598128,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Blk 19A CP"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "11199",
+            "Longitude": 103.78843145303215,
+            "Latitude": 1.30837970735444,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 15"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "11189",
+            "Longitude": 103.79254222202354,
+            "Latitude": 1.30740138898924,
+            "RoadName": "C'wealth Ave",
+            "Description": "Blk 43"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "11179",
+            "Longitude": 103.79427940117534,
+            "Latitude": 1.30627521395682,
+            "RoadName": "C'wealth Ave",
+            "Description": "Blk 8"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "11169",
+            "Longitude": 103.79838166697326,
+            "Latitude": 1.30270500001823,
+            "RoadName": "C'wealth Ave",
+            "Description": "C'Wealth Stn Exit B/C"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "11061",
+            "Longitude": 103.80118694402536,
+            "Latitude": 1.30265777802206,
+            "RoadName": "Queensway",
+            "Description": "Opp Queensway Sec Sch"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "11071",
+            "Longitude": 103.80170944396954,
+            "Latitude": 1.30621305601609,
+            "RoadName": "Queensway",
+            "Description": "Blk 97"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "11081",
+            "Longitude": 103.80258027799627,
+            "Latitude": 1.30851972202313,
+            "RoadName": "Queensway",
+            "Description": "Viz Holland"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "11229",
+            "Longitude": 103.80522542227166,
+            "Latitude": 1.31060065879064,
+            "RoadName": "Holland Rd",
+            "Description": "Les Jardins De Holland"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "11219",
+            "Longitude": 103.80716407830104,
+            "Latitude": 1.30988506093033,
+            "RoadName": "Holland Rd",
+            "Description": "Great Eastern Mans"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "11209",
+            "Longitude": 103.81038349817638,
+            "Latitude": 1.30817280849852,
+            "RoadName": "Holland Rd",
+            "Description": "Opp Peirce Rd"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "13029",
+            "Longitude": 103.8145185880206,
+            "Latitude": 1.30671783282361,
+            "RoadName": "Holland Rd",
+            "Description": "Bef Tyersall Ave"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "13019",
+            "Longitude": 103.82013079894885,
+            "Latitude": 1.3067380217198,
+            "RoadName": "Napier Rd",
+            "Description": "S'pore Botanic Gdns"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "09149",
+            "Longitude": 103.8212215023314,
+            "Latitude": 1.30608981381948,
+            "RoadName": "Napier Rd",
+            "Description": "Opp British Council"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "09159",
+            "Longitude": 103.82568042620605,
+            "Latitude": 1.30602637557418,
+            "RoadName": "Tanglin Rd",
+            "Description": "Aft Tomlinson Rd"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "09169",
+            "Longitude": 103.82835507326037,
+            "Latitude": 1.3070135326348,
+            "RoadName": "Orchard Rd",
+            "Description": "Delfi Orchard"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "09179",
+            "Longitude": 103.83049004618626,
+            "Latitude": 1.30587966240898,
+            "RoadName": "Orchard Rd",
+            "Description": "Royal Thai Embassy"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "09213",
+            "Longitude": 103.83305083303023,
+            "Latitude": 1.30783805600034,
+            "RoadName": "Scotts Rd",
+            "Description": "Thong Teck Bldg"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "40191",
+            "Longitude": 103.8304269440197,
+            "Latitude": 1.31268555601325,
+            "RoadName": "Stevens Rd",
+            "Description": "Raffles Girls' Sch"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "40201",
+            "Longitude": 103.82743055599407,
+            "Latitude": 1.31358972201496,
+            "RoadName": "Stevens Rd",
+            "Description": "Chelsea Gdns Condo"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "40211",
+            "Longitude": 103.825862990405,
+            "Latitude": 1.31655331624558,
+            "RoadName": "Stevens Rd",
+            "Description": "Opp Met YMCA"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "40221",
+            "Longitude": 103.82545561296305,
+            "Latitude": 1.31902531287493,
+            "RoadName": "Stevens Rd",
+            "Description": "Opp Stevens Stn"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "40231",
+            "Longitude": 103.82568817714628,
+            "Latitude": 1.32214806956461,
+            "RoadName": "Whitley Rd",
+            "Description": "Raffles Town Club"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "51091",
+            "Longitude": 103.83401870730577,
+            "Latitude": 1.32648060854916,
+            "RoadName": "PIE",
+            "Description": "Opp Catholic JC"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "51101",
+            "Longitude": 103.83724817699014,
+            "Latitude": 1.32753637537789,
+            "RoadName": "PIE",
+            "Description": "Old Police Academy"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "52071",
+            "Longitude": 103.84381843224321,
+            "Latitude": 1.32991416932901,
+            "RoadName": "Jln Toa Payoh",
+            "Description": "Trellis Twrs"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "52181",
+            "Longitude": 103.84656071660625,
+            "Latitude": 1.33306633976898,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Opp Toa Payoh Stn"
+        },
+        {
+            "Distance": 20.8,
+            "BusStopCode": "52231",
+            "Longitude": 103.8487842386021,
+            "Latitude": 1.3343049899737,
+            "RoadName": "Toa Payoh Ctrl",
+            "Description": "Opp Blk 177"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "52271",
+            "Longitude": 103.84974718092391,
+            "Latitude": 1.33683113907107,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Jackson Sq"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "52369",
+            "Longitude": 103.85273333299853,
+            "Latitude": 1.34001833298065,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 237"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "52051",
+            "Longitude": 103.85469257245785,
+            "Latitude": 1.34338820709349,
+            "RoadName": "Braddell Rd",
+            "Description": "BLK 147"
+        },
+        {
+            "Distance": 23.3,
+            "BusStopCode": "52061",
+            "Longitude": 103.85873879159365,
+            "Latitude": 1.34352174018964,
+            "RoadName": "Braddell Rd",
+            "Description": "BCA Academy"
+        },
+        {
+            "Distance": 23.9,
+            "BusStopCode": "66011",
+            "Longitude": 103.8599767808637,
+            "Latitude": 1.34716997902419,
+            "RoadName": "Lor Chuan",
+            "Description": "Aft Braddell Rd"
+        },
+        {
+            "Distance": 24.4,
+            "BusStopCode": "66021",
+            "Longitude": 103.86182938341672,
+            "Latitude": 1.35096671417894,
+            "RoadName": "Lor Chuan",
+            "Description": "New Tech Pk"
+        },
+        {
+            "Distance": 24.8,
+            "BusStopCode": "66391",
+            "Longitude": 103.86484232962732,
+            "Latitude": 1.35096942673026,
+            "RoadName": "S'goon Ave 3",
+            "Description": "Lor Chuan Stn Exit A"
+        },
+        {
+            "Distance": 25,
+            "BusStopCode": "66401",
+            "Longitude": 103.86604085565898,
+            "Latitude": 1.34937635159369,
+            "RoadName": "S'goon Ave 3",
+            "Description": "Golden Hts"
+        },
+        {
+            "Distance": 25.4,
+            "BusStopCode": "66411",
+            "Longitude": 103.86903123228186,
+            "Latitude": 1.35002972706339,
+            "RoadName": "S'goon Ave 3",
+            "Description": "Blk 326"
+        },
+        {
+            "Distance": 25.7,
+            "BusStopCode": "66389",
+            "Longitude": 103.8710690514159,
+            "Latitude": 1.35092163758707,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Stn Exit F"
+        },
+        {
+            "Distance": 25.8,
+            "BusStopCode": "66009",
+            "Longitude": 103.87168992264617,
+            "Latitude": 1.35046610176969,
+            "RoadName": "S'goon Ave 2",
+            "Description": "S'Goon Int"
+        }
+    ]
+}

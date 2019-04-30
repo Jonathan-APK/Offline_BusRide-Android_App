@@ -1,0 +1,68 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "53009",
+            "Longitude": 103.84988083722291,
+            "Latitude": 1.35045541249544,
+            "RoadName": "Bishan St 13",
+            "Description": "Bishan Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "53221",
+            "Longitude": 103.8484543562104,
+            "Latitude": 1.34816840593896,
+            "RoadName": "Bishan St 11",
+            "Description": "BLK 115"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "53239",
+            "Longitude": 103.8476587818646,
+            "Latitude": 1.35100305612802,
+            "RoadName": "Bishan Rd",
+            "Description": "OPP BISHAN STN"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "53249",
+            "Longitude": 103.84911895270494,
+            "Latitude": 1.35538305217047,
+            "RoadName": "Bishan Rd",
+            "Description": "BLK 210"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "54539",
+            "Longitude": 103.85104805599867,
+            "Latitude": 1.35857111103202,
+            "RoadName": "Bishan Rd",
+            "Description": "BISHAN PK"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "54601",
+            "Longitude": 103.85514583300495,
+            "Latitude": 1.35942138902131,
+            "RoadName": "Ang Mo Kio Ave 10",
+            "Description": "Townsville Pr Sch"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "54371",
+            "Longitude": 103.85568284134345,
+            "Latitude": 1.36238306289968,
+            "RoadName": "Ang Mo Kio Ave 10",
+            "Description": "Blk 409A"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "54381",
+            "Longitude": 103.85608617430734,
+            "Latitude": 1.3657416739059,
+            "RoadName": "Ang Mo Kio Ave 10",
+            "Description": "Blk 443"
+        }
+    ]
+}

@@ -1,0 +1,366 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46141",
+            "Longitude": 103.77329520911692,
+            "Latitude": 1.44364959550382,
+            "RoadName": "Marsiling Dr",
+            "Description": "Blk 32"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "46151",
+            "Longitude": 103.77347243148317,
+            "Latitude": 1.44582725741537,
+            "RoadName": "Marsiling Lane",
+            "Description": "Blk 212"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "46161",
+            "Longitude": 103.77556464561282,
+            "Latitude": 1.44536006142756,
+            "RoadName": "Marsiling Lane",
+            "Description": "GES S'pore"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "46171",
+            "Longitude": 103.77800011395242,
+            "Latitude": 1.44412876526641,
+            "RoadName": "Marsiling Lane",
+            "Description": "Opp Blk 19"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "46241",
+            "Longitude": 103.77894354468205,
+            "Latitude": 1.44211845227565,
+            "RoadName": "Marsiling Lane",
+            "Description": "Opp Blk 15"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "46191",
+            "Longitude": 103.78053807087814,
+            "Latitude": 1.43978268235949,
+            "RoadName": "Marsiling Rise",
+            "Description": "Opp Blk 120"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "46299",
+            "Longitude": 103.78274585693057,
+            "Latitude": 1.43692705673107,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Opp Blk 106"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "46641",
+            "Longitude": 103.79002659369449,
+            "Latitude": 1.43537882843176,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 894C"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "47581",
+            "Longitude": 103.79352674536875,
+            "Latitude": 1.43464494959345,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Opp Blk 521"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "46651",
+            "Longitude": 103.79455264522785,
+            "Latitude": 1.43298096854241,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 550"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "46961",
+            "Longitude": 103.79285722250489,
+            "Latitude": 1.43048944407628,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 547"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "46981",
+            "Longitude": 103.792511107377,
+            "Latitude": 1.42810336959513,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Blk 541"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "46991",
+            "Longitude": 103.79587149975599,
+            "Latitude": 1.42764093083406,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Blk 589"
+        },
+        {
+            "Distance": 26.7,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 27.2,
+            "BusStopCode": "08069",
+            "Longitude": 103.84936128375956,
+            "Latitude": 1.29821382250893,
+            "RoadName": "Bras Basah Rd",
+            "Description": "BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 27.5,
+            "BusStopCode": "04179",
+            "Longitude": 103.85147164487202,
+            "Latitude": 1.29647916306741,
+            "RoadName": "Bras Basah Rd",
+            "Description": "AFT BRAS BASAH STN EXIT A"
+        },
+        {
+            "Distance": 27.9,
+            "BusStopCode": "02049",
+            "Longitude": 103.85402155505173,
+            "Latitude": 1.29452091230981,
+            "RoadName": "Bras Basah Rd",
+            "Description": "Raffles Hotel"
+        },
+        {
+            "Distance": 28.3,
+            "BusStopCode": "02119",
+            "Longitude": 103.85534334305085,
+            "Latitude": 1.29184407356581,
+            "RoadName": "Nicoll Highway",
+            "Description": "Opp War Memorial Pk"
+        },
+        {
+            "Distance": 29.3,
+            "BusStopCode": "03019",
+            "Longitude": 103.85310805599599,
+            "Latitude": 1.284245000013,
+            "RoadName": "Collyer Quay",
+            "Description": "OUE Bayfront"
+        },
+        {
+            "Distance": 29.6,
+            "BusStopCode": "03059",
+            "Longitude": 103.85135652579491,
+            "Latitude": 1.28097649556002,
+            "RoadName": "Raffles Quay",
+            "Description": "One Raffles Quay"
+        },
+        {
+            "Distance": 30,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 30.6,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03241",
+            "Longitude": 103.84537,
+            "Latitude": 1.27456,
+            "RoadName": "Anson Rd",
+            "Description": "Mapletree Anson"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "03031",
+            "Longitude": 103.85086074925066,
+            "Latitude": 1.28207492207952,
+            "RoadName": "Robinson Rd",
+            "Description": "Raffles Pl Stn Exit F"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "02111",
+            "Longitude": 103.85453419435228,
+            "Latitude": 1.29095592348389,
+            "RoadName": "Esplanade Dr",
+            "Description": "Esplanade Bridge"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "04111",
+            "Longitude": 103.85128983925452,
+            "Latitude": 1.2940020309036,
+            "RoadName": "Stamford Rd",
+            "Description": "Capitol Bldg"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "04121",
+            "Longitude": 103.84958029974611,
+            "Latitude": 1.29618544092334,
+            "RoadName": "Stamford Rd",
+            "Description": "SMU"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "08041",
+            "Longitude": 103.84780636909545,
+            "Latitude": 1.29811014243867,
+            "RoadName": "Orchard Rd",
+            "Description": "YMCA"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "08031",
+            "Longitude": 103.8452569595532,
+            "Latitude": 1.29831153783592,
+            "RoadName": "Penang Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 26.1,
+            "BusStopCode": "46999",
+            "Longitude": 103.79600329149085,
+            "Latitude": 1.42742826147903,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Opp Blk 589"
+        },
+        {
+            "Distance": 26.6,
+            "BusStopCode": "46989",
+            "Longitude": 103.79221259917931,
+            "Latitude": 1.42802334589801,
+            "RoadName": "Woodlands Ave 1",
+            "Description": "Opp Blk 540"
+        },
+        {
+            "Distance": 27,
+            "BusStopCode": "46969",
+            "Longitude": 103.79269972105995,
+            "Latitude": 1.43059181782407,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 532"
+        },
+        {
+            "Distance": 27.3,
+            "BusStopCode": "46659",
+            "Longitude": 103.79414300304941,
+            "Latitude": 1.43269272771322,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Opp Blk 550"
+        },
+        {
+            "Distance": 27.7,
+            "BusStopCode": "47589",
+            "Longitude": 103.79254444311259,
+            "Latitude": 1.43479106906247,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 519A CP"
+        },
+        {
+            "Distance": 28,
+            "BusStopCode": "46649",
+            "Longitude": 103.79042134084122,
+            "Latitude": 1.43513571565336,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 515"
+        },
+        {
+            "Distance": 28.9,
+            "BusStopCode": "46291",
+            "Longitude": 103.78248384607947,
+            "Latitude": 1.4364014799639,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 106"
+        },
+        {
+            "Distance": 29.4,
+            "BusStopCode": "46199",
+            "Longitude": 103.78065534399263,
+            "Latitude": 1.43955043252866,
+            "RoadName": "Marsiling Rise",
+            "Description": "Blk 120"
+        },
+        {
+            "Distance": 29.8,
+            "BusStopCode": "46249",
+            "Longitude": 103.77874767257565,
+            "Latitude": 1.44211238924063,
+            "RoadName": "Marsiling Lane",
+            "Description": "Blk 15"
+        },
+        {
+            "Distance": 30,
+            "BusStopCode": "46179",
+            "Longitude": 103.77787477069215,
+            "Latitude": 1.44401436320878,
+            "RoadName": "Marsiling Lane",
+            "Description": "Blk 18"
+        },
+        {
+            "Distance": 30.3,
+            "BusStopCode": "46169",
+            "Longitude": 103.77526673254576,
+            "Latitude": 1.44535191044578,
+            "RoadName": "Marsiling Lane",
+            "Description": "Si Ling Sec Sch"
+        },
+        {
+            "Distance": 30.5,
+            "BusStopCode": "46159",
+            "Longitude": 103.77343912801257,
+            "Latitude": 1.4456557748871,
+            "RoadName": "Marsiling Lane",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 30.9,
+            "BusStopCode": "46149",
+            "Longitude": 103.77379694403167,
+            "Latitude": 1.4436158329924,
+            "RoadName": "Marsiling Dr",
+            "Description": "Blk 203"
+        }
+    ]
+}

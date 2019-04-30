@@ -1,0 +1,558 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75019",
+            "Longitude": 103.9416488042812,
+            "Latitude": 1.35737133106172,
+            "RoadName": "Tampines Concourse",
+            "Description": "Tampines Concourse Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "76059",
+            "Longitude": 103.94165154852797,
+            "Latitude": 1.35296163572491,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Our Tampines Hub"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "76069",
+            "Longitude": 103.94208629087403,
+            "Latitude": 1.34875342114003,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 147"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "76071",
+            "Longitude": 103.94517805600674,
+            "Latitude": 1.34802638899143,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 141"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "76081",
+            "Longitude": 103.94932305553937,
+            "Latitude": 1.34950194446778,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Opp The Holy Trinity Ch"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "76091",
+            "Longitude": 103.95275166965992,
+            "Latitude": 1.35071636446812,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "76101",
+            "Longitude": 103.95480210652737,
+            "Latitude": 1.35303315550855,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Tampines East CC"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "76031",
+            "Longitude": 103.95529781026745,
+            "Latitude": 1.35507956918888,
+            "RoadName": "Tampines Ave 2",
+            "Description": "TAMPINES EAST STN EXIT B"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "76231",
+            "Longitude": 103.95736200626966,
+            "Latitude": 1.35666908955685,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Tampines JC/Opp Blk 390"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "76241",
+            "Longitude": 103.95917058122039,
+            "Latitude": 1.35845802746258,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 497D"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "98011",
+            "Longitude": 103.96291600002557,
+            "Latitude": 1.36221388889515,
+            "RoadName": "Loyang Ave",
+            "Description": "Blk 149A"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "98091",
+            "Longitude": 103.9631266198707,
+            "Latitude": 1.36432808773556,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 156"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "78051",
+            "Longitude": 103.96118122599651,
+            "Latitude": 1.36625310810093,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 197"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "78061",
+            "Longitude": 103.95848117561664,
+            "Latitude": 1.36824361151738,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 104"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "77051",
+            "Longitude": 103.95508527984948,
+            "Latitude": 1.36908504460753,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 115"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "77041",
+            "Longitude": 103.95130450100082,
+            "Latitude": 1.36944854648197,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 541"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "77031",
+            "Longitude": 103.9483810573245,
+            "Latitude": 1.37116337071002,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Aft Pasir Ris Ctrl"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "77021",
+            "Longitude": 103.94557280001845,
+            "Latitude": 1.3726630000055,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Opp Blk 571"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "77011",
+            "Longitude": 103.94266590001561,
+            "Latitude": 1.37376489998905,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Opp Blk 515"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "77241",
+            "Longitude": 103.940272636011,
+            "Latitude": 1.37531331487507,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Opp Blk 640"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "77231",
+            "Longitude": 103.93844026085439,
+            "Latitude": 1.37670503142246,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Meridian JC"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "77281",
+            "Longitude": 103.93618729229594,
+            "Latitude": 1.37837166677052,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 740"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "77331",
+            "Longitude": 103.93338764757789,
+            "Latitude": 1.3782973982979,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Blk 747A"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "65191",
+            "Longitude": 103.90539999997036,
+            "Latitude": 1.39527356921611,
+            "RoadName": "TPE",
+            "Description": "Bef Punggol Rd"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "68119",
+            "Longitude": 103.87194871751426,
+            "Latitude": 1.40231306085319,
+            "RoadName": "Jln Kayu",
+            "Description": "Aft Seletar Camp G"
+        },
+        {
+            "Distance": 22.5,
+            "BusStopCode": "55281",
+            "Longitude": 103.8288169,
+            "Latitude": 1.398135,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft SLE"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "59011",
+            "Longitude": 103.82737908252,
+            "Latitude": 1.40205059877403,
+            "RoadName": "Lentor Ave",
+            "Description": "Bef Sg Seletar Bridge"
+        },
+        {
+            "Distance": 23.9,
+            "BusStopCode": "59021",
+            "Longitude": 103.828825,
+            "Latitude": 1.407988889,
+            "RoadName": "Lentor Ave",
+            "Description": "Bef Yishun Ave 1"
+        },
+        {
+            "Distance": 24.3,
+            "BusStopCode": "59031",
+            "Longitude": 103.83083958669692,
+            "Latitude": 1.41277747172151,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Sports Hall"
+        },
+        {
+            "Distance": 24.7,
+            "BusStopCode": "59041",
+            "Longitude": 103.832591612732,
+            "Latitude": 1.41625420109094,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Bef Khatib Stn"
+        },
+        {
+            "Distance": 25.1,
+            "BusStopCode": "59051",
+            "Longitude": 103.83429674432547,
+            "Latitude": 1.41968270185637,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 790"
+        },
+        {
+            "Distance": 25.8,
+            "BusStopCode": "59061",
+            "Longitude": 103.83495820649408,
+            "Latitude": 1.42556399229911,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 763"
+        },
+        {
+            "Distance": 26,
+            "BusStopCode": "59671",
+            "Longitude": 103.83518718969762,
+            "Latitude": 1.42777620949098,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Bef Yishun Stn"
+        },
+        {
+            "Distance": 26.2,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "59073",
+            "Longitude": 103.8354631,
+            "Latitude": 1.428686944,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Stn"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "59069",
+            "Longitude": 103.83536957259517,
+            "Latitude": 1.42657294826877,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Blk 757"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "59059",
+            "Longitude": 103.83497942324875,
+            "Latitude": 1.42054602879781,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 608"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "59049",
+            "Longitude": 103.83339984073773,
+            "Latitude": 1.41700998157675,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Khatib Stn"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "59039",
+            "Longitude": 103.83156300557019,
+            "Latitude": 1.41342871609658,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Sports Hall"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "59029",
+            "Longitude": 103.82924769115782,
+            "Latitude": 1.40885843406387,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Yishun Ave 1"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "59019",
+            "Longitude": 103.82763036053306,
+            "Latitude": 1.40217670308957,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Sg Seletar Bridge"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "55289",
+            "Longitude": 103.82903916367646,
+            "Latitude": 1.39844339285315,
+            "RoadName": "Lentor Ave",
+            "Description": "LP 94"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "68111",
+            "Longitude": 103.87138805557646,
+            "Latitude": 1.40222194447692,
+            "RoadName": "Jln Kayu",
+            "Description": "Bef Seletar Camp G"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "65199",
+            "Longitude": 103.90542736761212,
+            "Latitude": 1.39591721161169,
+            "RoadName": "TPE",
+            "Description": "Aft Punggol Rd"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "77339",
+            "Longitude": 103.93278653475954,
+            "Latitude": 1.3780301775267,
+            "RoadName": "Pasir Ris Dr 12",
+            "Description": "Aft TPE"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "77289",
+            "Longitude": 103.93596534133927,
+            "Latitude": 1.37889759950996,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 738"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "77239",
+            "Longitude": 103.93793201117523,
+            "Latitude": 1.37741830757924,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 643"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "77249",
+            "Longitude": 103.939861116152,
+            "Latitude": 1.37599439507295,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 640"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "78049",
+            "Longitude": 103.94180578126523,
+            "Latitude": 1.3744627816256,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 612"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "77019",
+            "Longitude": 103.94351079998545,
+            "Latitude": 1.3737108000359,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 515"
+        },
+        {
+            "Distance": 19.3,
+            "BusStopCode": "77029",
+            "Longitude": 103.94597779999948,
+            "Latitude": 1.37274960000662,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 571"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "77039",
+            "Longitude": 103.94834855629753,
+            "Latitude": 1.37159118708865,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Bef Pasir Ris Ctrl"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "77049",
+            "Longitude": 103.95158314847573,
+            "Latitude": 1.36963556960047,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Pasir Ris Town Pk"
+        },
+        {
+            "Distance": 20.5,
+            "BusStopCode": "77059",
+            "Longitude": 103.95506338293471,
+            "Latitude": 1.36936138996292,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 425"
+        },
+        {
+            "Distance": 20.8,
+            "BusStopCode": "78069",
+            "Longitude": 103.95815838787027,
+            "Latitude": 1.36869168470813,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 442"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "78059",
+            "Longitude": 103.96113744871693,
+            "Latitude": 1.36677606799955,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 210"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "98099",
+            "Longitude": 103.96328361098551,
+            "Latitude": 1.36457166700645,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 269A"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "98019",
+            "Longitude": 103.96338699998489,
+            "Latitude": 1.3622609999684,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Blk 149A"
+        },
+        {
+            "Distance": 22.6,
+            "BusStopCode": "76249",
+            "Longitude": 103.95947435534286,
+            "Latitude": 1.35836639849151,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 370"
+        },
+        {
+            "Distance": 22.9,
+            "BusStopCode": "76239",
+            "Longitude": 103.95752447018292,
+            "Latitude": 1.35646655532488,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 390/Opp Tampines JC"
+        },
+        {
+            "Distance": 23.2,
+            "BusStopCode": "76039",
+            "Longitude": 103.9555498102644,
+            "Latitude": 1.35506418976437,
+            "RoadName": "Tampines Ave 2",
+            "Description": "TAMPINES EAST STN EXIT C"
+        },
+        {
+            "Distance": 23.5,
+            "BusStopCode": "76109",
+            "Longitude": 103.9551184525466,
+            "Latitude": 1.35296639979416,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 24,
+            "BusStopCode": "76099",
+            "Longitude": 103.95249172187374,
+            "Latitude": 1.35026359502623,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 285"
+        },
+        {
+            "Distance": 24.5,
+            "BusStopCode": "76089",
+            "Longitude": 103.94923388889873,
+            "Latitude": 1.34916805553714,
+            "RoadName": "Tampines Ave 2",
+            "Description": "The Holy Trinity Ch"
+        },
+        {
+            "Distance": 25,
+            "BusStopCode": "76079",
+            "Longitude": 103.94563500000055,
+            "Latitude": 1.34794388891649,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 25.6,
+            "BusStopCode": "76061",
+            "Longitude": 103.94189805552267,
+            "Latitude": 1.3482019444416,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 938"
+        },
+        {
+            "Distance": 26.1,
+            "BusStopCode": "76051",
+            "Longitude": 103.9412639409046,
+            "Latitude": 1.35313809279079,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Our Tampines Hub"
+        },
+        {
+            "Distance": 26.9,
+            "BusStopCode": "75019",
+            "Longitude": 103.9416488042812,
+            "Latitude": 1.35737133106172,
+            "RoadName": "Tampines Concourse",
+            "Description": "Tampines Concourse Int"
+        }
+    ]
+}

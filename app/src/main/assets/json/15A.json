@@ -1,0 +1,172 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "77139",
+            "Longitude": 103.94649798163485,
+            "Latitude": 1.37518089319612,
+            "RoadName": "Pasir Ris St 52",
+            "Description": "Blk 582"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "77029",
+            "Longitude": 103.94597779999948,
+            "Latitude": 1.37274960000662,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 571"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "76191",
+            "Longitude": 103.94477445426702,
+            "Latitude": 1.3569438864901,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 401"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "76149",
+            "Longitude": 103.94636710560508,
+            "Latitude": 1.35370728527221,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Tampines Stn/Int"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "76139",
+            "Longitude": 103.94385009279503,
+            "Latitude": 1.35162691843499,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Century Sq"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "76069",
+            "Longitude": 103.94208629087403,
+            "Latitude": 1.34875342114003,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 147"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "75059",
+            "Longitude": 103.9402168928283,
+            "Latitude": 1.34471168546511,
+            "RoadName": "Tampines Ave 1",
+            "Description": "BEF TAMPINES WEST STN"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "75229",
+            "Longitude": 103.93676608938834,
+            "Latitude": 1.34499782605889,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly East G"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "75239",
+            "Longitude": 103.93257655832721,
+            "Latitude": 1.34675259898315,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "75249",
+            "Longitude": 103.93017010145029,
+            "Latitude": 1.34791499671757,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly West G"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "75259",
+            "Longitude": 103.92798027801848,
+            "Latitude": 1.34913805600656,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Tropica Condo"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "84481",
+            "Longitude": 103.91532871743395,
+            "Latitude": 1.33753167256033,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Bedok Ind Pk C"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "84701",
+            "Longitude": 103.91214210205735,
+            "Latitude": 1.33601304352046,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "72031",
+            "Longitude": 103.9099203114682,
+            "Latitude": 1.33521859078695,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "BEF KAKI BT STN EXIT B"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "72041",
+            "Longitude": 103.90743417265202,
+            "Latitude": 1.33470286981513,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Blk 660A CP"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "72051",
+            "Longitude": 103.90412516288117,
+            "Latitude": 1.33343973211343,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Kaki Bt Ind Est"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "71091",
+            "Longitude": 103.90373154551283,
+            "Latitude": 1.33073374785934,
+            "RoadName": "Eunos Link",
+            "Description": "Blk 637"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "72019",
+            "Longitude": 103.90546507501655,
+            "Latitude": 1.32884628389091,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Mans"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "83119",
+            "Longitude": 103.90560762847845,
+            "Latitude": 1.32306974700238,
+            "RoadName": "Jln Eunos",
+            "Description": "Opp Blk 16"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "83109",
+            "Longitude": 103.90537221650075,
+            "Latitude": 1.32135678897249,
+            "RoadName": "Jln Eunos",
+            "Description": "Opp Eunos Stn"
+        }
+    ]
+}

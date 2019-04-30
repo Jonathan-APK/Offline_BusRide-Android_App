@@ -1,0 +1,286 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46449",
+            "Longitude": 103.79003727703439,
+            "Latitude": 1.44235503567241,
+            "RoadName": "Woodlands St 82",
+            "Description": "Blk 875"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "46439",
+            "Longitude": 103.79265007190847,
+            "Latitude": 1.44413536712492,
+            "RoadName": "Woodlands St 82",
+            "Description": "Blk 880"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "46419",
+            "Longitude": 103.79409801518702,
+            "Latitude": 1.44356110989447,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Evergreen Pr Sch"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "46409",
+            "Longitude": 103.79570596322442,
+            "Latitude": 1.44063323115091,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 701A CP"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "46691",
+            "Longitude": 103.79587886684328,
+            "Latitude": 1.43823132518893,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Opp 888 Plaza"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "46689",
+            "Longitude": 103.79601265965388,
+            "Latitude": 1.43587054546915,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 609"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "47571",
+            "Longitude": 103.79639715585557,
+            "Latitude": 1.43349024051919,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 618"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "47561",
+            "Longitude": 103.79885163626874,
+            "Latitude": 1.43320820124698,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 620"
+        },
+        {
+            "Distance": 25.2,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 25.7,
+            "BusStopCode": "08069",
+            "Longitude": 103.84936128375956,
+            "Latitude": 1.29821382250893,
+            "RoadName": "Bras Basah Rd",
+            "Description": "BENCOOLEN STN EXIT B"
+        },
+        {
+            "Distance": 26,
+            "BusStopCode": "04179",
+            "Longitude": 103.85147164487202,
+            "Latitude": 1.29647916306741,
+            "RoadName": "Bras Basah Rd",
+            "Description": "AFT BRAS BASAH STN EXIT A"
+        },
+        {
+            "Distance": 26.4,
+            "BusStopCode": "02049",
+            "Longitude": 103.85402155505173,
+            "Latitude": 1.29452091230981,
+            "RoadName": "Bras Basah Rd",
+            "Description": "Raffles Hotel"
+        },
+        {
+            "Distance": 26.8,
+            "BusStopCode": "02119",
+            "Longitude": 103.85534334305085,
+            "Latitude": 1.29184407356581,
+            "RoadName": "Nicoll Highway",
+            "Description": "Opp War Memorial Pk"
+        },
+        {
+            "Distance": 27.8,
+            "BusStopCode": "03019",
+            "Longitude": 103.85310805599599,
+            "Latitude": 1.284245000013,
+            "RoadName": "Collyer Quay",
+            "Description": "OUE Bayfront"
+        },
+        {
+            "Distance": 28.1,
+            "BusStopCode": "03059",
+            "Longitude": 103.85135652579491,
+            "Latitude": 1.28097649556002,
+            "RoadName": "Raffles Quay",
+            "Description": "One Raffles Quay"
+        },
+        {
+            "Distance": 28.5,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 29.1,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03222",
+            "Longitude": 103.84489562922414,
+            "Latitude": 1.27397836925637,
+            "RoadName": "Anson Rd",
+            "Description": "Hub Synergy Pt"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "03031",
+            "Longitude": 103.85086074925066,
+            "Latitude": 1.28207492207952,
+            "RoadName": "Robinson Rd",
+            "Description": "Raffles Pl Stn Exit F"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "02111",
+            "Longitude": 103.85453419435228,
+            "Latitude": 1.29095592348389,
+            "RoadName": "Esplanade Dr",
+            "Description": "Esplanade Bridge"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "04111",
+            "Longitude": 103.85128983925452,
+            "Latitude": 1.2940020309036,
+            "RoadName": "Stamford Rd",
+            "Description": "Capitol Bldg"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "04121",
+            "Longitude": 103.84958029974611,
+            "Latitude": 1.29618544092334,
+            "RoadName": "Stamford Rd",
+            "Description": "SMU"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "08041",
+            "Longitude": 103.84780636909545,
+            "Latitude": 1.29811014243867,
+            "RoadName": "Orchard Rd",
+            "Description": "YMCA"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "08031",
+            "Longitude": 103.8452569595532,
+            "Latitude": 1.29831153783592,
+            "RoadName": "Penang Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 27.2,
+            "BusStopCode": "47569",
+            "Longitude": 103.7987803897484,
+            "Latitude": 1.43291945534759,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Opp Blk 620"
+        },
+        {
+            "Distance": 27.6,
+            "BusStopCode": "47579",
+            "Longitude": 103.79597019770507,
+            "Latitude": 1.4333134741952,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 556"
+        },
+        {
+            "Distance": 28,
+            "BusStopCode": "46681",
+            "Longitude": 103.79577696652271,
+            "Latitude": 1.4357329097814,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 899A"
+        },
+        {
+            "Distance": 28.2,
+            "BusStopCode": "46699",
+            "Longitude": 103.79566316043969,
+            "Latitude": 1.43769989889611,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "888 Plaza"
+        },
+        {
+            "Distance": 28.6,
+            "BusStopCode": "46401",
+            "Longitude": 103.79545806673289,
+            "Latitude": 1.44088595099083,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 864"
+        },
+        {
+            "Distance": 28.8,
+            "BusStopCode": "46411",
+            "Longitude": 103.79441916127091,
+            "Latitude": 1.44270591766599,
+            "RoadName": "Woodlands Ave 4",
+            "Description": "Blk 869"
+        },
+        {
+            "Distance": 29.2,
+            "BusStopCode": "46431",
+            "Longitude": 103.79225565189952,
+            "Latitude": 1.44397726846722,
+            "RoadName": "Woodlands St 82",
+            "Description": "Blk 840"
+        },
+        {
+            "Distance": 29.6,
+            "BusStopCode": "46441",
+            "Longitude": 103.78973710977665,
+            "Latitude": 1.44219465826527,
+            "RoadName": "Woodlands St 82",
+            "Description": "Blk 816"
+        }
+    ]
+}

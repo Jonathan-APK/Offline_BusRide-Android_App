@@ -1,0 +1,108 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "63221",
+            "Longitude": 103.8855063915276,
+            "Latitude": 1.35799327947024,
+            "RoadName": "Hougang St 21",
+            "Description": "KOVAN HUB (First Stop)"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "63231",
+            "Longitude": 103.88763070107527,
+            "Latitude": 1.35901223241231,
+            "RoadName": "Hougang St 21",
+            "Description": "Bet Blks 210/211"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "63261",
+            "Longitude": 103.88913833298105,
+            "Latitude": 1.35896472197244,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Opp Blk 232"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "63271",
+            "Longitude": 103.88997632456076,
+            "Latitude": 1.35639501261001,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Blk 239"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "63281",
+            "Longitude": 103.8898808330127,
+            "Latitude": 1.3541297220266,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Blk 105 Mkt/FC"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "63099",
+            "Longitude": 103.89097410968795,
+            "Latitude": 1.35357948490597,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Blk 106"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "63089",
+            "Longitude": 103.89213497244268,
+            "Latitude": 1.35653228525134,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Blk 241"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "63079",
+            "Longitude": 103.89296017669749,
+            "Latitude": 1.35978917315442,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Blk 248"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "63241",
+            "Longitude": 103.89213557756084,
+            "Latitude": 1.36409785233957,
+            "RoadName": "Hougang Ave 3",
+            "Description": "Blk 21"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "63059",
+            "Longitude": 103.88984149586426,
+            "Latitude": 1.36437667280221,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Serangoon JC"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "63049",
+            "Longitude": 103.88752277779692,
+            "Latitude": 1.36219166668854,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Glad Tidings Ch"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "63039",
+            "Longitude": 103.88538416663954,
+            "Latitude": 1.36026000003341,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit C"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "63221",
+            "Longitude": 103.8855063915276,
+            "Latitude": 1.35799327947024,
+            "RoadName": "Hougang St 21",
+            "Description": "KOVAN HUB (Last Stop)"
+        }
+    ]
+}

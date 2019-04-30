@@ -1,0 +1,164 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "11379",
+            "Longitude": 103.79236323128613,
+            "Latitude": 1.30917002463976,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Ter (First Stop)"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "11381",
+            "Longitude": 103.79328294102335,
+            "Latitude": 1.30841137865065,
+            "RoadName": "Holland Dr",
+            "Description": "Blk 10A"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "11181",
+            "Longitude": 103.79227638896938,
+            "Latitude": 1.30722333300814,
+            "RoadName": "C'wealth Ave",
+            "Description": "Opp Blk 43"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "11369",
+            "Longitude": 103.79084827741467,
+            "Latitude": 1.3063259638605,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Stn Exit D"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "18149",
+            "Longitude": 103.78724143833315,
+            "Latitude": 1.30253001117245,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Opp Anglo-Chinese JC"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "18151",
+            "Longitude": 103.78864286195989,
+            "Latitude": 1.30051083054497,
+            "RoadName": "Portsdown Rd",
+            "Description": "Opp One-North Stn/Galaxis"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "18171",
+            "Longitude": 103.79412910351343,
+            "Latitude": 1.29905478616662,
+            "RoadName": "Portsdown Rd",
+            "Description": "Bef Weyhill Cl"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "18181",
+            "Longitude": 103.79369361976173,
+            "Latitude": 1.29714585347396,
+            "RoadName": "Portsdown Rd",
+            "Description": "Opp Tanglin Trust Sch"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "18191",
+            "Longitude": 103.79594388899301,
+            "Latitude": 1.29445611099682,
+            "RoadName": "Portsdown Rd",
+            "Description": "Bef Whitchurch Rd"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "18211",
+            "Longitude": 103.79522263706237,
+            "Latitude": 1.29161816867907,
+            "RoadName": "Portsdown Rd",
+            "Description": "Infinite Studios"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "18201",
+            "Longitude": 103.7932287526945,
+            "Latitude": 1.29498098725808,
+            "RoadName": "Media Circle",
+            "Description": "Mediacorp Campus"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "18199",
+            "Longitude": 103.79407617440387,
+            "Latitude": 1.29544342826531,
+            "RoadName": "Portsdown Rd",
+            "Description": "Aft Whitchurch Rd"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "18189",
+            "Longitude": 103.79390316193482,
+            "Latitude": 1.29839662957663,
+            "RoadName": "Portsdown Rd",
+            "Description": "Tanglin Trust Sch"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "18179",
+            "Longitude": 103.79304547568137,
+            "Latitude": 1.29988107543841,
+            "RoadName": "Portsdown Rd",
+            "Description": "Opp Weyhill Cl"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "18159",
+            "Longitude": 103.78858368998314,
+            "Latitude": 1.3003468994065,
+            "RoadName": "Portsdown Rd",
+            "Description": "One-North Stn/Galaxis"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "18141",
+            "Longitude": 103.78788091438994,
+            "Latitude": 1.30418279677397,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Aft Anglo-Chinese JC"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "11361",
+            "Longitude": 103.79058123542397,
+            "Latitude": 1.30649698638726,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Stn Exit C"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "11189",
+            "Longitude": 103.79254222202354,
+            "Latitude": 1.30740138898924,
+            "RoadName": "C'wealth Ave",
+            "Description": "Blk 43"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "11389",
+            "Longitude": 103.7929321687807,
+            "Latitude": 1.30906501014268,
+            "RoadName": "Holland Dr",
+            "Description": "Blk 46"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "11379",
+            "Longitude": 103.79236323128613,
+            "Latitude": 1.30917002463976,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Ter (Last Stop)"
+        }
+    ]
+}

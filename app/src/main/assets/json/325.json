@@ -1,0 +1,260 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "64019",
+            "Longitude": 103.89393838248249,
+            "Latitude": 1.368308353364,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "63349",
+            "Longitude": 103.88923358520269,
+            "Latitude": 1.36687207146588,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 708"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "63359",
+            "Longitude": 103.88779233654836,
+            "Latitude": 1.36936804895468,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Hougang Swim Cplx"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "64399",
+            "Longitude": 103.8892571932248,
+            "Latitude": 1.37121818386818,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 512"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "64389",
+            "Longitude": 103.89156818388481,
+            "Latitude": 1.37313809346006,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 522"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "64421",
+            "Longitude": 103.89511829229477,
+            "Latitude": 1.37505042808455,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 421"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "64039",
+            "Longitude": 103.89393761218089,
+            "Latitude": 1.37668753222312,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 434"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "64369",
+            "Longitude": 103.89149353867691,
+            "Latitude": 1.37634448413795,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 532"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "64431",
+            "Longitude": 103.88930278976599,
+            "Latitude": 1.37809447450304,
+            "RoadName": "Hougang St 51",
+            "Description": "Blk 568"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "64441",
+            "Longitude": 103.88818499902484,
+            "Latitude": 1.37980640697067,
+            "RoadName": "Hougang St 51",
+            "Description": "Hougang G. Shop Mall"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "64461",
+            "Longitude": 103.88640309201648,
+            "Latitude": 1.37938472998807,
+            "RoadName": "Buangkok Green",
+            "Description": "Blk 579"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "66499",
+            "Longitude": 103.88326933020046,
+            "Latitude": 1.37912306945844,
+            "RoadName": "Buangkok Green",
+            "Description": "Blk 911"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "66489",
+            "Longitude": 103.8789799431682,
+            "Latitude": 1.37889334025536,
+            "RoadName": "Buangkok Green",
+            "Description": "Blk 969"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "64119",
+            "Longitude": 103.87713655364794,
+            "Latitude": 1.37679164872283,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 953"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "64491",
+            "Longitude": 103.87905166700338,
+            "Latitude": 1.37513027801163,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Hougang 1"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "64081",
+            "Longitude": 103.880089999971,
+            "Latitude": 1.37602972196856,
+            "RoadName": "Hougang St 91",
+            "Description": "Hougang 1/Opp Blk 931A"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "64091",
+            "Longitude": 103.88149277798507,
+            "Latitude": 1.37748777797023,
+            "RoadName": "Hougang St 93",
+            "Description": "Hougang Pr Sch"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "66491",
+            "Longitude": 103.88260194401967,
+            "Latitude": 1.37936944398935,
+            "RoadName": "Buangkok Green",
+            "Description": "Opp Blk 910"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "64469",
+            "Longitude": 103.88576472203239,
+            "Latitude": 1.3795683329839,
+            "RoadName": "Buangkok Green",
+            "Description": "Opp Blk 579"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "64449",
+            "Longitude": 103.88860666697411,
+            "Latitude": 1.37973333296925,
+            "RoadName": "Hougang St 51",
+            "Description": "Opp Hougang G. Shop Mall"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "64439",
+            "Longitude": 103.88952155230182,
+            "Latitude": 1.3779797322129,
+            "RoadName": "Hougang St 51",
+            "Description": "Blk 537"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "64361",
+            "Longitude": 103.89054894445846,
+            "Latitude": 1.37634509209583,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 535"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "64031",
+            "Longitude": 103.893660799245,
+            "Latitude": 1.37699995735935,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 436"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "64429",
+            "Longitude": 103.8952195672541,
+            "Latitude": 1.37481689904602,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 412"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "64381",
+            "Longitude": 103.89170384962591,
+            "Latitude": 1.37288245131287,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Blk 521"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "64391",
+            "Longitude": 103.88976573946181,
+            "Latitude": 1.37145414929063,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 831"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "63351",
+            "Longitude": 103.88786388897049,
+            "Latitude": 1.36922638899711,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Hougang Swim Cplx"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "63341",
+            "Longitude": 103.88882988119938,
+            "Latitude": 1.36751402871615,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 709"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "63061",
+            "Longitude": 103.89129134480065,
+            "Latitude": 1.36623834226067,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 25"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "64011",
+            "Longitude": 103.8927594439902,
+            "Latitude": 1.36756333302324,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Naung Ct"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (Last Stop)"
+        }
+    ]
+}

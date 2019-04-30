@@ -1,0 +1,116 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "12169",
+            "Longitude": 103.77724170687915,
+            "Latitude": 1.31916549240365,
+            "RoadName": "Pandan Valley",
+            "Description": "Pandan Valley"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "12179",
+            "Longitude": 103.7769949436126,
+            "Latitude": 1.31679504687757,
+            "RoadName": "Mt Sinai Rise",
+            "Description": "Montview"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "12199",
+            "Longitude": 103.77820622498255,
+            "Latitude": 1.31547998901343,
+            "RoadName": "Mt Sinai Rise",
+            "Description": "Opp Village Twr"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "12189",
+            "Longitude": 103.78022402243116,
+            "Latitude": 1.31642693680141,
+            "RoadName": "Mt Sinai Rise",
+            "Description": "Bef Mt Sinai Dr"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "12211",
+            "Longitude": 103.78070712088581,
+            "Latitude": 1.31721336095462,
+            "RoadName": "Mt Sinai Dr",
+            "Description": "Bef Mt Sinai Wk"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "12151",
+            "Longitude": 103.78127574919664,
+            "Latitude": 1.31865064467378,
+            "RoadName": "Moonbeam Walk",
+            "Description": "Bef Moonbeam Terr"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "12031",
+            "Longitude": 103.7796285552172,
+            "Latitude": 1.3208008510991,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Pandan Valley Condo"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "12041",
+            "Longitude": 103.77653442120544,
+            "Latitude": 1.32049172685895,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Aft Pandan Valley"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "12051",
+            "Longitude": 103.7750613105408,
+            "Latitude": 1.3204289505949,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Pine Gr Condo"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "12111",
+            "Longitude": 103.77222980786665,
+            "Latitude": 1.3191179107649,
+            "RoadName": "Ulu Pandan Rd",
+            "Description": "Bef Clementi Rd"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "03223",
+            "Longitude": 103.84632468221952,
+            "Latitude": 1.2757033952327,
+            "RoadName": "Anson Rd",
+            "Description": "Intl Plaza"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "03151",
+            "Longitude": 103.84776234627124,
+            "Latitude": 1.27892124625262,
+            "RoadName": "Cecil St",
+            "Description": "Opp GB Bldg"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "03021",
+            "Longitude": 103.84998903789258,
+            "Latitude": 1.28255524603003,
+            "RoadName": "Cecil St",
+            "Description": "Prudential Twr"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        }
+    ]
+}

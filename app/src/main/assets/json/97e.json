@@ -1,0 +1,454 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "28301",
+            "Longitude": 103.74030301599491,
+            "Latitude": 1.33473899929823,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Blk 131"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "28431",
+            "Longitude": 103.73881557585635,
+            "Latitude": 1.33449626498358,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 134"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "28249",
+            "Longitude": 103.73979174224014,
+            "Latitude": 1.33212287290362,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Jurong East Lib"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "20019",
+            "Longitude": 103.7615108330155,
+            "Latitude": 1.31357611099308,
+            "RoadName": "AYE",
+            "Description": "Blk 431"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "17149",
+            "Longitude": 103.76346179699715,
+            "Latitude": 1.31171515103681,
+            "RoadName": "AYE",
+            "Description": "Blk 426"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "17139",
+            "Longitude": 103.7658699915105,
+            "Latitude": 1.30903304650021,
+            "RoadName": "AYE",
+            "Description": "Aft Clementi Swim Cplx"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "17129",
+            "Longitude": 103.76985839745124,
+            "Latitude": 1.30514136653386,
+            "RoadName": "AYE",
+            "Description": "Aft NUS High Sch"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "18049",
+            "Longitude": 103.79208093037771,
+            "Latitude": 1.29018147748939,
+            "RoadName": "AYE",
+            "Description": "Opp Normanton Pk"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "15059",
+            "Longitude": 103.80270111113056,
+            "Latitude": 1.27686194443878,
+            "RoadName": "Alexandra Rd",
+            "Description": "Opp Alexandra Pt"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "15049",
+            "Longitude": 103.80216344738955,
+            "Latitude": 1.274590541032,
+            "RoadName": "Alexandra Rd",
+            "Description": "Bef PSA Bldg"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "14169",
+            "Longitude": 103.80941810434497,
+            "Latitude": 1.27118550385957,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp Telok Blangah Stn"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "14129",
+            "Longitude": 103.81977877391114,
+            "Latitude": 1.26607869101924,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Harbourfront Stn Exit A"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "14119",
+            "Longitude": 103.8222827803663,
+            "Latitude": 1.26592360897281,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp VivoCity"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "14069",
+            "Longitude": 103.83694861102117,
+            "Latitude": 1.27261333297575,
+            "RoadName": "Keppel Rd",
+            "Description": "Former Railway Stn"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "05641",
+            "Longitude": 103.84140618785226,
+            "Latitude": 1.27272393115133,
+            "RoadName": "Keppel Rd",
+            "Description": "Customs Port Br HQ"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "03222",
+            "Longitude": 103.84489562922414,
+            "Latitude": 1.27397836925637,
+            "RoadName": "Anson Rd",
+            "Description": "Hub Synergy Pt"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "03381",
+            "Longitude": 103.85306513725685,
+            "Latitude": 1.28162601329006,
+            "RoadName": "Marina Blvd",
+            "Description": "The Sail"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "03391",
+            "Longitude": 103.85498006767988,
+            "Latitude": 1.28037660340352,
+            "RoadName": "Marina Blvd",
+            "Description": "Marina Bay Financial Ctr"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "03511",
+            "Longitude": 103.85897064872482,
+            "Latitude": 1.28194779470571,
+            "RoadName": "Bayfront Ave",
+            "Description": "Marina Bay Sands MICE"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "03501",
+            "Longitude": 103.8606110538643,
+            "Latitude": 1.28500467671367,
+            "RoadName": "Bayfront Ave",
+            "Description": "Marina Bay Sands Theatre"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "02169",
+            "Longitude": 103.86070849052753,
+            "Latitude": 1.29333836780589,
+            "RoadName": "Temasek Ave",
+            "Description": "Promenade Stn Exit B"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "02159",
+            "Longitude": 103.85840672828635,
+            "Latitude": 1.29360811227161,
+            "RoadName": "Temasek Blvd",
+            "Description": "Opp Suntec Convention Ctr"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "02089",
+            "Longitude": 103.8592061110504,
+            "Latitude": 1.29152694444975,
+            "RoadName": "Raffles Blvd",
+            "Description": "Pan Pacific Hotel"
+        },
+        {
+            "Distance": 21.8,
+            "BusStopCode": "02099",
+            "Longitude": 103.86255772172497,
+            "Latitude": 1.29101661693418,
+            "RoadName": "Raffles Blvd",
+            "Description": "Marina Ctr Ter"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "02099",
+            "Longitude": 103.86255772172497,
+            "Latitude": 1.29101661693418,
+            "RoadName": "Raffles Blvd",
+            "Description": "Marina Ctr Ter"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "02101",
+            "Longitude": 103.8618029276249,
+            "Latitude": 1.28939197625331,
+            "RoadName": "Raffles Ave",
+            "Description": "AFT S'PORE FLYER"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "02051",
+            "Longitude": 103.85903388899317,
+            "Latitude": 1.2895030556082,
+            "RoadName": "Raffles Ave",
+            "Description": "Seating Gallery"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "02061",
+            "Longitude": 103.85640388886262,
+            "Latitude": 1.2899638888957,
+            "RoadName": "Raffles Ave",
+            "Description": "The Esplanade"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "02151",
+            "Longitude": 103.85784623004031,
+            "Latitude": 1.29317776320814,
+            "RoadName": "Temasek Blvd",
+            "Description": "Suntec Convention Ctr"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "02161",
+            "Longitude": 103.86093156188176,
+            "Latitude": 1.29268553508737,
+            "RoadName": "Temasek Ave",
+            "Description": "Promenade Stn"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "02171",
+            "Longitude": 103.86092194446034,
+            "Latitude": 1.29070000003898,
+            "RoadName": "Temasek Ave",
+            "Description": "Opp The Ritz-Carlton"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "03509",
+            "Longitude": 103.86004388891767,
+            "Latitude": 1.28314999997332,
+            "RoadName": "Bayfront Ave",
+            "Description": "Marina Bay Sands Hotel"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "03519",
+            "Longitude": 103.85884799997385,
+            "Latitude": 1.28124500000125,
+            "RoadName": "Bayfront Ave",
+            "Description": "Opp Marina Bay Sands MICE"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "03539",
+            "Longitude": 103.85561610012866,
+            "Latitude": 1.2775330547661,
+            "RoadName": "Central Blvd",
+            "Description": "Marina Bay Stn"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "03529",
+            "Longitude": 103.85278769921703,
+            "Latitude": 1.27939957419063,
+            "RoadName": "Central Blvd",
+            "Description": "Downtown Stn"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "03217",
+            "Longitude": 103.8479443674916,
+            "Latitude": 1.27552218897645,
+            "RoadName": "Shenton Way",
+            "Description": "Opp AXA Twr"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "05649",
+            "Longitude": 103.84093912218094,
+            "Latitude": 1.2723842122117,
+            "RoadName": "Keppel Rd",
+            "Description": "Opp Customs Port Br HQ"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "14061",
+            "Longitude": 103.83862035734883,
+            "Latitude": 1.27231269789239,
+            "RoadName": "Keppel Rd",
+            "Description": "Opp Former Railway Stn"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "14141",
+            "Longitude": 103.82211326846237,
+            "Latitude": 1.26552421466644,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "VivoCity"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "14121",
+            "Longitude": 103.81925660621779,
+            "Latitude": 1.26591350024271,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Harbourfront Stn Exit B"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "14161",
+            "Longitude": 103.81009913005327,
+            "Latitude": 1.27075866533548,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Telok Blangah Stn"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "15041",
+            "Longitude": 103.80185648483362,
+            "Latitude": 1.27455320898942,
+            "RoadName": "Alexandra Rd",
+            "Description": "Aft PSA Bldg"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "15051",
+            "Longitude": 103.80248500000464,
+            "Latitude": 1.27718388886974,
+            "RoadName": "Alexandra Rd",
+            "Description": "Alexandra Pt"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "18041",
+            "Longitude": 103.7931740283919,
+            "Latitude": 1.28836025261771,
+            "RoadName": "AYE",
+            "Description": "Normanton Pk"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "18131",
+            "Longitude": 103.7918327963467,
+            "Latitude": 1.28950073498414,
+            "RoadName": "AYE",
+            "Description": "Science Pk"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "17121",
+            "Longitude": 103.76944539352431,
+            "Latitude": 1.30476410258543,
+            "RoadName": "AYE",
+            "Description": "Blk 610"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "17131",
+            "Longitude": 103.76591111102081,
+            "Latitude": 1.3080413890204,
+            "RoadName": "AYE",
+            "Description": "Clementi Flyover"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "17141",
+            "Longitude": 103.76349999999258,
+            "Latitude": 1.3109950000148,
+            "RoadName": "AYE",
+            "Description": "Clementi Stadium"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "20011",
+            "Longitude": 103.76128731220228,
+            "Latitude": 1.31308624553797,
+            "RoadName": "AYE",
+            "Description": "Blk 506"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "28241",
+            "Longitude": 103.73957485927775,
+            "Latitude": 1.33175858461326,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Jurong East Lib"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "28439",
+            "Longitude": 103.7385749816785,
+            "Latitude": 1.33451434015094,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 124"
+        },
+        {
+            "Distance": 23.2,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int"
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "24009",
+            "Longitude": 103.67839791240787,
+            "Latitude": 1.32697254709069,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Int (First Stop)"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "23519",
+            "Longitude": 103.6793660000188,
+            "Latitude": 1.32479352408668,
+            "RoadName": "Benoi Rd",
+            "Description": "Opp FairPrice Hub"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "23369",
+            "Longitude": 103.67911023430729,
+            "Latitude": 1.31907826658404,
+            "RoadName": "Benoi Rd",
+            "Description": "Keppel Logistics"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "23359",
+            "Longitude": 103.6788828370567,
+            "Latitude": 1.31500500807478,
+            "RoadName": "Benoi Rd",
+            "Description": "Opp Gul Ave"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "23449",
+            "Longitude": 103.67877583300174,
+            "Latitude": 1.31284166701008,
+            "RoadName": "Benoi Rd",
+            "Description": "Benoi Pl"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "23349",
+            "Longitude": 103.67871579430353,
+            "Latitude": 1.31076855055702,
+            "RoadName": "Benoi Rd",
+            "Description": "Bef Pioneer Rd"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "23239",
+            "Longitude": 103.67513000000729,
+            "Latitude": 1.30916000001419,
+            "RoadName": "Pioneer Rd",
+            "Description": "Opp Keppel Logistics"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "23229",
+            "Longitude": 103.67180644651505,
+            "Latitude": 1.30868757581216,
+            "RoadName": "Pioneer Rd",
+            "Description": "Opp Gul Way"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "24339",
+            "Longitude": 103.66899333300486,
+            "Latitude": 1.30840666698801,
+            "RoadName": "Pioneer Rd",
+            "Description": "Hong Hang Bldg"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "24389",
+            "Longitude": 103.66551563876423,
+            "Latitude": 1.30668431065764,
+            "RoadName": "Gul Rd",
+            "Description": "Opp GE Keppel Energy Svcs"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "24379",
+            "Longitude": 103.66588434674222,
+            "Latitude": 1.30366277967429,
+            "RoadName": "Gul Rd",
+            "Description": "Opp Asia Ind Gases"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "24369",
+            "Longitude": 103.66698326196405,
+            "Latitude": 1.30077687663858,
+            "RoadName": "Gul Rd",
+            "Description": "Dyna-Mac Engrg Svcs"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "24359",
+            "Longitude": 103.66853349337183,
+            "Latitude": 1.29822556407932,
+            "RoadName": "Gul Rd",
+            "Description": "S'pore Takada Ind"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "24349",
+            "Longitude": 103.67091644467769,
+            "Latitude": 1.29557792043984,
+            "RoadName": "Gul Rd",
+            "Description": "Keppel Shipyard"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "24341",
+            "Longitude": 103.67069575266142,
+            "Latitude": 1.29559624794118,
+            "RoadName": "Gul Rd",
+            "Description": "Opp Keppel Shipyard"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "24351",
+            "Longitude": 103.6683905248493,
+            "Latitude": 1.29811763317717,
+            "RoadName": "Gul Rd",
+            "Description": "Opp S'pore Takada Ind"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "24461",
+            "Longitude": 103.66626018526829,
+            "Latitude": 1.29723931495896,
+            "RoadName": "Pioneer Sector Lane",
+            "Description": "Bef Nam Leong Co Pte Ltd"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "24391",
+            "Longitude": 103.66447101698635,
+            "Latitude": 1.29859319877639,
+            "RoadName": "Pioneer Sector 2",
+            "Description": "Chem-Solv Technologies"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "24401",
+            "Longitude": 103.66355777798681,
+            "Latitude": 1.30031638897466,
+            "RoadName": "Pioneer Sector 2",
+            "Description": "Opp Hoe Huat Engrg"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "24411",
+            "Longitude": 103.66173361100701,
+            "Latitude": 1.30243777798816,
+            "RoadName": "Pioneer Sector 2",
+            "Description": "Gul Camp"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "24421",
+            "Longitude": 103.65950611101405,
+            "Latitude": 1.30463277796645,
+            "RoadName": "Pioneer Sector 2",
+            "Description": "Bef Pioneer Sector 1"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "24531",
+            "Longitude": 103.65688416696948,
+            "Latitude": 1.30622638897168,
+            "RoadName": "Pioneer Sector 1",
+            "Description": "Utracon Corp"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "24541",
+            "Longitude": 103.6556555059217,
+            "Latitude": 1.30275657598845,
+            "RoadName": "Pioneer Sector 1",
+            "Description": "Opp Keppel Shipyard"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "24559",
+            "Longitude": 103.6574800000263,
+            "Latitude": 1.30079305601761,
+            "RoadName": "Pioneer Sector 1",
+            "Description": "HQ 6 Div"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "24549",
+            "Longitude": 103.65543583300811,
+            "Latitude": 1.30273638896787,
+            "RoadName": "Pioneer Sector 1",
+            "Description": "Keppel Shipyard"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "24539",
+            "Longitude": 103.65548029310382,
+            "Latitude": 1.30492020241064,
+            "RoadName": "Pioneer Sector 1",
+            "Description": "Dundee Marine"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "24431",
+            "Longitude": 103.6576999999841,
+            "Latitude": 1.30726611103183,
+            "RoadName": "Pioneer Sector 1",
+            "Description": "Aft Pioneer Sector 2"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "24441",
+            "Longitude": 103.66096830094709,
+            "Latitude": 1.30713498253909,
+            "RoadName": "Pioneer Sector 3",
+            "Description": "GSK"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "24451",
+            "Longitude": 103.66378722029442,
+            "Latitude": 1.30599340060276,
+            "RoadName": "Pioneer Sector 3",
+            "Description": "Opp Cambridge Ind Trust"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "24381",
+            "Longitude": 103.66532722200753,
+            "Latitude": 1.3068880559927,
+            "RoadName": "Gul Rd",
+            "Description": "GE Keppel Energy Svcs"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "24331",
+            "Longitude": 103.66868333299611,
+            "Latitude": 1.30854833300657,
+            "RoadName": "Pioneer Rd",
+            "Description": "Opp Hong Hang Bldg"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "23221",
+            "Longitude": 103.67178095052478,
+            "Latitude": 1.30896659624814,
+            "RoadName": "Pioneer Rd",
+            "Description": "Aft Gul Way"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "23231",
+            "Longitude": 103.67491833296833,
+            "Latitude": 1.30926499998419,
+            "RoadName": "Pioneer Rd",
+            "Description": "Keppel Logistics"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "23341",
+            "Longitude": 103.67850804808974,
+            "Latitude": 1.31118496429579,
+            "RoadName": "Benoi Rd",
+            "Description": "Aft Pioneer Rd"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "23441",
+            "Longitude": 103.67862695881058,
+            "Latitude": 1.31304186906391,
+            "RoadName": "Benoi Rd",
+            "Description": "Aft Benoi Pl"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "23351",
+            "Longitude": 103.67874941599844,
+            "Latitude": 1.31615485867639,
+            "RoadName": "Benoi Rd",
+            "Description": "Aft Gul Ave"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "23361",
+            "Longitude": 103.6788383227952,
+            "Latitude": 1.31910770453777,
+            "RoadName": "Benoi Rd",
+            "Description": "Opp Keppel Logistics"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "23371",
+            "Longitude": 103.6790814673288,
+            "Latitude": 1.32595445317751,
+            "RoadName": "Benoi Rd",
+            "Description": "Bef Joo Koon Int"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "24009",
+            "Longitude": 103.67839791240787,
+            "Latitude": 1.32697254709069,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Int (Last Stop)"
+        }
+    ]
+}

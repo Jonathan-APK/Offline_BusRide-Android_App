@@ -1,0 +1,44 @@
+{
+    "direction 1": [
+        {
+            "Distance": 1.7,
+            "BusStopCode": "47571",
+            "Longitude": 103.79639715585557,
+            "Latitude": 1.43349024051919,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 618"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "47561",
+            "Longitude": 103.79885163626874,
+            "Latitude": 1.43320820124698,
+            "RoadName": "Woodlands Ave 5",
+            "Description": "Blk 620"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "47551",
+            "Longitude": 103.80188755233279,
+            "Latitude": 1.43472623786722,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 630"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "47541",
+            "Longitude": 103.80334162830194,
+            "Latitude": 1.43789201937501,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 639"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "47591",
+            "Longitude": 103.8025081158021,
+            "Latitude": 1.43973872693624,
+            "RoadName": "Woodlands Ave 6",
+            "Description": "Blk 680"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "17239",
+            "Longitude": 103.7658489,
+            "Latitude": 1.312440556,
+            "RoadName": "Clementi Ave 3",
+            "Description": "NTUC Fairprice"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "17159",
+            "Longitude": 103.7698144,
+            "Latitude": 1.311975556,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 365"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "17099",
+            "Longitude": 103.77165274445558,
+            "Latitude": 1.3078304704809,
+            "RoadName": "Clementi Rd",
+            "Description": "YALE-NUS COLLEGE"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "16159",
+            "Longitude": 103.77017032679849,
+            "Latitude": 1.30060333385651,
+            "RoadName": "Clementi Rd",
+            "Description": "NUS Fac Of Engrg"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "16149",
+            "Longitude": 103.76994027003138,
+            "Latitude": 1.29781833402646,
+            "RoadName": "Clementi Rd",
+            "Description": "NUS Fac Of Architecture"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "16199",
+            "Longitude": 103.77072917887465,
+            "Latitude": 1.29639303583424,
+            "RoadName": "Kent Ridge Cres",
+            "Description": "NUS Fac Of Design & Env"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "16189",
+            "Longitude": 103.77284799997702,
+            "Latitude": 1.29736100001827,
+            "RoadName": "Kent Ridge Cres",
+            "Description": "Information Technology"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "16179",
+            "Longitude": 103.7741773272528,
+            "Latitude": 1.29898164227099,
+            "RoadName": "Kent Ridge Cres",
+            "Description": "Opp Yusof Ishak Hse"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "16169",
+            "Longitude": 103.77270416701658,
+            "Latitude": 1.30098333297992,
+            "RoadName": "Kent Ridge Cres",
+            "Description": "NUS Raffles Hall"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "17091",
+            "Longitude": 103.77157783850733,
+            "Latitude": 1.30904805161426,
+            "RoadName": "Clementi Rd",
+            "Description": "Aft Clementi Ave 1"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "17151",
+            "Longitude": 103.76960993525367,
+            "Latitude": 1.31169519353522,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Blk 410"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "17161",
+            "Longitude": 103.76685476875124,
+            "Latitude": 1.31240993603605,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Blk 329"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "17171",
+            "Longitude": 103.76502698264449,
+            "Latitude": 1.31497399268611,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Clementi Stn"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "17009",
+            "Longitude": 103.76412225438476,
+            "Latitude": 1.31491572870629,
+            "RoadName": "Clementi Ave 3",
+            "Description": "Clementi Int (Last Stop)"
+        }
+    ]
+}

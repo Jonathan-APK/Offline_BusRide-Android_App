@@ -1,0 +1,100 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "11009",
+            "Longitude": 103.78932237623975,
+            "Latitude": 1.3110673548964,
+            "RoadName": "Ghim Moh Rd",
+            "Description": "Ghim Moh Ter"
+        },
+        {
+            "Distance": 0.2,
+            "BusStopCode": "11359",
+            "Longitude": 103.78968608347117,
+            "Latitude": 1.30931022636473,
+            "RoadName": "Ghim Moh Rd",
+            "Description": "Opp Blk 13"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "11369",
+            "Longitude": 103.79084827741467,
+            "Latitude": 1.3063259638605,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Stn Exit D"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "18149",
+            "Longitude": 103.78724143833315,
+            "Latitude": 1.30253001117245,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Opp Anglo-Chinese JC"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "18129",
+            "Longitude": 103.78570767644749,
+            "Latitude": 1.29776225378985,
+            "RoadName": "Buona Vista Flyover",
+            "Description": "Ayer Rajah Ind Est"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "15139",
+            "Longitude": 103.7845849999835,
+            "Latitude": 1.29241000003008,
+            "RoadName": "Sth Buona Vista Rd",
+            "Description": "Kent Ridge Stn Exit B"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "15181",
+            "Longitude": 103.78541356072027,
+            "Latitude": 1.29108496444522,
+            "RoadName": "Science Pk Dr",
+            "Description": "PSB S'pore"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "18241",
+            "Longitude": 103.78707861052065,
+            "Latitude": 1.29092304543197,
+            "RoadName": "Science Pk Dr",
+            "Description": "PSB Science Pk Annex"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "18251",
+            "Longitude": 103.78845361097359,
+            "Latitude": 1.29068138903164,
+            "RoadName": "Science Pk Dr",
+            "Description": "Opp Reuters"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "18261",
+            "Longitude": 103.78933806183707,
+            "Latitude": 1.29015996757499,
+            "RoadName": "Science Pk Dr",
+            "Description": "Opp DSO Natl Laboratories"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "18271",
+            "Longitude": 103.78992778459765,
+            "Latitude": 1.28840699998743,
+            "RoadName": "Science Pk Dr",
+            "Description": "Blk 85"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "18281",
+            "Longitude": 103.7912122154174,
+            "Latitude": 1.28752556916883,
+            "RoadName": "Science Pk Dr",
+            "Description": "The Rutherford"
+        }
+    ]
+}

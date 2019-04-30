@@ -1,0 +1,116 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "59359",
+            "Longitude": 103.84071821797886,
+            "Latitude": 1.42844102693712,
+            "RoadName": "Yishun Ctrl",
+            "Description": "Blk 322"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "59651",
+            "Longitude": 103.84169418862261,
+            "Latitude": 1.42711698762084,
+            "RoadName": "Yishun Ave 11",
+            "Description": "Blk 348B"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "59451",
+            "Longitude": 103.84360741617542,
+            "Latitude": 1.42569613726662,
+            "RoadName": "Yishun Ave 11",
+            "Description": "Bet Blks 349/350"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "59469",
+            "Longitude": 103.84747960044407,
+            "Latitude": 1.42357927683882,
+            "RoadName": "Yishun Ave 11",
+            "Description": "Blk 419"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "59591",
+            "Longitude": 103.84947950182573,
+            "Latitude": 1.42653688735925,
+            "RoadName": "Yishun Ave 6",
+            "Description": "Bet Blks 405/406"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "59601",
+            "Longitude": 103.8493774151049,
+            "Latitude": 1.42914048046339,
+            "RoadName": "Yishun Ave 6",
+            "Description": "BLK 391"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "59649",
+            "Longitude": 103.84578469566986,
+            "Latitude": 1.43144082565182,
+            "RoadName": "Yishun St 31",
+            "Description": "Opp Blk 333C"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "59399",
+            "Longitude": 103.84552062872451,
+            "Latitude": 1.43026750784845,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Opp Blk 367"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "59409",
+            "Longitude": 103.84640616622914,
+            "Latitude": 1.42663883088373,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Evangel Family Ch"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "59419",
+            "Longitude": 103.84598027430432,
+            "Latitude": 1.42525968028764,
+            "RoadName": "Yishun Ring Rd",
+            "Description": "Blk 413"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "59459",
+            "Longitude": 103.84259503772017,
+            "Latitude": 1.42637371131971,
+            "RoadName": "Yishun Ave 11",
+            "Description": "Opp Huamin Pr Sch"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "59351",
+            "Longitude": 103.8402288889874,
+            "Latitude": 1.42877888900017,
+            "RoadName": "Yishun Ctrl",
+            "Description": "Opp Blk 322"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "59009",
+            "Longitude": 103.83743448975132,
+            "Latitude": 1.42997370944851,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Temp Int (Last Stop)"
+        }
+    ]
+}

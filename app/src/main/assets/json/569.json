@@ -1,0 +1,108 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "65221",
+            "Longitude": 103.90480763848863,
+            "Latitude": 1.40402842836975,
+            "RoadName": "Punggol Ctrl",
+            "Description": "BLK 303D"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "65281",
+            "Longitude": 103.90783309940194,
+            "Latitude": 1.40201165055481,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Punggol Sec/Blk 601B"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "65271",
+            "Longitude": 103.91064287603247,
+            "Latitude": 1.39995544080394,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Opp Blk 188"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "65261",
+            "Longitude": 103.91478844205221,
+            "Latitude": 1.39695155432601,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Blk 649"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "65239",
+            "Longitude": 103.91603484855351,
+            "Latitude": 1.39410461413829,
+            "RoadName": "Punggol East",
+            "Description": "Riviera Stn Exit A"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "65179",
+            "Longitude": 103.91190241454986,
+            "Latitude": 1.39429582834351,
+            "RoadName": "Punggol Field",
+            "Description": "Coral Edge Stn Exit A"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "65169",
+            "Longitude": 103.90932129998102,
+            "Latitude": 1.39645725997371,
+            "RoadName": "Punggol Field",
+            "Description": "Meridian Stn Exit A"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "65159",
+            "Longitude": 103.90665292741664,
+            "Latitude": 1.39856872266182,
+            "RoadName": "Punggol Field",
+            "Description": "Cove Stn Exit A"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "65079",
+            "Longitude": 103.90474802293774,
+            "Latitude": 1.39893574516181,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 102C"
+        },
+        {
+            "Distance": 26,
+            "BusStopCode": "03223",
+            "Longitude": 103.84632468221952,
+            "Latitude": 1.2757033952327,
+            "RoadName": "Anson Rd",
+            "Description": "Intl Plaza"
+        },
+        {
+            "Distance": 26.4,
+            "BusStopCode": "03151",
+            "Longitude": 103.84776234627124,
+            "Latitude": 1.27892124625262,
+            "RoadName": "Cecil St",
+            "Description": "Opp GB Bldg"
+        },
+        {
+            "Distance": 26.9,
+            "BusStopCode": "03021",
+            "Longitude": 103.84998903789258,
+            "Latitude": 1.28255524603003,
+            "RoadName": "Cecil St",
+            "Description": "Prudential Twr"
+        },
+        {
+            "Distance": 27.5,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        }
+    ]
+}

@@ -1,0 +1,460 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "28301",
+            "Longitude": 103.74030301599491,
+            "Latitude": 1.33473899929823,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Blk 131"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "28431",
+            "Longitude": 103.73881557585635,
+            "Latitude": 1.33449626498358,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 134"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "28249",
+            "Longitude": 103.73979174224014,
+            "Latitude": 1.33212287290362,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Jurong East Lib"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "28239",
+            "Longitude": 103.74307145172916,
+            "Latitude": 1.32980442518564,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Jurong Town Hall"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "28229",
+            "Longitude": 103.74593185918442,
+            "Latitude": 1.32536675242565,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "German Ctr"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "20269",
+            "Longitude": 103.74580944947768,
+            "Latitude": 1.32151780618055,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Bef Pandan Gdns"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "20259",
+            "Longitude": 103.74477002532701,
+            "Latitude": 1.31962187605788,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "C'wealth Sec Sch"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "20161",
+            "Longitude": 103.74213695526599,
+            "Latitude": 1.31915476642967,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Blks 34/35"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "20171",
+            "Longitude": 103.73984434693502,
+            "Latitude": 1.31967681449311,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Blk 47"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "20121",
+            "Longitude": 103.73707999997312,
+            "Latitude": 1.32023972200054,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Blk 51"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "29039",
+            "Longitude": 103.73590151832454,
+            "Latitude": 1.31791472290937,
+            "RoadName": "Penjuru Rd",
+            "Description": "Bef Penjuru Wk"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "29029",
+            "Longitude": 103.73497081366901,
+            "Latitude": 1.3136694444723,
+            "RoadName": "Penjuru Rd",
+            "Description": "Bef Penjuru Cl"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "29019",
+            "Longitude": 103.73376586792706,
+            "Latitude": 1.30808999973571,
+            "RoadName": "Penjuru Rd",
+            "Description": "Sanmina-SCI"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "29041",
+            "Longitude": 103.73605370521642,
+            "Latitude": 1.30630499421009,
+            "RoadName": "Tg Penjuru",
+            "Description": "Ban Joo"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "29121",
+            "Longitude": 103.73955130573647,
+            "Latitude": 1.30670185792468,
+            "RoadName": "Tg Penjuru",
+            "Description": "Opp Clp Intl"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "29051",
+            "Longitude": 103.74284927023315,
+            "Latitude": 1.30462052831604,
+            "RoadName": "Jln Buroh",
+            "Description": "Opp Caltex S'pore"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "29119",
+            "Longitude": 103.74720096588953,
+            "Latitude": 1.30075962146214,
+            "RoadName": "Pandan Rd",
+            "Description": "Comfortdelgro Engrg"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "29109",
+            "Longitude": 103.74969618348408,
+            "Latitude": 1.29874917121117,
+            "RoadName": "Pandan Rd",
+            "Description": "Opp PPL Shipyard"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "29099",
+            "Longitude": 103.75207185742923,
+            "Latitude": 1.29938668393663,
+            "RoadName": "Pandan Rd",
+            "Description": "Bef Sia Huat"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "29089",
+            "Longitude": 103.75270485878043,
+            "Latitude": 1.30146754204298,
+            "RoadName": "Pandan Rd",
+            "Description": "Swanson Plastics"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "29139",
+            "Longitude": 103.75137448307609,
+            "Latitude": 1.30295846509397,
+            "RoadName": "Pandan Ave",
+            "Description": "Opp Foh Foh Pte Ltd"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "29149",
+            "Longitude": 103.7484455108314,
+            "Latitude": 1.30169278947484,
+            "RoadName": "Pandan Ave",
+            "Description": "Senkee Logistics Hub"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "20299",
+            "Longitude": 103.75857544044081,
+            "Latitude": 1.3109280417106,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Tanglin Sec Sch"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "17079",
+            "Longitude": 103.75999360222924,
+            "Latitude": 1.30968304242083,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 512"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "17069",
+            "Longitude": 103.76214066046377,
+            "Latitude": 1.3077663717505,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Blk 701"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "17251",
+            "Longitude": 103.76744,
+            "Latitude": 1.31148,
+            "RoadName": "Clementi Ave 2",
+            "Description": "Opp Blk 408"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "17161",
+            "Longitude": 103.76685476875124,
+            "Latitude": 1.31240993603605,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Blk 329"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "17171",
+            "Longitude": 103.76502698264449,
+            "Latitude": 1.31497399268611,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Clementi Stn"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "17239",
+            "Longitude": 103.7658489,
+            "Latitude": 1.312440556,
+            "RoadName": "Clementi Ave 3",
+            "Description": "NTUC Fairprice"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "17259",
+            "Longitude": 103.76746074010758,
+            "Latitude": 1.31092798217655,
+            "RoadName": "Clementi Ave 2",
+            "Description": "Blk 408"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "17061",
+            "Longitude": 103.76180505768346,
+            "Latitude": 1.30775834752765,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 701"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "17071",
+            "Longitude": 103.76044433406533,
+            "Latitude": 1.30891781912545,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 513"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "20291",
+            "Longitude": 103.75771430804498,
+            "Latitude": 1.31095062259154,
+            "RoadName": "West Coast Rd",
+            "Description": "Tanglin Sec Sch"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "29071",
+            "Longitude": 103.75179382878862,
+            "Latitude": 1.30422665161292,
+            "RoadName": "Pandan Rd",
+            "Description": "Gas Svc Intl"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "29081",
+            "Longitude": 103.75284433363814,
+            "Latitude": 1.30177859797596,
+            "RoadName": "Pandan Rd",
+            "Description": "Franklin Offshore"
+        },
+        {
+            "Distance": 17.1,
+            "BusStopCode": "29091",
+            "Longitude": 103.75254392626566,
+            "Latitude": 1.29941886215176,
+            "RoadName": "Pandan Rd",
+            "Description": "Opp Sia Huat"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "29101",
+            "Longitude": 103.74997666563225,
+            "Latitude": 1.29856077859667,
+            "RoadName": "Pandan Rd",
+            "Description": "PPL Shipyard"
+        },
+        {
+            "Distance": 17.8,
+            "BusStopCode": "29111",
+            "Longitude": 103.74685194400729,
+            "Latitude": 1.30002583301409,
+            "RoadName": "Pandan Rd",
+            "Description": "Transerve"
+        },
+        {
+            "Distance": 18.2,
+            "BusStopCode": "29069",
+            "Longitude": 103.74607238005542,
+            "Latitude": 1.30296947780325,
+            "RoadName": "Jln Buroh",
+            "Description": "Aft Pandan Rd"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "29059",
+            "Longitude": 103.74252500205836,
+            "Latitude": 1.3043728024167,
+            "RoadName": "Jln Buroh",
+            "Description": "Caltex S'pore"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "29129",
+            "Longitude": 103.73949183679694,
+            "Latitude": 1.30639194302217,
+            "RoadName": "Tg Penjuru",
+            "Description": "Clp Intl"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "29049",
+            "Longitude": 103.73668670651571,
+            "Latitude": 1.3059832127393,
+            "RoadName": "Tg Penjuru",
+            "Description": "LTH Logistics"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "29011",
+            "Longitude": 103.73362194401842,
+            "Latitude": 1.3085474999723,
+            "RoadName": "Penjuru Rd",
+            "Description": "Opp Sanmina-SCI"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "29021",
+            "Longitude": 103.73450231627747,
+            "Latitude": 1.31267499889159,
+            "RoadName": "Penjuru Rd",
+            "Description": "Aft Jln Buroh"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "29031",
+            "Longitude": 103.73538661201253,
+            "Latitude": 1.31653138767966,
+            "RoadName": "Penjuru Rd",
+            "Description": "Aft Penjuru Pl"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "20129",
+            "Longitude": 103.73754105423453,
+            "Latitude": 1.32034555007728,
+            "RoadName": "West Coast Rd",
+            "Description": "Bet Blks 50/51"
+        },
+        {
+            "Distance": 21.8,
+            "BusStopCode": "20179",
+            "Longitude": 103.73910069465363,
+            "Latitude": 1.32000211967899,
+            "RoadName": "West Coast Rd",
+            "Description": "Aft Teban Gdns Rd"
+        },
+        {
+            "Distance": 22.2,
+            "BusStopCode": "20169",
+            "Longitude": 103.74251246450982,
+            "Latitude": 1.31928347830225,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 35"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "20251",
+            "Longitude": 103.74447102076279,
+            "Latitude": 1.31975500989852,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Bef Teban Gdns Rd"
+        },
+        {
+            "Distance": 22.6,
+            "BusStopCode": "20261",
+            "Longitude": 103.74546423225033,
+            "Latitude": 1.3215997308483,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Aft Pandan Gdns"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "20271",
+            "Longitude": 103.74550887325397,
+            "Latitude": 1.32527553308365,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp German Ctr"
+        },
+        {
+            "Distance": 23.3,
+            "BusStopCode": "28221",
+            "Longitude": 103.74494173101616,
+            "Latitude": 1.32761805004,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Intl Business Pk"
+        },
+        {
+            "Distance": 23.6,
+            "BusStopCode": "28231",
+            "Longitude": 103.74248183726264,
+            "Latitude": 1.32986201071411,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Jurong Town Hall"
+        },
+        {
+            "Distance": 24,
+            "BusStopCode": "28241",
+            "Longitude": 103.73957485927775,
+            "Latitude": 1.33175858461326,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Jurong East Lib"
+        },
+        {
+            "Distance": 24.4,
+            "BusStopCode": "28439",
+            "Longitude": 103.7385749816785,
+            "Latitude": 1.33451434015094,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 124"
+        },
+        {
+            "Distance": 24.9,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int (Last Stop)"
+        }
+    ]
+}

@@ -1,0 +1,492 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "77139",
+            "Longitude": 103.94649798163485,
+            "Latitude": 1.37518089319612,
+            "RoadName": "Pasir Ris St 52",
+            "Description": "Blk 582"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "77029",
+            "Longitude": 103.94597779999948,
+            "Latitude": 1.37274960000662,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 571"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "76191",
+            "Longitude": 103.94477445426702,
+            "Latitude": 1.3569438864901,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 401"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "76149",
+            "Longitude": 103.94636710560508,
+            "Latitude": 1.35370728527221,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Tampines Stn/Int"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "76139",
+            "Longitude": 103.94385009279503,
+            "Latitude": 1.35162691843499,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Opp Century Sq"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "76069",
+            "Longitude": 103.94208629087403,
+            "Latitude": 1.34875342114003,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 147"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "75059",
+            "Longitude": 103.9402168928283,
+            "Latitude": 1.34471168546511,
+            "RoadName": "Tampines Ave 1",
+            "Description": "BEF TAMPINES WEST STN"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "75229",
+            "Longitude": 103.93676608938834,
+            "Latitude": 1.34499782605889,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly East G"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "75239",
+            "Longitude": 103.93257655832721,
+            "Latitude": 1.34675259898315,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "75249",
+            "Longitude": 103.93017010145029,
+            "Latitude": 1.34791499671757,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly West G"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "75259",
+            "Longitude": 103.92798027801848,
+            "Latitude": 1.34913805600656,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Tropica Condo"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "84481",
+            "Longitude": 103.91532871743395,
+            "Latitude": 1.33753167256033,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Bedok Ind Pk C"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "84701",
+            "Longitude": 103.91214210205735,
+            "Latitude": 1.33601304352046,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 10.3,
+            "BusStopCode": "72031",
+            "Longitude": 103.9099203114682,
+            "Latitude": 1.33521859078695,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "BEF KAKI BT STN EXIT B"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "72041",
+            "Longitude": 103.90743417265202,
+            "Latitude": 1.33470286981513,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Blk 660A CP"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "72051",
+            "Longitude": 103.90412516288117,
+            "Latitude": 1.33343973211343,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Kaki Bt Ind Est"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "71091",
+            "Longitude": 103.90373154551283,
+            "Latitude": 1.33073374785934,
+            "RoadName": "Eunos Link",
+            "Description": "Blk 637"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "72019",
+            "Longitude": 103.90546507501655,
+            "Latitude": 1.32884628389091,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Mans"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "83119",
+            "Longitude": 103.90560762847845,
+            "Latitude": 1.32306974700238,
+            "RoadName": "Jln Eunos",
+            "Description": "Opp Blk 16"
+        },
+        {
+            "Distance": 12.8,
+            "BusStopCode": "83109",
+            "Longitude": 103.90537221650075,
+            "Latitude": 1.32135678897249,
+            "RoadName": "Jln Eunos",
+            "Description": "Opp Eunos Stn"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "83299",
+            "Longitude": 103.90586328314893,
+            "Latitude": 1.31574389673514,
+            "RoadName": "Still Rd",
+            "Description": "Aft Lor G Telok Kurau"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "83151",
+            "Longitude": 103.90911503893872,
+            "Latitude": 1.31488002411227,
+            "RoadName": "Joo Chiat Pl",
+            "Description": "Parkway East Hosp"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "83139",
+            "Longitude": 103.90997555601626,
+            "Latitude": 1.31451138900044,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "Aft Joo Chiat Pl"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "83129",
+            "Longitude": 103.91061094817724,
+            "Latitude": 1.31306365118709,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "Aft Ji Xiang Ct"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "92209",
+            "Longitude": 103.91147888898843,
+            "Latitude": 1.31101000002422,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "Aft Jln Baiduri"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "92309",
+            "Longitude": 103.91268253327297,
+            "Latitude": 1.30827858622776,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "East Coast Apts"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "92069",
+            "Longitude": 103.9110051545323,
+            "Latitude": 1.30566306799291,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Tao Nan Sch"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "92059",
+            "Longitude": 103.90773354554798,
+            "Latitude": 1.30425139809964,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Bet Blks 72/74"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "92049",
+            "Longitude": 103.9059569060291,
+            "Latitude": 1.30300441466613,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Parkway Parade"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "92041",
+            "Longitude": 103.90583013375219,
+            "Latitude": 1.30327282994495,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Opp Parkway Parade"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "92051",
+            "Longitude": 103.90783296450577,
+            "Latitude": 1.30461834682389,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Opp Blk 72"
+        },
+        {
+            "Distance": 18,
+            "BusStopCode": "92061",
+            "Longitude": 103.91059595623031,
+            "Latitude": 1.30585304722559,
+            "RoadName": "Marine Parade Rd",
+            "Description": "CHIJ Katong Convent (Pr)"
+        },
+        {
+            "Distance": 18.5,
+            "BusStopCode": "92301",
+            "Longitude": 103.9126288890594,
+            "Latitude": 1.30793535291547,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "Bef St. Patrick's Rd"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "92201",
+            "Longitude": 103.9112378097299,
+            "Latitude": 1.31117244269722,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "Aft Lor M Telok Kurau"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "83121",
+            "Longitude": 103.91063424326731,
+            "Latitude": 1.31260836391216,
+            "RoadName": "Telok Kurau Rd",
+            "Description": "Bef Lor K Telok Kurau"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "83159",
+            "Longitude": 103.90947767042405,
+            "Latitude": 1.31480354064185,
+            "RoadName": "Joo Chiat Pl",
+            "Description": "Opp Parkway East Hosp"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "83169",
+            "Longitude": 103.90687033808844,
+            "Latitude": 1.31428121358171,
+            "RoadName": "Joo Chiat Pl",
+            "Description": "Bef Still Rd"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "83291",
+            "Longitude": 103.90589521764187,
+            "Latitude": 1.31473309387158,
+            "RoadName": "Still Rd",
+            "Description": "Aft Joo Chiat Pl"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "83101",
+            "Longitude": 103.90489836683336,
+            "Latitude": 1.32066709057479,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Stn"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "83111",
+            "Longitude": 103.90527311322877,
+            "Latitude": 1.32346854012914,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 17"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "72011",
+            "Longitude": 103.90548361097667,
+            "Latitude": 1.32816499999482,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 322"
+        },
+        {
+            "Distance": 21.7,
+            "BusStopCode": "71099",
+            "Longitude": 103.9038336109893,
+            "Latitude": 1.33022638900189,
+            "RoadName": "Eunos Link",
+            "Description": "Blk 311"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "72059",
+            "Longitude": 103.90428000002385,
+            "Latitude": 1.33375833299433,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Opp Kaki Bt Ind Est"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "72049",
+            "Longitude": 103.90747460787432,
+            "Latitude": 1.33490332816583,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Opp Blk 660A CP"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "72039",
+            "Longitude": 103.90985114690736,
+            "Latitude": 1.33546648279458,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "KAKI BT STN EXIT A"
+        },
+        {
+            "Distance": 23.3,
+            "BusStopCode": "84709",
+            "Longitude": 103.91242511468805,
+            "Latitude": 1.33644333039135,
+            "RoadName": "Kaki Bt Ave 1",
+            "Description": "Opp Blk 150"
+        },
+        {
+            "Distance": 23.8,
+            "BusStopCode": "84489",
+            "Longitude": 103.91618833296936,
+            "Latitude": 1.33804722197723,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Bedok Ind Pk C"
+        },
+        {
+            "Distance": 26.1,
+            "BusStopCode": "75251",
+            "Longitude": 103.92783361101397,
+            "Latitude": 1.3494983330038,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Tropica Condo"
+        },
+        {
+            "Distance": 26.5,
+            "BusStopCode": "75241",
+            "Longitude": 103.92980219657613,
+            "Latitude": 1.34844803009871,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly West G"
+        },
+        {
+            "Distance": 26.8,
+            "BusStopCode": "75231",
+            "Longitude": 103.93265533979496,
+            "Latitude": 1.34707779444929,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly"
+        },
+        {
+            "Distance": 27.2,
+            "BusStopCode": "75221",
+            "Longitude": 103.93595044893453,
+            "Latitude": 1.34567355960876,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly East G"
+        },
+        {
+            "Distance": 27.7,
+            "BusStopCode": "75051",
+            "Longitude": 103.94008153173421,
+            "Latitude": 1.34503394154132,
+            "RoadName": "Tampines Ave 1",
+            "Description": "TAMPINES WEST STN EXIT B"
+        },
+        {
+            "Distance": 28.3,
+            "BusStopCode": "76061",
+            "Longitude": 103.94189805552267,
+            "Latitude": 1.3482019444416,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 938"
+        },
+        {
+            "Distance": 28.8,
+            "BusStopCode": "76131",
+            "Longitude": 103.94254133694142,
+            "Latitude": 1.35184112001279,
+            "RoadName": "Tampines Ave 4",
+            "Description": "UOB Tampines Ctr"
+        },
+        {
+            "Distance": 29.2,
+            "BusStopCode": "76141",
+            "Longitude": 103.94609060451609,
+            "Latitude": 1.35366689109025,
+            "RoadName": "Tampines Ave 4",
+            "Description": "Tampines Stn/Int"
+        },
+        {
+            "Distance": 29.6,
+            "BusStopCode": "76199",
+            "Longitude": 103.94535428432116,
+            "Latitude": 1.35660016333768,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 503"
+        },
+        {
+            "Distance": 32,
+            "BusStopCode": "77021",
+            "Longitude": 103.94557280001845,
+            "Latitude": 1.3726630000055,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Opp Blk 571"
+        },
+        {
+            "Distance": 32.2,
+            "BusStopCode": "77141",
+            "Longitude": 103.9452981948771,
+            "Latitude": 1.37380309020358,
+            "RoadName": "Pasir Ris St 52",
+            "Description": "Blk 519"
+        },
+        {
+            "Distance": 32.4,
+            "BusStopCode": "77131",
+            "Longitude": 103.94652128223,
+            "Latitude": 1.3755835643888,
+            "RoadName": "Pasir Ris St 52",
+            "Description": "Blk 502"
+        },
+        {
+            "Distance": 33,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int (Last Stop)"
+        }
+    ]
+}

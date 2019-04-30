@@ -1,0 +1,132 @@
+{
+    "direction 1": [
+        {
+            "Distance": 2.9,
+            "BusStopCode": "96111",
+            "Longitude": 103.95337833802823,
+            "Latitude": 1.33365307929022,
+            "RoadName": "Simei Ave",
+            "Description": "Opp ITE Coll East Adm Blk"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "96101",
+            "Longitude": 103.9510568939649,
+            "Latitude": 1.33638500905398,
+            "RoadName": "Simei Ave",
+            "Description": "Blk 3012"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "96281",
+            "Longitude": 103.94850088671714,
+            "Latitude": 1.33941652681162,
+            "RoadName": "Simei Ave",
+            "Description": "Opp Changi General Hosp"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "75059",
+            "Longitude": 103.9402168928283,
+            "Latitude": 1.34471168546511,
+            "RoadName": "Tampines Ave 1",
+            "Description": "BEF TAMPINES WEST STN"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "75229",
+            "Longitude": 103.93676608938834,
+            "Latitude": 1.34499782605889,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly East G"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "75239",
+            "Longitude": 103.93257655832721,
+            "Latitude": 1.34675259898315,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "75249",
+            "Longitude": 103.93017010145029,
+            "Latitude": 1.34791499671757,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly West G"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "75031",
+            "Longitude": 103.92946243284943,
+            "Latitude": 1.35080696753697,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Opp Springfield Sec Sch"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "75151",
+            "Longitude": 103.93145206236657,
+            "Latitude": 1.35451781224143,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Opp Blk 871A"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "75179",
+            "Longitude": 103.9317,
+            "Latitude": 1.357,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Bef Tampines Ave 9"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "75371",
+            "Longitude": 103.93052373888251,
+            "Latitude": 1.35909826524265,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft Tampines Ave 5"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "75291",
+            "Longitude": 103.93076720725303,
+            "Latitude": 1.36149182194897,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Aft Tampines Ave 9"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "75311",
+            "Longitude": 103.93078207971784,
+            "Latitude": 1.36707803417357,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Tampines Dormitory"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "75361",
+            "Longitude": 103.93030234430374,
+            "Latitude": 1.3706441545828,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef Tampines Ind Ave 5"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "75351",
+            "Longitude": 103.93077504301999,
+            "Latitude": 1.37364163782281,
+            "RoadName": "Tampines Ave 10",
+            "Description": "Bef TPE"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "65191",
+            "Longitude": 103.90539999997036,
+            "Latitude": 1.39527356921611,
+            "RoadName": "TPE",
+            "Description": "Bef Punggol Rd"
+        }
+    ]
+}

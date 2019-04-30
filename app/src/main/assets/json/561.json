@@ -1,0 +1,76 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "70059",
+            "Longitude": 103.87831166701761,
+            "Latitude": 1.33477611102342,
+            "RoadName": "Upp Aljunied Rd",
+            "Description": "Aft Joo Seng Rd"
+        },
+        {
+            "Distance": 0.2,
+            "BusStopCode": "70049",
+            "Longitude": 103.87871499999147,
+            "Latitude": 1.33290666703267,
+            "RoadName": "Upp Aljunied Rd",
+            "Description": "Aft Blk 4"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "70119",
+            "Longitude": 103.8777335022986,
+            "Latitude": 1.33075033509776,
+            "RoadName": "MacPherson Rd",
+            "Description": "Cencon Bldg"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "70109",
+            "Longitude": 103.874037265782,
+            "Latitude": 1.32946242383323,
+            "RoadName": "MacPherson Rd",
+            "Description": "Gulab Bldg"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "60219",
+            "Longitude": 103.8704918465033,
+            "Latitude": 1.32829192682419,
+            "RoadName": "MacPherson Rd",
+            "Description": "Bef Siemens Ctr"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "03223",
+            "Longitude": 103.84632468221952,
+            "Latitude": 1.2757033952327,
+            "RoadName": "Anson Rd",
+            "Description": "Intl Plaza"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "03151",
+            "Longitude": 103.84776234627124,
+            "Latitude": 1.27892124625262,
+            "RoadName": "Cecil St",
+            "Description": "Opp GB Bldg"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "03021",
+            "Longitude": 103.84998903789258,
+            "Latitude": 1.28255524603003,
+            "RoadName": "Cecil St",
+            "Description": "Prudential Twr"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        }
+    ]
+}

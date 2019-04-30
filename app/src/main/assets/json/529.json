@@ -1,0 +1,124 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "55509",
+            "Longitude": 103.8455558816965,
+            "Latitude": 1.38113241525166,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Yio Chu Kang Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "55171",
+            "Longitude": 103.84229777803078,
+            "Latitude": 1.38564388899504,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "CASTLE GREEN"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "55029",
+            "Longitude": 103.83917105055716,
+            "Latitude": 1.38565193733046,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "SEASONS PK"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "55349",
+            "Longitude": 103.8364930927339,
+            "Latitude": 1.38479144169995,
+            "RoadName": "Lentor Dr",
+            "Description": "Thomson Gr"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "55339",
+            "Longitude": 103.83711644936153,
+            "Latitude": 1.38708225951205,
+            "RoadName": "Lentor Loop",
+            "Description": "Aft Florissa Pk"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "55351",
+            "Longitude": 103.83696395007934,
+            "Latitude": 1.3897367880855,
+            "RoadName": "Lentor Rd",
+            "Description": "Opp Fudu Wk P/G"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "55371",
+            "Longitude": 103.83440450730951,
+            "Latitude": 1.388614367271,
+            "RoadName": "Lentor Loop",
+            "Description": "Aft Lentor St"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "55381",
+            "Longitude": 103.83624640000222,
+            "Latitude": 1.3899041699795,
+            "RoadName": "Lentor Loop",
+            "Description": "Bef Bullion Pk"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "55361",
+            "Longitude": 103.83860500061255,
+            "Latitude": 1.38983685641152,
+            "RoadName": "Lentor Loop",
+            "Description": "Countryside Gdn P/G"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "55331",
+            "Longitude": 103.8371410383723,
+            "Latitude": 1.38692246241021,
+            "RoadName": "Lentor Loop",
+            "Description": "Aft Lentor Gr"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "55341",
+            "Longitude": 103.83669949504181,
+            "Latitude": 1.38498581592741,
+            "RoadName": "Lentor Dr",
+            "Description": "Opp Thomson Gr"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "55021",
+            "Longitude": 103.83872706499656,
+            "Latitude": 1.3857011784032,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "OPP SEASONS PK"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "55179",
+            "Longitude": 103.84259428959234,
+            "Latitude": 1.38573179925587,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "OPP CASTLE GREEN"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "55189",
+            "Longitude": 103.84383839092432,
+            "Latitude": 1.38261995770962,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "YIO CHU KANG STN"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "55509",
+            "Longitude": 103.8455558816965,
+            "Latitude": 1.38113241525166,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Yio Chu Kang Int (Last Stop)"
+        }
+    ]
+}

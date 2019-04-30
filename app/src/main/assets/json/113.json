@@ -1,0 +1,356 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "64041",
+            "Longitude": 103.89535999996711,
+            "Latitude": 1.37016500002901,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "The Midtown"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "64051",
+            "Longitude": 103.89777362456783,
+            "Latitude": 1.37239666924933,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 465A"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "64071",
+            "Longitude": 103.89724811886428,
+            "Latitude": 1.37514056376267,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Opp Punggol Pk"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "64039",
+            "Longitude": 103.89393761218089,
+            "Latitude": 1.37668753222312,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 434"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "64371",
+            "Longitude": 103.89289427356103,
+            "Latitude": 1.37447444021165,
+            "RoadName": "Hougang Ave 6",
+            "Description": "Opp Punggol CC"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "64381",
+            "Longitude": 103.89170384962591,
+            "Latitude": 1.37288245131287,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Blk 521"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "64391",
+            "Longitude": 103.88976573946181,
+            "Latitude": 1.37145414929063,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 831"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "63351",
+            "Longitude": 103.88786388897049,
+            "Latitude": 1.36922638899711,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Hougang Swim Cplx"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "63341",
+            "Longitude": 103.88882988119938,
+            "Latitude": 1.36751402871615,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 709"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "63059",
+            "Longitude": 103.88984149586426,
+            "Latitude": 1.36437667280221,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Serangoon JC"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "63049",
+            "Longitude": 103.88752277779692,
+            "Latitude": 1.36219166668854,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Glad Tidings Ch"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "63039",
+            "Longitude": 103.88538416663954,
+            "Latitude": 1.36026000003341,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit C"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "63221",
+            "Longitude": 103.8855063915276,
+            "Latitude": 1.35799327947024,
+            "RoadName": "Hougang St 21",
+            "Description": "KOVAN HUB"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "63231",
+            "Longitude": 103.88763070107527,
+            "Latitude": 1.35901223241231,
+            "RoadName": "Hougang St 21",
+            "Description": "Bet Blks 210/211"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "63261",
+            "Longitude": 103.88913833298105,
+            "Latitude": 1.35896472197244,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Opp Blk 232"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "63271",
+            "Longitude": 103.88997632456076,
+            "Latitude": 1.35639501261001,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Blk 239"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "63281",
+            "Longitude": 103.8898808330127,
+            "Latitude": 1.3541297220266,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Blk 105 Mkt/FC"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "63291",
+            "Longitude": 103.88785804760475,
+            "Latitude": 1.35225002342978,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Opp Blk 115"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "63301",
+            "Longitude": 103.88531199399267,
+            "Latitude": 1.35149473186732,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Paya Lebar Girls' Sch"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "62221",
+            "Longitude": 103.88255343944132,
+            "Latitude": 1.35090140225527,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Opp The Minton"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "62219",
+            "Longitude": 103.88032033542545,
+            "Latitude": 1.35192637119856,
+            "RoadName": "Hougang St 11",
+            "Description": "Blk 158"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "62059",
+            "Longitude": 103.87859583297927,
+            "Latitude": 1.35170138896709,
+            "RoadName": "Upp Paya Lebar Rd",
+            "Description": "Blk 161"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "62229",
+            "Longitude": 103.88212234368397,
+            "Latitude": 1.35108999372692,
+            "RoadName": "Lor Ah Soo",
+            "Description": "The Minton"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "63309",
+            "Longitude": 103.88581055600547,
+            "Latitude": 1.35205944401441,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Opp Paya Lebar Girls' Sch"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "63299",
+            "Longitude": 103.88833522800789,
+            "Latitude": 1.35263165715857,
+            "RoadName": "Lor Ah Soo",
+            "Description": "Blk 115"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "63289",
+            "Longitude": 103.88966083299925,
+            "Latitude": 1.3540116670036,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Aljunied CC"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "63279",
+            "Longitude": 103.88983499998875,
+            "Latitude": 1.35623805601182,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Opp Yuying Sec Sch"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "63269",
+            "Longitude": 103.88905763623875,
+            "Latitude": 1.35875481272429,
+            "RoadName": "Hougang Ave 1",
+            "Description": "Blk 232"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "63239",
+            "Longitude": 103.8878789953328,
+            "Latitude": 1.35891911967242,
+            "RoadName": "Hougang St 21",
+            "Description": "OPP BLK 211"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "63229",
+            "Longitude": 103.88511923530164,
+            "Latitude": 1.35757166659958,
+            "RoadName": "Hougang St 21",
+            "Description": "Kovan Sports Ctr"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "63031",
+            "Longitude": 103.88535194446017,
+            "Latitude": 1.36050444441455,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit B"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "63041",
+            "Longitude": 103.88754805602413,
+            "Latitude": 1.36259166703136,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Glad Tidings Ch"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "63051",
+            "Longitude": 103.8891427848695,
+            "Latitude": 1.36415166798646,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Serangoon JC"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "63349",
+            "Longitude": 103.88923358520269,
+            "Latitude": 1.36687207146588,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 708"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "63359",
+            "Longitude": 103.88779233654836,
+            "Latitude": 1.36936804895468,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Hougang Swim Cplx"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "64399",
+            "Longitude": 103.8892571932248,
+            "Latitude": 1.37121818386818,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 512"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "64389",
+            "Longitude": 103.89156818388481,
+            "Latitude": 1.37313809346006,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 522"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "64379",
+            "Longitude": 103.89266306129461,
+            "Latitude": 1.37468500843171,
+            "RoadName": "Hougang Ave 6",
+            "Description": "Punggol CC"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "64031",
+            "Longitude": 103.893660799245,
+            "Latitude": 1.37699995735935,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 436"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "64079",
+            "Longitude": 103.89774777801168,
+            "Latitude": 1.37500833299826,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Punggol Pk"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "64059",
+            "Longitude": 103.89837470452339,
+            "Latitude": 1.37249135705281,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 355"
+        },
+        {
+            "Distance": 16,
+            "BusStopCode": "64049",
+            "Longitude": 103.89603248614272,
+            "Latitude": 1.3703713899857,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp The Midtown"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int (Last Stop)"
+        }
+    ]
+}

@@ -1,0 +1,436 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "76191",
+            "Longitude": 103.94477445426702,
+            "Latitude": 1.3569438864901,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 401"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "76399",
+            "Longitude": 103.94723337005571,
+            "Latitude": 1.3586225675181,
+            "RoadName": "Tampines St 41",
+            "Description": "Blk 417"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "76369",
+            "Longitude": 103.95022273065783,
+            "Latitude": 1.36025642698418,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 496F"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "76359",
+            "Longitude": 103.95217875196944,
+            "Latitude": 1.36209168075863,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 493B"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "76349",
+            "Longitude": 103.95556569101933,
+            "Latitude": 1.3603851367314,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Dunman Sec Sch"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "76319",
+            "Longitude": 103.95558714864025,
+            "Latitude": 1.35765005311874,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Tampines JC/Opp Blk 454"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "76231",
+            "Longitude": 103.95736200626966,
+            "Latitude": 1.35666908955685,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Tampines JC/Opp Blk 390"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "76241",
+            "Longitude": 103.95917058122039,
+            "Latitude": 1.35845802746258,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 497D"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "98081",
+            "Longitude": 103.96453090144483,
+            "Latitude": 1.36189974501014,
+            "RoadName": "Old Tampines Rd",
+            "Description": "Aft Jln Batalong"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "97101",
+            "Longitude": 103.96739806471844,
+            "Latitude": 1.36321195503241,
+            "RoadName": "Old Tampines Rd",
+            "Description": "Bef Jln Mariam"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "97111",
+            "Longitude": 103.97038833297182,
+            "Latitude": 1.36331111102284,
+            "RoadName": "Old Tampines Rd",
+            "Description": "Bef Toh Cl"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "97201",
+            "Longitude": 103.97370278833513,
+            "Latitude": 1.36265900778926,
+            "RoadName": "Upp Changi Rd Nth",
+            "Description": "Opp Changi Chapel Museum"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "97061",
+            "Longitude": 103.975349664689,
+            "Latitude": 1.36590356071338,
+            "RoadName": "Upp Changi Rd Nth",
+            "Description": "Changi Baptist Ch"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "97071",
+            "Longitude": 103.97786417344932,
+            "Latitude": 1.36855806171082,
+            "RoadName": "Upp Changi Rd Nth",
+            "Description": "Selarang Camp"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "97081",
+            "Longitude": 103.97986770359047,
+            "Latitude": 1.37137551310062,
+            "RoadName": "Loyang Way",
+            "Description": "Selarang Pk Drug Reh."
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "97091",
+            "Longitude": 103.97614190842204,
+            "Latitude": 1.37304817069239,
+            "RoadName": "Loyang Way",
+            "Description": "Bef Loyang Ave"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "98061",
+            "Longitude": 103.977166226331,
+            "Latitude": 1.37652810391204,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Engine Test Facility"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "98071",
+            "Longitude": 103.97838930249063,
+            "Latitude": 1.37965443818622,
+            "RoadName": "Loyang Ave",
+            "Description": "Loyang Way/Soxal"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "99011",
+            "Longitude": 103.97812168830427,
+            "Latitude": 1.38328110134472,
+            "RoadName": "Loyang Ave",
+            "Description": "Bef Sch Of Commando"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "99021",
+            "Longitude": 103.97916912424074,
+            "Latitude": 1.38667053181061,
+            "RoadName": "Loyang Ave",
+            "Description": "Bef Cranwell Rd"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "99071",
+            "Longitude": 103.97832722200666,
+            "Latitude": 1.38768333301182,
+            "RoadName": "Cranwell Rd",
+            "Description": "Aft Old Pier Rd"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "99081",
+            "Longitude": 103.97862661282434,
+            "Latitude": 1.38939876912039,
+            "RoadName": "Netheravon Rd",
+            "Description": "Aft Cranwell Rd"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "99091",
+            "Longitude": 103.97976929995467,
+            "Latitude": 1.39096634300286,
+            "RoadName": "Netheravon Rd",
+            "Description": "Bef Turnhouse Rd"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "99101",
+            "Longitude": 103.98170083301015,
+            "Latitude": 1.39138333298306,
+            "RoadName": "Netheravon Rd",
+            "Description": "Govt Chalets"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "99111",
+            "Longitude": 103.98415750002044,
+            "Latitude": 1.39175111102446,
+            "RoadName": "Netheravon Rd",
+            "Description": "Changi Golf Club"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "99009",
+            "Longitude": 103.98762553601895,
+            "Latitude": 1.38969812175274,
+            "RoadName": "Changi Village Rd",
+            "Description": "Changi Village Ter"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "99129",
+            "Longitude": 103.98675461297464,
+            "Latitude": 1.3900050122734,
+            "RoadName": "Changi Village Rd",
+            "Description": "Changi Village Hotel"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "99119",
+            "Longitude": 103.98437037471184,
+            "Latitude": 1.39154974647967,
+            "RoadName": "Netheravon Rd",
+            "Description": "Opp Changi Golf Club"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "99109",
+            "Longitude": 103.98181999999792,
+            "Latitude": 1.39120638899594,
+            "RoadName": "Netheravon Rd",
+            "Description": "Opp Govt Chalets"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "99099",
+            "Longitude": 103.97992778639245,
+            "Latitude": 1.39085926684364,
+            "RoadName": "Netheravon Rd",
+            "Description": "Aft Turnhouse Rd"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "99089",
+            "Longitude": 103.97849220206042,
+            "Latitude": 1.38909485885165,
+            "RoadName": "Netheravon Rd",
+            "Description": "Bef Cranwell Rd"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "99079",
+            "Longitude": 103.9791471471214,
+            "Latitude": 1.38759303713073,
+            "RoadName": "Cranwell Rd",
+            "Description": "OPP OLD PIER ROAD"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "99029",
+            "Longitude": 103.97959306203218,
+            "Latitude": 1.38664086819653,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Cranwell Rd"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "99019",
+            "Longitude": 103.97844860768319,
+            "Latitude": 1.3837089764569,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Sch Of Commando"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "98079",
+            "Longitude": 103.97870069719525,
+            "Latitude": 1.37859016739254,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Loyang Way/Soxal"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "98069",
+            "Longitude": 103.976778734029,
+            "Latitude": 1.3757102208247,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Engine Test Facility"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "97099",
+            "Longitude": 103.97643861099502,
+            "Latitude": 1.37318166697573,
+            "RoadName": "Loyang Way",
+            "Description": "Aft Loyang Ave"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "97089",
+            "Longitude": 103.98008108137569,
+            "Latitude": 1.3708213292446,
+            "RoadName": "Loyang Way",
+            "Description": "Opp Selarang Pk Drug Reh."
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "97079",
+            "Longitude": 103.97758382793815,
+            "Latitude": 1.36810642046998,
+            "RoadName": "Upp Changi Rd Nth",
+            "Description": "Opp Selarang Camp"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "97069",
+            "Longitude": 103.9752874368773,
+            "Latitude": 1.3651566598248,
+            "RoadName": "Upp Changi Rd Nth",
+            "Description": "Lloyd Leas Work Rel Camp"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "97209",
+            "Longitude": 103.97331639977371,
+            "Latitude": 1.36229421254534,
+            "RoadName": "Upp Changi Rd Nth",
+            "Description": "Changi Chapel Museum"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "97119",
+            "Longitude": 103.96996378901376,
+            "Latitude": 1.36337227349683,
+            "RoadName": "Old Tampines Rd",
+            "Description": "Aft Toh Cl"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "97109",
+            "Longitude": 103.96702623375789,
+            "Latitude": 1.36281875953495,
+            "RoadName": "Old Tampines Rd",
+            "Description": "Aft Jln Mariam"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "98089",
+            "Longitude": 103.96414293864342,
+            "Latitude": 1.36163640696695,
+            "RoadName": "Old Tampines Rd",
+            "Description": "Bef Jln Batalong"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "76249",
+            "Longitude": 103.95947435534286,
+            "Latitude": 1.35836639849151,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 370"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "76239",
+            "Longitude": 103.95752447018292,
+            "Latitude": 1.35646655532488,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 390/Opp Tampines JC"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "76311",
+            "Longitude": 103.95535655821823,
+            "Latitude": 1.35791501506433,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 460/Opp Tampines JC"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "76341",
+            "Longitude": 103.95535006454477,
+            "Latitude": 1.35976305104284,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 464"
+        },
+        {
+            "Distance": 18,
+            "BusStopCode": "76351",
+            "Longitude": 103.95309131019367,
+            "Latitude": 1.36213822350227,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 484"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "76361",
+            "Longitude": 103.95032266084807,
+            "Latitude": 1.36002524992852,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 430"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "76391",
+            "Longitude": 103.947541136035,
+            "Latitude": 1.35844376751138,
+            "RoadName": "Tampines St 41",
+            "Description": "Blk 418"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "76199",
+            "Longitude": 103.94535428432116,
+            "Latitude": 1.35660016333768,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 503"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (Last Stop)"
+        }
+    ]
+}

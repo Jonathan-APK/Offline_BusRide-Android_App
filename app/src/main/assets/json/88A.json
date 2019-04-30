@@ -1,0 +1,220 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "65069",
+            "Longitude": 103.90236824858533,
+            "Latitude": 1.39504382175966,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 190C"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "65059",
+            "Longitude": 103.90129355204087,
+            "Latitude": 1.39308440832899,
+            "RoadName": "Punggol Rd",
+            "Description": "St. Anne's Ch"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "65049",
+            "Longitude": 103.90187166698628,
+            "Latitude": 1.38993499998792,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 126A"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "65039",
+            "Longitude": 103.9019239673808,
+            "Latitude": 1.38732741861632,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 124"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "65029",
+            "Longitude": 103.90061583298267,
+            "Latitude": 1.38461500003195,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 111"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "65019",
+            "Longitude": 103.89749237919405,
+            "Latitude": 1.38151407829697,
+            "RoadName": "Punggol Rd",
+            "Description": "The Rivervale"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "64029",
+            "Longitude": 103.89688283812272,
+            "Latitude": 1.37781617357511,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Opp Blk 458"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "64039",
+            "Longitude": 103.89393761218089,
+            "Latitude": 1.37668753222312,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 434"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "64369",
+            "Longitude": 103.89149353867691,
+            "Latitude": 1.37634448413795,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 532"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "64359",
+            "Longitude": 103.88918760776436,
+            "Latitude": 1.37528677811119,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Montfort Sch"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "64349",
+            "Longitude": 103.88673982857989,
+            "Latitude": 1.37291834719604,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 502"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "64411",
+            "Longitude": 103.88503406200056,
+            "Latitude": 1.37353273194871,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 670"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "64601",
+            "Longitude": 103.8845866729986,
+            "Latitude": 1.37548640364406,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 919"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "64611",
+            "Longitude": 103.88445923003084,
+            "Latitude": 1.37837333826782,
+            "RoadName": "Hougang Ave 4",
+            "Description": "Blk 913"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "66499",
+            "Longitude": 103.88326933020046,
+            "Latitude": 1.37912306945844,
+            "RoadName": "Buangkok Green",
+            "Description": "Blk 911"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "66489",
+            "Longitude": 103.8789799431682,
+            "Latitude": 1.37889334025536,
+            "RoadName": "Buangkok Green",
+            "Description": "Blk 969"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "66479",
+            "Longitude": 103.87430288480033,
+            "Latitude": 1.37863834733323,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Aft Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "66459",
+            "Longitude": 103.87075091953804,
+            "Latitude": 1.37848946701219,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Aft Seagate"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "54659",
+            "Longitude": 103.86686274044777,
+            "Latitude": 1.37834008020794,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Techplace 2"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "54509",
+            "Longitude": 103.86257049780349,
+            "Latitude": 1.37758835823729,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Aft Blk 5000"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "54499",
+            "Longitude": 103.86055355422364,
+            "Latitude": 1.37700806651463,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Bef CTE"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "54489",
+            "Longitude": 103.855796667004,
+            "Latitude": 1.37566138900563,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp Ite Coll Ctrl"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "54579",
+            "Longitude": 103.85483080978989,
+            "Latitude": 1.37487817367914,
+            "RoadName": "Ang Mo Kio Ave 10",
+            "Description": "Blk 540"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "54589",
+            "Longitude": 103.85671893941708,
+            "Latitude": 1.37173441613541,
+            "RoadName": "Ang Mo Kio Ave 10",
+            "Description": "Blk 555"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "54289",
+            "Longitude": 103.8561504529793,
+            "Latitude": 1.36910303231028,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 452"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "54279",
+            "Longitude": 103.85404760550173,
+            "Latitude": 1.36968919033429,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 427"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "54269",
+            "Longitude": 103.85111893571647,
+            "Latitude": 1.36921006543476,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Ang Mo Kio Stn"
+        }
+    ]
+}

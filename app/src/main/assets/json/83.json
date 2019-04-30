@@ -1,0 +1,252 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "65221",
+            "Longitude": 103.90480763848863,
+            "Latitude": 1.40402842836975,
+            "RoadName": "Punggol Ctrl",
+            "Description": "BLK 303D"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "65281",
+            "Longitude": 103.90783309940194,
+            "Latitude": 1.40201165055481,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Punggol Sec/Blk 601B"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "65271",
+            "Longitude": 103.91064287603247,
+            "Latitude": 1.39995544080394,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Opp Blk 188"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "65261",
+            "Longitude": 103.91478844205221,
+            "Latitude": 1.39695155432601,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Blk 649"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "65239",
+            "Longitude": 103.91603484855351,
+            "Latitude": 1.39410461413829,
+            "RoadName": "Punggol East",
+            "Description": "Riviera Stn Exit A"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "65179",
+            "Longitude": 103.91190241454986,
+            "Latitude": 1.39429582834351,
+            "RoadName": "Punggol Field",
+            "Description": "Coral Edge Stn Exit A"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "65169",
+            "Longitude": 103.90932129998102,
+            "Latitude": 1.39645725997371,
+            "RoadName": "Punggol Field",
+            "Description": "Meridian Stn Exit A"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "65159",
+            "Longitude": 103.90665292741664,
+            "Latitude": 1.39856872266182,
+            "RoadName": "Punggol Field",
+            "Description": "Cove Stn Exit A"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "65079",
+            "Longitude": 103.90474802293774,
+            "Latitude": 1.39893574516181,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 102C"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "65069",
+            "Longitude": 103.90236824858533,
+            "Latitude": 1.39504382175966,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 190C"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "67251",
+            "Longitude": 103.9003121852631,
+            "Latitude": 1.39442862205324,
+            "RoadName": "Compassvale St",
+            "Description": "Compassvale Stn Exit A"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "67431",
+            "Longitude": 103.89739500115256,
+            "Latitude": 1.39521359607395,
+            "RoadName": "Compassvale St",
+            "Description": "Opp Blk 291A"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "67411",
+            "Longitude": 103.89436833778728,
+            "Latitude": 1.39495624396821,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Blk 261"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "67441",
+            "Longitude": 103.8934666647416,
+            "Latitude": 1.3923095386042,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Sengkang Community Hub"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "67009",
+            "Longitude": 103.89588499436073,
+            "Latitude": 1.39178060381601,
+            "RoadName": "Sengkang Sq",
+            "Description": "Sengkang Int"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "67449",
+            "Longitude": 103.89307115004729,
+            "Latitude": 1.39203289077574,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Blk 323B"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "67419",
+            "Longitude": 103.89383161169673,
+            "Latitude": 1.39443204166804,
+            "RoadName": "Sengkang East Rd",
+            "Description": "Opp Blk 261"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "67439",
+            "Longitude": 103.89737027918684,
+            "Latitude": 1.39549374900087,
+            "RoadName": "Compassvale St",
+            "Description": "Blk 291A"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "67259",
+            "Longitude": 103.90046238900585,
+            "Latitude": 1.39465386086721,
+            "RoadName": "Compassvale St",
+            "Description": "Compassvale Stn Exit B"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "65061",
+            "Longitude": 103.9018594759131,
+            "Latitude": 1.39490129020977,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 298A"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "65071",
+            "Longitude": 103.90416383740006,
+            "Latitude": 1.39845074063981,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp Blk 103A"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "65151",
+            "Longitude": 103.90673526652138,
+            "Latitude": 1.39891123085834,
+            "RoadName": "Punggol Field",
+            "Description": "Cove Stn Exit B"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "65161",
+            "Longitude": 103.90859112878573,
+            "Latitude": 1.39735631138291,
+            "RoadName": "Punggol Field",
+            "Description": "Meridian Stn Exit B"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "65171",
+            "Longitude": 103.91205304613206,
+            "Latitude": 1.39452041732154,
+            "RoadName": "Punggol Field",
+            "Description": "Coral Edge Stn Exit B"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "65231",
+            "Longitude": 103.91576531457447,
+            "Latitude": 1.3942824799683,
+            "RoadName": "Punggol East",
+            "Description": "Riviera Stn Exit B"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "65269",
+            "Longitude": 103.91467219472072,
+            "Latitude": 1.39671015437474,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Blk 162B"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "65279",
+            "Longitude": 103.91103404530959,
+            "Latitude": 1.39929726136961,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Bet Blks 187/188"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "65289",
+            "Longitude": 103.90762981656073,
+            "Latitude": 1.40173746082241,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Opp Punggol Sec/Blk 195E"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "65229",
+            "Longitude": 103.90556931496221,
+            "Latitude": 1.40320219454105,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Blk 298"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int (Last Stop)"
+        }
+    ]
+}

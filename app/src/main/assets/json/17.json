@@ -1,0 +1,470 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "78109",
+            "Longitude": 103.95388142049359,
+            "Latitude": 1.37533322687905,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Downtown East"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "78119",
+            "Longitude": 103.95796611110238,
+            "Latitude": 1.37568000002841,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Blk 479"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "78221",
+            "Longitude": 103.96122560227602,
+            "Latitude": 1.37417517709229,
+            "RoadName": "Pasir Ris Dr 4",
+            "Description": "Blk 231A CP"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "78151",
+            "Longitude": 103.96078021168164,
+            "Latitude": 1.37239496316057,
+            "RoadName": "Pasir Ris Dr 4",
+            "Description": "Blk 230"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "78161",
+            "Longitude": 103.96052175997124,
+            "Latitude": 1.36900499745113,
+            "RoadName": "Pasir Ris Dr 4",
+            "Description": "Blk 216"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "78059",
+            "Longitude": 103.96113744871693,
+            "Latitude": 1.36677606799955,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 210"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "98099",
+            "Longitude": 103.96328361098551,
+            "Latitude": 1.36457166700645,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 269A"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "98019",
+            "Longitude": 103.96338699998489,
+            "Latitude": 1.3622609999684,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Blk 149A"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "76249",
+            "Longitude": 103.95947435534286,
+            "Latitude": 1.35836639849151,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 370"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "76239",
+            "Longitude": 103.95752447018292,
+            "Latitude": 1.35646655532488,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 390/Opp Tampines JC"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "76039",
+            "Longitude": 103.9555498102644,
+            "Latitude": 1.35506418976437,
+            "RoadName": "Tampines Ave 2",
+            "Description": "TAMPINES EAST STN EXIT C"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "76109",
+            "Longitude": 103.9551184525466,
+            "Latitude": 1.35296639979416,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "76099",
+            "Longitude": 103.95249172187374,
+            "Latitude": 1.35026359502623,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 285"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "76089",
+            "Longitude": 103.94923388889873,
+            "Latitude": 1.34916805553714,
+            "RoadName": "Tampines Ave 2",
+            "Description": "The Holy Trinity Ch"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "76079",
+            "Longitude": 103.94563500000055,
+            "Latitude": 1.34794388891649,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "96289",
+            "Longitude": 103.94838106593957,
+            "Latitude": 1.34005496226354,
+            "RoadName": "Simei Ave",
+            "Description": "Changi General Hosp"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "96109",
+            "Longitude": 103.95067333143491,
+            "Latitude": 1.33737118239889,
+            "RoadName": "Simei Ave",
+            "Description": "Opp Blk 3012"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "84439",
+            "Longitude": 103.95024017522437,
+            "Latitude": 1.33474732352614,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "Opp Blk 3014"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "84599",
+            "Longitude": 103.94646797815965,
+            "Latitude": 1.33772607555094,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "Opp Sbst Bedok Nth Depot"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "84279",
+            "Longitude": 103.94439635871171,
+            "Latitude": 1.33664160677812,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "Aft Bedok Nth St 5"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "84269",
+            "Longitude": 103.94185027798375,
+            "Latitude": 1.33402333297056,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "Blk 95"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "84259",
+            "Longitude": 103.93910677080204,
+            "Latitude": 1.33328807616427,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "Blk 88"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "84229",
+            "Longitude": 103.93531396427683,
+            "Latitude": 1.3315995317556,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Blk 111"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "84349",
+            "Longitude": 103.93233223449336,
+            "Latitude": 1.33091748609947,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Fengshan Pr Sch"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "84329",
+            "Longitude": 103.92970061275057,
+            "Latitude": 1.33029323198176,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Blk 414"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "84319",
+            "Longitude": 103.92771515822335,
+            "Latitude": 1.32980564460578,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Blk 428"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "84309",
+            "Longitude": 103.92687404688121,
+            "Latitude": 1.32802803259661,
+            "RoadName": "Bedok Nth Ave 1",
+            "Description": "Kg Chai Chee CC"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "84301",
+            "Longitude": 103.92656628872025,
+            "Latitude": 1.32782140214678,
+            "RoadName": "Bedok Nth Ave 1",
+            "Description": "Opp Kg Chai Chee CC"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "84311",
+            "Longitude": 103.92731666563313,
+            "Latitude": 1.32999872121867,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Blk 521"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "84321",
+            "Longitude": 103.92977387914273,
+            "Latitude": 1.33060063600662,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Blk 516"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "84341",
+            "Longitude": 103.93198370934411,
+            "Latitude": 1.33110349338955,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Opp Fengshan Pr Sch"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "84221",
+            "Longitude": 103.93512740972372,
+            "Latitude": 1.33185798500032,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "84251",
+            "Longitude": 103.93883800719165,
+            "Latitude": 1.33346832060545,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "Blk 99"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "84261",
+            "Longitude": 103.94172824938414,
+            "Latitude": 1.33421994347974,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "St. Anthony's Cano Sch"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "84271",
+            "Longitude": 103.94401471753854,
+            "Latitude": 1.33656310671569,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "Aft Bedok Ind Pk E"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "84591",
+            "Longitude": 103.94699472223161,
+            "Latitude": 1.33774805557922,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "Sbst Bedok Nth Depot"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "84431",
+            "Longitude": 103.9502227306511,
+            "Latitude": 1.33513644378005,
+            "RoadName": "Bedok Nth Ave 4",
+            "Description": "Blk 3014"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "96101",
+            "Longitude": 103.9510568939649,
+            "Latitude": 1.33638500905398,
+            "RoadName": "Simei Ave",
+            "Description": "Blk 3012"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "96281",
+            "Longitude": 103.94850088671714,
+            "Latitude": 1.33941652681162,
+            "RoadName": "Simei Ave",
+            "Description": "Opp Changi General Hosp"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "76071",
+            "Longitude": 103.94517805600674,
+            "Latitude": 1.34802638899143,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 141"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "76081",
+            "Longitude": 103.94932305553937,
+            "Latitude": 1.34950194446778,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Opp The Holy Trinity Ch"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "76091",
+            "Longitude": 103.95275166965992,
+            "Latitude": 1.35071636446812,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 206"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "76101",
+            "Longitude": 103.95480210652737,
+            "Latitude": 1.35303315550855,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Tampines East CC"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "76031",
+            "Longitude": 103.95529781026745,
+            "Latitude": 1.35507956918888,
+            "RoadName": "Tampines Ave 2",
+            "Description": "TAMPINES EAST STN EXIT B"
+        },
+        {
+            "Distance": 8.2,
+            "BusStopCode": "76231",
+            "Longitude": 103.95736200626966,
+            "Latitude": 1.35666908955685,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Tampines JC/Opp Blk 390"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "76241",
+            "Longitude": 103.95917058122039,
+            "Latitude": 1.35845802746258,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 497D"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "98011",
+            "Longitude": 103.96291600002557,
+            "Latitude": 1.36221388889515,
+            "RoadName": "Loyang Ave",
+            "Description": "Blk 149A"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "98091",
+            "Longitude": 103.9631266198707,
+            "Latitude": 1.36432808773556,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 156"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "78051",
+            "Longitude": 103.96118122599651,
+            "Latitude": 1.36625310810093,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 197"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "78169",
+            "Longitude": 103.96024801184656,
+            "Latitude": 1.36906973013181,
+            "RoadName": "Pasir Ris Dr 4",
+            "Description": "Opp Blk 216"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "78159",
+            "Longitude": 103.96053778303401,
+            "Latitude": 1.37246473904375,
+            "RoadName": "Pasir Ris Dr 4",
+            "Description": "Opp Blk 230"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "78229",
+            "Longitude": 103.96093853137384,
+            "Latitude": 1.37411139885456,
+            "RoadName": "Pasir Ris Dr 4",
+            "Description": "Blk 485"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "78111",
+            "Longitude": 103.95798631897796,
+            "Latitude": 1.37545781179514,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 479"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "78101",
+            "Longitude": 103.95404801695994,
+            "Latitude": 1.37506644391944,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Downtown East"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int"
+        }
+    ]
+}

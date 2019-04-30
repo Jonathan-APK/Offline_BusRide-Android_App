@@ -1,0 +1,140 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "17429",
+            "Longitude": 103.76714299050866,
+            "Latitude": 1.32990598614923,
+            "RoadName": "Sunset Way",
+            "Description": "Aft Sunset Vale"
+        },
+        {
+            "Distance": 0.2,
+            "BusStopCode": "17439",
+            "Longitude": 103.76714299050866,
+            "Latitude": 1.32990598614923,
+            "RoadName": "Sunset Way",
+            "Description": "LP 36"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "17419",
+            "Longitude": 103.76590915525553,
+            "Latitude": 1.32618917574472,
+            "RoadName": "Sunset Way",
+            "Description": "Sunset Way P/G"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "17409",
+            "Longitude": 103.76582910002257,
+            "Latitude": 1.32513458297883,
+            "RoadName": "Sunset Way",
+            "Description": "Hse No. 90"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "17399",
+            "Longitude": 103.76724759997172,
+            "Latitude": 1.32394751696915,
+            "RoadName": "Sunset Way",
+            "Description": "Opp Freesia Woods Condo"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "17259",
+            "Longitude": 103.76746074010758,
+            "Latitude": 1.31092798217655,
+            "RoadName": "Clementi Ave 2",
+            "Description": "Blk 408"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "17049",
+            "Longitude": 103.76459821893782,
+            "Latitude": 1.30470638200942,
+            "RoadName": "West Coast Rd",
+            "Description": "Blk 601"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "17039",
+            "Longitude": 103.76606427132043,
+            "Latitude": 1.3015316464856,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp Kent Ridge Sec Sch"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "17389",
+            "Longitude": 103.76700194402241,
+            "Latitude": 1.29908138901268,
+            "RoadName": "West Coast Rd",
+            "Description": "Opp West Bay Resort Condo"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "17299",
+            "Longitude": 103.77005055601747,
+            "Latitude": 1.29060555603074,
+            "RoadName": "West Coast Highway",
+            "Description": "Opp West Coast Pk"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "16249",
+            "Longitude": 103.77400682988979,
+            "Latitude": 1.28928277099215,
+            "RoadName": "West Coast Highway",
+            "Description": "Bef Wholesale Ctr"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "16239",
+            "Longitude": 103.77893444397212,
+            "Latitude": 1.28643527800393,
+            "RoadName": "West Coast Highway",
+            "Description": "Opp Wholesale Ctr"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "16229",
+            "Longitude": 103.78159959377587,
+            "Latitude": 1.2830090731877,
+            "RoadName": "West Coast Highway",
+            "Description": "Haw Par Villa Stn"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "03222",
+            "Longitude": 103.84489562922414,
+            "Latitude": 1.27397836925637,
+            "RoadName": "Anson Rd",
+            "Description": "Hub Synergy Pt"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "03031",
+            "Longitude": 103.85086074925066,
+            "Latitude": 1.28207492207952,
+            "RoadName": "Robinson Rd",
+            "Description": "Raffles Pl Stn Exit F"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "03011",
+            "Longitude": 103.85333597704485,
+            "Latitude": 1.2855975891826,
+            "RoadName": "Fullerton Rd",
+            "Description": "Fullerton Sq"
+        }
+    ]
+}

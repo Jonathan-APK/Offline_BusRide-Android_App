@@ -1,0 +1,188 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "77191",
+            "Longitude": 103.94602815996554,
+            "Latitude": 1.37654807606486,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 500A"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "77201",
+            "Longitude": 103.94276350247947,
+            "Latitude": 1.37864001176536,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Aft Blk 601"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "77211",
+            "Longitude": 103.94094544562029,
+            "Latitude": 1.37999169580419,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 626"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "77221",
+            "Longitude": 103.93830035527515,
+            "Latitude": 1.37954502345926,
+            "RoadName": "Pasir Ris Dr 10",
+            "Description": "Blk 651"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "77239",
+            "Longitude": 103.93793201117523,
+            "Latitude": 1.37741830757924,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 643"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "77249",
+            "Longitude": 103.939861116152,
+            "Latitude": 1.37599439507295,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 640"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "77181",
+            "Longitude": 103.94109934608323,
+            "Latitude": 1.37591147273628,
+            "RoadName": "Elias Rd",
+            "Description": "Blk 638"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "77071",
+            "Longitude": 103.94127900809487,
+            "Latitude": 1.37810945408117,
+            "RoadName": "Elias Rd",
+            "Description": "Blk 633"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "77209",
+            "Longitude": 103.94271591238348,
+            "Latitude": 1.37902915784394,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Blk 601"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "77199",
+            "Longitude": 103.94566567184114,
+            "Latitude": 1.37707803132455,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Blk 500A"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "78109",
+            "Longitude": 103.95388142049359,
+            "Latitude": 1.37533322687905,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Downtown East"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "78081",
+            "Longitude": 103.95635599319583,
+            "Latitude": 1.37368803498525,
+            "RoadName": "Pasir Ris Dr 6",
+            "Description": "Blk 467"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "78071",
+            "Longitude": 103.95718010428234,
+            "Latitude": 1.37031163160495,
+            "RoadName": "Pasir Ris Dr 6",
+            "Description": "Blk 446"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "78069",
+            "Longitude": 103.95815838787027,
+            "Latitude": 1.36869168470813,
+            "RoadName": "Pasir Ris Dr 1",
+            "Description": "Blk 442"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "78169",
+            "Longitude": 103.96024801184656,
+            "Latitude": 1.36906973013181,
+            "RoadName": "Pasir Ris Dr 4",
+            "Description": "Opp Blk 216"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "78159",
+            "Longitude": 103.96053778303401,
+            "Latitude": 1.37246473904375,
+            "RoadName": "Pasir Ris Dr 4",
+            "Description": "Opp Blk 230"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "78231",
+            "Longitude": 103.95986036196572,
+            "Latitude": 1.373443032341,
+            "RoadName": "Pasir Ris St 41",
+            "Description": "Opp Blk 482"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "78241",
+            "Longitude": 103.95765320446608,
+            "Latitude": 1.37211000864374,
+            "RoadName": "Pasir Ris St 41",
+            "Description": "Bet Blks 453/454"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "78089",
+            "Longitude": 103.95608873577847,
+            "Latitude": 1.37361141865113,
+            "RoadName": "Pasir Ris Dr 6",
+            "Description": "Blk 405"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "78101",
+            "Longitude": 103.95404801695994,
+            "Latitude": 1.37506644391944,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Downtown East"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int (Last Stop)"
+        }
+    ]
+}

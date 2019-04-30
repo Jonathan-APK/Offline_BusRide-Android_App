@@ -1,0 +1,92 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "28441",
+            "Longitude": 103.73884916698127,
+            "Latitude": 1.33576638902918,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "28311",
+            "Longitude": 103.74108351905207,
+            "Latitude": 1.33825277511898,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "28631",
+            "Longitude": 103.74418616293988,
+            "Latitude": 1.34053157728505,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Opp Blk 288D"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "28641",
+            "Longitude": 103.74610320575732,
+            "Latitude": 1.33917889755759,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 284"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "28661",
+            "Longitude": 103.74951999566713,
+            "Latitude": 1.33665522766949,
+            "RoadName": "Toh Guan Rd East",
+            "Description": "Opp Jurong East Warehse"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "28671",
+            "Longitude": 103.75226376356609,
+            "Latitude": 1.33715229988486,
+            "RoadName": "Toh Guan Rd East",
+            "Description": "Alliance Bldg"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "28681",
+            "Longitude": 103.75488889772056,
+            "Latitude": 1.33720242588623,
+            "RoadName": "Toh Guan Rd East",
+            "Description": "Toh Guan Ctr"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "28691",
+            "Longitude": 103.75748934005021,
+            "Latitude": 1.33565242851513,
+            "RoadName": "Toh Guan Rd East",
+            "Description": "Wang-Fu Ind Pte Ltd"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "28701",
+            "Longitude": 103.75773000000456,
+            "Latitude": 1.33149833298375,
+            "RoadName": "Toh Tuck Link",
+            "Description": "Aft Old Toh Tuck Rd"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "28189",
+            "Longitude": 103.75850603827898,
+            "Latitude": 1.32992124735954,
+            "RoadName": "Toh Tuck Ave",
+            "Description": "Aft Toh Tuck Link"
+        }
+    ]
+}

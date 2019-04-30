@@ -1,0 +1,620 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "14519",
+            "Longitude": 103.82570322127442,
+            "Latitude": 1.25352193438281,
+            "RoadName": "Sentosa Gateway",
+            "Description": "Resorts World Sentosa"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "14141",
+            "Longitude": 103.82211326846237,
+            "Latitude": 1.26552421466644,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "VivoCity"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "14129",
+            "Longitude": 103.81977877391114,
+            "Latitude": 1.26607869101924,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Harbourfront Stn Exit A"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "14119",
+            "Longitude": 103.8222827803663,
+            "Latitude": 1.26592360897281,
+            "RoadName": "Telok Blangah Rd",
+            "Description": "Opp VivoCity"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "14109",
+            "Longitude": 103.82722490505579,
+            "Latitude": 1.26804601553507,
+            "RoadName": "Keppel Rd",
+            "Description": "Keppel DP Blk 517"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "14089",
+            "Longitude": 103.829792773326,
+            "Latitude": 1.27046005041763,
+            "RoadName": "Keppel Rd",
+            "Description": "Opp Tg Pagar DP Blk F5"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "03511",
+            "Longitude": 103.85897064872482,
+            "Latitude": 1.28194779470571,
+            "RoadName": "Bayfront Ave",
+            "Description": "Marina Bay Sands MICE"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "03501",
+            "Longitude": 103.8606110538643,
+            "Latitude": 1.28500467671367,
+            "RoadName": "Bayfront Ave",
+            "Description": "Marina Bay Sands Theatre"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "02051",
+            "Longitude": 103.85903388899317,
+            "Latitude": 1.2895030556082,
+            "RoadName": "Raffles Ave",
+            "Description": "Seating Gallery"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "02061",
+            "Longitude": 103.85640388886262,
+            "Latitude": 1.2899638888957,
+            "RoadName": "Raffles Ave",
+            "Description": "The Esplanade"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "04167",
+            "Longitude": 103.85145315468638,
+            "Latitude": 1.29250006522444,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "City Hall Stn Exit B"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "04249",
+            "Longitude": 103.85026216508201,
+            "Latitude": 1.29043039362749,
+            "RoadName": "Nth Bridge Rd",
+            "Description": "Opp The Treasury"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "05029",
+            "Longitude": 103.84833343750249,
+            "Latitude": 1.28724656561704,
+            "RoadName": "Sth Bridge Rd",
+            "Description": "Boat Quay"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "04222",
+            "Longitude": 103.84708976365569,
+            "Latitude": 1.28898962180798,
+            "RoadName": "Eu Tong Sen St",
+            "Description": "Clarke Quay Stn Exit E"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "04211",
+            "Longitude": 103.84712444398055,
+            "Latitude": 1.29043611099357,
+            "RoadName": "River Valley Rd",
+            "Description": "Clarke Quay"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "04331",
+            "Longitude": 103.84504089382705,
+            "Latitude": 1.29183939431601,
+            "RoadName": "River Valley Rd",
+            "Description": "BEF FORT CANNING STN"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "13109",
+            "Longitude": 103.84272416702719,
+            "Latitude": 1.29350944398488,
+            "RoadName": "River Valley Rd",
+            "Description": "UE Sq"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "13099",
+            "Longitude": 103.83961272081199,
+            "Latitude": 1.29578024244395,
+            "RoadName": "River Valley Rd",
+            "Description": "BEF KIM YAM RD"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "13089",
+            "Longitude": 103.83604111103381,
+            "Latitude": 1.29575111096804,
+            "RoadName": "River Valley Rd",
+            "Description": "Opp St. Thomas Wk"
+        },
+        {
+            "Distance": 15.7,
+            "BusStopCode": "13079",
+            "Longitude": 103.83255861099337,
+            "Latitude": 1.29616972198544,
+            "RoadName": "River Valley Rd",
+            "Description": "Aft ERC Inst"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "13141",
+            "Longitude": 103.82996320724997,
+            "Latitude": 1.29745598928819,
+            "RoadName": "Hoot Kiam Rd",
+            "Description": "Aft Zion Full Gospel Ch"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "13191",
+            "Longitude": 103.82987799248593,
+            "Latitude": 1.30266053145965,
+            "RoadName": "Paterson Rd",
+            "Description": "Bef Orchard Blvd"
+        },
+        {
+            "Distance": 17.3,
+            "BusStopCode": "09047",
+            "Longitude": 103.83294467208566,
+            "Latitude": 1.30446065207443,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Stn/Tang Plaza"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "09048",
+            "Longitude": 103.83413070051408,
+            "Latitude": 1.30386684425114,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Stn/Lucky Plaza"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "09037",
+            "Longitude": 103.83701253388183,
+            "Latitude": 1.3023400420296,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Mandarin Orchard"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "09038",
+            "Longitude": 103.83852481842337,
+            "Latitude": 1.30154262450563,
+            "RoadName": "Orchard Rd",
+            "Description": "Opp Somerset Stn"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "08137",
+            "Longitude": 103.84100500816844,
+            "Latitude": 1.30073968408393,
+            "RoadName": "Orchard Rd",
+            "Description": "Orchard Plaza"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "08138",
+            "Longitude": 103.84184700607595,
+            "Latitude": 1.3004785730821,
+            "RoadName": "Orchard Rd",
+            "Description": "Concorde Hotel S'pore"
+        },
+        {
+            "Distance": 19,
+            "BusStopCode": "08057",
+            "Longitude": 103.84529021429745,
+            "Latitude": 1.29930997279734,
+            "RoadName": "Orchard Rd",
+            "Description": "Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "08058",
+            "Longitude": 103.84654115271174,
+            "Latitude": 1.2989583431631,
+            "RoadName": "Orchard Rd",
+            "Description": "Aft Dhoby Ghaut Stn"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "08079",
+            "Longitude": 103.84910329217985,
+            "Latitude": 1.29921444445586,
+            "RoadName": "Prinsep St",
+            "Description": "Sch of the Arts"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "07011",
+            "Longitude": 103.8498101874305,
+            "Latitude": 1.30099699058522,
+            "RoadName": "Selegie Rd",
+            "Description": "Peace Ctr"
+        },
+        {
+            "Distance": 20,
+            "BusStopCode": "07021",
+            "Longitude": 103.84995776766847,
+            "Latitude": 1.30324521574524,
+            "RoadName": "Selegie Rd",
+            "Description": "Selegie Ctr"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "07031",
+            "Longitude": 103.85120583303191,
+            "Latitude": 1.30572083298412,
+            "RoadName": "S'goon Rd",
+            "Description": "Tekka Ctr"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "07111",
+            "Longitude": 103.8531751994068,
+            "Latitude": 1.30879366465919,
+            "RoadName": "S'goon Rd",
+            "Description": "Broadway Hotel"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "07211",
+            "Longitude": 103.8563561439714,
+            "Latitude": 1.31313747728456,
+            "RoadName": "S'goon Rd",
+            "Description": "Sri Srinivasa Perumal Tp"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "07221",
+            "Longitude": 103.85788270432104,
+            "Latitude": 1.31503278656775,
+            "RoadName": "S'goon Rd",
+            "Description": "Sri Vadapathira K Tp"
+        },
+        {
+            "Distance": 21.9,
+            "BusStopCode": "60101",
+            "Longitude": 103.86004042483177,
+            "Latitude": 1.31783421341306,
+            "RoadName": "S'goon Rd",
+            "Description": "Kwong Wai Shiu Hosp"
+        },
+        {
+            "Distance": 22.2,
+            "BusStopCode": "60121",
+            "Longitude": 103.86179781146463,
+            "Latitude": 1.32008815616383,
+            "RoadName": "S'goon Rd",
+            "Description": "Boon Keng Stn/Blk 102"
+        },
+        {
+            "Distance": 22.6,
+            "BusStopCode": "60141",
+            "Longitude": 103.86385682733587,
+            "Latitude": 1.32258753768004,
+            "RoadName": "S'goon Rd",
+            "Description": "Opp Bendemeer Pr Sch"
+        },
+        {
+            "Distance": 22.9,
+            "BusStopCode": "60161",
+            "Longitude": 103.8655673081052,
+            "Latitude": 1.32477289725503,
+            "RoadName": "S'goon Rd",
+            "Description": "St. Michael's Pl"
+        },
+        {
+            "Distance": 23.6,
+            "BusStopCode": "60201",
+            "Longitude": 103.8683861111429,
+            "Latitude": 1.32933888886,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "18 Woodsville"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "60261",
+            "Longitude": 103.86891794930561,
+            "Latitude": 1.33132471594343,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Potong Pasir Stn Exit C"
+        },
+        {
+            "Distance": 23.9,
+            "BusStopCode": "61011",
+            "Longitude": 103.86946402615806,
+            "Latitude": 1.3333927981396,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 103"
+        },
+        {
+            "Distance": 24.2,
+            "BusStopCode": "61021",
+            "Longitude": 103.87018878876424,
+            "Latitude": 1.33627668492978,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Woodleigh Pk"
+        },
+        {
+            "Distance": 24.4,
+            "BusStopCode": "61031",
+            "Longitude": 103.8704496726279,
+            "Latitude": 1.33836472248768,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Woodleigh Stn Exit B"
+        },
+        {
+            "Distance": 24.7,
+            "BusStopCode": "61041",
+            "Longitude": 103.87049194397346,
+            "Latitude": 1.34142999996834,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Bef Braddell Rd"
+        },
+        {
+            "Distance": 25.1,
+            "BusStopCode": "62111",
+            "Longitude": 103.87077171254077,
+            "Latitude": 1.34509852230089,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Sommerville Rd"
+        },
+        {
+            "Distance": 25.3,
+            "BusStopCode": "62121",
+            "Longitude": 103.87156809881778,
+            "Latitude": 1.34682778451192,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Wolskel Rd"
+        },
+        {
+            "Distance": 25.6,
+            "BusStopCode": "62131",
+            "Longitude": 103.87277432797597,
+            "Latitude": 1.3489790064228,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "S'Goon Stn Exit H"
+        },
+        {
+            "Distance": 26.2,
+            "BusStopCode": "66371",
+            "Longitude": 103.87268543240587,
+            "Latitude": 1.353767301605,
+            "RoadName": "S'goon Ctrl",
+            "Description": "Blk 261"
+        },
+        {
+            "Distance": 26.6,
+            "BusStopCode": "63361",
+            "Longitude": 103.87383985365209,
+            "Latitude": 1.35744648841295,
+            "RoadName": "Yio Chu Kang Link",
+            "Description": "Opp S'Goon Sports Cplx"
+        },
+        {
+            "Distance": 27,
+            "BusStopCode": "63181",
+            "Longitude": 103.87346222201559,
+            "Latitude": 1.36083138898279,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef St. Helier's Ave"
+        },
+        {
+            "Distance": 27.4,
+            "BusStopCode": "63191",
+            "Longitude": 103.87403972199432,
+            "Latitude": 1.36426277802723,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Nth Ave 1"
+        },
+        {
+            "Distance": 27.6,
+            "BusStopCode": "63201",
+            "Longitude": 103.87492029493984,
+            "Latitude": 1.36617789459924,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 133"
+        },
+        {
+            "Distance": 27.9,
+            "BusStopCode": "63211",
+            "Longitude": 103.87573084011618,
+            "Latitude": 1.36814638231195,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Blk 138"
+        },
+        {
+            "Distance": 28.4,
+            "BusStopCode": "64101",
+            "Longitude": 103.87653938842564,
+            "Latitude": 1.37212119701131,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Gracehaven S Army"
+        },
+        {
+            "Distance": 29,
+            "BusStopCode": "64491",
+            "Longitude": 103.87905166700338,
+            "Latitude": 1.37513027801163,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Hougang 1"
+        },
+        {
+            "Distance": 29.2,
+            "BusStopCode": "64481",
+            "Longitude": 103.8807864140804,
+            "Latitude": 1.37514474329335,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Bet Blks 930/931"
+        },
+        {
+            "Distance": 29.5,
+            "BusStopCode": "64471",
+            "Longitude": 103.8839677779891,
+            "Latitude": 1.37454805598778,
+            "RoadName": "Hougang Ave 9",
+            "Description": "Blk 917"
+        },
+        {
+            "Distance": 30.1,
+            "BusStopCode": "64351",
+            "Longitude": 103.88808212175417,
+            "Latitude": 1.37481110511316,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Opp Montfort Sch"
+        },
+        {
+            "Distance": 30.4,
+            "BusStopCode": "64361",
+            "Longitude": 103.89054894445846,
+            "Latitude": 1.37634509209583,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 535"
+        },
+        {
+            "Distance": 30.8,
+            "BusStopCode": "64031",
+            "Longitude": 103.893660799245,
+            "Latitude": 1.37699995735935,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 436"
+        },
+        {
+            "Distance": 31.3,
+            "BusStopCode": "64021",
+            "Longitude": 103.89663845377325,
+            "Latitude": 1.37788950153352,
+            "RoadName": "Hougang Ave 10",
+            "Description": "Blk 458"
+        },
+        {
+            "Distance": 31.7,
+            "BusStopCode": "65011",
+            "Longitude": 103.89720951783346,
+            "Latitude": 1.38159696830765,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp The Rivervale"
+        },
+        {
+            "Distance": 32,
+            "BusStopCode": "67169",
+            "Longitude": 103.89922222337448,
+            "Latitude": 1.38253470078472,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 32.7,
+            "BusStopCode": "67159",
+            "Longitude": 103.90225602044251,
+            "Latitude": 1.38436793782529,
+            "RoadName": "Rivervale Dr",
+            "Description": "Kangkar Stn Exit A"
+        },
+        {
+            "Distance": 33.1,
+            "BusStopCode": "67139",
+            "Longitude": 103.90417577185805,
+            "Latitude": 1.38715714684677,
+            "RoadName": "Rivervale Dr",
+            "Description": "Nth Spring Pr Sch"
+        },
+        {
+            "Distance": 33.5,
+            "BusStopCode": "67129",
+            "Longitude": 103.90498892005203,
+            "Latitude": 1.38936844113699,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 137"
+        },
+        {
+            "Distance": 33.7,
+            "BusStopCode": "67119",
+            "Longitude": 103.90323582065614,
+            "Latitude": 1.39050824371994,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 128"
+        },
+        {
+            "Distance": 34.1,
+            "BusStopCode": "67109",
+            "Longitude": 103.89998669813552,
+            "Latitude": 1.39102885574104,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 235"
+        },
+        {
+            "Distance": 34.5,
+            "BusStopCode": "67409",
+            "Longitude": 103.89606816606354,
+            "Latitude": 1.3923391568303,
+            "RoadName": "Sengkang East Way",
+            "Description": "Sengkang Stn"
+        },
+        {
+            "Distance": 35,
+            "BusStopCode": "67399",
+            "Longitude": 103.89167010585574,
+            "Latitude": 1.39385005995777,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 325 CP"
+        },
+        {
+            "Distance": 35.4,
+            "BusStopCode": "67581",
+            "Longitude": 103.88974726496834,
+            "Latitude": 1.3910420487699,
+            "RoadName": "Anchorvale Link",
+            "Description": "Blk 319A"
+        },
+        {
+            "Distance": 35.7,
+            "BusStopCode": "67351",
+            "Longitude": 103.8913545454022,
+            "Latitude": 1.38994475443116,
+            "RoadName": "Anchorvale Dr",
+            "Description": "Blk 321 CP"
+        },
+        {
+            "Distance": 36.2,
+            "BusStopCode": "67341",
+            "Longitude": 103.89505169031366,
+            "Latitude": 1.38864779457077,
+            "RoadName": "Compassvale Dr",
+            "Description": "Opp Blk 204 CP"
+        },
+        {
+            "Distance": 36.7,
+            "BusStopCode": "67171",
+            "Longitude": 103.89897692182004,
+            "Latitude": 1.38731209583307,
+            "RoadName": "Compassvale Dr",
+            "Description": "Blk 225A"
+        }
+    ]
+}

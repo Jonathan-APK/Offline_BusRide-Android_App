@@ -1,0 +1,324 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "76059",
+            "Longitude": 103.94165154852797,
+            "Latitude": 1.35296163572491,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Our Tampines Hub"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "76069",
+            "Longitude": 103.94208629087403,
+            "Latitude": 1.34875342114003,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 147"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "75059",
+            "Longitude": 103.9402168928283,
+            "Latitude": 1.34471168546511,
+            "RoadName": "Tampines Ave 1",
+            "Description": "BEF TAMPINES WEST STN"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "75229",
+            "Longitude": 103.93676608938834,
+            "Latitude": 1.34499782605889,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly East G"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "75239",
+            "Longitude": 103.93257655832721,
+            "Latitude": 1.34675259898315,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "75249",
+            "Longitude": 103.93017010145029,
+            "Latitude": 1.34791499671757,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly West G"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "75259",
+            "Longitude": 103.92798027801848,
+            "Latitude": 1.34913805600656,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Tropica Condo"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "84459",
+            "Longitude": 103.91845121607756,
+            "Latitude": 1.33522831708133,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Bet Blks 705/706"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "84539",
+            "Longitude": 103.91851751540032,
+            "Latitude": 1.3350342184363,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "BEDOK NTH STN EXIT B"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "60069",
+            "Longitude": 103.87256741522513,
+            "Latitude": 1.32335935195255,
+            "RoadName": "Jln Kolam Ayer",
+            "Description": "Kallang Basin Swim Cplx"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "60079",
+            "Longitude": 103.86950969695144,
+            "Latitude": 1.32685601711017,
+            "RoadName": "Jln Kolam Ayer",
+            "Description": "MOM Svcs Ctr"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "60179",
+            "Longitude": 103.86834025123765,
+            "Latitude": 1.32634025655419,
+            "RoadName": "Bendemeer Rd",
+            "Description": "MOM Svcs Ctr"
+        },
+        {
+            "Distance": 13.1,
+            "BusStopCode": "60159",
+            "Longitude": 103.86764196002876,
+            "Latitude": 1.32409476572475,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Blk 54"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "60139",
+            "Longitude": 103.86628982237994,
+            "Latitude": 1.32204861560134,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Blk 44"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "60119",
+            "Longitude": 103.8642148620878,
+            "Latitude": 1.31889711409084,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Opp Boon Keng Stn"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "60099",
+            "Longitude": 103.86086821464755,
+            "Latitude": 1.31456420794151,
+            "RoadName": "Bendemeer Rd",
+            "Description": "Bef Lavender St"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "07329",
+            "Longitude": 103.85989088288474,
+            "Latitude": 1.31284472583438,
+            "RoadName": "Jln Besar",
+            "Description": "Hoa Nam Bldg"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "07319",
+            "Longitude": 103.85870666696984,
+            "Latitude": 1.31038833299803,
+            "RoadName": "Jln Besar",
+            "Description": "Aft Allenby Rd"
+        },
+        {
+            "Distance": 15.5,
+            "BusStopCode": "07419",
+            "Longitude": 103.8561630249311,
+            "Latitude": 1.30653024120879,
+            "RoadName": "Jln Besar",
+            "Description": "Opp Veerasamy Rd"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "07531",
+            "Longitude": 103.8525732326128,
+            "Latitude": 1.30365644370093,
+            "RoadName": "Rochor Canal Rd",
+            "Description": "Rochor Stn"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "07031",
+            "Longitude": 103.85120583303191,
+            "Latitude": 1.30572083298412,
+            "RoadName": "S'goon Rd",
+            "Description": "Tekka Ctr"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "07111",
+            "Longitude": 103.8531751994068,
+            "Latitude": 1.30879366465919,
+            "RoadName": "S'goon Rd",
+            "Description": "Broadway Hotel"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "07211",
+            "Longitude": 103.8563561439714,
+            "Latitude": 1.31313747728456,
+            "RoadName": "S'goon Rd",
+            "Description": "Sri Srinivasa Perumal Tp"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "07221",
+            "Longitude": 103.85788270432104,
+            "Latitude": 1.31503278656775,
+            "RoadName": "S'goon Rd",
+            "Description": "Sri Vadapathira K Tp"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "60101",
+            "Longitude": 103.86004042483177,
+            "Latitude": 1.31783421341306,
+            "RoadName": "S'goon Rd",
+            "Description": "Kwong Wai Shiu Hosp"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "60121",
+            "Longitude": 103.86179781146463,
+            "Latitude": 1.32008815616383,
+            "RoadName": "S'goon Rd",
+            "Description": "Boon Keng Stn/Blk 102"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "60141",
+            "Longitude": 103.86385682733587,
+            "Latitude": 1.32258753768004,
+            "RoadName": "S'goon Rd",
+            "Description": "Opp Bendemeer Pr Sch"
+        },
+        {
+            "Distance": 19.1,
+            "BusStopCode": "60161",
+            "Longitude": 103.8655673081052,
+            "Latitude": 1.32477289725503,
+            "RoadName": "S'goon Rd",
+            "Description": "St. Michael's Pl"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "60071",
+            "Longitude": 103.87028217319148,
+            "Latitude": 1.32719924782732,
+            "RoadName": "Jln Kolam Ayer",
+            "Description": "Kolam Ayer Ind Est"
+        },
+        {
+            "Distance": 20.5,
+            "BusStopCode": "60061",
+            "Longitude": 103.87402134422791,
+            "Latitude": 1.32276521075674,
+            "RoadName": "Jln Kolam Ayer",
+            "Description": "Aft Infineon"
+        },
+        {
+            "Distance": 26.2,
+            "BusStopCode": "84451",
+            "Longitude": 103.91798074534464,
+            "Latitude": 1.33643884822286,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "BEDOK NTH STN EXIT A"
+        },
+        {
+            "Distance": 28.6,
+            "BusStopCode": "75251",
+            "Longitude": 103.92783361101397,
+            "Latitude": 1.3494983330038,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Tropica Condo"
+        },
+        {
+            "Distance": 29,
+            "BusStopCode": "75241",
+            "Longitude": 103.92980219657613,
+            "Latitude": 1.34844803009871,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly West G"
+        },
+        {
+            "Distance": 29.3,
+            "BusStopCode": "75231",
+            "Longitude": 103.93265533979496,
+            "Latitude": 1.34707779444929,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly"
+        },
+        {
+            "Distance": 29.7,
+            "BusStopCode": "75221",
+            "Longitude": 103.93595044893453,
+            "Latitude": 1.34567355960876,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly East G"
+        },
+        {
+            "Distance": 30.2,
+            "BusStopCode": "75051",
+            "Longitude": 103.94008153173421,
+            "Latitude": 1.34503394154132,
+            "RoadName": "Tampines Ave 1",
+            "Description": "TAMPINES WEST STN EXIT B"
+        },
+        {
+            "Distance": 30.8,
+            "BusStopCode": "76061",
+            "Longitude": 103.94189805552267,
+            "Latitude": 1.3482019444416,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 938"
+        },
+        {
+            "Distance": 31.3,
+            "BusStopCode": "76051",
+            "Longitude": 103.9412639409046,
+            "Latitude": 1.35313809279079,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Our Tampines Hub"
+        },
+        {
+            "Distance": 31.9,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (Last Stop)"
+        }
+    ]
+}

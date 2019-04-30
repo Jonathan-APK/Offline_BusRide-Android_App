@@ -1,0 +1,582 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "64041",
+            "Longitude": 103.89535999996711,
+            "Latitude": 1.37016500002901,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "The Midtown"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "64051",
+            "Longitude": 103.89777362456783,
+            "Latitude": 1.37239666924933,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 465A"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "64071",
+            "Longitude": 103.89724811886428,
+            "Latitude": 1.37514056376267,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Opp Punggol Pk"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "64039",
+            "Longitude": 103.89393761218089,
+            "Latitude": 1.37668753222312,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 434"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "64369",
+            "Longitude": 103.89149353867691,
+            "Latitude": 1.37634448413795,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 532"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "64359",
+            "Longitude": 103.88918760776436,
+            "Latitude": 1.37528677811119,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Montfort Sch"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "64349",
+            "Longitude": 103.88673982857989,
+            "Latitude": 1.37291834719604,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 502"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "63389",
+            "Longitude": 103.882445169636,
+            "Latitude": 1.37063835467565,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Opp Xinmin Pr Sch"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "63399",
+            "Longitude": 103.8802849999831,
+            "Latitude": 1.37022333300436,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 632"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "63319",
+            "Longitude": 103.87814733411857,
+            "Latitude": 1.36921737828483,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 634"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "66109",
+            "Longitude": 103.8746132395795,
+            "Latitude": 1.3699792245468,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "66339",
+            "Longitude": 103.87055805068519,
+            "Latitude": 1.37125183222903,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "54299",
+            "Longitude": 103.85832656880861,
+            "Latitude": 1.36890152697813,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Blk 565"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "54289",
+            "Longitude": 103.8561504529793,
+            "Latitude": 1.36910303231028,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 452"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "54279",
+            "Longitude": 103.85404760550173,
+            "Latitude": 1.36968919033429,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 427"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "54269",
+            "Longitude": 103.85111893571647,
+            "Latitude": 1.36921006543476,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Ang Mo Kio Stn"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "54248",
+            "Longitude": 103.84661006967286,
+            "Latitude": 1.36875490594243,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 324"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "53169",
+            "Longitude": 103.84248787868405,
+            "Latitude": 1.36213468684692,
+            "RoadName": "Marymount Rd",
+            "Description": "Blk 254"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "53159",
+            "Longitude": 103.84173532084301,
+            "Latitude": 1.35968664141033,
+            "RoadName": "Marymount Rd",
+            "Description": "Blk 260"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "53149",
+            "Longitude": 103.84161232917471,
+            "Latitude": 1.35548111090619,
+            "RoadName": "Marymount Rd",
+            "Description": "Whitley Sec Sch"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "53139",
+            "Longitude": 103.8404366731736,
+            "Latitude": 1.35256345999653,
+            "RoadName": "Marymount Rd",
+            "Description": "Marymount View"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "42149",
+            "Longitude": 103.77862313710679,
+            "Latitude": 1.33607426889198,
+            "RoadName": "Clementi Rd",
+            "Description": "Aft Bt Timah Rd"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "12109",
+            "Longitude": 103.7780086,
+            "Latitude": 1.330819444,
+            "RoadName": "Clementi Rd",
+            "Description": "Opp Ngee Ann Poly"
+        },
+        {
+            "Distance": 21.3,
+            "BusStopCode": "12099",
+            "Longitude": 103.7767036,
+            "Latitude": 1.327838056,
+            "RoadName": "Clementi Rd",
+            "Description": "Opp SIM HQ"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "12089",
+            "Longitude": 103.7757089,
+            "Latitude": 1.326261111,
+            "RoadName": "Clementi Rd",
+            "Description": "Opp Maju Camp"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "12079",
+            "Longitude": 103.77263094375739,
+            "Latitude": 1.32383187575187,
+            "RoadName": "Clementi Rd",
+            "Description": "Opp Blk 116"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "12069",
+            "Longitude": 103.7710419,
+            "Latitude": 1.321433056,
+            "RoadName": "Clementi Rd",
+            "Description": "Opp Blk 109A"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "17119",
+            "Longitude": 103.77161738463914,
+            "Latitude": 1.31774846480656,
+            "RoadName": "Clementi Rd",
+            "Description": "Opp Blk 343"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "17109",
+            "Longitude": 103.77208794065152,
+            "Latitude": 1.31522970861959,
+            "RoadName": "Clementi Rd",
+            "Description": "Opp Blk 352"
+        },
+        {
+            "Distance": 23.5,
+            "BusStopCode": "19049",
+            "Longitude": 103.77479215922537,
+            "Latitude": 1.31266302174215,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Sch Of Science & Tech"
+        },
+        {
+            "Distance": 24,
+            "BusStopCode": "19039",
+            "Longitude": 103.77868390552867,
+            "Latitude": 1.31167951129602,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Dover Stn"
+        },
+        {
+            "Distance": 27.1,
+            "BusStopCode": "11189",
+            "Longitude": 103.79254222202354,
+            "Latitude": 1.30740138898924,
+            "RoadName": "C'wealth Ave",
+            "Description": "Blk 43"
+        },
+        {
+            "Distance": 27.6,
+            "BusStopCode": "11389",
+            "Longitude": 103.7929321687807,
+            "Latitude": 1.30906501014268,
+            "RoadName": "Holland Dr",
+            "Description": "Blk 46"
+        },
+        {
+            "Distance": 27.8,
+            "BusStopCode": "11379",
+            "Longitude": 103.79236323128613,
+            "Latitude": 1.30917002463976,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Ter"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "11379",
+            "Longitude": 103.79236323128613,
+            "Latitude": 1.30917002463976,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Ter"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "11381",
+            "Longitude": 103.79328294102335,
+            "Latitude": 1.30841137865065,
+            "RoadName": "Holland Dr",
+            "Description": "Blk 10A"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "11181",
+            "Longitude": 103.79227638896938,
+            "Latitude": 1.30722333300814,
+            "RoadName": "C'wealth Ave",
+            "Description": "Opp Blk 43"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "19021",
+            "Longitude": 103.7812018067838,
+            "Latitude": 1.30965490194051,
+            "RoadName": "C'wealth Ave West",
+            "Description": "SP SMA"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "19031",
+            "Longitude": 103.77838361113201,
+            "Latitude": 1.31123416666912,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Dover Stn"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "19041",
+            "Longitude": 103.77552750001337,
+            "Latitude": 1.31235972197855,
+            "RoadName": "C'wealth Ave West",
+            "Description": "Opp Sch Of Science & Tech"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "17101",
+            "Longitude": 103.77179195235537,
+            "Latitude": 1.31487473157856,
+            "RoadName": "Clementi Rd",
+            "Description": "Blk 352"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "17111",
+            "Longitude": 103.77124639148465,
+            "Latitude": 1.31779809827118,
+            "RoadName": "Clementi Rd",
+            "Description": "Blk 343"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "12061",
+            "Longitude": 103.77087339859139,
+            "Latitude": 1.32178500189496,
+            "RoadName": "Clementi Rd",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "12071",
+            "Longitude": 103.77219388896603,
+            "Latitude": 1.32402249998323,
+            "RoadName": "Clementi Rd",
+            "Description": "Blk 116"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "12081",
+            "Longitude": 103.77543,
+            "Latitude": 1.326468056,
+            "RoadName": "Clementi Rd",
+            "Description": "Maju Camp"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "12091",
+            "Longitude": 103.7771471166854,
+            "Latitude": 1.32918315486756,
+            "RoadName": "Clementi Rd",
+            "Description": "SIM HQ"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "12101",
+            "Longitude": 103.77768506316727,
+            "Latitude": 1.33243896358504,
+            "RoadName": "Clementi Rd",
+            "Description": "Ngee Ann Poly"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "42141",
+            "Longitude": 103.77817465012919,
+            "Latitude": 1.33608648972914,
+            "RoadName": "Clementi Rd",
+            "Description": "Bef Dunearn Rd"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "53121",
+            "Longitude": 103.83947418569129,
+            "Latitude": 1.35016694219359,
+            "RoadName": "Marymount Rd",
+            "Description": "Marymount Stn"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "53131",
+            "Longitude": 103.84031279218438,
+            "Latitude": 1.35315805208995,
+            "RoadName": "Marymount Rd",
+            "Description": "Blk 319"
+        },
+        {
+            "Distance": 18,
+            "BusStopCode": "53141",
+            "Longitude": 103.84132706520519,
+            "Latitude": 1.35566500759395,
+            "RoadName": "Marymount Rd",
+            "Description": "Opp Whitley Sec Sch"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "53151",
+            "Longitude": 103.84134061287276,
+            "Latitude": 1.3595063466985,
+            "RoadName": "Marymount Rd",
+            "Description": "Opp Blk 263A CP"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "53161",
+            "Longitude": 103.84214462138529,
+            "Latitude": 1.36221142414319,
+            "RoadName": "Marymount Rd",
+            "Description": "Opp Blk 254"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "54241",
+            "Longitude": 103.84618005827467,
+            "Latitude": 1.36913518643274,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 700B"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "54261",
+            "Longitude": 103.85075454495572,
+            "Latitude": 1.36946941916508,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Ang Mo Kio Stn"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "54271",
+            "Longitude": 103.85356664655984,
+            "Latitude": 1.36996326781056,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 586"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "54281",
+            "Longitude": 103.85601277845504,
+            "Latitude": 1.3694902568174,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 570"
+        },
+        {
+            "Distance": 21,
+            "BusStopCode": "54291",
+            "Longitude": 103.85886147831553,
+            "Latitude": 1.36918861426324,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 564"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "66331",
+            "Longitude": 103.8701543470715,
+            "Latitude": 1.37173176460482,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 554"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "66101",
+            "Longitude": 103.87325896613375,
+            "Latitude": 1.37094045484466,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 516"
+        },
+        {
+            "Distance": 23.3,
+            "BusStopCode": "63311",
+            "Longitude": 103.87780647158901,
+            "Latitude": 1.36990463865149,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 634"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "63391",
+            "Longitude": 103.88018734514235,
+            "Latitude": 1.3708774514093,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 639"
+        },
+        {
+            "Distance": 24,
+            "BusStopCode": "63381",
+            "Longitude": 103.88239574095121,
+            "Latitude": 1.37095163322641,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Xinmin Pr Sch"
+        },
+        {
+            "Distance": 24.7,
+            "BusStopCode": "64341",
+            "Longitude": 103.88633750747994,
+            "Latitude": 1.3729130421635,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Bef Blk 683"
+        },
+        {
+            "Distance": 25,
+            "BusStopCode": "64351",
+            "Longitude": 103.88808212175417,
+            "Latitude": 1.37481110511316,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Opp Montfort Sch"
+        },
+        {
+            "Distance": 25.3,
+            "BusStopCode": "64361",
+            "Longitude": 103.89054894445846,
+            "Latitude": 1.37634509209583,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 535"
+        },
+        {
+            "Distance": 25.7,
+            "BusStopCode": "64031",
+            "Longitude": 103.893660799245,
+            "Latitude": 1.37699995735935,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Blk 436"
+        },
+        {
+            "Distance": 26.2,
+            "BusStopCode": "64079",
+            "Longitude": 103.89774777801168,
+            "Latitude": 1.37500833299826,
+            "RoadName": "Hougang Ave 8",
+            "Description": "Punggol Pk"
+        },
+        {
+            "Distance": 26.7,
+            "BusStopCode": "64059",
+            "Longitude": 103.89837470452339,
+            "Latitude": 1.37249135705281,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 355"
+        },
+        {
+            "Distance": 27,
+            "BusStopCode": "64049",
+            "Longitude": 103.89603248614272,
+            "Latitude": 1.3703713899857,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp The Midtown"
+        },
+        {
+            "Distance": 27.7,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int"
+        }
+    ]
+}

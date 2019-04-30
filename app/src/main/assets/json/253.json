@@ -1,0 +1,196 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "24009",
+            "Longitude": 103.67839791240787,
+            "Latitude": 1.32697254709069,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Int (First Stop)"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "23519",
+            "Longitude": 103.6793660000188,
+            "Latitude": 1.32479352408668,
+            "RoadName": "Benoi Rd",
+            "Description": "Opp FairPrice Hub"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "23471",
+            "Longitude": 103.68097194774356,
+            "Latitude": 1.31966340928848,
+            "RoadName": "Benoi Sector",
+            "Description": "Aft Benoi Rd"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "23191",
+            "Longitude": 103.68362765144359,
+            "Latitude": 1.31966145615591,
+            "RoadName": "Benoi Sector",
+            "Description": "Opp S'Pore Trspt Pte Ltd"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "23201",
+            "Longitude": 103.68628552653574,
+            "Latitude": 1.31964589958011,
+            "RoadName": "Benoi Sector",
+            "Description": "Opp Shimano Pte Ltd"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "23211",
+            "Longitude": 103.6892047185557,
+            "Latitude": 1.31792061914698,
+            "RoadName": "Benoi Sector",
+            "Description": "Mapletree Logistics Hub"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "23269",
+            "Longitude": 103.6857799047387,
+            "Latitude": 1.312406285462,
+            "RoadName": "Pioneer Rd",
+            "Description": "Exxon Mobil"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "23259",
+            "Longitude": 103.6836649596919,
+            "Latitude": 1.31139556205987,
+            "RoadName": "Pioneer Rd",
+            "Description": "Bef Shipyard Rd"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "23249",
+            "Longitude": 103.67948846644917,
+            "Latitude": 1.30990348653039,
+            "RoadName": "Pioneer Rd",
+            "Description": "Bef Benoi Rd"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "23281",
+            "Longitude": 103.6789673712784,
+            "Latitude": 1.30650617564734,
+            "RoadName": "Benoi Rd",
+            "Description": "Aft Pioneer Rd"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "23291",
+            "Longitude": 103.67930477414359,
+            "Latitude": 1.30382409549165,
+            "RoadName": "Benoi Rd",
+            "Description": "ST Marine"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "23301",
+            "Longitude": 103.67953903241491,
+            "Latitude": 1.30212057066579,
+            "RoadName": "Benoi Rd",
+            "Description": "Bef Benoi Basin"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "23311",
+            "Longitude": 103.67745555601714,
+            "Latitude": 1.30178638897679,
+            "RoadName": "Benoi Rd",
+            "Description": "Keppel Shipyard"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "23321",
+            "Longitude": 103.67618479236954,
+            "Latitude": 1.30404333032775,
+            "RoadName": "Benoi Rd",
+            "Description": "Bef Benoi Lane"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "23331",
+            "Longitude": 103.67584222201577,
+            "Latitude": 1.30689333299079,
+            "RoadName": "Benoi Rd",
+            "Description": "Opp JP Nelson"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "23241",
+            "Longitude": 103.67981162071217,
+            "Latitude": 1.3102543597714,
+            "RoadName": "Pioneer Rd",
+            "Description": "Aft Benoi Rd"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "23251",
+            "Longitude": 103.68378143028161,
+            "Latitude": 1.3117223561773,
+            "RoadName": "Pioneer Rd",
+            "Description": "Aft Shipyard Rd"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "23261",
+            "Longitude": 103.68577338809426,
+            "Latitude": 1.31264863196713,
+            "RoadName": "Pioneer Rd",
+            "Description": "Opp Exxon Mobil"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "23219",
+            "Longitude": 103.68852528629336,
+            "Latitude": 1.31832727349422,
+            "RoadName": "Benoi Sector",
+            "Description": "Tru-Marine"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "23209",
+            "Longitude": 103.68577614249959,
+            "Latitude": 1.31950327084795,
+            "RoadName": "Benoi Sector",
+            "Description": "Aft Shimano Pte Ltd"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "23199",
+            "Longitude": 103.68312351699183,
+            "Latitude": 1.31951264524841,
+            "RoadName": "Benoi Sector",
+            "Description": "S'Pore Trspt Pte Ltd"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "23479",
+            "Longitude": 103.68065985334341,
+            "Latitude": 1.31950924526288,
+            "RoadName": "Benoi Sector",
+            "Description": "Bef Benoi Rd"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "23371",
+            "Longitude": 103.6790814673288,
+            "Latitude": 1.32595445317751,
+            "RoadName": "Benoi Rd",
+            "Description": "Bef Joo Koon Int"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "24009",
+            "Longitude": 103.67839791240787,
+            "Latitude": 1.32697254709069,
+            "RoadName": "Joo Koon Circle",
+            "Description": "Joo Koon Int (Last Stop)"
+        }
+    ]
+}

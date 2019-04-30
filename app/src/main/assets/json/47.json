@@ -1,0 +1,412 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "97009",
+            "Longitude": 103.96713700000154,
+            "Latitude": 1.34188800000174,
+            "RoadName": "Changi Sth Ave 1",
+            "Description": "Changi Business Pk Ter (First Stop)"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "96361",
+            "Longitude": 103.96643704167043,
+            "Latitude": 1.33649110063455,
+            "RoadName": "Changi Business Pk Ctrl 2",
+            "Description": "Aft Akzonobel"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "96389",
+            "Longitude": 103.96219500000879,
+            "Latitude": 1.33316035695047,
+            "RoadName": "Changi Sth Ave 2",
+            "Description": "Opp Changi City Pt"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "96319",
+            "Longitude": 103.96095897791456,
+            "Latitude": 1.33311988623192,
+            "RoadName": "Changi Sth Ave 1",
+            "Description": "Yusen Logistics"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "96221",
+            "Longitude": 103.95796397863708,
+            "Latitude": 1.33090140156137,
+            "RoadName": "Xilin Ave",
+            "Description": "Opp S'pore Expo"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "96019",
+            "Longitude": 103.95370361097966,
+            "Latitude": 1.33138833299802,
+            "RoadName": "Upp Changi Rd East",
+            "Description": "Aft Simei Ave"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "85109",
+            "Longitude": 103.95134864429271,
+            "Latitude": 1.32945523179761,
+            "RoadName": "Upp Changi Rd East",
+            "Description": "Bef Bedok Rd"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "85099",
+            "Longitude": 103.94645987386455,
+            "Latitude": 1.32684437763421,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Tanah Merah Stn Exit A"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "84101",
+            "Longitude": 103.94421518494586,
+            "Latitude": 1.32298200464523,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Opp Blk 49"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "84071",
+            "Longitude": 103.9426000755741,
+            "Latitude": 1.32067138376849,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Blk 71"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "84081",
+            "Longitude": 103.94022038903293,
+            "Latitude": 1.3204380811482,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Opp Blk 40"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "84141",
+            "Longitude": 103.93817424774306,
+            "Latitude": 1.32019518745354,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "OPP LION HME FOR ELDERS"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "84111",
+            "Longitude": 103.93574197184712,
+            "Latitude": 1.31958802627855,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Temasek JC"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "84151",
+            "Longitude": 103.93334015990408,
+            "Latitude": 1.31656999665769,
+            "RoadName": "Bedok Sth Ave 1",
+            "Description": "Casafina"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "93131",
+            "Longitude": 103.93415826027375,
+            "Latitude": 1.31277833350682,
+            "RoadName": "Bedok Sth Ave 1",
+            "Description": "Opp Eastern Lagoon II"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "93049",
+            "Longitude": 103.9329857782451,
+            "Latitude": 1.31073016722066,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Lagoon View"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "93039",
+            "Longitude": 103.92954154203639,
+            "Latitude": 1.30958474832555,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Laguna Pk"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "93201",
+            "Longitude": 103.92781269211483,
+            "Latitude": 1.30920003741893,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Victoria Sch"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "93029",
+            "Longitude": 103.92471047692146,
+            "Latitude": 1.30851455788092,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Mandarin Gdns"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "93019",
+            "Longitude": 103.92111718654822,
+            "Latitude": 1.30787614366531,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Neptune Ct"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "92089",
+            "Longitude": 103.91764721757994,
+            "Latitude": 1.3071917122941,
+            "RoadName": "Marine Parade Rd",
+            "Description": "CHIJ Katong Convent"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "92079",
+            "Longitude": 103.91487671479106,
+            "Latitude": 1.3065780686947,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Blk 57"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "92069",
+            "Longitude": 103.9110051545323,
+            "Latitude": 1.30566306799291,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Tao Nan Sch"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "92059",
+            "Longitude": 103.90773354554798,
+            "Latitude": 1.30425139809964,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Bet Blks 72/74"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "92049",
+            "Longitude": 103.9059569060291,
+            "Latitude": 1.30300441466613,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Parkway Parade"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "92241",
+            "Longitude": 103.9009525469614,
+            "Latitude": 1.30178441800843,
+            "RoadName": "Amber Rd",
+            "Description": "Amber Gdns"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "92101",
+            "Longitude": 103.90129169936806,
+            "Latitude": 1.30370246223719,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Katong Shop Ctr"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "92111",
+            "Longitude": 103.90293341562067,
+            "Latitude": 1.30477657929676,
+            "RoadName": "East Coast Rd",
+            "Description": "Opp Roxy Sq"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "92121",
+            "Longitude": 103.90676515165585,
+            "Latitude": 1.30722207111074,
+            "RoadName": "East Coast Rd",
+            "Description": "Opp The Holy Family Ch"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "92279",
+            "Longitude": 103.90964149894613,
+            "Latitude": 1.30642828669254,
+            "RoadName": "Still Rd Sth",
+            "Description": "D'Ecosia"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "92061",
+            "Longitude": 103.91059595623031,
+            "Latitude": 1.30585304722559,
+            "RoadName": "Marine Parade Rd",
+            "Description": "CHIJ Katong Convent (Pr)"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "92071",
+            "Longitude": 103.9149769,
+            "Latitude": 1.306795,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Opp Blk 57"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "92081",
+            "Longitude": 103.91754269765207,
+            "Latitude": 1.30751338586806,
+            "RoadName": "Marine Parade Rd",
+            "Description": "St. Patrick's Sec Sch"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "93011",
+            "Longitude": 103.92151900444857,
+            "Latitude": 1.30822971200422,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Opp Neptune Ct"
+        },
+        {
+            "Distance": 14.5,
+            "BusStopCode": "93021",
+            "Longitude": 103.92426998119757,
+            "Latitude": 1.30867772794032,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Opp Mandarin Gdns"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "93031",
+            "Longitude": 103.92937539318251,
+            "Latitude": 1.30983637164414,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Opp Victoria Sch"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "93041",
+            "Longitude": 103.9333999156994,
+            "Latitude": 1.31120679321816,
+            "RoadName": "Marine Parade Rd",
+            "Description": "Hua Xin Ct"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "93139",
+            "Longitude": 103.9338525622476,
+            "Latitude": 1.31278641539067,
+            "RoadName": "Bedok Sth Ave 1",
+            "Description": "Eastern Lagoon II"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "84159",
+            "Longitude": 103.93304055596909,
+            "Latitude": 1.31664972197451,
+            "RoadName": "Bedok Sth Ave 1",
+            "Description": "Opp Casafina/Temasek JC"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "84119",
+            "Longitude": 103.93506805500876,
+            "Latitude": 1.31968902766581,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Opp Temasek JC"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "84149",
+            "Longitude": 103.93835663794388,
+            "Latitude": 1.32049551508869,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "LION HME FOR ELDERS"
+        },
+        {
+            "Distance": 17.4,
+            "BusStopCode": "84089",
+            "Longitude": 103.9400309260245,
+            "Latitude": 1.3206814195738,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Blk 40"
+        },
+        {
+            "Distance": 17.7,
+            "BusStopCode": "84079",
+            "Longitude": 103.94325305782594,
+            "Latitude": 1.32099303797206,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Siglap Cc/Opp Blk 71"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "84109",
+            "Longitude": 103.9441209521673,
+            "Latitude": 1.32350836424044,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Blk 50"
+        },
+        {
+            "Distance": 18.7,
+            "BusStopCode": "85091",
+            "Longitude": 103.94636119805759,
+            "Latitude": 1.32754912682416,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Tanah Merah Stn Exit B"
+        },
+        {
+            "Distance": 19.3,
+            "BusStopCode": "85101",
+            "Longitude": 103.95071705887575,
+            "Latitude": 1.32931499760121,
+            "RoadName": "Upp Changi Rd East",
+            "Description": "Aft Bedok Rd"
+        },
+        {
+            "Distance": 20.2,
+            "BusStopCode": "96229",
+            "Longitude": 103.95799531596526,
+            "Latitude": 1.3312261583979,
+            "RoadName": "Xilin Ave",
+            "Description": "S'pore Expo"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "96311",
+            "Longitude": 103.9607070021467,
+            "Latitude": 1.3329118846906,
+            "RoadName": "Changi Sth Ave 1",
+            "Description": "BEF CHANGI STH ST 2"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "96381",
+            "Longitude": 103.96209564305455,
+            "Latitude": 1.3332723569143,
+            "RoadName": "Changi Sth Ave 2",
+            "Description": "Changi City Pt"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "96401",
+            "Longitude": 103.96599671694322,
+            "Latitude": 1.33678578456278,
+            "RoadName": "Changi Business Pk Ctrl 1",
+            "Description": "Honeywell Bldg"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "97009",
+            "Longitude": 103.96713700000154,
+            "Latitude": 1.34188800000174,
+            "RoadName": "Changi Sth Ave 1",
+            "Description": "Changi Business Pk Ter (Last Stop)"
+        }
+    ]
+}

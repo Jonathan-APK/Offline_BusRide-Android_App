@@ -1,0 +1,148 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "11379",
+            "Longitude": 103.79236323128613,
+            "Latitude": 1.30917002463976,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Ter"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "11381",
+            "Longitude": 103.79328294102335,
+            "Latitude": 1.30841137865065,
+            "RoadName": "Holland Dr",
+            "Description": "Blk 10A"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "11181",
+            "Longitude": 103.79227638896938,
+            "Latitude": 1.30722333300814,
+            "RoadName": "C'wealth Ave",
+            "Description": "Opp Blk 43"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "11369",
+            "Longitude": 103.79084827741467,
+            "Latitude": 1.3063259638605,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Stn Exit D"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "18149",
+            "Longitude": 103.78724143833315,
+            "Latitude": 1.30253001117245,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Opp Anglo-Chinese JC"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "18051",
+            "Longitude": 103.7873441662514,
+            "Latitude": 1.29863776004531,
+            "RoadName": "Ayer Rajah Ave",
+            "Description": "One-North Stn"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "18021",
+            "Longitude": 103.7889243029247,
+            "Latitude": 1.29645297711413,
+            "RoadName": "Ayer Rajah Cres",
+            "Description": "Opp GEMPLUS"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "18029",
+            "Longitude": 103.78918045190079,
+            "Latitude": 1.29609811481527,
+            "RoadName": "Ayer Rajah Cres",
+            "Description": "Tempco Mfg"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "18069",
+            "Longitude": 103.7875521182857,
+            "Latitude": 1.29649064143644,
+            "RoadName": "Ayer Rajah Cres",
+            "Description": "Opp Blk 71"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "18089",
+            "Longitude": 103.78757357729762,
+            "Latitude": 1.29480675923682,
+            "RoadName": "Ayer Rajah Cres",
+            "Description": "S'pore Post"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "18099",
+            "Longitude": 103.78953616896972,
+            "Latitude": 1.29393169432811,
+            "RoadName": "Ayer Rajah Cres",
+            "Description": "Ayer Rajah Bus Pk"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "18081",
+            "Longitude": 103.78733754155819,
+            "Latitude": 1.29478519265463,
+            "RoadName": "Ayer Rajah Cres",
+            "Description": "Blk 55"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "18061",
+            "Longitude": 103.78738045694247,
+            "Latitude": 1.29671588928647,
+            "RoadName": "Ayer Rajah Cres",
+            "Description": "Blk 71"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "18059",
+            "Longitude": 103.78720666698497,
+            "Latitude": 1.29849138898115,
+            "RoadName": "Ayer Rajah Ave",
+            "Description": "Opp One-North Stn"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "18141",
+            "Longitude": 103.78788091438994,
+            "Latitude": 1.30418279677397,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Aft Anglo-Chinese JC"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "11361",
+            "Longitude": 103.79058123542397,
+            "Latitude": 1.30649698638726,
+            "RoadName": "Nth Buona Vista Rd",
+            "Description": "Buona Vista Stn Exit C"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "11189",
+            "Longitude": 103.79254222202354,
+            "Latitude": 1.30740138898924,
+            "RoadName": "C'wealth Ave",
+            "Description": "Blk 43"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "11389",
+            "Longitude": 103.7929321687807,
+            "Latitude": 1.30906501014268,
+            "RoadName": "Holland Dr",
+            "Description": "Blk 46"
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "67009",
+            "Longitude": 103.89588499436073,
+            "Latitude": 1.39178060381601,
+            "RoadName": "Sengkang Sq",
+            "Description": "Sengkang Int (First Stop)"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "67189",
+            "Longitude": 103.89742612835978,
+            "Latitude": 1.39059955869523,
+            "RoadName": "Compassvale Rd",
+            "Description": "Opp Blk 241"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "67101",
+            "Longitude": 103.89956953538392,
+            "Latitude": 1.39143144034973,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 250A"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "65049",
+            "Longitude": 103.90187166698628,
+            "Latitude": 1.38993499998792,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 126A"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "65039",
+            "Longitude": 103.9019239673808,
+            "Latitude": 1.38732741861632,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 124"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "65029",
+            "Longitude": 103.90061583298267,
+            "Latitude": 1.38461500003195,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 111"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "67219",
+            "Longitude": 103.89751366061326,
+            "Latitude": 1.38368835333684,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Ranggung Stn Exit B"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "67269",
+            "Longitude": 103.89513364231524,
+            "Latitude": 1.38605407647483,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Opp Blk 203A"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "67339",
+            "Longitude": 103.89269086108794,
+            "Latitude": 1.38648038153055,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Opp Blk 200B"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "67299",
+            "Longitude": 103.88973216030708,
+            "Latitude": 1.38683575602542,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Opp Blk 303B"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "67309",
+            "Longitude": 103.88759103191384,
+            "Latitude": 1.38813799869207,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Opp Blk 305 CP"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "67329",
+            "Longitude": 103.88460168183559,
+            "Latitude": 1.39001974230515,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Opp Blk 310B"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "67479",
+            "Longitude": 103.88019668070044,
+            "Latitude": 1.39198203746983,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Layar Stn Exit A/Blk 417A"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "67489",
+            "Longitude": 103.87708498686095,
+            "Latitude": 1.39100245036434,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Opp Fernvale Stn"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "67499",
+            "Longitude": 103.87467870992985,
+            "Latitude": 1.39068028707514,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Fernvale Pr Sch"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "67659",
+            "Longitude": 103.87074360172006,
+            "Latitude": 1.38980594691547,
+            "RoadName": "Fernvale Lane",
+            "Description": "Aft Sengkang West Rd"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "67289",
+            "Longitude": 103.8732873820409,
+            "Latitude": 1.38966431065207,
+            "RoadName": "Fernvale Lane",
+            "Description": "Opp Blk 405C"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "67491",
+            "Longitude": 103.87466488789592,
+            "Latitude": 1.39087538517899,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Opp Fernvale Pr Sch"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "67481",
+            "Longitude": 103.87764586518084,
+            "Latitude": 1.39149794105559,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Fernvale Stn/Blk 439A"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "67471",
+            "Longitude": 103.88018144124133,
+            "Latitude": 1.39218567915754,
+            "RoadName": "Sengkang West Ave",
+            "Description": "Layar Stn Exit B"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "67321",
+            "Longitude": 103.88425489183726,
+            "Latitude": 1.39056792623455,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Blk 311A"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "67301",
+            "Longitude": 103.88694431255796,
+            "Latitude": 1.38888930138858,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Blk 305D"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "67291",
+            "Longitude": 103.88971793853818,
+            "Latitude": 1.38717956363215,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Blk 303B"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "67331",
+            "Longitude": 103.89252149146469,
+            "Latitude": 1.38676807101072,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Blk 200B"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "67261",
+            "Longitude": 103.89464206866457,
+            "Latitude": 1.3865874133088,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Blk 203B"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "67211",
+            "Longitude": 103.89765917692944,
+            "Latitude": 1.38393828115359,
+            "RoadName": "Sengkang East Ave",
+            "Description": "Ranggung Stn Exit A"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "65021",
+            "Longitude": 103.89961345545082,
+            "Latitude": 1.38403136207098,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp Blk 110"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "65031",
+            "Longitude": 103.90162639249785,
+            "Latitude": 1.38711827264676,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 227D"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "65041",
+            "Longitude": 103.90162265734195,
+            "Latitude": 1.38984412426173,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 231"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "67109",
+            "Longitude": 103.89998669813552,
+            "Latitude": 1.39102885574104,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 235"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "67009",
+            "Longitude": 103.89588499436073,
+            "Latitude": 1.39178060381601,
+            "RoadName": "Sengkang Sq",
+            "Description": "Sengkang Int (Last Stop)"
+        }
+    ]
+}

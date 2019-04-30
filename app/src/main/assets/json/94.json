@@ -1,0 +1,212 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "82009",
+            "Longitude": 103.90180834139497,
+            "Latitude": 1.31933717157385,
+            "RoadName": "Eunos Rd 2",
+            "Description": "Eunos Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "82061",
+            "Longitude": 103.9022689641617,
+            "Latitude": 1.31876162629115,
+            "RoadName": "Sims Ave",
+            "Description": "Eunos Stn/ Int"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "83101",
+            "Longitude": 103.90489836683336,
+            "Latitude": 1.32066709057479,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Stn"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "83111",
+            "Longitude": 103.90527311322877,
+            "Latitude": 1.32346854012914,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 17"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "72011",
+            "Longitude": 103.90548361097667,
+            "Latitude": 1.32816499999482,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 322"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "71099",
+            "Longitude": 103.9038336109893,
+            "Latitude": 1.33022638900189,
+            "RoadName": "Eunos Link",
+            "Description": "Blk 311"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "71089",
+            "Longitude": 103.90097214917817,
+            "Latitude": 1.33291479894363,
+            "RoadName": "Eunos Link",
+            "Description": "Opp Eunos Technolink"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "71079",
+            "Longitude": 103.89825312082961,
+            "Latitude": 1.33554558497215,
+            "RoadName": "Eunos Link",
+            "Description": "Comfort Driving Ctr"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "71031",
+            "Longitude": 103.8968074607421,
+            "Latitude": 1.33913918063035,
+            "RoadName": "Airport Rd",
+            "Description": "Opp Gordon Warehse Bldg"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "71191",
+            "Longitude": 103.89814797322435,
+            "Latitude": 1.34114100497371,
+            "RoadName": "Airport Rd",
+            "Description": "Aft Defu Lane 12"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "71181",
+            "Longitude": 103.8989460984825,
+            "Latitude": 1.34332868665716,
+            "RoadName": "Airport Rd",
+            "Description": "Opp Paya Lebar Air Base"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "71041",
+            "Longitude": 103.89850711352136,
+            "Latitude": 1.3464532689909,
+            "RoadName": "Airport Rd",
+            "Description": "Opp Air Force Museum"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "73041",
+            "Longitude": 103.89881500673948,
+            "Latitude": 1.3504717976194,
+            "RoadName": "Airport Rd",
+            "Description": "ST Aero"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "73019",
+            "Longitude": 103.89945109919051,
+            "Latitude": 1.35197881564019,
+            "RoadName": "Airport Rd",
+            "Description": "Bef RSAF Roundabout"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "73049",
+            "Longitude": 103.89909496908518,
+            "Latitude": 1.35081770773441,
+            "RoadName": "Airport Rd",
+            "Description": "Air Force Sch"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "71049",
+            "Longitude": 103.89881549663342,
+            "Latitude": 1.34609209274348,
+            "RoadName": "Airport Rd",
+            "Description": "Air Force Museum"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "71189",
+            "Longitude": 103.89909457528678,
+            "Latitude": 1.34494057674135,
+            "RoadName": "Airport Rd",
+            "Description": "Paya Lebar Air Base"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "71071",
+            "Longitude": 103.89785574766542,
+            "Latitude": 1.33638181561906,
+            "RoadName": "Eunos Link",
+            "Description": "Opp Comfort Driving Ctr"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "71081",
+            "Longitude": 103.9005998503616,
+            "Latitude": 1.33375855817569,
+            "RoadName": "Eunos Link",
+            "Description": "Eunos Technolink"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "71091",
+            "Longitude": 103.90373154551283,
+            "Latitude": 1.33073374785934,
+            "RoadName": "Eunos Link",
+            "Description": "Blk 637"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "72019",
+            "Longitude": 103.90546507501655,
+            "Latitude": 1.32884628389091,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Mans"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "83119",
+            "Longitude": 103.90560762847845,
+            "Latitude": 1.32306974700238,
+            "RoadName": "Jln Eunos",
+            "Description": "Opp Blk 16"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "83109",
+            "Longitude": 103.90537221650075,
+            "Latitude": 1.32135678897249,
+            "RoadName": "Jln Eunos",
+            "Description": "Opp Eunos Stn"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "82069",
+            "Longitude": 103.90295147896967,
+            "Latitude": 1.31709537499354,
+            "RoadName": "Changi Rd",
+            "Description": "Aft Lor 106 Changi"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "82221",
+            "Longitude": 103.89900705591394,
+            "Latitude": 1.31760511655727,
+            "RoadName": "Jln Turi",
+            "Description": "Blk 3A"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "82009",
+            "Longitude": 103.90180834139497,
+            "Latitude": 1.31933717157385,
+            "RoadName": "Eunos Rd 2",
+            "Description": "Eunos Int (Last Stop)"
+        }
+    ]
+}

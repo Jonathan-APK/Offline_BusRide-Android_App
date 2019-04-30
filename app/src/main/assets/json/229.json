@@ -1,0 +1,196 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "84549",
+            "Longitude": 103.92512088883021,
+            "Latitude": 1.32720168851924,
+            "RoadName": "Chai Chee St",
+            "Description": "Opp Blk 42"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "84649",
+            "Longitude": 103.92314916696681,
+            "Latitude": 1.32477805597156,
+            "RoadName": "Chai Chee Rd",
+            "Description": "Opp Blk 24"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "84021",
+            "Longitude": 103.92508721683168,
+            "Latitude": 1.32338320435233,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 32"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "84139",
+            "Longitude": 103.92782177344944,
+            "Latitude": 1.32132832560695,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Panasonic"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "84129",
+            "Longitude": 103.93158674239623,
+            "Latitude": 1.31875790465263,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Fujitec S'pore Ltd"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "84119",
+            "Longitude": 103.93506805500876,
+            "Latitude": 1.31968902766581,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Opp Temasek JC"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "84149",
+            "Longitude": 103.93835663794388,
+            "Latitude": 1.32049551508869,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "LION HME FOR ELDERS"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "84089",
+            "Longitude": 103.9400309260245,
+            "Latitude": 1.3206814195738,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Blk 40"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "84661",
+            "Longitude": 103.94438908816849,
+            "Latitude": 1.31992811557233,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Blk 172"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "84671",
+            "Longitude": 103.94509555597209,
+            "Latitude": 1.31759333301805,
+            "RoadName": "Bedok Sth Ave 3",
+            "Description": "Aft Blk 156"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "94051",
+            "Longitude": 103.94737959133388,
+            "Latitude": 1.31710244970995,
+            "RoadName": "Upp East Coast Rd",
+            "Description": "Opp Temasek Sec Sch"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "84681",
+            "Longitude": 103.94705927934717,
+            "Latitude": 1.32021834435842,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Blk 163"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "84691",
+            "Longitude": 103.94595750002355,
+            "Latitude": 1.32111805602717,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Blk 171"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "84071",
+            "Longitude": 103.9426000755741,
+            "Latitude": 1.32067138376849,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Blk 71"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "84081",
+            "Longitude": 103.94022038903293,
+            "Latitude": 1.3204380811482,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Opp Blk 40"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "84141",
+            "Longitude": 103.93817424774306,
+            "Latitude": 1.32019518745354,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "OPP LION HME FOR ELDERS"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "84111",
+            "Longitude": 103.93574197184712,
+            "Latitude": 1.31958802627855,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Temasek JC"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "84121",
+            "Longitude": 103.93156320282378,
+            "Latitude": 1.31848306586196,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Aft Bedok Sth Ave 1"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "84131",
+            "Longitude": 103.92757312069912,
+            "Latitude": 1.3214133317439,
+            "RoadName": "Bedok Sth Rd",
+            "Description": "Opp Panasonic"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "84029",
+            "Longitude": 103.92517704260585,
+            "Latitude": 1.32295305994698,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Blk 32"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "84641",
+            "Longitude": 103.92299333298999,
+            "Latitude": 1.32460611097515,
+            "RoadName": "Chai Chee Rd",
+            "Description": "Blk 24"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "84541",
+            "Longitude": 103.92519155563974,
+            "Latitude": 1.32761801937398,
+            "RoadName": "Chai Chee St",
+            "Description": "Blk 42"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (Last Stop)"
+        }
+    ]
+}

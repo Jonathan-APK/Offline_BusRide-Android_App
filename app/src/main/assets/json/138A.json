@@ -1,0 +1,252 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "54009",
+            "Longitude": 103.84856716193268,
+            "Latitude": 1.36968769913339,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Ang Mo Kio Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "54247",
+            "Longitude": 103.84719306132868,
+            "Latitude": 1.36873836498602,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 322"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "54031",
+            "Longitude": 103.84534111753092,
+            "Latitude": 1.37008641040706,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Opp Al-Muttaqin Mque"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "54041",
+            "Longitude": 103.84498706463532,
+            "Latitude": 1.37348335118866,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Opp Courts Ang Mo Kio"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "54051",
+            "Longitude": 103.844658068335,
+            "Latitude": 1.37627000357879,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Bef Ang Mo Kio Ave 5"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "54469",
+            "Longitude": 103.84349683756662,
+            "Latitude": 1.3772016702489,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp Blk 649"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "54459",
+            "Longitude": 103.84120098441312,
+            "Latitude": 1.37693336122245,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "55111",
+            "Longitude": 103.83777368753996,
+            "Latitude": 1.37695556267127,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Blk 180"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "55121",
+            "Longitude": 103.83519777802985,
+            "Latitude": 1.37943138901774,
+            "RoadName": "Ang Mo Kio Ave 5",
+            "Description": "Opp Blk 604"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "56209",
+            "Longitude": 103.83240305645302,
+            "Latitude": 1.38031863295854,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Thomson Hills Dr"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "56199",
+            "Longitude": 103.83003638899949,
+            "Latitude": 1.37892333298882,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "NPB Serangoon Depot"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "56041",
+            "Longitude": 103.8275777780206,
+            "Latitude": 1.37916166696569,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Meadows @ Peirce"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "56051",
+            "Longitude": 103.82576395474278,
+            "Latitude": 1.38249472962714,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Tagore Rd"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "56061",
+            "Longitude": 103.82287451682392,
+            "Latitude": 1.38514751918468,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Tagore Dr"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "56071",
+            "Longitude": 103.81964816646843,
+            "Latitude": 1.38717744383548,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Old Upp Thomson Rd"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "56081",
+            "Longitude": 103.81821308362592,
+            "Latitude": 1.39169796746844,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef SLE"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "56091",
+            "Longitude": 103.81841168654944,
+            "Latitude": 1.39634526567884,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Springleaf Rd"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "57011",
+            "Longitude": 103.81717214668784,
+            "Latitude": 1.40015725353057,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Springleaf Nature Pk"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "57149",
+            "Longitude": 103.81689548453724,
+            "Latitude": 1.40236816337763,
+            "RoadName": "Mandai Rd",
+            "Description": "Aft Upp Thomson Rd"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "48109",
+            "Longitude": 103.81401491687515,
+            "Latitude": 1.40220535791866,
+            "RoadName": "Mandai Rd",
+            "Description": "Opp Meng Suan Rd"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "48099",
+            "Longitude": 103.81200115976088,
+            "Latitude": 1.4029276207034,
+            "RoadName": "Mandai Rd",
+            "Description": "Opp SCDF Nee Soon Camp"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "48089",
+            "Longitude": 103.80795339830527,
+            "Latitude": 1.40560991243809,
+            "RoadName": "Mandai Rd",
+            "Description": "Upp Seletar Reservoir"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "48079",
+            "Longitude": 103.805294456727,
+            "Latitude": 1.41314885322808,
+            "RoadName": "Mandai Rd",
+            "Description": "Opp Mandai Crematorium"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "48069",
+            "Longitude": 103.80203473964005,
+            "Latitude": 1.41601156056508,
+            "RoadName": "Mandai Rd",
+            "Description": "Aft Mandai Ave"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "48059",
+            "Longitude": 103.79763214717948,
+            "Latitude": 1.41502109155627,
+            "RoadName": "Mandai Rd",
+            "Description": "Opp Mandai Agrotech Pk"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "48049",
+            "Longitude": 103.78930383598242,
+            "Latitude": 1.41239185628293,
+            "RoadName": "Mandai Rd",
+            "Description": "Bef Jln Ulu Sembawang"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "48039",
+            "Longitude": 103.78320916874394,
+            "Latitude": 1.41075606597918,
+            "RoadName": "Mandai Rd",
+            "Description": "LP 159"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "48029",
+            "Longitude": 103.77968553987141,
+            "Latitude": 1.41056509187543,
+            "RoadName": "Mandai Rd",
+            "Description": "Bef Mandai Lake Rd"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "48111",
+            "Longitude": 103.7796356,
+            "Latitude": 1.409414444,
+            "RoadName": "Mandai Lake Rd",
+            "Description": "Aft Mandai Rd"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "48121",
+            "Longitude": 103.7830958,
+            "Latitude": 1.407433889,
+            "RoadName": "Mandai Lake Rd",
+            "Description": "Bef S'pore Zoo"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "48131",
+            "Longitude": 103.78935694475769,
+            "Latitude": 1.40462388269986,
+            "RoadName": "Mandai Lake Rd",
+            "Description": "S'Pore Zoo"
+        }
+    ]
+}

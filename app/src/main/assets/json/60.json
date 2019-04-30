@@ -1,0 +1,268 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "82009",
+            "Longitude": 103.90180834139497,
+            "Latitude": 1.31933717157385,
+            "RoadName": "Eunos Rd 2",
+            "Description": "Eunos Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "82061",
+            "Longitude": 103.9022689641617,
+            "Latitude": 1.31876162629115,
+            "RoadName": "Sims Ave",
+            "Description": "Eunos Stn/ Int"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "83101",
+            "Longitude": 103.90489836683336,
+            "Latitude": 1.32066709057479,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Stn"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "83111",
+            "Longitude": 103.90527311322877,
+            "Latitude": 1.32346854012914,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 17"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "72011",
+            "Longitude": 103.90548361097667,
+            "Latitude": 1.32816499999482,
+            "RoadName": "Jln Eunos",
+            "Description": "Blk 322"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "72021",
+            "Longitude": 103.9063218660858,
+            "Latitude": 1.33096531210116,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 646"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "72061",
+            "Longitude": 103.9098393917043,
+            "Latitude": 1.33177922756641,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 122"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "72071",
+            "Longitude": 103.91184110459187,
+            "Latitude": 1.33219165087886,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 133"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "84501",
+            "Longitude": 103.91598944400951,
+            "Latitude": 1.33319499998844,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Christ Ch"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "84511",
+            "Longitude": 103.91329416702288,
+            "Latitude": 1.33206972200071,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 608"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "84499",
+            "Longitude": 103.91399439090614,
+            "Latitude": 1.33508643985694,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 140"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "84489",
+            "Longitude": 103.91618833296936,
+            "Latitude": 1.33804722197723,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Bedok Ind Pk C"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "84459",
+            "Longitude": 103.91845121607756,
+            "Latitude": 1.33522831708133,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Bet Blks 705/706"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "84539",
+            "Longitude": 103.91851751540032,
+            "Latitude": 1.3350342184363,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "BEDOK NTH STN EXIT B"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "84361",
+            "Longitude": 103.92462499999526,
+            "Latitude": 1.32936638901809,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Blk 547"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "84309",
+            "Longitude": 103.92687404688121,
+            "Latitude": 1.32802803259661,
+            "RoadName": "Bedok Nth Ave 1",
+            "Description": "Kg Chai Chee CC"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "84301",
+            "Longitude": 103.92656628872025,
+            "Latitude": 1.32782140214678,
+            "RoadName": "Bedok Nth Ave 1",
+            "Description": "Opp Kg Chai Chee CC"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "84369",
+            "Longitude": 103.92472367542577,
+            "Latitude": 1.32914899596576,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "Blk 45"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "84451",
+            "Longitude": 103.91798074534464,
+            "Latitude": 1.33643884822286,
+            "RoadName": "Bedok Nth Rd",
+            "Description": "BEDOK NTH STN EXIT A"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "84481",
+            "Longitude": 103.91532871743395,
+            "Latitude": 1.33753167256033,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Aft Bedok Ind Pk C"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "84491",
+            "Longitude": 103.91420602552198,
+            "Latitude": 1.33456808308445,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 629"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "84501",
+            "Longitude": 103.91598944400951,
+            "Latitude": 1.33319499998844,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Christ Ch"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "84511",
+            "Longitude": 103.91329416702288,
+            "Latitude": 1.33206972200071,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 608"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "72079",
+            "Longitude": 103.91201112281274,
+            "Latitude": 1.33201510811169,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 609"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "72069",
+            "Longitude": 103.90977961908514,
+            "Latitude": 1.33150994155892,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Blk 121"
+        },
+        {
+            "Distance": 12.1,
+            "BusStopCode": "72029",
+            "Longitude": 103.90655207721196,
+            "Latitude": 1.33086398684,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Blk 646"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "72019",
+            "Longitude": 103.90546507501655,
+            "Latitude": 1.32884628389091,
+            "RoadName": "Jln Eunos",
+            "Description": "Eunos Mans"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "83119",
+            "Longitude": 103.90560762847845,
+            "Latitude": 1.32306974700238,
+            "RoadName": "Jln Eunos",
+            "Description": "Opp Blk 16"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "83109",
+            "Longitude": 103.90537221650075,
+            "Latitude": 1.32135678897249,
+            "RoadName": "Jln Eunos",
+            "Description": "Opp Eunos Stn"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "82069",
+            "Longitude": 103.90295147896967,
+            "Latitude": 1.31709537499354,
+            "RoadName": "Changi Rd",
+            "Description": "Aft Lor 106 Changi"
+        },
+        {
+            "Distance": 14.6,
+            "BusStopCode": "82221",
+            "Longitude": 103.89900705591394,
+            "Latitude": 1.31760511655727,
+            "RoadName": "Jln Turi",
+            "Description": "Blk 3A"
+        },
+        {
+            "Distance": 15.2,
+            "BusStopCode": "82009",
+            "Longitude": 103.90180834139497,
+            "Latitude": 1.31933717157385,
+            "RoadName": "Eunos Rd 2",
+            "Description": "Eunos Int (Last Stop)"
+        }
+    ]
+}

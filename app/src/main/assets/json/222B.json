@@ -1,0 +1,84 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84039",
+            "Longitude": 103.92886300203479,
+            "Latitude": 1.32353645344906,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Stn Exit A"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "84029",
+            "Longitude": 103.92517704260585,
+            "Latitude": 1.32295305994698,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Opp Blk 32"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "84641",
+            "Longitude": 103.92299333298999,
+            "Latitude": 1.32460611097515,
+            "RoadName": "Chai Chee Rd",
+            "Description": "Blk 24"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "84559",
+            "Longitude": 103.92287121813423,
+            "Latitude": 1.32833305090006,
+            "RoadName": "Chai Chee St",
+            "Description": "Opp Blks 50/51"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "84569",
+            "Longitude": 103.92011115886494,
+            "Latitude": 1.3279697494091,
+            "RoadName": "Chai Chee St",
+            "Description": "Opp Blk 53"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "84579",
+            "Longitude": 103.91948961283839,
+            "Latitude": 1.32584772443012,
+            "RoadName": "Chai Chee Dr",
+            "Description": "Aft Chai Chee St"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "84589",
+            "Longitude": 103.91954371811282,
+            "Latitude": 1.32311277295983,
+            "RoadName": "Chai Chee Dr",
+            "Description": "Bef New Upp Changi Rd"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "84011",
+            "Longitude": 103.92233358172962,
+            "Latitude": 1.32257749632692,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Chai Chee Ind Pk"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "84021",
+            "Longitude": 103.92508721683168,
+            "Latitude": 1.32338320435233,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 32"
+        },
+        {
+            "Distance": 3.7,
+            "BusStopCode": "84031",
+            "Longitude": 103.93003627080394,
+            "Latitude": 1.32428292329305,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Stn Exit B"
+        }
+    ]
+}

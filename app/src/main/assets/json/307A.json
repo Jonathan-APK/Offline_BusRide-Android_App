@@ -1,0 +1,148 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "44539",
+            "Longitude": 103.74502387945829,
+            "Latitude": 1.38463078337388,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Lot 1 Shoppers' Mall"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "44541",
+            "Longitude": 103.74593527798108,
+            "Latitude": 1.38764444400097,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Northvale Condo"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "45291",
+            "Longitude": 103.7449781608435,
+            "Latitude": 1.39086231015739,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Opp Blk 704"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "45309",
+            "Longitude": 103.74665022024047,
+            "Latitude": 1.3919980495631,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Blk 754"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "45369",
+            "Longitude": 103.75002597798891,
+            "Latitude": 1.3925860608387,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Blk 765"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "45379",
+            "Longitude": 103.7518725,
+            "Latitude": 1.394698611,
+            "RoadName": "Choa Chu Kang Nth 6",
+            "Description": "Yew Mei Green Condo"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "45359",
+            "Longitude": 103.74944608386802,
+            "Latitude": 1.39618571003148,
+            "RoadName": "Choa Chu Kang Nth 6",
+            "Description": "Blk 790"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "45321",
+            "Longitude": 103.74755489070483,
+            "Latitude": 1.39740269682477,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Yew Tee Stn"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "45339",
+            "Longitude": 103.74603555889117,
+            "Latitude": 1.39898191366295,
+            "RoadName": "Choa Chu Kang St 62",
+            "Description": "Blk 625"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "45349",
+            "Longitude": 103.74554806071029,
+            "Latitude": 1.39731214160283,
+            "RoadName": "Choa Chu Kang St 62",
+            "Description": "Opp Blk 604A"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "45351",
+            "Longitude": 103.74947902253896,
+            "Latitude": 1.39635349170474,
+            "RoadName": "Choa Chu Kang Nth 6",
+            "Description": "Blk 634"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "45371",
+            "Longitude": 103.75193731177454,
+            "Latitude": 1.39533587133451,
+            "RoadName": "Choa Chu Kang Nth 6",
+            "Description": "Opp Yew Mei Green Condo"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "45361",
+            "Longitude": 103.7500200571186,
+            "Latitude": 1.39239930690933,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Opp Blk 765"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "45301",
+            "Longitude": 103.74663514172119,
+            "Latitude": 1.39184565454372,
+            "RoadName": "Choa Chu Kang Nth 5",
+            "Description": "Blk 708"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "45299",
+            "Longitude": 103.7451546989858,
+            "Latitude": 1.39144722825324,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Blk 702"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "44549",
+            "Longitude": 103.746189135824,
+            "Latitude": 1.38748720575146,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Opp Northvale Condo"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "44531",
+            "Longitude": 103.74453624872069,
+            "Latitude": 1.38425405298158,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Opp Choa Chu Kang Stn"
+        }
+    ]
+}

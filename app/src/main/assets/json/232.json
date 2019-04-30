@@ -1,0 +1,164 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "52509",
+            "Longitude": 103.85017633434691,
+            "Latitude": 1.33115712303762,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Opp Toa Payoh Swim Cplx"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "52251",
+            "Longitude": 103.85142087938439,
+            "Latitude": 1.3329698063249,
+            "RoadName": "Lor 4 Toa Payoh",
+            "Description": "Chung Hwa Free Clinic"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "52239",
+            "Longitude": 103.84894805557066,
+            "Latitude": 1.33412194449168,
+            "RoadName": "Toa Payoh Ctrl",
+            "Description": "Blk 177"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "52191",
+            "Longitude": 103.84608389640735,
+            "Latitude": 1.33636138602833,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Blk 138B"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "52201",
+            "Longitude": 103.84650759525915,
+            "Latitude": 1.33918030742933,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Blk 121"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "52171",
+            "Longitude": 103.8477798112237,
+            "Latitude": 1.3409498853794,
+            "RoadName": "Lor 1 Toa Payoh",
+            "Description": "Braddell Stn/Blk 107"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "52441",
+            "Longitude": 103.84976000739448,
+            "Latitude": 1.34083165668042,
+            "RoadName": "Lor 1 Toa Payoh",
+            "Description": "Blk 202"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "52351",
+            "Longitude": 103.85328005892127,
+            "Latitude": 1.33836800687246,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 2"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "52341",
+            "Longitude": 103.85562250002782,
+            "Latitude": 1.33625777803173,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Pei Chun Public Sch"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "52311",
+            "Longitude": 103.85721839168514,
+            "Latitude": 1.33435800960389,
+            "RoadName": "Toa Payoh East",
+            "Description": "Blk 23"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "52429",
+            "Longitude": 103.85712939407202,
+            "Latitude": 1.33630975081569,
+            "RoadName": "Lor 7 Toa Payoh",
+            "Description": "Blk 17A"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "52439",
+            "Longitude": 103.85541166702772,
+            "Latitude": 1.33825111098581,
+            "RoadName": "Lor 7 Toa Payoh",
+            "Description": "Opp Blk 5"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "52359",
+            "Longitude": 103.85268888900069,
+            "Latitude": 1.33862833298637,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Blk 52"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "52449",
+            "Longitude": 103.85000305578686,
+            "Latitude": 1.34044945876465,
+            "RoadName": "Lor 1 Toa Payoh",
+            "Description": "Toa Payoh Police Ctr"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "52179",
+            "Longitude": 103.84803485038329,
+            "Latitude": 1.34069018059141,
+            "RoadName": "Lor 1 Toa Payoh",
+            "Description": "Braddell Stn/Blk 106"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "52209",
+            "Longitude": 103.84678448871398,
+            "Latitude": 1.33925873230713,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Blk 101C CP"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "52199",
+            "Longitude": 103.84663861149124,
+            "Latitude": 1.33547301693721,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Blk 84B"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "52189",
+            "Longitude": 103.84678305554863,
+            "Latitude": 1.33318499999452,
+            "RoadName": "Lor 2 Toa Payoh",
+            "Description": "Toa Payoh Stn"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "52009",
+            "Longitude": 103.8481694,
+            "Latitude": 1.331977778,
+            "RoadName": "Lor 6 Toa Payoh",
+            "Description": "Toa Payoh Int (Last Stop)"
+        }
+    ]
+}

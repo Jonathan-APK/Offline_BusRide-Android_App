@@ -1,0 +1,510 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "44539",
+            "Longitude": 103.74502387945829,
+            "Latitude": 1.38463078337388,
+            "RoadName": "Choa Chu Kang Ave 4",
+            "Description": "Lot 1 Shoppers' Mall"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "44399",
+            "Longitude": 103.74851002579776,
+            "Latitude": 1.38306278590518,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Opp Blk 210"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "44111",
+            "Longitude": 103.74975224203959,
+            "Latitude": 1.38094121398036,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Opp Blk 203"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "44109",
+            "Longitude": 103.74762171258732,
+            "Latitude": 1.3771776806334,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Opp Hong San Terr"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "44099",
+            "Longitude": 103.74462947882313,
+            "Latitude": 1.37631844004137,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Opp Choa Chu Kang Mkt"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "44089",
+            "Longitude": 103.74094532328145,
+            "Latitude": 1.37648110284286,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Opp Blk 296A"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "44689",
+            "Longitude": 103.73849893266107,
+            "Latitude": 1.37811000397911,
+            "RoadName": "Choa Chu Kang Ave 3",
+            "Description": "Sunshine Pl"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "44079",
+            "Longitude": 103.73634658951725,
+            "Latitude": 1.37657500784909,
+            "RoadName": "Choa Chu Kang Ave 3",
+            "Description": "Opp Blk 464"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "30089",
+            "Longitude": 103.73409166698833,
+            "Latitude": 1.377159999987,
+            "RoadName": "Brickland Rd",
+            "Description": "Aft Hai Inn See Tp"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "30099",
+            "Longitude": 103.73122812228895,
+            "Latitude": 1.37972159795466,
+            "RoadName": "Sg Tengah Rd",
+            "Description": "Opp Chengtai Nursery"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "30059",
+            "Longitude": 103.72614304198139,
+            "Latitude": 1.37439935176831,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Opp Track 14"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "30049",
+            "Longitude": 103.723836557791,
+            "Latitude": 1.37431332163268,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Home Team Academy"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "30039",
+            "Longitude": 103.71981883880738,
+            "Latitude": 1.37432162221947,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Army Logistics Base"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "30029",
+            "Longitude": 103.71709630730658,
+            "Latitude": 1.37415602765485,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Keat Hong Camp"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "30019",
+            "Longitude": 103.71365844785454,
+            "Latitude": 1.37333306785344,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Opp Tengah Air Base"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "31199",
+            "Longitude": 103.70931539839594,
+            "Latitude": 1.37097558139998,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "B25 Old Choa Chu Kang Rd"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "31179",
+            "Longitude": 103.70355081890855,
+            "Latitude": 1.37234403223499,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Aft Jln Berseri"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "31169",
+            "Longitude": 103.7012193702135,
+            "Latitude": 1.37245094201191,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Teen Challenge"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "31159",
+            "Longitude": 103.69619726943306,
+            "Latitude": 1.37336600723318,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Bef Lim Chu Kang Rd"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "31059",
+            "Longitude": 103.69466807265977,
+            "Latitude": 1.37207574401713,
+            "RoadName": "Jln Bahar",
+            "Description": "Aft Chr Cemy Path 3"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "31049",
+            "Longitude": 103.6942436921991,
+            "Latitude": 1.36939554385137,
+            "RoadName": "Jln Bahar",
+            "Description": "Aft Chr Cemy Path 9"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "31039",
+            "Longitude": 103.69330818055283,
+            "Latitude": 1.36563783980926,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Civil Defence Academy"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "31029",
+            "Longitude": 103.69296604646463,
+            "Latitude": 1.36307987152083,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Jln Bahar Power Stn"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "31019",
+            "Longitude": 103.69398905356208,
+            "Latitude": 1.35998260495758,
+            "RoadName": "Jln Bahar",
+            "Description": "Bef Nanyang Ave"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "27129",
+            "Longitude": 103.69516041986128,
+            "Latitude": 1.35733217246828,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Nanyang Ave"
+        },
+        {
+            "Distance": 11.2,
+            "BusStopCode": "27109",
+            "Longitude": 103.70082305601869,
+            "Latitude": 1.35309472199852,
+            "RoadName": "Jln Bahar",
+            "Description": "Westwood Sec Sch"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "27099",
+            "Longitude": 103.70360999821403,
+            "Latitude": 1.35023689448473,
+            "RoadName": "Jln Bahar",
+            "Description": "Blk 271 CP"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "21379",
+            "Longitude": 103.70648912988919,
+            "Latitude": 1.34534855216089,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 263"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "21369",
+            "Longitude": 103.70800310705765,
+            "Latitude": 1.34309123717886,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Opp Blk 695"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "22491",
+            "Longitude": 103.70478201670083,
+            "Latitude": 1.33721274298352,
+            "RoadName": "Jurong West St 64",
+            "Description": "Blk 662D"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "22009",
+            "Longitude": 103.70545701843297,
+            "Latitude": 1.33932334709184,
+            "RoadName": "Jurong West Ctrl 3",
+            "Description": "Boon Lay Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "22499",
+            "Longitude": 103.70488157561539,
+            "Latitude": 1.33752755300605,
+            "RoadName": "Jurong West St 64",
+            "Description": "Opp Blk 662C"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "21361",
+            "Longitude": 103.70767181671128,
+            "Latitude": 1.34302323304896,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 695"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "21371",
+            "Longitude": 103.70617873626036,
+            "Latitude": 1.34522722613512,
+            "RoadName": "Jln Boon Lay",
+            "Description": "Blk 680C"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "27091",
+            "Longitude": 103.70388500000492,
+            "Latitude": 1.34910999998031,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Blk 271 CP"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "27101",
+            "Longitude": 103.70111638902962,
+            "Latitude": 1.35259472200365,
+            "RoadName": "Jln Bahar",
+            "Description": "Opp Westwood Sec Sch"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "27121",
+            "Longitude": 103.69521277798744,
+            "Latitude": 1.35682305601032,
+            "RoadName": "Jln Bahar",
+            "Description": "Bef Nanyang Ave"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "31011",
+            "Longitude": 103.69389522616177,
+            "Latitude": 1.35908460846532,
+            "RoadName": "Jln Bahar",
+            "Description": "Aft Nanyang Ave"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "31021",
+            "Longitude": 103.69287888535482,
+            "Latitude": 1.36247047014576,
+            "RoadName": "Jln Bahar",
+            "Description": "Jln Bahar Power Stn"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "31031",
+            "Longitude": 103.69327324255713,
+            "Latitude": 1.36598890667515,
+            "RoadName": "Jln Bahar",
+            "Description": "Civil Defence Academy"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "31041",
+            "Longitude": 103.6939293999916,
+            "Latitude": 1.36893226400594,
+            "RoadName": "Jln Bahar",
+            "Description": "Bef Muslim Cemy Path 7"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "31051",
+            "Longitude": 103.69445182104045,
+            "Latitude": 1.37226002154624,
+            "RoadName": "Jln Bahar",
+            "Description": "Bef Muslim Cemy Path 1"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "31151",
+            "Longitude": 103.69596747862987,
+            "Latitude": 1.37363227377286,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Aft Lim Chu Kang Rd"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "31161",
+            "Longitude": 103.70208763060677,
+            "Latitude": 1.37253332216297,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Opp Teen Challenge"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "31171",
+            "Longitude": 103.70418696765007,
+            "Latitude": 1.37240788349149,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Opp Jln Berseri"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "31191",
+            "Longitude": 103.70991083335727,
+            "Latitude": 1.37161444444711,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "B26 Old Choa Chu Kang Rd"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "30011",
+            "Longitude": 103.71422567942253,
+            "Latitude": 1.37367799480239,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Tengah Air Base"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "30021",
+            "Longitude": 103.71705234322658,
+            "Latitude": 1.3744419562273,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Opp Keat Hong Camp"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "30031",
+            "Longitude": 103.71983865916742,
+            "Latitude": 1.37461935383489,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Opp Army Logistics Base"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "30041",
+            "Longitude": 103.72188815233464,
+            "Latitude": 1.37462014104762,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Opp Home Team Academy"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "30051",
+            "Longitude": 103.72537054756133,
+            "Latitude": 1.37455576936144,
+            "RoadName": "Old Choa Chu Kang Rd",
+            "Description": "Aft Track 14"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "30091",
+            "Longitude": 103.7308563889232,
+            "Latitude": 1.37943055556701,
+            "RoadName": "Sg Tengah Rd",
+            "Description": "Chengtai Nursery"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "30081",
+            "Longitude": 103.73431312110678,
+            "Latitude": 1.37727684686882,
+            "RoadName": "Brickland Rd",
+            "Description": "Opp Hai Inn See Tp"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "44071",
+            "Longitude": 103.73622221734738,
+            "Latitude": 1.37677726111171,
+            "RoadName": "Choa Chu Kang Ave 3",
+            "Description": "Blk 464"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "45451",
+            "Longitude": 103.73970805552322,
+            "Latitude": 1.3779238888638,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Blk 293"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "44081",
+            "Longitude": 103.74072974268672,
+            "Latitude": 1.3767974760485,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Blk 296A"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "44091",
+            "Longitude": 103.74421611501322,
+            "Latitude": 1.37647222708666,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Bef Choa Chu Kang Mkt"
+        },
+        {
+            "Distance": 12.5,
+            "BusStopCode": "44101",
+            "Longitude": 103.74683070774694,
+            "Latitude": 1.37715950047084,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Aft Hong San Terr"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "44119",
+            "Longitude": 103.74930565785152,
+            "Latitude": 1.38048445565999,
+            "RoadName": "Choa Chu Kang Ave 1",
+            "Description": "Blk 204"
+        },
+        {
+            "Distance": 13.4,
+            "BusStopCode": "44391",
+            "Longitude": 103.74831030292964,
+            "Latitude": 1.38288970873929,
+            "RoadName": "Choa Chu Kang Dr",
+            "Description": "Aft Blk 202"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "44009",
+            "Longitude": 103.74407583750003,
+            "Latitude": 1.38551052071341,
+            "RoadName": "Choa Chu Kang Loop",
+            "Description": "Choa Chu Kang Int"
+        }
+    ]
+}

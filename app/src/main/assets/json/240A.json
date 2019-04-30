@@ -1,0 +1,52 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "21581",
+            "Longitude": 103.72328639029729,
+            "Latitude": 1.33243350969467,
+            "RoadName": "Corporation Dr",
+            "Description": "Blk 65"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "21591",
+            "Longitude": 103.72242808341083,
+            "Latitude": 1.33476103645994,
+            "RoadName": "Corporation Dr",
+            "Description": "Opp Blk 117"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "21601",
+            "Longitude": 103.72109770581518,
+            "Latitude": 1.33727029608815,
+            "RoadName": "Corporation Dr",
+            "Description": "Blk 357"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "21621",
+            "Longitude": 103.72205929003123,
+            "Latitude": 1.3392149977089,
+            "RoadName": "Kang Ching Rd",
+            "Description": "Blk 354"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "21661",
+            "Longitude": 103.72141430185464,
+            "Latitude": 1.34176560473259,
+            "RoadName": "Yuan Ching Rd",
+            "Description": "Yuan Ching Sec Sch"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "28091",
+            "Longitude": 103.72012487725401,
+            "Latitude": 1.34425795644531,
+            "RoadName": "Boon Lay Way",
+            "Description": "Lakeside Stn"
+        }
+    ]
+}

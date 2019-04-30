@@ -1,0 +1,220 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "43179",
+            "Longitude": 103.75430345301592,
+            "Latitude": 1.3489707828044,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 231"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "43169",
+            "Longitude": 103.7578877455261,
+            "Latitude": 1.34931074950483,
+            "RoadName": "Bt Batok East Ave 4",
+            "Description": "Blk 254"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "43231",
+            "Longitude": 103.76006304222618,
+            "Latitude": 1.35393625714127,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp The Petals Condo"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "43241",
+            "Longitude": 103.76188709548238,
+            "Latitude": 1.35584392851879,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp Hillview Apts"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "43251",
+            "Longitude": 103.76319656643706,
+            "Latitude": 1.35859534411792,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillbrooks"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "43261",
+            "Longitude": 103.76436750000349,
+            "Latitude": 1.3614550000211,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp Hillview Hts"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "43151",
+            "Longitude": 103.76489101192684,
+            "Latitude": 1.36363608446232,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp Glendale Pk Condo"
+        },
+        {
+            "Distance": 4.2,
+            "BusStopCode": "43719",
+            "Longitude": 103.76123388888554,
+            "Latitude": 1.36903972225026,
+            "RoadName": "Gombak Dr",
+            "Description": "MINDEF CP"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "43111",
+            "Longitude": 103.76298146518725,
+            "Latitude": 1.37229972154626,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Min Of Defence"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "44011",
+            "Longitude": 103.76257120089846,
+            "Latitude": 1.37448606693865,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Opp The Linear"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "44021",
+            "Longitude": 103.76172178111382,
+            "Latitude": 1.37820722702851,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bt Panjang Stn Exit B"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "44251",
+            "Longitude": 103.76227862094703,
+            "Latitude": 1.38033407967784,
+            "RoadName": "Bt Panjang Rd",
+            "Description": "Blk 604"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "44739",
+            "Longitude": 103.76459849996492,
+            "Latitude": 1.37876549999936,
+            "RoadName": "Jelebu Rd",
+            "Description": "Blk 180"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "44859",
+            "Longitude": 103.76321805626448,
+            "Latitude": 1.37763753804628,
+            "RoadName": "Petir Rd",
+            "Description": "Maysprings Condo"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "44019",
+            "Longitude": 103.7625299525816,
+            "Latitude": 1.37651095528157,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "The Linear"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "43119",
+            "Longitude": 103.76300821940876,
+            "Latitude": 1.37337830995776,
+            "RoadName": "Upp Bt Timah Rd",
+            "Description": "Bef Hazel Pk Terr"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "43721",
+            "Longitude": 103.7626491371365,
+            "Latitude": 1.37076302526768,
+            "RoadName": "Gombak Dr",
+            "Description": "Blk 319"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "43719",
+            "Longitude": 103.76123388888554,
+            "Latitude": 1.36903972225026,
+            "RoadName": "Gombak Dr",
+            "Description": "MINDEF CP"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "43159",
+            "Longitude": 103.76517947881914,
+            "Latitude": 1.36439838852488,
+            "RoadName": "Hillview Ave",
+            "Description": "Bef Glendale Pk Condo"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "43268",
+            "Longitude": 103.76427530511685,
+            "Latitude": 1.36036935442362,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillington Green Condo"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "43259",
+            "Longitude": 103.76266305599302,
+            "Latitude": 1.35757277797812,
+            "RoadName": "Hillview Ave",
+            "Description": "Opp Hillbrooks"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "43249",
+            "Longitude": 103.76204709426311,
+            "Latitude": 1.35565052307818,
+            "RoadName": "Hillview Ave",
+            "Description": "Hillview Apts"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "43239",
+            "Longitude": 103.76002837789773,
+            "Latitude": 1.35308576389352,
+            "RoadName": "Hillview Ave",
+            "Description": "The Petals Condo"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "43161",
+            "Longitude": 103.75766163401367,
+            "Latitude": 1.34883190699072,
+            "RoadName": "Bt Batok East Ave 4",
+            "Description": "Blk 272"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "43171",
+            "Longitude": 103.75460496382075,
+            "Latitude": 1.34859644473183,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 229"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int (Last Stop)"
+        }
+    ]
+}

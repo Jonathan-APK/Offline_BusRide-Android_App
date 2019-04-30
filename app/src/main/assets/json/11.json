@@ -1,0 +1,188 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "80009",
+            "Longitude": 103.87216341433337,
+            "Latitude": 1.3111642220841,
+            "RoadName": "Lor 1 Geylang",
+            "Description": "Lor 1 Geylang Ter (First Stop)"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "80051",
+            "Longitude": 103.87326194447365,
+            "Latitude": 1.31251499997324,
+            "RoadName": "Sims Ave",
+            "Description": "Aft Lor 1 Geylang"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "80119",
+            "Longitude": 103.87599804972949,
+            "Latitude": 1.30992065473549,
+            "RoadName": "Sims Way",
+            "Description": "Aft Geylang Rd"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "80149",
+            "Longitude": 103.8798058337351,
+            "Latitude": 1.3074963710946,
+            "RoadName": "Mountbatten Rd",
+            "Description": "S.A. Deaf"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "80189",
+            "Longitude": 103.88107698307338,
+            "Latitude": 1.3050374120041,
+            "RoadName": "Stadium Blvd",
+            "Description": "Opp Kallang Squash Ctr"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "80179",
+            "Longitude": 103.87712870384925,
+            "Latitude": 1.30059405278951,
+            "RoadName": "Stadium Cres",
+            "Description": "Opp CP F"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "80199",
+            "Longitude": 103.87513532479657,
+            "Latitude": 1.30155838525089,
+            "RoadName": "Stadium Cres",
+            "Description": "S'pore Indoor Stadium"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "80191",
+            "Longitude": 103.87540590231113,
+            "Latitude": 1.30160887226464,
+            "RoadName": "Stadium Walk",
+            "Description": "Opp S'pore Indoor Stadium"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "90039",
+            "Longitude": 103.87539308856654,
+            "Latitude": 1.29663305723862,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Opp Tg Ria Condo"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "90029",
+            "Longitude": 103.87253085603427,
+            "Latitude": 1.29700669642984,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Opp Pebble Bay"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "90019",
+            "Longitude": 103.86961360282373,
+            "Latitude": 1.29697091533768,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Pk Shore Condo"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "90079",
+            "Longitude": 103.86732745550238,
+            "Latitude": 1.29760718196372,
+            "RoadName": "Rhu Cross",
+            "Description": "Opp Costa Rhu Condo"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "90011",
+            "Longitude": 103.86924820515104,
+            "Latitude": 1.29711286404721,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Bef Tg Rhu View"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "90021",
+            "Longitude": 103.8710544,
+            "Latitude": 1.297235556,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Pebble Bay"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "90031",
+            "Longitude": 103.8750589,
+            "Latitude": 1.296454444,
+            "RoadName": "Tg Rhu Rd",
+            "Description": "Tg Ria Condo"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "80199",
+            "Longitude": 103.87513532479657,
+            "Latitude": 1.30155838525089,
+            "RoadName": "Stadium Cres",
+            "Description": "S'pore Indoor Stadium"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "80191",
+            "Longitude": 103.87540590231113,
+            "Latitude": 1.30160887226464,
+            "RoadName": "Stadium Walk",
+            "Description": "Opp S'pore Indoor Stadium"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "80171",
+            "Longitude": 103.87715353250198,
+            "Latitude": 1.30084075195035,
+            "RoadName": "Stadium Walk",
+            "Description": "CP F"
+        },
+        {
+            "Distance": 8.7,
+            "BusStopCode": "80181",
+            "Longitude": 103.87969842035083,
+            "Latitude": 1.30508439498564,
+            "RoadName": "Stadium Blvd",
+            "Description": "Kallang Squash Ctr"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "80141",
+            "Longitude": 103.87989373246151,
+            "Latitude": 1.30711835522323,
+            "RoadName": "Mountbatten Rd",
+            "Description": "Opp S.A. Deaf"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "80111",
+            "Longitude": 103.87551499911487,
+            "Latitude": 1.30987138105238,
+            "RoadName": "Sims Way",
+            "Description": "Bef Geylang Rd"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "80049",
+            "Longitude": 103.87363663982293,
+            "Latitude": 1.31077707819718,
+            "RoadName": "Geylang Rd",
+            "Description": "Aft Sims Way"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "80009",
+            "Longitude": 103.87216341433337,
+            "Latitude": 1.3111642220841,
+            "RoadName": "Lor 1 Geylang",
+            "Description": "Lor 1 Geylang Ter (Last Stop)"
+        }
+    ]
+}

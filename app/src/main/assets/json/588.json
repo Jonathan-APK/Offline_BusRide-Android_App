@@ -1,0 +1,156 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "53369",
+            "Longitude": 103.8301455974542,
+            "Latitude": 1.35947344252352,
+            "RoadName": "Sin Ming Ave",
+            "Description": "Opp Blk 454"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "53359",
+            "Longitude": 103.83196166697407,
+            "Latitude": 1.36125666702141,
+            "RoadName": "Sin Ming Ave",
+            "Description": "Opp Ai Tong Sch"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "53349",
+            "Longitude": 103.83379317461136,
+            "Latitude": 1.3637398272719,
+            "RoadName": "Sin Ming Ave",
+            "Description": "Bishan Pk Sec Sch"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "53339",
+            "Longitude": 103.8367836110905,
+            "Latitude": 1.36312998205072,
+            "RoadName": "Sin Ming Ave",
+            "Description": "Opp Bright Hill Tp"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "53329",
+            "Longitude": 103.84049549859829,
+            "Latitude": 1.36153970079158,
+            "RoadName": "Sin Ming Ave",
+            "Description": "Opp CityCab"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "53159",
+            "Longitude": 103.84173532084301,
+            "Latitude": 1.35968664141033,
+            "RoadName": "Marymount Rd",
+            "Description": "Blk 260"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "53149",
+            "Longitude": 103.84161232917471,
+            "Latitude": 1.35548111090619,
+            "RoadName": "Marymount Rd",
+            "Description": "Whitley Sec Sch"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "53139",
+            "Longitude": 103.8404366731736,
+            "Latitude": 1.35256345999653,
+            "RoadName": "Marymount Rd",
+            "Description": "Marymount View"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "53129",
+            "Longitude": 103.83978033272378,
+            "Latitude": 1.34968057726521,
+            "RoadName": "Marymount Rd",
+            "Description": "Opp Marymount Stn"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "53319",
+            "Longitude": 103.8412483330228,
+            "Latitude": 1.34722500001495,
+            "RoadName": "Bishan St 21",
+            "Description": "Bosch"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "53309",
+            "Longitude": 103.8452725001234,
+            "Latitude": 1.34849137843448,
+            "RoadName": "Bishan St 21",
+            "Description": "Opp Raffles Instn"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "53229",
+            "Longitude": 103.84927239325486,
+            "Latitude": 1.34822303496432,
+            "RoadName": "Bishan St 11",
+            "Description": "Blk 501"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "53419",
+            "Longitude": 103.84980877522956,
+            "Latitude": 1.34639996494893,
+            "RoadName": "Bishan St 12",
+            "Description": "Opp Guangyang Pr Sch"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "53409",
+            "Longitude": 103.85126805621526,
+            "Latitude": 1.34534609724691,
+            "RoadName": "Bishan St 12",
+            "Description": "Blk 131"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "05129",
+            "Longitude": 103.84634666701143,
+            "Latitude": 1.28601166699569,
+            "RoadName": "Upp Pickering St",
+            "Description": "Hong Lim Pk"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "05319",
+            "Longitude": 103.84908685850282,
+            "Latitude": 1.28449667301849,
+            "RoadName": "Church St",
+            "Description": "OCBC Ctr"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "03217",
+            "Longitude": 103.8479443674916,
+            "Latitude": 1.27552218897645,
+            "RoadName": "Shenton Way",
+            "Description": "Opp AXA Twr"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        }
+    ]
+}

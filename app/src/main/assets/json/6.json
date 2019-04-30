@@ -1,0 +1,260 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int (First Stop)"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "78109",
+            "Longitude": 103.95388142049359,
+            "Latitude": 1.37533322687905,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Downtown East"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "78119",
+            "Longitude": 103.95796611110238,
+            "Latitude": 1.37568000002841,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Blk 479"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "78129",
+            "Longitude": 103.9621203385503,
+            "Latitude": 1.37513135750693,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Blk 233"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "78139",
+            "Longitude": 103.9639885558376,
+            "Latitude": 1.37321804486777,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Pasir Ris Pr Sch"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "78149",
+            "Longitude": 103.96411887211589,
+            "Latitude": 1.36970105283111,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Greenview Sec Sch"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "98109",
+            "Longitude": 103.96586134149551,
+            "Latitude": 1.36691496085079,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Loyang Pt"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "98031",
+            "Longitude": 103.96801787240187,
+            "Latitude": 1.36722636029551,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Pasir Ris Dr 3"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "98041",
+            "Longitude": 103.96968330432956,
+            "Latitude": 1.36905889178012,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Loyang Valley"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "98121",
+            "Longitude": 103.97023200986916,
+            "Latitude": 1.37205479195352,
+            "RoadName": "Loyang Way",
+            "Description": "Krislite Bldg"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "98131",
+            "Longitude": 103.97225879434563,
+            "Latitude": 1.3741140347487,
+            "RoadName": "Loyang Way",
+            "Description": "Bef Loyang Way 1"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "98141",
+            "Longitude": 103.974121669607,
+            "Latitude": 1.37600551742745,
+            "RoadName": "Loyang Way",
+            "Description": "GE Aircraft Engines"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "98151",
+            "Longitude": 103.97590756415319,
+            "Latitude": 1.37772871219159,
+            "RoadName": "Loyang Way",
+            "Description": "Opp Loyang Way 4"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "98161",
+            "Longitude": 103.9759182930092,
+            "Latitude": 1.37986849530321,
+            "RoadName": "Loyang Way",
+            "Description": "Composite Tech"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "98171",
+            "Longitude": 103.97466838363384,
+            "Latitude": 1.38209408212027,
+            "RoadName": "Loyang Way",
+            "Description": "Opp SIA Supplies Ctr"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "98181",
+            "Longitude": 103.97345066073454,
+            "Latitude": 1.38434111832012,
+            "RoadName": "Loyang Way",
+            "Description": "Opp Loyang Way 6"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "98199",
+            "Longitude": 103.97185206410448,
+            "Latitude": 1.38495784630142,
+            "RoadName": "Loyang Cres",
+            "Description": "Aft Loyang Way"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "98209",
+            "Longitude": 103.97266651518974,
+            "Latitude": 1.38155828919575,
+            "RoadName": "Loyang Cres",
+            "Description": "Encompass Digital Media"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "98219",
+            "Longitude": 103.97340977330899,
+            "Latitude": 1.38022304984,
+            "RoadName": "Loyang Cres",
+            "Description": "Pratt & Whitney Canada"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "98229",
+            "Longitude": 103.97468689087003,
+            "Latitude": 1.37796803000431,
+            "RoadName": "Loyang Cres",
+            "Description": "Honey Well"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "98149",
+            "Longitude": 103.974255326806,
+            "Latitude": 1.37583493620324,
+            "RoadName": "Loyang Way",
+            "Description": "Wacker Chemicals"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "98139",
+            "Longitude": 103.97236010514752,
+            "Latitude": 1.37394091672222,
+            "RoadName": "Loyang Way",
+            "Description": "Aft Loyang Way 1"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "98129",
+            "Longitude": 103.97053295605356,
+            "Latitude": 1.37213166662042,
+            "RoadName": "Loyang Way",
+            "Description": "Opp Krislite Bldg"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "98049",
+            "Longitude": 103.97064054814314,
+            "Latitude": 1.36955111611083,
+            "RoadName": "Loyang Ave",
+            "Description": "Loyang Valley"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "98039",
+            "Longitude": 103.96847160564306,
+            "Latitude": 1.3673740332815,
+            "RoadName": "Loyang Ave",
+            "Description": "Bef New Loyang Link"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "98101",
+            "Longitude": 103.96535083584567,
+            "Latitude": 1.36705781222851,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Loyang Pt"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "78141",
+            "Longitude": 103.96366520875914,
+            "Latitude": 1.37005889868954,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Greenview Sec Sch"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "78131",
+            "Longitude": 103.9637271722912,
+            "Latitude": 1.37308472383764,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Pr Sch"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "78121",
+            "Longitude": 103.96200053620825,
+            "Latitude": 1.37485968829133,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Bet Blks 232/233"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "78111",
+            "Longitude": 103.95798631897796,
+            "Latitude": 1.37545781179514,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Blk 479"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "78101",
+            "Longitude": 103.95404801695994,
+            "Latitude": 1.37506644391944,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Opp Downtown East"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "77009",
+            "Longitude": 103.94957592524051,
+            "Latitude": 1.37370753048836,
+            "RoadName": "Pasir Ris Dr 3",
+            "Description": "Pasir Ris Int (Last Stop)"
+        }
+    ]
+}

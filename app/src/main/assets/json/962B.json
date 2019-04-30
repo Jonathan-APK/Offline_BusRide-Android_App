@@ -1,0 +1,100 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "58259",
+            "Longitude": 103.81895151565973,
+            "Latitude": 1.44777267175187,
+            "RoadName": "Sembawang Dr",
+            "Description": "Opp Sun Plaza"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "58319",
+            "Longitude": 103.81802192152004,
+            "Latitude": 1.44976933938251,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 357C"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "58349",
+            "Longitude": 103.81642343207659,
+            "Latitude": 1.45273139537549,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 478"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "58359",
+            "Longitude": 103.81465411421149,
+            "Latitude": 1.45619440004203,
+            "RoadName": "Sembawang Dr",
+            "Description": "Opp Blk 484A CP"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "58459",
+            "Longitude": 103.81514063371951,
+            "Latitude": 1.45994030687762,
+            "RoadName": "Sembawang Dr",
+            "Description": "Bef Heavy Veh Pk"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "58369",
+            "Longitude": 103.81192581738017,
+            "Latitude": 1.46067315253986,
+            "RoadName": "Admiralty St",
+            "Description": "BEF ACACIA HME"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "58361",
+            "Longitude": 103.81270708997143,
+            "Latitude": 1.46118688481447,
+            "RoadName": "Admiralty St",
+            "Description": "Nth Link Bldg"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "58451",
+            "Longitude": 103.81537241523831,
+            "Latitude": 1.46002660309429,
+            "RoadName": "Sembawang Dr",
+            "Description": "Aft Heavy Veh Pk"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "58351",
+            "Longitude": 103.81491062256012,
+            "Latitude": 1.45593548683251,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 483"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "58341",
+            "Longitude": 103.81687772159036,
+            "Latitude": 1.45267992935187,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 405"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "58311",
+            "Longitude": 103.81810459422103,
+            "Latitude": 1.4501979542693,
+            "RoadName": "Sembawang Dr",
+            "Description": "Blk 354 CP"
+        },
+        {
+            "Distance": 4.6,
+            "BusStopCode": "58251",
+            "Longitude": 103.81895207486829,
+            "Latitude": 1.44803148822713,
+            "RoadName": "Sembawang Dr",
+            "Description": "Sun Plaza"
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (First Stop)"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "75129",
+            "Longitude": 103.93936521711959,
+            "Latitude": 1.35563642049496,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Darul Ghufran Mque"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "75139",
+            "Longitude": 103.93612503756641,
+            "Latitude": 1.35563964372785,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 863"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "75149",
+            "Longitude": 103.93366388890493,
+            "Latitude": 1.35597194444127,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 867A"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "75159",
+            "Longitude": 103.93146643451303,
+            "Latitude": 1.35405115206724,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Blk 874"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "75039",
+            "Longitude": 103.92956819494434,
+            "Latitude": 1.3506577199911,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Springfield Sec Sch"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "75241",
+            "Longitude": 103.92980219657613,
+            "Latitude": 1.34844803009871,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly West G"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "75231",
+            "Longitude": 103.93265533979496,
+            "Latitude": 1.34707779444929,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "75221",
+            "Longitude": 103.93595044893453,
+            "Latitude": 1.34567355960876,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly East G"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "75069",
+            "Longitude": 103.93669999999881,
+            "Latitude": 1.34066333296943,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Bedok Reform Trg Ctr"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "75349",
+            "Longitude": 103.9339578151498,
+            "Latitude": 1.33811824869625,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "The Clearwater Condo"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "84209",
+            "Longitude": 103.93333589306084,
+            "Latitude": 1.33702513693776,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "BEDOK RESVR STN EXIT B"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "84529",
+            "Longitude": 103.93431305555218,
+            "Latitude": 1.33213305553955,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 109"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "84219",
+            "Longitude": 103.9348130555732,
+            "Latitude": 1.32940888887166,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Bet Blks 139/140"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "84351",
+            "Longitude": 103.93409675152876,
+            "Latitude": 1.32766562447954,
+            "RoadName": "Bedok Nth St 1",
+            "Description": "Bedok Ctrl PO"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "84359",
+            "Longitude": 103.934076210002,
+            "Latitude": 1.32787704925987,
+            "RoadName": "Bedok Nth St 1",
+            "Description": "Opp Bedok Ctrl PO"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "84211",
+            "Longitude": 103.93443969781201,
+            "Latitude": 1.33004744658174,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 403"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "84521",
+            "Longitude": 103.93393805556471,
+            "Latitude": 1.33230500002897,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "Blk 506"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "84201",
+            "Longitude": 103.93309401156243,
+            "Latitude": 1.33660054449421,
+            "RoadName": "Bedok Nth Ave 3",
+            "Description": "BEDOK RESVR STN EXIT A"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "75341",
+            "Longitude": 103.933861255669,
+            "Latitude": 1.33832204097015,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp The Clearwater Condo"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "75061",
+            "Longitude": 103.93646836281481,
+            "Latitude": 1.34071391760745,
+            "RoadName": "Bedok Reservoir Rd",
+            "Description": "Opp Bedok Reform Trg Ctr"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "75229",
+            "Longitude": 103.93676608938834,
+            "Latitude": 1.34499782605889,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly East G"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "75239",
+            "Longitude": 103.93257655832721,
+            "Latitude": 1.34675259898315,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "75249",
+            "Longitude": 103.93017010145029,
+            "Latitude": 1.34791499671757,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly West G"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "75031",
+            "Longitude": 103.92946243284943,
+            "Latitude": 1.35080696753697,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Opp Springfield Sec Sch"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "75151",
+            "Longitude": 103.93145206236657,
+            "Latitude": 1.35451781224143,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Opp Blk 871A"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "75141",
+            "Longitude": 103.93377888890949,
+            "Latitude": 1.35625000000112,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 730"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "75131",
+            "Longitude": 103.93709646027764,
+            "Latitude": 1.35594818346107,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Bet Blks 701/702"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "75121",
+            "Longitude": 103.93903255460283,
+            "Latitude": 1.35593392058986,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Darul Ghufran Mque"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int (Last Stop)"
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.3,
+            "BusStopCode": "28301",
+            "Longitude": 103.74030301599491,
+            "Latitude": 1.33473899929823,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Blk 131"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "28431",
+            "Longitude": 103.73881557585635,
+            "Latitude": 1.33449626498358,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 134"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "28251",
+            "Longitude": 103.7369883329766,
+            "Latitude": 1.33382805600325,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "S'pore Science Ctr"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "28261",
+            "Longitude": 103.73489878344925,
+            "Latitude": 1.33614236992322,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Aft S'pore Science Ctr"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "28271",
+            "Longitude": 103.73390575121081,
+            "Latitude": 1.33899259685337,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp Blk 114"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "28341",
+            "Longitude": 103.73271277802048,
+            "Latitude": 1.34247027799798,
+            "RoadName": "Boon Lay Way",
+            "Description": "Chinese Gdn Stn"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "28351",
+            "Longitude": 103.73105583301476,
+            "Latitude": 1.343615278018,
+            "RoadName": "Boon Lay Way",
+            "Description": "Opp Blk 350"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "28361",
+            "Longitude": 103.72748780602458,
+            "Latitude": 1.34418881822068,
+            "RoadName": "Boon Lay Way",
+            "Description": "Jurong Lake"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "28371",
+            "Longitude": 103.72409194399874,
+            "Latitude": 1.34487972199034,
+            "RoadName": "Boon Lay Way",
+            "Description": "Bef Jurong West St 51"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "28381",
+            "Longitude": 103.72129604136144,
+            "Latitude": 1.34626967118054,
+            "RoadName": "Jurong West St 51",
+            "Description": "Blk 515"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "28421",
+            "Longitude": 103.71934571086803,
+            "Latitude": 1.34591586108958,
+            "RoadName": "Jurong West St 52",
+            "Description": "Blk 517"
+        },
+        {
+            "Distance": 4.1,
+            "BusStopCode": "28411",
+            "Longitude": 103.7176175000189,
+            "Latitude": 1.34805444396931,
+            "RoadName": "Jurong West St 52",
+            "Description": "Blk 526"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "28409",
+            "Longitude": 103.71793769087185,
+            "Latitude": 1.35081149361542,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 454"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "28529",
+            "Longitude": 103.7206511492765,
+            "Latitude": 1.35117921308914,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 441"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "28519",
+            "Longitude": 103.72452492776075,
+            "Latitude": 1.35058416759245,
+            "RoadName": "Jurong West Ave 1",
+            "Description": "Blk 425"
+        },
+        {
+            "Distance": 5.5,
+            "BusStopCode": "28581",
+            "Longitude": 103.72570564902432,
+            "Latitude": 1.34925114010527,
+            "RoadName": "Jurong West St 41",
+            "Description": "Blk 491"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "28591",
+            "Longitude": 103.72538249998607,
+            "Latitude": 1.34645638903065,
+            "RoadName": "Jurong West St 41",
+            "Description": "Opp Blk 481"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "28601",
+            "Longitude": 103.72316770207861,
+            "Latitude": 1.34733744665393,
+            "RoadName": "Jurong West St 41",
+            "Description": "Yuhua Sec Sch"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "28611",
+            "Longitude": 103.72106773657399,
+            "Latitude": 1.34927792310102,
+            "RoadName": "Jurong West St 41",
+            "Description": "Opp Blk 461"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "28389",
+            "Longitude": 103.72147231551902,
+            "Latitude": 1.34646209983221,
+            "RoadName": "Jurong West St 51",
+            "Description": "Opp Blk 515"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "28379",
+            "Longitude": 103.72426131705271,
+            "Latitude": 1.34513639882838,
+            "RoadName": "Boon Lay Way",
+            "Description": "Aft Jurong West St 51"
+        },
+        {
+            "Distance": 7.7,
+            "BusStopCode": "28369",
+            "Longitude": 103.72747138899737,
+            "Latitude": 1.34449722197147,
+            "RoadName": "Boon Lay Way",
+            "Description": "Opp Jurong Lake"
+        },
+        {
+            "Distance": 8.1,
+            "BusStopCode": "28359",
+            "Longitude": 103.73119944403174,
+            "Latitude": 1.34388722199927,
+            "RoadName": "Boon Lay Way",
+            "Description": "Blk 350"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "28349",
+            "Longitude": 103.73318514055593,
+            "Latitude": 1.34255113741933,
+            "RoadName": "Boon Lay Way",
+            "Description": "Opp Chinese Gdn Stn"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "28279",
+            "Longitude": 103.73423653369264,
+            "Latitude": 1.33948295480474,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 114"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "28269",
+            "Longitude": 103.73499280022457,
+            "Latitude": 1.33653242651923,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Blk 118"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "28259",
+            "Longitude": 103.73698833298555,
+            "Latitude": 1.33415472196842,
+            "RoadName": "Jurong Town Hall Rd",
+            "Description": "Opp S'pore Science Ctr"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "28439",
+            "Longitude": 103.7385749816785,
+            "Latitude": 1.33451434015094,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 124"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "28009",
+            "Longitude": 103.74154249246223,
+            "Latitude": 1.3334081875974,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Jurong East Temp Int (Last Stop)"
+        }
+    ]
+}

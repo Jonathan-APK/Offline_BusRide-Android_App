@@ -1,0 +1,76 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75009",
+            "Longitude": 103.94339098473914,
+            "Latitude": 1.35407552367477,
+            "RoadName": "Tampines Ctrl 1",
+            "Description": "Tampines Int"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "76191",
+            "Longitude": 103.94477445426702,
+            "Latitude": 1.3569438864901,
+            "RoadName": "Tampines Ave 7",
+            "Description": "BLK 401"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "76399",
+            "Longitude": 103.94723337005571,
+            "Latitude": 1.3586225675181,
+            "RoadName": "Tampines St 41",
+            "Description": "Blk 417"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "76369",
+            "Longitude": 103.95022273065783,
+            "Latitude": 1.36025642698418,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 496F"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "76359",
+            "Longitude": 103.95217875196944,
+            "Latitude": 1.36209168075863,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Blk 493B"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "76349",
+            "Longitude": 103.95556569101933,
+            "Latitude": 1.3603851367314,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Dunman Sec Sch"
+        },
+        {
+            "Distance": 2.4,
+            "BusStopCode": "76319",
+            "Longitude": 103.95558714864025,
+            "Latitude": 1.35765005311874,
+            "RoadName": "Tampines Ave 9",
+            "Description": "Tampines JC/Opp Blk 454"
+        },
+        {
+            "Distance": 2.7,
+            "BusStopCode": "76231",
+            "Longitude": 103.95736200626966,
+            "Latitude": 1.35666908955685,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Tampines JC/Opp Blk 390"
+        },
+        {
+            "Distance": 3,
+            "BusStopCode": "76241",
+            "Longitude": 103.95917058122039,
+            "Latitude": 1.35845802746258,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 497D"
+        }
+    ]
+}

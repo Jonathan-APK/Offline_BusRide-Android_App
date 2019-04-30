@@ -1,0 +1,228 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "43179",
+            "Longitude": 103.75430345301592,
+            "Latitude": 1.3489707828044,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 231"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "43189",
+            "Longitude": 103.75681389918313,
+            "Latitude": 1.34694984968785,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 283"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "43149",
+            "Longitude": 103.7561003299722,
+            "Latitude": 1.34399483001027,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Blk 291A"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "43591",
+            "Longitude": 103.7521198162659,
+            "Latitude": 1.3447586640008,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Opp Bt View Sec Sch"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "43511",
+            "Longitude": 103.74849870531534,
+            "Latitude": 1.34497394208663,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Bt Batok Swim Cplx"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "43699",
+            "Longitude": 103.74628307427523,
+            "Latitude": 1.34475341160997,
+            "RoadName": "Bt Batok Ave 1",
+            "Description": "Blk 298"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "28629",
+            "Longitude": 103.74424995812674,
+            "Latitude": 1.34195331167525,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 266"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "28631",
+            "Longitude": 103.74418616293988,
+            "Latitude": 1.34053157728505,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Opp Blk 288D"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "28641",
+            "Longitude": 103.74610320575732,
+            "Latitude": 1.33917889755759,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 284"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "28651",
+            "Longitude": 103.74794188238828,
+            "Latitude": 1.33515192012369,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Opp IMM Bldg"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "28051",
+            "Longitude": 103.74574002371804,
+            "Latitude": 1.33228999677029,
+            "RoadName": "Boon Lay Way",
+            "Description": "Big Box"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "28061",
+            "Longitude": 103.74254813709638,
+            "Latitude": 1.33596390763107,
+            "RoadName": "Boon Lay Way",
+            "Description": "Jurong East Stn/Int"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "28449",
+            "Longitude": 103.73944500002973,
+            "Latitude": 1.33618166701348,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Bef Seventh-Day Advent Ch"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "28211",
+            "Longitude": 103.74070680700304,
+            "Latitude": 1.33418677275445,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Opp Blk 135"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "28201",
+            "Longitude": 103.7418504873348,
+            "Latitude": 1.33205706208933,
+            "RoadName": "Jurong Gateway Rd",
+            "Description": "Opp The JTC Summit"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "28059",
+            "Longitude": 103.74580722197156,
+            "Latitude": 1.33260638902834,
+            "RoadName": "Boon Lay Way",
+            "Description": "Ng Teng Fong General Hosp"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "28659",
+            "Longitude": 103.74767782537164,
+            "Latitude": 1.33446189256828,
+            "RoadName": "Toh Guan Rd",
+            "Description": "IMM Bldg"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "28649",
+            "Longitude": 103.74603439301079,
+            "Latitude": 1.33901303401774,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 286A"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "28639",
+            "Longitude": 103.74395996871245,
+            "Latitude": 1.34045649755771,
+            "RoadName": "Toh Guan Rd",
+            "Description": "Blk 288E"
+        },
+        {
+            "Distance": 8.5,
+            "BusStopCode": "28621",
+            "Longitude": 103.74358012428006,
+            "Latitude": 1.34154348249683,
+            "RoadName": "Jurong East Ctrl",
+            "Description": "Blk 241"
+        },
+        {
+            "Distance": 9,
+            "BusStopCode": "43691",
+            "Longitude": 103.74605567060456,
+            "Latitude": 1.34490189049397,
+            "RoadName": "Bt Batok Ave 1",
+            "Description": "Blk 190"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "43519",
+            "Longitude": 103.74835776931137,
+            "Latitude": 1.34527424103226,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Opp Bt Batok Swim Cplx"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "43599",
+            "Longitude": 103.75190146961904,
+            "Latitude": 1.34513161798285,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Bt View Sec Sch"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "43141",
+            "Longitude": 103.75586020801809,
+            "Latitude": 1.34421891680123,
+            "RoadName": "Bt Batok East Ave 6",
+            "Description": "Opp Blk 291A"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "43181",
+            "Longitude": 103.75681722199707,
+            "Latitude": 1.34648944401178,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Keming Pr Sch"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "43171",
+            "Longitude": 103.75460496382075,
+            "Latitude": 1.34859644473183,
+            "RoadName": "Bt Batok East Ave 3",
+            "Description": "Blk 229"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "43009",
+            "Longitude": 103.75106190953444,
+            "Latitude": 1.34999354306126,
+            "RoadName": "Bt Batok Ctrl",
+            "Description": "Bt Batok Int (Last Stop)"
+        }
+    ]
+}

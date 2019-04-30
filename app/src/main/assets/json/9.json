@@ -1,0 +1,692 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (First Stop)"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "84031",
+            "Longitude": 103.93003627080394,
+            "Latitude": 1.32428292329305,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Stn Exit B"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "84041",
+            "Longitude": 103.93468799273933,
+            "Latitude": 1.3246905167586,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 221A"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "84051",
+            "Longitude": 103.93957942418302,
+            "Latitude": 1.32531855805156,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Sports Cplx"
+        },
+        {
+            "Distance": 2.1,
+            "BusStopCode": "84061",
+            "Longitude": 103.94223128727671,
+            "Latitude": 1.32584790501258,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "The Tanamera Condo"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "85091",
+            "Longitude": 103.94636119805759,
+            "Latitude": 1.32754912682416,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Tanah Merah Stn Exit B"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "85051",
+            "Longitude": 103.94880115987219,
+            "Latitude": 1.32956968334939,
+            "RoadName": "Bedok Rd",
+            "Description": "Aft Jln Chempaka Kuning"
+        },
+        {
+            "Distance": 3.4,
+            "BusStopCode": "85061",
+            "Longitude": 103.94735350449812,
+            "Latitude": 1.33150499798206,
+            "RoadName": "Bedok Rd",
+            "Description": "Opp Bedok Mkt Pl"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "85081",
+            "Longitude": 103.94719977411023,
+            "Latitude": 1.33292331447242,
+            "RoadName": "Upp Changi Rd",
+            "Description": "Bef Jln Pari Burong"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "85071",
+            "Longitude": 103.9498516702887,
+            "Latitude": 1.33407653133395,
+            "RoadName": "Upp Changi Rd",
+            "Description": "Bef Changi Fire Stn"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "96101",
+            "Longitude": 103.9510568939649,
+            "Latitude": 1.33638500905398,
+            "RoadName": "Simei Ave",
+            "Description": "Blk 3012"
+        },
+        {
+            "Distance": 4.9,
+            "BusStopCode": "96259",
+            "Longitude": 103.95124680626643,
+            "Latitude": 1.34043019344412,
+            "RoadName": "Simei St 3",
+            "Description": "Aft Changi General Hosp"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "96169",
+            "Longitude": 103.95346611100372,
+            "Latitude": 1.34226222202581,
+            "RoadName": "Simei St 3",
+            "Description": "Simei Stn"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "96269",
+            "Longitude": 103.95588755609721,
+            "Latitude": 1.34431781695634,
+            "RoadName": "Simei St 3",
+            "Description": "Blk 146"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "96181",
+            "Longitude": 103.95770528781159,
+            "Latitude": 1.34563053684832,
+            "RoadName": "Simei Rd",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "96121",
+            "Longitude": 103.95776019526973,
+            "Latitude": 1.34719360554366,
+            "RoadName": "Simei Rd",
+            "Description": "Metta Welfare Assn"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "76101",
+            "Longitude": 103.95480210652737,
+            "Latitude": 1.35303315550855,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Tampines East CC"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "76031",
+            "Longitude": 103.95529781026745,
+            "Latitude": 1.35507956918888,
+            "RoadName": "Tampines Ave 2",
+            "Description": "TAMPINES EAST STN EXIT B"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "76231",
+            "Longitude": 103.95736200626966,
+            "Latitude": 1.35666908955685,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Tampines JC/Opp Blk 390"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "76241",
+            "Longitude": 103.95917058122039,
+            "Latitude": 1.35845802746258,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 497D"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "98011",
+            "Longitude": 103.96291600002557,
+            "Latitude": 1.36221388889515,
+            "RoadName": "Loyang Ave",
+            "Description": "Blk 149A"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "98021",
+            "Longitude": 103.96537675659532,
+            "Latitude": 1.36473730490409,
+            "RoadName": "Loyang Ave",
+            "Description": "Blk 275"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "98031",
+            "Longitude": 103.96801787240187,
+            "Latitude": 1.36722636029551,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Pasir Ris Dr 3"
+        },
+        {
+            "Distance": 9.5,
+            "BusStopCode": "98041",
+            "Longitude": 103.96968330432956,
+            "Latitude": 1.36905889178012,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Loyang Valley"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "98231",
+            "Longitude": 103.97184133530571,
+            "Latitude": 1.37118600522884,
+            "RoadName": "Loyang Ave",
+            "Description": "Loyang Ind Est"
+        },
+        {
+            "Distance": 10.1,
+            "BusStopCode": "98051",
+            "Longitude": 103.97371333299213,
+            "Latitude": 1.37300166698251,
+            "RoadName": "Loyang Ave",
+            "Description": "Bef Loyang Way"
+        },
+        {
+            "Distance": 10.7,
+            "BusStopCode": "98061",
+            "Longitude": 103.977166226331,
+            "Latitude": 1.37652810391204,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Engine Test Facility"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "98071",
+            "Longitude": 103.97838930249063,
+            "Latitude": 1.37965443818622,
+            "RoadName": "Loyang Ave",
+            "Description": "Loyang Way/Soxal"
+        },
+        {
+            "Distance": 11.5,
+            "BusStopCode": "99011",
+            "Longitude": 103.97812168830427,
+            "Latitude": 1.38328110134472,
+            "RoadName": "Loyang Ave",
+            "Description": "Bef Sch Of Commando"
+        },
+        {
+            "Distance": 11.9,
+            "BusStopCode": "99021",
+            "Longitude": 103.97916912424074,
+            "Latitude": 1.38667053181061,
+            "RoadName": "Loyang Ave",
+            "Description": "Bef Cranwell Rd"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "99031",
+            "Longitude": 103.98177807887794,
+            "Latitude": 1.38790615442763,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Maranatha B-P Ch"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "99041",
+            "Longitude": 103.98547333334741,
+            "Latitude": 1.38779999993686,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Changi Golf Course"
+        },
+        {
+            "Distance": 12.9,
+            "BusStopCode": "99181",
+            "Longitude": 103.98850309975099,
+            "Latitude": 1.38775412603923,
+            "RoadName": "Telok Paku Rd",
+            "Description": "Bef S'pore Aviation Ac"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "99171",
+            "Longitude": 103.9910213889211,
+            "Latitude": 1.39112750002185,
+            "RoadName": "Nicoll Dr",
+            "Description": "Changi Beach CP 2"
+        },
+        {
+            "Distance": 13.7,
+            "BusStopCode": "99161",
+            "Longitude": 103.99295664134459,
+            "Latitude": 1.39026180023806,
+            "RoadName": "Nicoll Dr",
+            "Description": "Bef Changi Beach CP 3"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "95071",
+            "Longitude": 103.99512197669611,
+            "Latitude": 1.38994660051217,
+            "RoadName": "Nicoll Dr",
+            "Description": "Changi Beach CP 4"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "95081",
+            "Longitude": 103.99761693950214,
+            "Latitude": 1.38959028129733,
+            "RoadName": "Nicoll Dr",
+            "Description": "Changi Beach CP 5"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "95091",
+            "Longitude": 103.99971361110026,
+            "Latitude": 1.38721361114033,
+            "RoadName": "Nicoll Dr",
+            "Description": "SAF Ferry Ter"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "95131",
+            "Longitude": 103.99983438993594,
+            "Latitude": 1.38525245892982,
+            "RoadName": "Airline Rd",
+            "Description": "Police Pass Off"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "95131",
+            "Longitude": 103.99983438993594,
+            "Latitude": 1.38525245892982,
+            "RoadName": "Airline Rd",
+            "Description": "Police Pass Off"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "95141",
+            "Longitude": 103.99819135664978,
+            "Latitude": 1.38138618483813,
+            "RoadName": "Airline Rd",
+            "Description": "Aft Cargo Bldg D"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "95061",
+            "Longitude": 103.99653899373014,
+            "Latitude": 1.37755167138896,
+            "RoadName": "Airline Rd",
+            "Description": "SIA Hangar"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "95051",
+            "Longitude": 103.99619579312593,
+            "Latitude": 1.37528324353604,
+            "RoadName": "Airline Rd",
+            "Description": "3rd Cargo Agents"
+        },
+        {
+            "Distance": 16.6,
+            "BusStopCode": "95041",
+            "Longitude": 103.99570041596903,
+            "Latitude": 1.37265452174649,
+            "RoadName": "Airport Cargo Rd",
+            "Description": "CIAS Cargo Ters"
+        },
+        {
+            "Distance": 16.8,
+            "BusStopCode": "95039",
+            "Longitude": 103.99457879033221,
+            "Latitude": 1.37218943783154,
+            "RoadName": "Airport Cargo Rd",
+            "Description": "Airfreight Ter Bldg"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "95049",
+            "Longitude": 103.99443416702756,
+            "Latitude": 1.37359444402021,
+            "RoadName": "Airport Cargo Rd",
+            "Description": "SATS Cargo Ter"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "95069",
+            "Longitude": 103.99643160040588,
+            "Latitude": 1.37789848118317,
+            "RoadName": "Airline Rd",
+            "Description": "Opp SIA Hangar"
+        },
+        {
+            "Distance": 17.9,
+            "BusStopCode": "95149",
+            "Longitude": 103.99785682775334,
+            "Latitude": 1.38128155042147,
+            "RoadName": "Airline Rd",
+            "Description": "Bef Cargo Bldg D"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "95139",
+            "Longitude": 103.99899787539849,
+            "Latitude": 1.38557240860116,
+            "RoadName": "Airline Rd",
+            "Description": "Police Pass Off"
+        },
+        {
+            "Distance": 18.4,
+            "BusStopCode": "95139",
+            "Longitude": 103.99899787539849,
+            "Latitude": 1.38557240860116,
+            "RoadName": "Airline Rd",
+            "Description": "Police Pass Off"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "95099",
+            "Longitude": 103.99878608257899,
+            "Latitude": 1.38815449129359,
+            "RoadName": "Nicoll Dr",
+            "Description": "Opp SAF Ferry Ter"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "95089",
+            "Longitude": 103.99593111108919,
+            "Latitude": 1.38962166669625,
+            "RoadName": "Nicoll Dr",
+            "Description": "Opp Changi Beach CP 5"
+        },
+        {
+            "Distance": 19.6,
+            "BusStopCode": "95079",
+            "Longitude": 103.99252027779501,
+            "Latitude": 1.39019416668503,
+            "RoadName": "Nicoll Dr",
+            "Description": "Opp Changi Beach CP 4"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "99189",
+            "Longitude": 103.9897163888532,
+            "Latitude": 1.3884141666958,
+            "RoadName": "Telok Paku Rd",
+            "Description": "S'pore Aviation Ac"
+        },
+        {
+            "Distance": 20.5,
+            "BusStopCode": "99049",
+            "Longitude": 103.98573364026825,
+            "Latitude": 1.38749994542049,
+            "RoadName": "Loyang Ave",
+            "Description": "Changi Golf Course"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "99039",
+            "Longitude": 103.98202131073424,
+            "Latitude": 1.38768581439487,
+            "RoadName": "Loyang Ave",
+            "Description": "St. George Chapel"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "99029",
+            "Longitude": 103.97959306203218,
+            "Latitude": 1.38664086819653,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Cranwell Rd"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "99019",
+            "Longitude": 103.97844860768319,
+            "Latitude": 1.3837089764569,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Sch Of Commando"
+        },
+        {
+            "Distance": 22.2,
+            "BusStopCode": "98079",
+            "Longitude": 103.97870069719525,
+            "Latitude": 1.37859016739254,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Loyang Way/Soxal"
+        },
+        {
+            "Distance": 22.6,
+            "BusStopCode": "98069",
+            "Longitude": 103.976778734029,
+            "Latitude": 1.3757102208247,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Engine Test Facility"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "98059",
+            "Longitude": 103.97437194693713,
+            "Latitude": 1.37320003118402,
+            "RoadName": "Loyang Ave",
+            "Description": "Aft Loyang Way"
+        },
+        {
+            "Distance": 23.3,
+            "BusStopCode": "98239",
+            "Longitude": 103.97258859531347,
+            "Latitude": 1.37149806503652,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Loyang Ind Est"
+        },
+        {
+            "Distance": 23.6,
+            "BusStopCode": "98049",
+            "Longitude": 103.97064054814314,
+            "Latitude": 1.36955111611083,
+            "RoadName": "Loyang Ave",
+            "Description": "Loyang Valley"
+        },
+        {
+            "Distance": 24,
+            "BusStopCode": "98039",
+            "Longitude": 103.96847160564306,
+            "Latitude": 1.3673740332815,
+            "RoadName": "Loyang Ave",
+            "Description": "Bef New Loyang Link"
+        },
+        {
+            "Distance": 24.5,
+            "BusStopCode": "98029",
+            "Longitude": 103.96545638898216,
+            "Latitude": 1.36438833297951,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Blk 275"
+        },
+        {
+            "Distance": 24.9,
+            "BusStopCode": "98019",
+            "Longitude": 103.96338699998489,
+            "Latitude": 1.3622609999684,
+            "RoadName": "Loyang Ave",
+            "Description": "Opp Blk 149A"
+        },
+        {
+            "Distance": 25.5,
+            "BusStopCode": "76249",
+            "Longitude": 103.95947435534286,
+            "Latitude": 1.35836639849151,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 370"
+        },
+        {
+            "Distance": 25.8,
+            "BusStopCode": "76239",
+            "Longitude": 103.95752447018292,
+            "Latitude": 1.35646655532488,
+            "RoadName": "Tampines Ave 7",
+            "Description": "Blk 390/Opp Tampines JC"
+        },
+        {
+            "Distance": 26.1,
+            "BusStopCode": "76039",
+            "Longitude": 103.9555498102644,
+            "Latitude": 1.35506418976437,
+            "RoadName": "Tampines Ave 2",
+            "Description": "TAMPINES EAST STN EXIT C"
+        },
+        {
+            "Distance": 26.4,
+            "BusStopCode": "76109",
+            "Longitude": 103.9551184525466,
+            "Latitude": 1.35296639979416,
+            "RoadName": "Tampines Ave 2",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 27.1,
+            "BusStopCode": "96129",
+            "Longitude": 103.95795115114063,
+            "Latitude": 1.3474583546739,
+            "RoadName": "Simei Rd",
+            "Description": "Melville Pk"
+        },
+        {
+            "Distance": 27.3,
+            "BusStopCode": "96189",
+            "Longitude": 103.95793622236005,
+            "Latitude": 1.3452978033151,
+            "RoadName": "Simei Rd",
+            "Description": "Blk 166"
+        },
+        {
+            "Distance": 27.6,
+            "BusStopCode": "96261",
+            "Longitude": 103.95585935578698,
+            "Latitude": 1.34404967237603,
+            "RoadName": "Simei St 3",
+            "Description": "Blk 233"
+        },
+        {
+            "Distance": 27.9,
+            "BusStopCode": "96161",
+            "Longitude": 103.95354015150029,
+            "Latitude": 1.34211893867102,
+            "RoadName": "Simei St 3",
+            "Description": "Opp Simei Stn"
+        },
+        {
+            "Distance": 28.2,
+            "BusStopCode": "96251",
+            "Longitude": 103.95138028105873,
+            "Latitude": 1.34026697859529,
+            "RoadName": "Simei St 3",
+            "Description": "Bef Changi General Hosp"
+        },
+        {
+            "Distance": 28.6,
+            "BusStopCode": "96109",
+            "Longitude": 103.95067333143491,
+            "Latitude": 1.33737118239889,
+            "RoadName": "Simei Ave",
+            "Description": "Opp Blk 3012"
+        },
+        {
+            "Distance": 29.2,
+            "BusStopCode": "85079",
+            "Longitude": 103.9501523198666,
+            "Latitude": 1.33394889968504,
+            "RoadName": "Upp Changi Rd",
+            "Description": "Flextronic"
+        },
+        {
+            "Distance": 29.4,
+            "BusStopCode": "85089",
+            "Longitude": 103.94880327361744,
+            "Latitude": 1.33338002405472,
+            "RoadName": "Upp Changi Rd",
+            "Description": "Bef Jln Chempaka Kuning"
+        },
+        {
+            "Distance": 29.7,
+            "BusStopCode": "85069",
+            "Longitude": 103.9474077910704,
+            "Latitude": 1.33172434076631,
+            "RoadName": "Bedok Rd",
+            "Description": "Bedok Mkt Pl"
+        },
+        {
+            "Distance": 30,
+            "BusStopCode": "85059",
+            "Longitude": 103.94906611097686,
+            "Latitude": 1.32950222197902,
+            "RoadName": "Bedok Rd",
+            "Description": "Bef Jln Chempaka Kuning"
+        },
+        {
+            "Distance": 30.5,
+            "BusStopCode": "85099",
+            "Longitude": 103.94645987386455,
+            "Latitude": 1.32684437763421,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Tanah Merah Stn Exit A"
+        },
+        {
+            "Distance": 31,
+            "BusStopCode": "84069",
+            "Longitude": 103.94219019887281,
+            "Latitude": 1.32548742810424,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 55"
+        },
+        {
+            "Distance": 31.3,
+            "BusStopCode": "84059",
+            "Longitude": 103.93953481204565,
+            "Latitude": 1.32493504095045,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 65"
+        },
+        {
+            "Distance": 31.8,
+            "BusStopCode": "84049",
+            "Longitude": 103.93471220144858,
+            "Latitude": 1.32432719820227,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Blk 27"
+        },
+        {
+            "Distance": 32.5,
+            "BusStopCode": "84039",
+            "Longitude": 103.92886300203479,
+            "Latitude": 1.32353645344906,
+            "RoadName": "New Upp Changi Rd",
+            "Description": "Bedok Stn Exit A"
+        },
+        {
+            "Distance": 33.2,
+            "BusStopCode": "84009",
+            "Longitude": 103.92903818515839,
+            "Latitude": 1.32453874317344,
+            "RoadName": "Bedok Nth Dr",
+            "Description": "Bedok Int (Last Stop)"
+        }
+    ]
+}

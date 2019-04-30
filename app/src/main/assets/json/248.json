@@ -1,0 +1,260 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "25009",
+            "Longitude": 103.63920357507963,
+            "Latitude": 1.34499542766088,
+            "RoadName": "Tuas West Dr",
+            "Description": "Tuas Ter (First Stop)"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "25421",
+            "Longitude": 103.63745040018382,
+            "Latitude": 1.3414665264837,
+            "RoadName": "Tuas West Dr",
+            "Description": "OPP TUAS LINK STN"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "25431",
+            "Longitude": 103.63658739973077,
+            "Latitude": 1.33897644927954,
+            "RoadName": "Tuas West Dr",
+            "Description": "Super Continental"
+        },
+        {
+            "Distance": 1.3,
+            "BusStopCode": "25441",
+            "Longitude": 103.6351235369854,
+            "Latitude": 1.33483211759061,
+            "RoadName": "Tuas West Dr",
+            "Description": "Bef Pioneer Rd"
+        },
+        {
+            "Distance": 1.7,
+            "BusStopCode": "25681",
+            "Longitude": 103.637033,
+            "Latitude": 1.332541,
+            "RoadName": "Pioneer Rd",
+            "Description": "BEF TUAS WEST AVE"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "25691",
+            "Longitude": 103.639669,
+            "Latitude": 1.328519,
+            "RoadName": "Tuas Ave 20",
+            "Description": "AFT TUAS WEST RD STN"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "26101",
+            "Longitude": 103.638144,
+            "Latitude": 1.326868,
+            "RoadName": "Tuas Ave 20",
+            "Description": "BASF STH EAST ASIA"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "26091",
+            "Longitude": 103.636135,
+            "Latitude": 1.324656,
+            "RoadName": "Tuas Ave 20",
+            "Description": "ROTARY ENGRG"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "26081",
+            "Longitude": 103.634908,
+            "Latitude": 1.322491,
+            "RoadName": "Tuas Cres",
+            "Description": "BEF TUAS AVE 18A"
+        },
+        {
+            "Distance": 3.5,
+            "BusStopCode": "26071",
+            "Longitude": 103.637024,
+            "Latitude": 1.320508,
+            "RoadName": "Tuas Cres",
+            "Description": "UNIFINE STAR PETROCHEM"
+        },
+        {
+            "Distance": 6.6,
+            "BusStopCode": "25701",
+            "Longitude": 103.627651,
+            "Latitude": 1.295593,
+            "RoadName": "Tuas Sth Ave 5",
+            "Description": "GLAXOSMITHKLINE"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "25711",
+            "Longitude": 103.625073,
+            "Latitude": 1.288627,
+            "RoadName": "Tuas Sth Ave 5",
+            "Description": "OPP THE INDEX"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "25741",
+            "Longitude": 103.62711,
+            "Latitude": 1.280501,
+            "RoadName": "Tuas Sth Ave 12",
+            "Description": "HALLIBURTON"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "25751",
+            "Longitude": 103.621508,
+            "Latitude": 1.27637,
+            "RoadName": "Tuas Sth Ave 5",
+            "Description": "BEF TUAS STH AVE 14"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "25761",
+            "Longitude": 103.624222,
+            "Latitude": 1.275062,
+            "RoadName": "Tuas Sth Ave 14",
+            "Description": "OPP REC S'PORE"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "25771",
+            "Longitude": 103.632329,
+            "Latitude": 1.274334,
+            "RoadName": "Tuas Sth Ave 14",
+            "Description": "AFT TUAS STH ST 7"
+        },
+        {
+            "Distance": 12.4,
+            "BusStopCode": "25781",
+            "Longitude": 103.635811,
+            "Latitude": 1.276398,
+            "RoadName": "Tuas Sth Ave 9",
+            "Description": "OPP SLS"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "25791",
+            "Longitude": 103.636168,
+            "Latitude": 1.28207,
+            "RoadName": "Tuas Sth Ave 9",
+            "Description": "BEF TUAS STH AVE 10"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "25801",
+            "Longitude": 103.634186,
+            "Latitude": 1.28451,
+            "RoadName": "Tuas Sth Ave 9",
+            "Description": "BEF TUAS STH AVE 7"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "25729",
+            "Longitude": 103.628258,
+            "Latitude": 1.284932,
+            "RoadName": "Tuas Sth Ave 10",
+            "Description": "ABBOTT"
+        },
+        {
+            "Distance": 15,
+            "BusStopCode": "25719",
+            "Longitude": 103.624893,
+            "Latitude": 1.289014,
+            "RoadName": "Tuas Sth Ave 5",
+            "Description": "THE INDEX"
+        },
+        {
+            "Distance": 15.8,
+            "BusStopCode": "25709",
+            "Longitude": 103.627284,
+            "Latitude": 1.295671,
+            "RoadName": "Tuas Sth Ave 5",
+            "Description": "EDGEN MURRAY"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "26079",
+            "Longitude": 103.6367552779852,
+            "Latitude": 1.32060611102859,
+            "RoadName": "Tuas Cres",
+            "Description": "Bef Tuas Loop"
+        },
+        {
+            "Distance": 19.2,
+            "BusStopCode": "26089",
+            "Longitude": 103.63510021174817,
+            "Latitude": 1.32215171578031,
+            "RoadName": "Tuas Cres",
+            "Description": "Bef Tuas Ave 20"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "26099",
+            "Longitude": 103.63599686578979,
+            "Latitude": 1.32464249366642,
+            "RoadName": "Tuas Ave 20",
+            "Description": "Bef Tuas Ave 13"
+        },
+        {
+            "Distance": 19.9,
+            "BusStopCode": "26109",
+            "Longitude": 103.63849052734983,
+            "Latitude": 1.32727742846476,
+            "RoadName": "Tuas Ave 20",
+            "Description": "Bef Tuas Ave 11"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "24719",
+            "Longitude": 103.639332,
+            "Latitude": 1.330051,
+            "RoadName": "Pioneer Rd",
+            "Description": "TUAS WEST RD STN EXIT A"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "25689",
+            "Longitude": 103.637126,
+            "Latitude": 1.332109,
+            "RoadName": "Pioneer Rd",
+            "Description": "AFT TUAS WEST AVE"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "25449",
+            "Longitude": 103.63488564434365,
+            "Latitude": 1.33559254994067,
+            "RoadName": "Tuas West Dr",
+            "Description": "Aft Pioneer Rd"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "25439",
+            "Longitude": 103.63642647473378,
+            "Latitude": 1.33912525432561,
+            "RoadName": "Tuas West Dr",
+            "Description": "Opp Super Continental"
+        },
+        {
+            "Distance": 21.7,
+            "BusStopCode": "25429",
+            "Longitude": 103.63696536000046,
+            "Latitude": 1.34055807307548,
+            "RoadName": "Tuas West Dr",
+            "Description": "TUAS LINK STN"
+        },
+        {
+            "Distance": 22.3,
+            "BusStopCode": "25009",
+            "Longitude": 103.63920357507963,
+            "Latitude": 1.34499542766088,
+            "RoadName": "Tuas West Dr",
+            "Description": "Tuas Ter (Last Stop)"
+        }
+    ]
+}

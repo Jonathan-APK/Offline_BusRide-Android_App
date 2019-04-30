@@ -1,0 +1,238 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "75129",
+            "Longitude": 103.93936521711959,
+            "Latitude": 1.35563642049496,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Darul Ghufran Mque"
+        },
+        {
+            "Distance": 0.4,
+            "BusStopCode": "75139",
+            "Longitude": 103.93612503756641,
+            "Latitude": 1.35563964372785,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Blk 863"
+        },
+        {
+            "Distance": 0.8,
+            "BusStopCode": "75161",
+            "Longitude": 103.93456070784656,
+            "Latitude": 1.35324997143303,
+            "RoadName": "Tampines St 83",
+            "Description": "Blk 855"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "75201",
+            "Longitude": 103.93353377368994,
+            "Latitude": 1.35078500992301,
+            "RoadName": "Tampines St 83",
+            "Description": "Blk 835"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "75109",
+            "Longitude": 103.93102423699943,
+            "Latitude": 1.35115140327554,
+            "RoadName": "Tampines Ave 3",
+            "Description": "Blk 888"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "75039",
+            "Longitude": 103.92956819494434,
+            "Latitude": 1.3506577199911,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Springfield Sec Sch"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "75241",
+            "Longitude": 103.92980219657613,
+            "Latitude": 1.34844803009871,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly West G"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "75231",
+            "Longitude": 103.93265533979496,
+            "Latitude": 1.34707779444929,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "75221",
+            "Longitude": 103.93595044893453,
+            "Latitude": 1.34567355960876,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Opp Temasek Poly East G"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "75051",
+            "Longitude": 103.94008153173421,
+            "Latitude": 1.34503394154132,
+            "RoadName": "Tampines Ave 1",
+            "Description": "TAMPINES WEST STN EXIT B"
+        },
+        {
+            "Distance": 23.5,
+            "BusStopCode": "03539",
+            "Longitude": 103.85561610012866,
+            "Latitude": 1.2775330547661,
+            "RoadName": "Central Blvd",
+            "Description": "Marina Bay Stn"
+        },
+        {
+            "Distance": 23.9,
+            "BusStopCode": "03529",
+            "Longitude": 103.85278769921703,
+            "Latitude": 1.27939957419063,
+            "RoadName": "Central Blvd",
+            "Description": "Downtown Stn"
+        },
+        {
+            "Distance": 24.5,
+            "BusStopCode": "03129",
+            "Longitude": 103.84956718123823,
+            "Latitude": 1.27807003532092,
+            "RoadName": "Shenton Way",
+            "Description": "UIC Bldg"
+        },
+        {
+            "Distance": 25.1,
+            "BusStopCode": "03218",
+            "Longitude": 103.84687388890413,
+            "Latitude": 1.2740788888387,
+            "RoadName": "Shenton Way",
+            "Description": "Opp MAS Bldg"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "03222",
+            "Longitude": 103.84489562922414,
+            "Latitude": 1.27397836925637,
+            "RoadName": "Anson Rd",
+            "Description": "Hub Synergy Pt"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "03111",
+            "Longitude": 103.8481011719729,
+            "Latitude": 1.2778259536079,
+            "RoadName": "Robinson Rd",
+            "Description": "Aft Capital Twr"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "03071",
+            "Longitude": 103.8493803167706,
+            "Latitude": 1.27992132484601,
+            "RoadName": "Robinson Rd",
+            "Description": "OPP SO SOFITEL S'PORE"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "03381",
+            "Longitude": 103.85306513725685,
+            "Latitude": 1.28162601329006,
+            "RoadName": "Marina Blvd",
+            "Description": "The Sail"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "03391",
+            "Longitude": 103.85498006767988,
+            "Latitude": 1.28037660340352,
+            "RoadName": "Marina Blvd",
+            "Description": "Marina Bay Financial Ctr"
+        },
+        {
+            "Distance": 21.1,
+            "BusStopCode": "75059",
+            "Longitude": 103.9402168928283,
+            "Latitude": 1.34471168546511,
+            "RoadName": "Tampines Ave 1",
+            "Description": "BEF TAMPINES WEST STN"
+        },
+        {
+            "Distance": 21.5,
+            "BusStopCode": "75229",
+            "Longitude": 103.93676608938834,
+            "Latitude": 1.34499782605889,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly East G"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "75239",
+            "Longitude": 103.93257655832721,
+            "Latitude": 1.34675259898315,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "75249",
+            "Longitude": 103.93017010145029,
+            "Latitude": 1.34791499671757,
+            "RoadName": "Tampines Ave 1",
+            "Description": "Temasek Poly West G"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "75031",
+            "Longitude": 103.92946243284943,
+            "Latitude": 1.35080696753697,
+            "RoadName": "Tampines Ave 8",
+            "Description": "Opp Springfield Sec Sch"
+        },
+        {
+            "Distance": 23.1,
+            "BusStopCode": "75101",
+            "Longitude": 103.93150144928326,
+            "Latitude": 1.35109968413462,
+            "RoadName": "Tampines Ave 3",
+            "Description": "Blk 880"
+        },
+        {
+            "Distance": 23.4,
+            "BusStopCode": "75209",
+            "Longitude": 103.93361000002287,
+            "Latitude": 1.35145000000178,
+            "RoadName": "Tampines St 83",
+            "Description": "Blk 882A"
+        },
+        {
+            "Distance": 23.6,
+            "BusStopCode": "75169",
+            "Longitude": 103.93440612457627,
+            "Latitude": 1.35327639994383,
+            "RoadName": "Tampines St 83",
+            "Description": "Opp Blk 853"
+        },
+        {
+            "Distance": 24.2,
+            "BusStopCode": "75131",
+            "Longitude": 103.93709646027764,
+            "Latitude": 1.35594818346107,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Bet Blks 701/702"
+        },
+        {
+            "Distance": 24.5,
+            "BusStopCode": "75121",
+            "Longitude": 103.93903255460283,
+            "Latitude": 1.35593392058986,
+            "RoadName": "Tampines Ave 5",
+            "Description": "Opp Darul Ghufran Mque"
+        }
+    ]
+}

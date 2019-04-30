@@ -1,0 +1,396 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (First Stop)"
+        },
+        {
+            "Distance": 0.5,
+            "BusStopCode": "46281",
+            "Longitude": 103.79002589502426,
+            "Latitude": 1.43878695707764,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 825"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "46391",
+            "Longitude": 103.79299454006805,
+            "Latitude": 1.43921765358175,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 853"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "46761",
+            "Longitude": 103.79740027801978,
+            "Latitude": 1.43964444400977,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 706"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "46771",
+            "Longitude": 103.80018670656507,
+            "Latitude": 1.44088808355944,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Opp Admiralty Stn"
+        },
+        {
+            "Distance": 2.2,
+            "BusStopCode": "47601",
+            "Longitude": 103.80304911976373,
+            "Latitude": 1.44211880036977,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 793"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "47611",
+            "Longitude": 103.80622284389754,
+            "Latitude": 1.44388706173517,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Woodsvale Condo"
+        },
+        {
+            "Distance": 3.2,
+            "BusStopCode": "58301",
+            "Longitude": 103.81055057568135,
+            "Latitude": 1.44485650594175,
+            "RoadName": "Gambas Ave",
+            "Description": "3M Bldg"
+        },
+        {
+            "Distance": 5.7,
+            "BusStopCode": "59279",
+            "Longitude": 103.8288049642525,
+            "Latitude": 1.43670438744279,
+            "RoadName": "Yishun Ave 7",
+            "Description": "Opp Ahmad Ibrahim Sec Sch"
+        },
+        {
+            "Distance": 6,
+            "BusStopCode": "59269",
+            "Longitude": 103.8312528105951,
+            "Latitude": 1.43774971409693,
+            "RoadName": "Yishun Ave 7",
+            "Description": "Opp Blk 174"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "59259",
+            "Longitude": 103.83379791523895,
+            "Latitude": 1.43716783426775,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Darul Makmur Mque"
+        },
+        {
+            "Distance": 6.9,
+            "BusStopCode": "59099",
+            "Longitude": 103.83522544787667,
+            "Latitude": 1.43272835490407,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 220"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "59073",
+            "Longitude": 103.8354631,
+            "Latitude": 1.428686944,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Stn"
+        },
+        {
+            "Distance": 7.6,
+            "BusStopCode": "59069",
+            "Longitude": 103.83536957259517,
+            "Latitude": 1.42657294826877,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Blk 757"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "59059",
+            "Longitude": 103.83497942324875,
+            "Latitude": 1.42054602879781,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 608"
+        },
+        {
+            "Distance": 8.8,
+            "BusStopCode": "59049",
+            "Longitude": 103.83339984073773,
+            "Latitude": 1.41700998157675,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Khatib Stn"
+        },
+        {
+            "Distance": 9.2,
+            "BusStopCode": "59039",
+            "Longitude": 103.83156300557019,
+            "Latitude": 1.41342871609658,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Sports Hall"
+        },
+        {
+            "Distance": 9.9,
+            "BusStopCode": "59029",
+            "Longitude": 103.82924769115782,
+            "Latitude": 1.40885843406387,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Yishun Ave 1"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "59019",
+            "Longitude": 103.82763036053306,
+            "Latitude": 1.40217670308957,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft Sg Seletar Bridge"
+        },
+        {
+            "Distance": 11.1,
+            "BusStopCode": "55289",
+            "Longitude": 103.82903916367646,
+            "Latitude": 1.39844339285315,
+            "RoadName": "Lentor Ave",
+            "Description": "LP 94"
+        },
+        {
+            "Distance": 20.1,
+            "BusStopCode": "65069",
+            "Longitude": 103.90236824858533,
+            "Latitude": 1.39504382175966,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 190C"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "67251",
+            "Longitude": 103.9003121852631,
+            "Latitude": 1.39442862205324,
+            "RoadName": "Compassvale St",
+            "Description": "Compassvale Stn Exit A"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "67241",
+            "Longitude": 103.89846873686203,
+            "Latitude": 1.39296197800695,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 248A"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "67181",
+            "Longitude": 103.89778017996501,
+            "Latitude": 1.39101786005668,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 240"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "67009",
+            "Longitude": 103.89588499436073,
+            "Latitude": 1.39178060381601,
+            "RoadName": "Sengkang Sq",
+            "Description": "Sengkang Int"
+        },
+        {
+            "Distance": 21.8,
+            "BusStopCode": "67189",
+            "Longitude": 103.89742612835978,
+            "Latitude": 1.39059955869523,
+            "RoadName": "Compassvale Rd",
+            "Description": "Opp Blk 241"
+        },
+        {
+            "Distance": 22.2,
+            "BusStopCode": "67249",
+            "Longitude": 103.89850423466406,
+            "Latitude": 1.39376571527248,
+            "RoadName": "Compassvale Rd",
+            "Description": "Blk 259C"
+        },
+        {
+            "Distance": 22.5,
+            "BusStopCode": "67259",
+            "Longitude": 103.90046238900585,
+            "Latitude": 1.39465386086721,
+            "RoadName": "Compassvale St",
+            "Description": "Compassvale Stn Exit B"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "65061",
+            "Longitude": 103.9018594759131,
+            "Latitude": 1.39490129020977,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 298A"
+        },
+        {
+            "Distance": 31.8,
+            "BusStopCode": "55281",
+            "Longitude": 103.8288169,
+            "Latitude": 1.398135,
+            "RoadName": "Lentor Ave",
+            "Description": "Aft SLE"
+        },
+        {
+            "Distance": 32.3,
+            "BusStopCode": "59011",
+            "Longitude": 103.82737908252,
+            "Latitude": 1.40205059877403,
+            "RoadName": "Lentor Ave",
+            "Description": "Bef Sg Seletar Bridge"
+        },
+        {
+            "Distance": 33.2,
+            "BusStopCode": "59021",
+            "Longitude": 103.828825,
+            "Latitude": 1.407988889,
+            "RoadName": "Lentor Ave",
+            "Description": "Bef Yishun Ave 1"
+        },
+        {
+            "Distance": 33.6,
+            "BusStopCode": "59031",
+            "Longitude": 103.83083958669692,
+            "Latitude": 1.41277747172151,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Yishun Sports Hall"
+        },
+        {
+            "Distance": 34,
+            "BusStopCode": "59041",
+            "Longitude": 103.832591612732,
+            "Latitude": 1.41625420109094,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Bef Khatib Stn"
+        },
+        {
+            "Distance": 34.4,
+            "BusStopCode": "59051",
+            "Longitude": 103.83429674432547,
+            "Latitude": 1.41968270185637,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 790"
+        },
+        {
+            "Distance": 35.1,
+            "BusStopCode": "59061",
+            "Longitude": 103.83495820649408,
+            "Latitude": 1.42556399229911,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 763"
+        },
+        {
+            "Distance": 35.5,
+            "BusStopCode": "59079",
+            "Longitude": 103.835245,
+            "Latitude": 1.429293889,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Yishun Stn"
+        },
+        {
+            "Distance": 35.8,
+            "BusStopCode": "59091",
+            "Longitude": 103.83510814544051,
+            "Latitude": 1.43165245434506,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Blk 154"
+        },
+        {
+            "Distance": 36.4,
+            "BusStopCode": "59251",
+            "Longitude": 103.83368337352286,
+            "Latitude": 1.43669132626001,
+            "RoadName": "Yishun Ave 2",
+            "Description": "Opp Darul Makmur Mque"
+        },
+        {
+            "Distance": 36.7,
+            "BusStopCode": "59261",
+            "Longitude": 103.83159143616113,
+            "Latitude": 1.43755803458153,
+            "RoadName": "Yishun Ave 7",
+            "Description": "Blk 174"
+        },
+        {
+            "Distance": 37.1,
+            "BusStopCode": "59271",
+            "Longitude": 103.82855161345292,
+            "Latitude": 1.4362831713903,
+            "RoadName": "Yishun Ave 7",
+            "Description": "Blk 118"
+        },
+        {
+            "Distance": 39.6,
+            "BusStopCode": "58309",
+            "Longitude": 103.81036650514453,
+            "Latitude": 1.44466063592056,
+            "RoadName": "Gambas Ave",
+            "Description": "Opp 3M Bldg"
+        },
+        {
+            "Distance": 40,
+            "BusStopCode": "47619",
+            "Longitude": 103.80713784459924,
+            "Latitude": 1.44430697551185,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Opp Woodsvale Condo"
+        },
+        {
+            "Distance": 40.5,
+            "BusStopCode": "47609",
+            "Longitude": 103.80309468577371,
+            "Latitude": 1.44184941782685,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Opp Blk 793"
+        },
+        {
+            "Distance": 40.8,
+            "BusStopCode": "46779",
+            "Longitude": 103.80070754495145,
+            "Latitude": 1.44071357576488,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Admiralty Stn"
+        },
+        {
+            "Distance": 41.2,
+            "BusStopCode": "46769",
+            "Longitude": 103.79735798460473,
+            "Latitude": 1.43935103379454,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 666"
+        },
+        {
+            "Distance": 41.6,
+            "BusStopCode": "46399",
+            "Longitude": 103.79423705109248,
+            "Latitude": 1.43896035246776,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Aft 888 Plaza"
+        },
+        {
+            "Distance": 42,
+            "BusStopCode": "46289",
+            "Longitude": 103.79091198323174,
+            "Latitude": 1.43872239825648,
+            "RoadName": "Woodlands Ave 7",
+            "Description": "Blk 891C CP"
+        },
+        {
+            "Distance": 42.5,
+            "BusStopCode": "46009",
+            "Longitude": 103.78583255758879,
+            "Latitude": 1.43738519586471,
+            "RoadName": "Woodlands Sq",
+            "Description": "W'Lands Temp Int (Last Stop)"
+        }
+    ]
+}

@@ -1,0 +1,654 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "54009",
+            "Longitude": 103.84856716193268,
+            "Latitude": 1.36968769913339,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Ang Mo Kio Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "54248",
+            "Longitude": 103.84661006967286,
+            "Latitude": 1.36875490594243,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 324"
+        },
+        {
+            "Distance": 1.1,
+            "BusStopCode": "54019",
+            "Longitude": 103.84418333302729,
+            "Latitude": 1.36618666697727,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Aft Blk 304"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "54071",
+            "Longitude": 103.84490672378502,
+            "Latitude": 1.36433664907741,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "BLK 310"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "54081",
+            "Longitude": 103.84786694396756,
+            "Latitude": 1.36358972199933,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "TECK GHEE CT"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "54091",
+            "Longitude": 103.85092799797833,
+            "Latitude": 1.36167975047647,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "BLK 331"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "54101",
+            "Longitude": 103.85465761724518,
+            "Latitude": 1.35732097800984,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Aft Ang Mo Kio Ave 10"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "66091",
+            "Longitude": 103.86145166702076,
+            "Latitude": 1.35454666698201,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Golden Hill Est"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "66031",
+            "Longitude": 103.86572364607075,
+            "Latitude": 1.35465640659199,
+            "RoadName": "Lor Chuan",
+            "Description": "Cardiff Residence"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "66111",
+            "Longitude": 103.86823666699911,
+            "Latitude": 1.35848277799301,
+            "RoadName": "Lor Chuan",
+            "Description": "Opp Grace Wk"
+        },
+        {
+            "Distance": 5.2,
+            "BusStopCode": "66121",
+            "Longitude": 103.86776000002241,
+            "Latitude": 1.36239972197855,
+            "RoadName": "Lor Chuan",
+            "Description": "Chuan Terr"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "66271",
+            "Longitude": 103.86578916701893,
+            "Latitude": 1.36398333300081,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Serangoon Gdn Circus"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "66131",
+            "Longitude": 103.87019205208469,
+            "Latitude": 1.36346698150382,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Aft Trinity Meth Ch"
+        },
+        {
+            "Distance": 6.3,
+            "BusStopCode": "66141",
+            "Longitude": 103.87239656838271,
+            "Latitude": 1.36311828855893,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Bef Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 6.5,
+            "BusStopCode": "63189",
+            "Longitude": 103.87363460960414,
+            "Latitude": 1.36133997852966,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Serangoon Gdn Way"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "63179",
+            "Longitude": 103.87393532776181,
+            "Latitude": 1.35999305129204,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef Tai Seng Chr Ch"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "63169",
+            "Longitude": 103.87567788589342,
+            "Latitude": 1.35703664863271,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Opp Serangoon Swim Cplx"
+        },
+        {
+            "Distance": 7.3,
+            "BusStopCode": "63159",
+            "Longitude": 103.87701916697013,
+            "Latitude": 1.35516666700323,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Highland Ctr"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "63011",
+            "Longitude": 103.87823575937183,
+            "Latitude": 1.35432115760902,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Upp S'Goon Shop Ctr"
+        },
+        {
+            "Distance": 8,
+            "BusStopCode": "63021",
+            "Longitude": 103.88161613087621,
+            "Latitude": 1.3570580828827,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "The Helping Hand"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "63031",
+            "Longitude": 103.88535194446017,
+            "Latitude": 1.36050444441455,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit B"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "63041",
+            "Longitude": 103.88754805602413,
+            "Latitude": 1.36259166703136,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Glad Tidings Ch"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "63051",
+            "Longitude": 103.8891427848695,
+            "Latitude": 1.36415166798646,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Serangoon JC"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "63061",
+            "Longitude": 103.89129134480065,
+            "Latitude": 1.36623834226067,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 25"
+        },
+        {
+            "Distance": 9.6,
+            "BusStopCode": "64011",
+            "Longitude": 103.8927594439902,
+            "Latitude": 1.36756333302324,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Naung Ct"
+        },
+        {
+            "Distance": 10,
+            "BusStopCode": "64041",
+            "Longitude": 103.89535999996711,
+            "Latitude": 1.37016500002901,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "The Midtown"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "64051",
+            "Longitude": 103.89777362456783,
+            "Latitude": 1.37239666924933,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 465A"
+        },
+        {
+            "Distance": 10.9,
+            "BusStopCode": "64061",
+            "Longitude": 103.90111900001394,
+            "Latitude": 1.37557886299976,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Serangoon Sec Sch"
+        },
+        {
+            "Distance": 11.4,
+            "BusStopCode": "64401",
+            "Longitude": 103.9032366204475,
+            "Latitude": 1.37839309319848,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 477A"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "67159",
+            "Longitude": 103.90225602044251,
+            "Latitude": 1.38436793782529,
+            "RoadName": "Rivervale Dr",
+            "Description": "Kangkar Stn Exit A"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "67139",
+            "Longitude": 103.90417577185805,
+            "Latitude": 1.38715714684677,
+            "RoadName": "Rivervale Dr",
+            "Description": "Nth Spring Pr Sch"
+        },
+        {
+            "Distance": 13,
+            "BusStopCode": "67129",
+            "Longitude": 103.90498892005203,
+            "Latitude": 1.38936844113699,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 137"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "67119",
+            "Longitude": 103.90323582065614,
+            "Latitude": 1.39050824371994,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 128"
+        },
+        {
+            "Distance": 13.8,
+            "BusStopCode": "65061",
+            "Longitude": 103.9018594759131,
+            "Latitude": 1.39490129020977,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 298A"
+        },
+        {
+            "Distance": 14.3,
+            "BusStopCode": "65071",
+            "Longitude": 103.90416383740006,
+            "Latitude": 1.39845074063981,
+            "RoadName": "Punggol Rd",
+            "Description": "Opp Blk 103A"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "65151",
+            "Longitude": 103.90673526652138,
+            "Latitude": 1.39891123085834,
+            "RoadName": "Punggol Field",
+            "Description": "Cove Stn Exit B"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "65241",
+            "Longitude": 103.90767172209786,
+            "Latitude": 1.39917246521216,
+            "RoadName": "Edgefield Plains",
+            "Description": "Blk 196C"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "65289",
+            "Longitude": 103.90762981656073,
+            "Latitude": 1.40173746082241,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Opp Punggol Sec/Blk 195E"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "65229",
+            "Longitude": 103.90556931496221,
+            "Latitude": 1.40320219454105,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Blk 298"
+        },
+        {
+            "Distance": 16.1,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "65009",
+            "Longitude": 103.90224337575333,
+            "Latitude": 1.40370629859822,
+            "RoadName": "Punggol Pl",
+            "Description": "Punggol Temp Int"
+        },
+        {
+            "Distance": 0.6,
+            "BusStopCode": "65221",
+            "Longitude": 103.90480763848863,
+            "Latitude": 1.40402842836975,
+            "RoadName": "Punggol Ctrl",
+            "Description": "BLK 303D"
+        },
+        {
+            "Distance": 0.9,
+            "BusStopCode": "65281",
+            "Longitude": 103.90783309940194,
+            "Latitude": 1.40201165055481,
+            "RoadName": "Punggol Ctrl",
+            "Description": "Punggol Sec/Blk 601B"
+        },
+        {
+            "Distance": 1.2,
+            "BusStopCode": "65249",
+            "Longitude": 103.90824975943016,
+            "Latitude": 1.39963747797366,
+            "RoadName": "Edgefield Plains",
+            "Description": "Blk 178"
+        },
+        {
+            "Distance": 1.5,
+            "BusStopCode": "65159",
+            "Longitude": 103.90665292741664,
+            "Latitude": 1.39856872266182,
+            "RoadName": "Punggol Field",
+            "Description": "Cove Stn Exit A"
+        },
+        {
+            "Distance": 1.8,
+            "BusStopCode": "65079",
+            "Longitude": 103.90474802293774,
+            "Latitude": 1.39893574516181,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 102C"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "65069",
+            "Longitude": 103.90236824858533,
+            "Latitude": 1.39504382175966,
+            "RoadName": "Punggol Rd",
+            "Description": "Blk 190C"
+        },
+        {
+            "Distance": 2.6,
+            "BusStopCode": "65059",
+            "Longitude": 103.90129355204087,
+            "Latitude": 1.39308440832899,
+            "RoadName": "Punggol Rd",
+            "Description": "St. Anne's Ch"
+        },
+        {
+            "Distance": 2.9,
+            "BusStopCode": "67111",
+            "Longitude": 103.90237246307768,
+            "Latitude": 1.39105369405739,
+            "RoadName": "Sengkang East Way",
+            "Description": "Chij St. Joseph'S Convent"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "67121",
+            "Longitude": 103.90518999989366,
+            "Latitude": 1.38949805550873,
+            "RoadName": "Sengkang East Way",
+            "Description": "Blk 142A"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "67131",
+            "Longitude": 103.90527388892869,
+            "Latitude": 1.38767805568948,
+            "RoadName": "Rivervale Dr",
+            "Description": "Bakau Stn/Blk 122F"
+        },
+        {
+            "Distance": 3.9,
+            "BusStopCode": "67141",
+            "Longitude": 103.90353194446361,
+            "Latitude": 1.38602111109914,
+            "RoadName": "Rivervale Dr",
+            "Description": "Blk 119D"
+        },
+        {
+            "Distance": 4.3,
+            "BusStopCode": "67151",
+            "Longitude": 103.90215499999188,
+            "Latitude": 1.38353305558266,
+            "RoadName": "Rivervale Dr",
+            "Description": "Kangkar Stn Exit B"
+        },
+        {
+            "Distance": 5,
+            "BusStopCode": "64409",
+            "Longitude": 103.90352727356866,
+            "Latitude": 1.37820165544364,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 477A"
+        },
+        {
+            "Distance": 5.4,
+            "BusStopCode": "64069",
+            "Longitude": 103.90134716214978,
+            "Latitude": 1.37526504951859,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Serangoon Sec Sch"
+        },
+        {
+            "Distance": 5.8,
+            "BusStopCode": "64059",
+            "Longitude": 103.89837470452339,
+            "Latitude": 1.37249135705281,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 355"
+        },
+        {
+            "Distance": 6.1,
+            "BusStopCode": "64049",
+            "Longitude": 103.89603248614272,
+            "Latitude": 1.3703713899857,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp The Midtown"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "64019",
+            "Longitude": 103.89393838248249,
+            "Latitude": 1.368308353364,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "63069",
+            "Longitude": 103.89194715850095,
+            "Latitude": 1.36637999879956,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 25"
+        },
+        {
+            "Distance": 7,
+            "BusStopCode": "63059",
+            "Longitude": 103.88984149586426,
+            "Latitude": 1.36437667280221,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Serangoon JC"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "63049",
+            "Longitude": 103.88752277779692,
+            "Latitude": 1.36219166668854,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Glad Tidings Ch"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "63039",
+            "Longitude": 103.88538416663954,
+            "Latitude": 1.36026000003341,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Kovan Stn Exit C"
+        },
+        {
+            "Distance": 8.3,
+            "BusStopCode": "63029",
+            "Longitude": 103.88218027802674,
+            "Latitude": 1.35727472200293,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp The Helping Hand"
+        },
+        {
+            "Distance": 8.9,
+            "BusStopCode": "63019",
+            "Longitude": 103.87800141702434,
+            "Latitude": 1.35347964311763,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Aft Upp S'Goon Shop Ctr"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "63151",
+            "Longitude": 103.87758355854012,
+            "Latitude": 1.35412291412202,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Aft Upp S'Goon Rd"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "63161",
+            "Longitude": 103.87530650239555,
+            "Latitude": 1.35717307747832,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Serangoon Swim Cplx"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "63181",
+            "Longitude": 103.87346222201559,
+            "Latitude": 1.36083138898279,
+            "RoadName": "Yio Chu Kang Rd",
+            "Description": "Bef St. Helier's Ave"
+        },
+        {
+            "Distance": 10.5,
+            "BusStopCode": "66149",
+            "Longitude": 103.87236222198605,
+            "Latitude": 1.36291833299844,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Aft Yio Chu Kang Rd"
+        },
+        {
+            "Distance": 10.8,
+            "BusStopCode": "66139",
+            "Longitude": 103.86929111065648,
+            "Latitude": 1.36357778856307,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Opp Trinity Meth Ch"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "66271",
+            "Longitude": 103.86578916701893,
+            "Latitude": 1.36398333300081,
+            "RoadName": "S'goon Gdn Way",
+            "Description": "Serangoon Gdn Circus"
+        },
+        {
+            "Distance": 11.8,
+            "BusStopCode": "66129",
+            "Longitude": 103.8680175,
+            "Latitude": 1.361491111,
+            "RoadName": "Lor Chuan",
+            "Description": "Aft Chuan Gdn"
+        },
+        {
+            "Distance": 12.3,
+            "BusStopCode": "66119",
+            "Longitude": 103.86812666696963,
+            "Latitude": 1.35683000003038,
+            "RoadName": "Lor Chuan",
+            "Description": "Summer Pl"
+        },
+        {
+            "Distance": 12.6,
+            "BusStopCode": "66039",
+            "Longitude": 103.86668854745251,
+            "Latitude": 1.35475138514216,
+            "RoadName": "Lor Chuan",
+            "Description": "Blk 307"
+        },
+        {
+            "Distance": 13.3,
+            "BusStopCode": "66099",
+            "Longitude": 103.86142199387719,
+            "Latitude": 1.35427474694456,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Opp Golden Hill Est"
+        },
+        {
+            "Distance": 14.2,
+            "BusStopCode": "54109",
+            "Longitude": 103.85433890252277,
+            "Latitude": 1.35708169204878,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Bef Ang Mo Kio Ave 10"
+        },
+        {
+            "Distance": 14.8,
+            "BusStopCode": "54099",
+            "Longitude": 103.85104805596895,
+            "Latitude": 1.36118777797342,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "OPP BLK 333"
+        },
+        {
+            "Distance": 15.1,
+            "BusStopCode": "54089",
+            "Longitude": 103.8484911674186,
+            "Latitude": 1.36297001065247,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "OPP ANG MO KIO SWIM CPLX"
+        },
+        {
+            "Distance": 15.4,
+            "BusStopCode": "54079",
+            "Longitude": 103.84585916699372,
+            "Latitude": 1.36389805596869,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "OPP BLK 315"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "54011",
+            "Longitude": 103.84341042482097,
+            "Latitude": 1.36567044820875,
+            "RoadName": "Ang Mo Kio Ave 6",
+            "Description": "Blk 207"
+        },
+        {
+            "Distance": 16.4,
+            "BusStopCode": "54241",
+            "Longitude": 103.84618005827467,
+            "Latitude": 1.36913518643274,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 700B"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "54009",
+            "Longitude": 103.84856716193268,
+            "Latitude": 1.36968769913339,
+            "RoadName": "Ang Mo Kio Ave 8",
+            "Description": "Ang Mo Kio Int"
+        }
+    ]
+}

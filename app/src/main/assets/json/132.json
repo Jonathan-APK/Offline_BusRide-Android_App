@@ -1,0 +1,894 @@
+{
+    "direction 1": [
+        {
+            "Distance": 0,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "64019",
+            "Longitude": 103.89393838248249,
+            "Latitude": 1.368308353364,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Blk 302"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "63349",
+            "Longitude": 103.88923358520269,
+            "Latitude": 1.36687207146588,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 708"
+        },
+        {
+            "Distance": 2,
+            "BusStopCode": "63339",
+            "Longitude": 103.88451259380585,
+            "Latitude": 1.36811854812783,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 615"
+        },
+        {
+            "Distance": 2.3,
+            "BusStopCode": "63329",
+            "Longitude": 103.882008479663,
+            "Latitude": 1.36862870083779,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 627"
+        },
+        {
+            "Distance": 2.8,
+            "BusStopCode": "63319",
+            "Longitude": 103.87814733411857,
+            "Latitude": 1.36921737828483,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 634"
+        },
+        {
+            "Distance": 3.3,
+            "BusStopCode": "66109",
+            "Longitude": 103.8746132395795,
+            "Latitude": 1.3699792245468,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 151"
+        },
+        {
+            "Distance": 3.8,
+            "BusStopCode": "66339",
+            "Longitude": 103.87055805068519,
+            "Latitude": 1.37125183222903,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 101"
+        },
+        {
+            "Distance": 4.4,
+            "BusStopCode": "66349",
+            "Longitude": 103.86541771672718,
+            "Latitude": 1.37082760014108,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Daikin S'pore"
+        },
+        {
+            "Distance": 4.7,
+            "BusStopCode": "54309",
+            "Longitude": 103.86306604022437,
+            "Latitude": 1.36988835306854,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Blk 5022"
+        },
+        {
+            "Distance": 5.3,
+            "BusStopCode": "54299",
+            "Longitude": 103.85832656880861,
+            "Latitude": 1.36890152697813,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Blk 565"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "54289",
+            "Longitude": 103.8561504529793,
+            "Latitude": 1.36910303231028,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 452"
+        },
+        {
+            "Distance": 5.9,
+            "BusStopCode": "54279",
+            "Longitude": 103.85404760550173,
+            "Latitude": 1.36968919033429,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 427"
+        },
+        {
+            "Distance": 6.2,
+            "BusStopCode": "54269",
+            "Longitude": 103.85111893571647,
+            "Latitude": 1.36921006543476,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Ang Mo Kio Stn"
+        },
+        {
+            "Distance": 6.7,
+            "BusStopCode": "54248",
+            "Longitude": 103.84661006967286,
+            "Latitude": 1.36875490594243,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 324"
+        },
+        {
+            "Distance": 7.1,
+            "BusStopCode": "54239",
+            "Longitude": 103.84332015576305,
+            "Latitude": 1.369186093503,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 209"
+        },
+        {
+            "Distance": 7.5,
+            "BusStopCode": "54229",
+            "Longitude": 103.83993274827546,
+            "Latitude": 1.36960577947339,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Ang Mo Kio Pr Sch"
+        },
+        {
+            "Distance": 7.9,
+            "BusStopCode": "54219",
+            "Longitude": 103.83679395921905,
+            "Latitude": 1.36880777071199,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "OPP MAYFLOWER SEC SCH"
+        },
+        {
+            "Distance": 8.4,
+            "BusStopCode": "54069",
+            "Longitude": 103.83405562626137,
+            "Latitude": 1.36691997150676,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Opp Blk 246"
+        },
+        {
+            "Distance": 8.6,
+            "BusStopCode": "56269",
+            "Longitude": 103.83233403239235,
+            "Latitude": 1.36741835425889,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Opp Blk 248"
+        },
+        {
+            "Distance": 9.1,
+            "BusStopCode": "53099",
+            "Longitude": 103.82842866172699,
+            "Latitude": 1.36660638165473,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Ang Mo Kio Ave 1"
+        },
+        {
+            "Distance": 9.4,
+            "BusStopCode": "53089",
+            "Longitude": 103.82823689416603,
+            "Latitude": 1.36413164157937,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Faber Gdn"
+        },
+        {
+            "Distance": 9.8,
+            "BusStopCode": "53079",
+            "Longitude": 103.82864333297208,
+            "Latitude": 1.36082666696977,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Flame Tree Pk"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "53069",
+            "Longitude": 103.82894351047115,
+            "Latitude": 1.35777159286274,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Aft Windsor Pk Rd"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "53059",
+            "Longitude": 103.8314804136155,
+            "Latitude": 1.35539998953236,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Thomson Plaza"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "53049",
+            "Longitude": 103.83422172361446,
+            "Latitude": 1.35362664583092,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Jln Todak"
+        },
+        {
+            "Distance": 11.3,
+            "BusStopCode": "53039",
+            "Longitude": 103.83591070615076,
+            "Latitude": 1.35144681735328,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Thomson CC"
+        },
+        {
+            "Distance": 11.6,
+            "BusStopCode": "53029",
+            "Longitude": 103.83729222566143,
+            "Latitude": 1.34939240848355,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Shunfu Est"
+        },
+        {
+            "Distance": 12,
+            "BusStopCode": "53019",
+            "Longitude": 103.83880345588697,
+            "Latitude": 1.34592211870884,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "OPP ST. THERESA'S HME"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "51069",
+            "Longitude": 103.83660435635784,
+            "Latitude": 1.34125785266365,
+            "RoadName": "Thomson Rd",
+            "Description": "Mt Alvernia Hosp"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "51059",
+            "Longitude": 103.83741015632776,
+            "Latitude": 1.33704971547884,
+            "RoadName": "Thomson Rd",
+            "Description": "AFT TOA PAYOH RISE"
+        },
+        {
+            "Distance": 13.6,
+            "BusStopCode": "51049",
+            "Longitude": 103.83795811295674,
+            "Latitude": 1.3338213150365,
+            "RoadName": "Thomson Rd",
+            "Description": "SLF Cplx"
+        },
+        {
+            "Distance": 13.9,
+            "BusStopCode": "51039",
+            "Longitude": 103.83888866147537,
+            "Latitude": 1.33165828742218,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp S'pore Polo Club"
+        },
+        {
+            "Distance": 14.1,
+            "BusStopCode": "51029",
+            "Longitude": 103.8397133983878,
+            "Latitude": 1.3302549684081,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp Old Police Academy"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "51109",
+            "Longitude": 103.8397080559738,
+            "Latitude": 1.32709277800856,
+            "RoadName": "Whitley Rd",
+            "Description": "Opp Old Police Academy"
+        },
+        {
+            "Distance": 15.3,
+            "BusStopCode": "51099",
+            "Longitude": 103.8345342161876,
+            "Latitude": 1.325881667006,
+            "RoadName": "Whitley Rd",
+            "Description": "Catholic JC"
+        },
+        {
+            "Distance": 16.2,
+            "BusStopCode": "40249",
+            "Longitude": 103.82735055603025,
+            "Latitude": 1.3249247219882,
+            "RoadName": "Whitley Rd",
+            "Description": "St. Joseph'S Instn"
+        },
+        {
+            "Distance": 16.5,
+            "BusStopCode": "40239",
+            "Longitude": 103.82620193736967,
+            "Latitude": 1.32255443038995,
+            "RoadName": "Whitley Rd",
+            "Description": "Aft Tanglin CC"
+        },
+        {
+            "Distance": 16.9,
+            "BusStopCode": "40229",
+            "Longitude": 103.82570109605929,
+            "Latitude": 1.31933337975163,
+            "RoadName": "Stevens Rd",
+            "Description": "Aft Stevens Stn"
+        },
+        {
+            "Distance": 17.2,
+            "BusStopCode": "40219",
+            "Longitude": 103.82605954338264,
+            "Latitude": 1.31703698010115,
+            "RoadName": "Stevens Rd",
+            "Description": "Bef Met YMCA"
+        },
+        {
+            "Distance": 17.6,
+            "BusStopCode": "40209",
+            "Longitude": 103.82738777802837,
+            "Latitude": 1.31388805600649,
+            "RoadName": "Stevens Rd",
+            "Description": "NOVOTEL MERCURE @ STEVENS"
+        },
+        {
+            "Distance": 18.1,
+            "BusStopCode": "40199",
+            "Longitude": 103.83191222199584,
+            "Latitude": 1.31258333303153,
+            "RoadName": "Stevens Rd",
+            "Description": "Opp Raffles Girls' Sch"
+        },
+        {
+            "Distance": 18.8,
+            "BusStopCode": "09219",
+            "Longitude": 103.83316088291699,
+            "Latitude": 1.30731999685228,
+            "RoadName": "Scotts Rd",
+            "Description": "Far East Plaza"
+        },
+        {
+            "Distance": 19.5,
+            "BusStopCode": "09111",
+            "Longitude": 103.82914529614989,
+            "Latitude": 1.30453752623147,
+            "RoadName": "Orchard Blvd",
+            "Description": "Opp Four Seasons Hotel"
+        },
+        {
+            "Distance": 19.8,
+            "BusStopCode": "09121",
+            "Longitude": 103.82699645124522,
+            "Latitude": 1.30397379238249,
+            "RoadName": "Orchard Blvd",
+            "Description": "Bef Tomlinson Rd"
+        },
+        {
+            "Distance": 20.4,
+            "BusStopCode": "09131",
+            "Longitude": 103.82333805603095,
+            "Latitude": 1.30391999998489,
+            "RoadName": "Grange Rd",
+            "Description": "Grange Residences"
+        },
+        {
+            "Distance": 20.6,
+            "BusStopCode": "13209",
+            "Longitude": 103.82205605505206,
+            "Latitude": 1.3040310710651,
+            "RoadName": "Tanglin Rd",
+            "Description": "Opp British High Comm"
+        },
+        {
+            "Distance": 20.9,
+            "BusStopCode": "13049",
+            "Longitude": 103.82045069624506,
+            "Latitude": 1.30261671321463,
+            "RoadName": "Tanglin Rd",
+            "Description": "Bef Rochalie Dr"
+        },
+        {
+            "Distance": 21.4,
+            "BusStopCode": "13039",
+            "Longitude": 103.81744265557978,
+            "Latitude": 1.29981572699945,
+            "RoadName": "Tanglin Rd",
+            "Description": "Bef Chatsworth Rd"
+        },
+        {
+            "Distance": 22.1,
+            "BusStopCode": "10329",
+            "Longitude": 103.81597460107542,
+            "Latitude": 1.29364671283262,
+            "RoadName": "Tanglin Rd",
+            "Description": "Crescent Girls' Sch"
+        },
+        {
+            "Distance": 22.7,
+            "BusStopCode": "10209",
+            "Longitude": 103.81672885450702,
+            "Latitude": 1.28954631749853,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Redhill Stn"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "10199",
+            "Longitude": 103.81936618662205,
+            "Latitude": 1.28875723330649,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Delta Swim Cplx"
+        },
+        {
+            "Distance": 23.3,
+            "BusStopCode": "10189",
+            "Longitude": 103.82183192865197,
+            "Latitude": 1.28858805222806,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Blk 104A CP"
+        },
+        {
+            "Distance": 23.5,
+            "BusStopCode": "10359",
+            "Longitude": 103.82259298997768,
+            "Latitude": 1.28723833324362,
+            "RoadName": "Henderson Rd",
+            "Description": "Aft Tiong Bahru Rd"
+        },
+        {
+            "Distance": 23.8,
+            "BusStopCode": "10349",
+            "Longitude": 103.82104149555396,
+            "Latitude": 1.2849833405097,
+            "RoadName": "Henderson Rd",
+            "Description": "Blk 116"
+        },
+        {
+            "Distance": 24.5,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int"
+        }
+    ],
+    "direction 2": [
+        {
+            "Distance": 0,
+            "BusStopCode": "10009",
+            "Longitude": 103.81722480263163,
+            "Latitude": 1.28210155945393,
+            "RoadName": "Bt Merah Ctrl",
+            "Description": "Bt Merah Int"
+        },
+        {
+            "Distance": 0.7,
+            "BusStopCode": "10341",
+            "Longitude": 103.82059301467888,
+            "Latitude": 1.28484639603431,
+            "RoadName": "Henderson Rd",
+            "Description": "Opp Blk 116"
+        },
+        {
+            "Distance": 1,
+            "BusStopCode": "10351",
+            "Longitude": 103.82204990181914,
+            "Latitude": 1.28675501760897,
+            "RoadName": "Henderson Rd",
+            "Description": "Bef Tiong Bahru Rd"
+        },
+        {
+            "Distance": 1.4,
+            "BusStopCode": "10181",
+            "Longitude": 103.8209448467392,
+            "Latitude": 1.28848771148124,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "BEF AR-RABITAH MQUE"
+        },
+        {
+            "Distance": 1.6,
+            "BusStopCode": "10191",
+            "Longitude": 103.81903121724014,
+            "Latitude": 1.28860026020096,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Blk 78"
+        },
+        {
+            "Distance": 1.9,
+            "BusStopCode": "10201",
+            "Longitude": 103.81662854691157,
+            "Latitude": 1.28928144532567,
+            "RoadName": "Tiong Bahru Rd",
+            "Description": "Opp Redhill Stn"
+        },
+        {
+            "Distance": 2.5,
+            "BusStopCode": "10321",
+            "Longitude": 103.81587839882768,
+            "Latitude": 1.29428332949691,
+            "RoadName": "Tanglin Rd",
+            "Description": "Aft Margaret Dr"
+        },
+        {
+            "Distance": 3.1,
+            "BusStopCode": "13031",
+            "Longitude": 103.81707388901162,
+            "Latitude": 1.29912972200223,
+            "RoadName": "Tanglin Rd",
+            "Description": "Opp Chatsworth Rd"
+        },
+        {
+            "Distance": 3.6,
+            "BusStopCode": "13041",
+            "Longitude": 103.81967634723284,
+            "Latitude": 1.30242834318416,
+            "RoadName": "Tanglin Rd",
+            "Description": "Aft Rochalie Dr"
+        },
+        {
+            "Distance": 4,
+            "BusStopCode": "13201",
+            "Longitude": 103.82209559895128,
+            "Latitude": 1.30453622259471,
+            "RoadName": "Tanglin Rd",
+            "Description": "British High Comm"
+        },
+        {
+            "Distance": 4.5,
+            "BusStopCode": "09159",
+            "Longitude": 103.82568042620605,
+            "Latitude": 1.30602637557418,
+            "RoadName": "Tanglin Rd",
+            "Description": "Aft Tomlinson Rd"
+        },
+        {
+            "Distance": 4.8,
+            "BusStopCode": "09169",
+            "Longitude": 103.82835507326037,
+            "Latitude": 1.3070135326348,
+            "RoadName": "Orchard Rd",
+            "Description": "Delfi Orchard"
+        },
+        {
+            "Distance": 5.1,
+            "BusStopCode": "09179",
+            "Longitude": 103.83049004618626,
+            "Latitude": 1.30587966240898,
+            "RoadName": "Orchard Rd",
+            "Description": "Royal Thai Embassy"
+        },
+        {
+            "Distance": 5.6,
+            "BusStopCode": "09213",
+            "Longitude": 103.83305083303023,
+            "Latitude": 1.30783805600034,
+            "RoadName": "Scotts Rd",
+            "Description": "Thong Teck Bldg"
+        },
+        {
+            "Distance": 6.4,
+            "BusStopCode": "40191",
+            "Longitude": 103.8304269440197,
+            "Latitude": 1.31268555601325,
+            "RoadName": "Stevens Rd",
+            "Description": "Raffles Girls' Sch"
+        },
+        {
+            "Distance": 6.8,
+            "BusStopCode": "40201",
+            "Longitude": 103.82743055599407,
+            "Latitude": 1.31358972201496,
+            "RoadName": "Stevens Rd",
+            "Description": "Chelsea Gdns Condo"
+        },
+        {
+            "Distance": 7.2,
+            "BusStopCode": "40211",
+            "Longitude": 103.825862990405,
+            "Latitude": 1.31655331624558,
+            "RoadName": "Stevens Rd",
+            "Description": "Opp Met YMCA"
+        },
+        {
+            "Distance": 7.4,
+            "BusStopCode": "40221",
+            "Longitude": 103.82545561296305,
+            "Latitude": 1.31902531287493,
+            "RoadName": "Stevens Rd",
+            "Description": "Opp Stevens Stn"
+        },
+        {
+            "Distance": 7.8,
+            "BusStopCode": "40231",
+            "Longitude": 103.82568817714628,
+            "Latitude": 1.32214806956461,
+            "RoadName": "Whitley Rd",
+            "Description": "Raffles Town Club"
+        },
+        {
+            "Distance": 9.3,
+            "BusStopCode": "51091",
+            "Longitude": 103.83401870730577,
+            "Latitude": 1.32648060854916,
+            "RoadName": "PIE",
+            "Description": "Opp Catholic JC"
+        },
+        {
+            "Distance": 9.7,
+            "BusStopCode": "51101",
+            "Longitude": 103.83724817699014,
+            "Latitude": 1.32753637537789,
+            "RoadName": "PIE",
+            "Description": "Old Police Academy"
+        },
+        {
+            "Distance": 10.2,
+            "BusStopCode": "51021",
+            "Longitude": 103.83925888900175,
+            "Latitude": 1.33032500001091,
+            "RoadName": "Thomson Rd",
+            "Description": "Old Police Academy"
+        },
+        {
+            "Distance": 10.4,
+            "BusStopCode": "51031",
+            "Longitude": 103.83859992029566,
+            "Latitude": 1.33162906440184,
+            "RoadName": "Thomson Rd",
+            "Description": "S'pore Polo Club"
+        },
+        {
+            "Distance": 10.6,
+            "BusStopCode": "51041",
+            "Longitude": 103.8379172613076,
+            "Latitude": 1.33343558724869,
+            "RoadName": "Thomson Rd",
+            "Description": "Opp SLF Cplx"
+        },
+        {
+            "Distance": 11,
+            "BusStopCode": "51051",
+            "Longitude": 103.83701900964012,
+            "Latitude": 1.33632973264737,
+            "RoadName": "Thomson Rd",
+            "Description": "AFT ANDREW RD"
+        },
+        {
+            "Distance": 11.7,
+            "BusStopCode": "51071",
+            "Longitude": 103.83596576505084,
+            "Latitude": 1.34219256998908,
+            "RoadName": "Thomson Rd",
+            "Description": "Macritchie Reservoir"
+        },
+        {
+            "Distance": 12.2,
+            "BusStopCode": "53011",
+            "Longitude": 103.83823575360742,
+            "Latitude": 1.34549354899945,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "ST. THERESA'S HME"
+        },
+        {
+            "Distance": 12.7,
+            "BusStopCode": "53021",
+            "Longitude": 103.83652457261991,
+            "Latitude": 1.34967996840542,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Shunfu Est"
+        },
+        {
+            "Distance": 13.2,
+            "BusStopCode": "53041",
+            "Longitude": 103.8343639597673,
+            "Latitude": 1.35307831612792,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Thomson Ridge"
+        },
+        {
+            "Distance": 13.5,
+            "BusStopCode": "53051",
+            "Longitude": 103.8323381,
+            "Latitude": 1.354748333,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Thomson Plaza"
+        },
+        {
+            "Distance": 14,
+            "BusStopCode": "53061",
+            "Longitude": 103.82883507046125,
+            "Latitude": 1.3571583010953,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Windsor Pk Rd"
+        },
+        {
+            "Distance": 14.4,
+            "BusStopCode": "53071",
+            "Longitude": 103.82834252087906,
+            "Latitude": 1.36063333692202,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Flame Tree Pk"
+        },
+        {
+            "Distance": 14.7,
+            "BusStopCode": "53081",
+            "Longitude": 103.82783467220469,
+            "Latitude": 1.36319303798878,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Opp Faber Gdn"
+        },
+        {
+            "Distance": 14.9,
+            "BusStopCode": "53091",
+            "Longitude": 103.8279237884758,
+            "Latitude": 1.36482025993725,
+            "RoadName": "Upp Thomson Rd",
+            "Description": "Bef Ang Mo Kio Ave 1"
+        },
+        {
+            "Distance": 15.6,
+            "BusStopCode": "56261",
+            "Longitude": 103.83172738576756,
+            "Latitude": 1.36786219023986,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Blk 248"
+        },
+        {
+            "Distance": 15.9,
+            "BusStopCode": "54061",
+            "Longitude": 103.83404076959498,
+            "Latitude": 1.36728801688172,
+            "RoadName": "Ang Mo Kio Ave 1",
+            "Description": "Blk 246"
+        },
+        {
+            "Distance": 16.3,
+            "BusStopCode": "54211",
+            "Longitude": 103.83634833298527,
+            "Latitude": 1.36861222198461,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "MAYFLOWER SEC SCH"
+        },
+        {
+            "Distance": 16.7,
+            "BusStopCode": "54221",
+            "Longitude": 103.83959341119167,
+            "Latitude": 1.36995608006054,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Opp Ang Mo Kio Pr Sch"
+        },
+        {
+            "Distance": 17,
+            "BusStopCode": "54231",
+            "Longitude": 103.84193909880943,
+            "Latitude": 1.36966012463918,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 129"
+        },
+        {
+            "Distance": 17.5,
+            "BusStopCode": "54241",
+            "Longitude": 103.84618005827467,
+            "Latitude": 1.36913518643274,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 700B"
+        },
+        {
+            "Distance": 18,
+            "BusStopCode": "54261",
+            "Longitude": 103.85075454495572,
+            "Latitude": 1.36946941916508,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Ang Mo Kio Stn"
+        },
+        {
+            "Distance": 18.3,
+            "BusStopCode": "54271",
+            "Longitude": 103.85356664655984,
+            "Latitude": 1.36996326781056,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 586"
+        },
+        {
+            "Distance": 18.6,
+            "BusStopCode": "54281",
+            "Longitude": 103.85601277845504,
+            "Latitude": 1.3694902568174,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 570"
+        },
+        {
+            "Distance": 18.9,
+            "BusStopCode": "54291",
+            "Longitude": 103.85886147831553,
+            "Latitude": 1.36918861426324,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 564"
+        },
+        {
+            "Distance": 19.4,
+            "BusStopCode": "54301",
+            "Longitude": 103.86284675062745,
+            "Latitude": 1.37019500530585,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 5022"
+        },
+        {
+            "Distance": 19.7,
+            "BusStopCode": "66341",
+            "Longitude": 103.86525341485559,
+            "Latitude": 1.37114196132937,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Daikin S'pore"
+        },
+        {
+            "Distance": 20.3,
+            "BusStopCode": "66331",
+            "Longitude": 103.8701543470715,
+            "Latitude": 1.37173176460482,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 554"
+        },
+        {
+            "Distance": 20.7,
+            "BusStopCode": "66101",
+            "Longitude": 103.87325896613375,
+            "Latitude": 1.37094045484466,
+            "RoadName": "Ang Mo Kio Ave 3",
+            "Description": "Blk 516"
+        },
+        {
+            "Distance": 21.2,
+            "BusStopCode": "63311",
+            "Longitude": 103.87780647158901,
+            "Latitude": 1.36990463865149,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 634"
+        },
+        {
+            "Distance": 21.6,
+            "BusStopCode": "63321",
+            "Longitude": 103.88132215113495,
+            "Latitude": 1.36913602302795,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 627"
+        },
+        {
+            "Distance": 22,
+            "BusStopCode": "63331",
+            "Longitude": 103.88492703491212,
+            "Latitude": 1.36836866548657,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Blk 615"
+        },
+        {
+            "Distance": 22.4,
+            "BusStopCode": "63341",
+            "Longitude": 103.88882988119938,
+            "Latitude": 1.36751402871615,
+            "RoadName": "Hougang Ave 2",
+            "Description": "Opp Blk 709"
+        },
+        {
+            "Distance": 22.8,
+            "BusStopCode": "63061",
+            "Longitude": 103.89129134480065,
+            "Latitude": 1.36623834226067,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Opp Blk 25"
+        },
+        {
+            "Distance": 23,
+            "BusStopCode": "64011",
+            "Longitude": 103.8927594439902,
+            "Latitude": 1.36756333302324,
+            "RoadName": "Upp S'goon Rd",
+            "Description": "Naung Ct"
+        },
+        {
+            "Distance": 23.7,
+            "BusStopCode": "64009",
+            "Longitude": 103.89266808874676,
+            "Latitude": 1.37060695394614,
+            "RoadName": "Hougang Ctrl",
+            "Description": "Hougang Ctrl Int"
+        }
+    ]
+}
